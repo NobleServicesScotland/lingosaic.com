@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-17",
+  "date": "2026-12-17",
+  "theme": "Aviation pioneers & early flight",
+  "shape_id": "biplane",
+  "dictionary_id": "2026-12-17-aviation-pioneers-early-flight",
+  "generator_seed": "daily-2026-12-17",
+  "solution_grid": [
+    "###############",
+    "#######X#######",
+    "#######X#######",
+    "######XXX######",
+    "##XXXXXDXXXXX##",
+    "##XXXXXAXPXXXX#",
+    "#XXTXWXYXRXXXX#",
+    "#XXAVIATIONXXX#",
+    "#XXKXNXOXPXXXX#",
+    "###E#GXNXE#XXX#",
+    "##XOXXXXXLXXX##",
+    "##XFXXXXXLXXX##",
+    "###F###X#E#####",
+    "#######X#R#####",
+    "###############"
+  ],
+  "canonical_solution": "DAPTWYRAVIATIONKNOPEGNEOLFLFER",
+  "solution_hash": "8ec125c8eb9d18e5e4c358d3d6aca62317ee958e7066a588b67c9b3bd5d33424",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 3,
+      "letter": "T"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "letter": "W"
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "letter": "K"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "AVIATION"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        }
+      ],
+      "answer": "TAKEOFF"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ],
+      "answer": "WING"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ],
+      "answer": "DAYTON"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        }
+      ],
+      "answer": "PROPELLER"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "O"
+    }
+  ]
+}

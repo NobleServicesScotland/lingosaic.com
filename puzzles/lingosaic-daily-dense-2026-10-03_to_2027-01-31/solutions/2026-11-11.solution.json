@@ -1,0 +1,607 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-11",
+  "date": "2026-11-11",
+  "theme": "Remembrance & service",
+  "shape_id": "poppy",
+  "dictionary_id": "2026-11-11-remembrance-service",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-11",
+  "solution_grid": [
+    "###############",
+    "######***######",
+    "#####*****#####",
+    "#####STATE#####",
+    "####*E*R***####",
+    "###WAR*M*R*T###",
+    "##***VOICE*R*##",
+    "##***I*S*S*U*##",
+    "##***C*T*P*S*##",
+    "###*REGIMENT###",
+    "####U**C*C*####",
+    "####LIBERTY####",
+    "####E***E**####",
+    "####*AIRMAN####",
+    "####*#**E#*####",
+    "#######*M######",
+    "#######*B######",
+    "#######*E######",
+    "#######*R######",
+    "###############"
+  ],
+  "canonical_solution": "STATEERWARMRTVOICERISSUCTPSREGIMENTUCCLIBERTYEEAIRMANEMBER",
+  "solution_hash": "df4c72521a59f1b3b1ac3df9d9b247c1b6c40c00bf1d6a777b4fabfd55b12dff",
+  "seed_letters": [
+    {
+      "row": 3,
+      "col": 8,
+      "letter": "T"
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "letter": "S"
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "letter": "U"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 9
+        }
+      ],
+      "answer": "STATE"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        }
+      ],
+      "answer": "WAR"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        }
+      ],
+      "answer": "VOICE"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "REGIMENT"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "LIBERTY"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "AIRMAN"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ],
+      "answer": "RULE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ],
+      "answer": "SERVICE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ],
+      "answer": "ARMISTICE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 17,
+          "col": 8
+        },
+        {
+          "row": 18,
+          "col": 8
+        }
+      ],
+      "answer": "REMEMBER"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        }
+      ],
+      "answer": "RESPECT"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "TRUST"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 3,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 0,
+      "letter": "A"
+    },
+    {
+      "row": 5,
+      "col": 5,
+      "slot_a": "A2",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "V"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "slot_a": "A3",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "I"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "slot_a": "A3",
+      "slot_a_index": 4,
+      "slot_b": "D5",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "slot_a": "A4",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "R"
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "slot_a": "A4",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 6,
+      "letter": "E"
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "slot_a": "A4",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 6,
+      "letter": "I"
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "slot_a": "A4",
+      "slot_a_index": 5,
+      "slot_b": "D5",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "slot_a": "A4",
+      "slot_a_index": 7,
+      "slot_b": "D6",
+      "slot_b_index": 4,
+      "letter": "T"
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "L"
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 8,
+      "letter": "E"
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "slot_a": "A5",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "R"
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "slot_a": "A5",
+      "slot_a_index": 5,
+      "slot_b": "D5",
+      "slot_b_index": 6,
+      "letter": "T"
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "slot_a": "A6",
+      "slot_a_index": 3,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "M"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 12,
+    "across_slots": 6,
+    "down_slots": 6,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.67,
+    "leaf_slots": 3,
+    "max_slot_crossings": 5,
+    "seed_letters": 3
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

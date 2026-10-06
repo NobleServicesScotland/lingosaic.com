@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-16-spices-hot-food",
+  "theme": {
+    "id": "spices-hot-food",
+    "name": "Spices & hot food",
+    "definition": "Single-word English entries directly associated with spices & hot food."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-16-w001",
+      "display": "Spice",
+      "grid_entry": "SPICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w002",
+      "display": "Spices",
+      "grid_entry": "SPICES",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w003",
+      "display": "Chilli",
+      "grid_entry": "CHILLI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w004",
+      "display": "Chili",
+      "grid_entry": "CHILI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w005",
+      "display": "Pepper",
+      "grid_entry": "PEPPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w006",
+      "display": "Cayenne",
+      "grid_entry": "CAYENNE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w007",
+      "display": "Paprika",
+      "grid_entry": "PAPRIKA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w008",
+      "display": "Cumin",
+      "grid_entry": "CUMIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w009",
+      "display": "Coriander",
+      "grid_entry": "CORIANDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w010",
+      "display": "Turmeric",
+      "grid_entry": "TURMERIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w011",
+      "display": "Ginger",
+      "grid_entry": "GINGER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w012",
+      "display": "Garlic",
+      "grid_entry": "GARLIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w013",
+      "display": "Cinnamon",
+      "grid_entry": "CINNAMON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w014",
+      "display": "Clove",
+      "grid_entry": "CLOVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w015",
+      "display": "Nutmeg",
+      "grid_entry": "NUTMEG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w016",
+      "display": "Cardamom",
+      "grid_entry": "CARDAMOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w017",
+      "display": "Fennel",
+      "grid_entry": "FENNEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w018",
+      "display": "Mustard",
+      "grid_entry": "MUSTARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w019",
+      "display": "Saffron",
+      "grid_entry": "SAFFRON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w020",
+      "display": "Sumac",
+      "grid_entry": "SUMAC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w021",
+      "display": "Anise",
+      "grid_entry": "ANISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w022",
+      "display": "Peppercorn",
+      "grid_entry": "PEPPERCORN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w023",
+      "display": "Curry",
+      "grid_entry": "CURRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w024",
+      "display": "Masala",
+      "grid_entry": "MASALA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w025",
+      "display": "Garam",
+      "grid_entry": "GARAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w026",
+      "display": "Harissa",
+      "grid_entry": "HARISSA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w027",
+      "display": "Sriracha",
+      "grid_entry": "SRIRACHA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w028",
+      "display": "Tabasco",
+      "grid_entry": "TABASCO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w029",
+      "display": "Sambal",
+      "grid_entry": "SAMBAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w030",
+      "display": "Wasabi",
+      "grid_entry": "WASABI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w031",
+      "display": "Horseradish",
+      "grid_entry": "HORSERADISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w032",
+      "display": "Jalapeno",
+      "grid_entry": "JALAPENO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w033",
+      "display": "Habanero",
+      "grid_entry": "HABANERO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w034",
+      "display": "Chipotle",
+      "grid_entry": "CHIPOTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w035",
+      "display": "Poblano",
+      "grid_entry": "POBLANO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w036",
+      "display": "Serrano",
+      "grid_entry": "SERRANO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w037",
+      "display": "Hot",
+      "grid_entry": "HOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w038",
+      "display": "Heat",
+      "grid_entry": "HEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w039",
+      "display": "Fiery",
+      "grid_entry": "FIERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w040",
+      "display": "Spicy",
+      "grid_entry": "SPICY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w041",
+      "display": "Sauce",
+      "grid_entry": "SAUCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w042",
+      "display": "Paste",
+      "grid_entry": "PASTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w043",
+      "display": "Rub",
+      "grid_entry": "RUB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w044",
+      "display": "Marinade",
+      "grid_entry": "MARINADE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w045",
+      "display": "Season",
+      "grid_entry": "SEASON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w046",
+      "display": "Seasoning",
+      "grid_entry": "SEASONING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w047",
+      "display": "Salt",
+      "grid_entry": "SALT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w048",
+      "display": "Herb",
+      "grid_entry": "HERB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w049",
+      "display": "Basil",
+      "grid_entry": "BASIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w050",
+      "display": "Oregano",
+      "grid_entry": "OREGANO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w051",
+      "display": "Thyme",
+      "grid_entry": "THYME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w052",
+      "display": "Rosemary",
+      "grid_entry": "ROSEMARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w053",
+      "display": "Mint",
+      "grid_entry": "MINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w054",
+      "display": "Dill",
+      "grid_entry": "DILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w055",
+      "display": "Parsley",
+      "grid_entry": "PARSLEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w056",
+      "display": "Onion",
+      "grid_entry": "ONION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w057",
+      "display": "Tomato",
+      "grid_entry": "TOMATO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w058",
+      "display": "Lime",
+      "grid_entry": "LIME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w059",
+      "display": "Lemon",
+      "grid_entry": "LEMON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w060",
+      "display": "Vinegar",
+      "grid_entry": "VINEGAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w061",
+      "display": "Oil",
+      "grid_entry": "OIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w062",
+      "display": "Sesame",
+      "grid_entry": "SESAME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w063",
+      "display": "Soy",
+      "grid_entry": "SOY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w064",
+      "display": "Coconut",
+      "grid_entry": "COCONUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w065",
+      "display": "Noodle",
+      "grid_entry": "NOODLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w066",
+      "display": "Rice",
+      "grid_entry": "RICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w067",
+      "display": "Bean",
+      "grid_entry": "BEAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w068",
+      "display": "Lentil",
+      "grid_entry": "LENTIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w069",
+      "display": "Chickpea",
+      "grid_entry": "CHICKPEA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w070",
+      "display": "Chicken",
+      "grid_entry": "CHICKEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w071",
+      "display": "Beef",
+      "grid_entry": "BEEF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w072",
+      "display": "Pork",
+      "grid_entry": "PORK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w073",
+      "display": "Fish",
+      "grid_entry": "FISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w074",
+      "display": "Tofu",
+      "grid_entry": "TOFU",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w075",
+      "display": "Wok",
+      "grid_entry": "WOK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w076",
+      "display": "Pan",
+      "grid_entry": "PAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w077",
+      "display": "Grill",
+      "grid_entry": "GRILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w078",
+      "display": "Roast",
+      "grid_entry": "ROAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w079",
+      "display": "Fry",
+      "grid_entry": "FRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w080",
+      "display": "Pasta",
+      "grid_entry": "PASTA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w081",
+      "display": "Italian",
+      "grid_entry": "ITALIAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w082",
+      "display": "Cooking",
+      "grid_entry": "COOKING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w083",
+      "display": "Spaghetti",
+      "grid_entry": "SPAGHETTI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w084",
+      "display": "Linguine",
+      "grid_entry": "LINGUINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w085",
+      "display": "Fettuccine",
+      "grid_entry": "FETTUCCINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w086",
+      "display": "Tagliatelle",
+      "grid_entry": "TAGLIATELLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w087",
+      "display": "Penne",
+      "grid_entry": "PENNE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w088",
+      "display": "Rigatoni",
+      "grid_entry": "RIGATONI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w089",
+      "display": "Fusilli",
+      "grid_entry": "FUSILLI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w090",
+      "display": "Farfalle",
+      "grid_entry": "FARFALLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w091",
+      "display": "Orzo",
+      "grid_entry": "ORZO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w092",
+      "display": "Ravioli",
+      "grid_entry": "RAVIOLI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w093",
+      "display": "Tortellini",
+      "grid_entry": "TORTELLINI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w094",
+      "display": "Lasagne",
+      "grid_entry": "LASAGNE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w095",
+      "display": "Gnocchi",
+      "grid_entry": "GNOCCHI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w096",
+      "display": "Cannelloni",
+      "grid_entry": "CANNELLONI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w097",
+      "display": "Macaroni",
+      "grid_entry": "MACARONI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w098",
+      "display": "Vermicelli",
+      "grid_entry": "VERMICELLI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w099",
+      "display": "Pappardelle",
+      "grid_entry": "PAPPARDELLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-16-w100",
+      "display": "Pesto",
+      "grid_entry": "PESTO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-03",
+  "status": "PASS",
+  "generator_version": "dense-crossword-2.0.0",
+  "dictionary_words": 100,
+  "slot_count": 16,
+  "across_slots": 8,
+  "down_slots": 8,
+  "crossings": 16,
+  "average_crossings_per_slot": 2.0,
+  "leaf_slots": 5,
+  "max_slot_crossings": 4,
+  "seed_letters": 4,
+  "uniqueness_count": 1,
+  "solution_hash_matches": true,
+  "topology_checks": {
+    "minimum_12_slots": true,
+    "at_least_5_across": true,
+    "at_least_5_down": true,
+    "connected_network": true,
+    "not_single_spine": true
+  },
+  "answers": [
+    "STEAM",
+    "BAGEL",
+    "FRY",
+    "MAYO",
+    "MUSTARD",
+    "BLT",
+    "CHEESE",
+    "MIX",
+    "SANDWICH",
+    "SLICE",
+    "LETTUCE",
+    "HAM",
+    "BAP",
+    "TOMATO",
+    "RELISH",
+    "FOLD"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-30",
+  "date": "2026-10-30",
+  "theme": "Classic monsters & horror",
+  "shape_id": "frankenstein-monster",
+  "dictionary_id": "2026-10-30-classic-monsters-horror",
+  "generator_seed": "daily-2026-10-30",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "######XXX######",
+    "#####XTXCX#####",
+    "####ZXHXAXX####",
+    "##XXOXUXSXCXX##",
+    "##XXMONSTERXX##",
+    "##XXBXDXLXYXX##",
+    "##XXIXEXEXPXX##",
+    "##XXEXRXXXTXX##",
+    "#####XXXXX#####",
+    "######XXX######",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "TCZHAOUSCMONSTERBDLYIEEPERT",
+  "solution_hash": "dea55d4808a9af4ae004df3ee3219e459143b99fc16ea2daccbf98ad55a04356",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "O"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "U"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "letter": "C"
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "letter": "D"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "MONSTER"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ],
+      "answer": "ZOMBIE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ],
+      "answer": "THUNDER"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "CASTLE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ],
+      "answer": "CRYPT"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "M"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "N"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "R"
+    }
+  ]
+}

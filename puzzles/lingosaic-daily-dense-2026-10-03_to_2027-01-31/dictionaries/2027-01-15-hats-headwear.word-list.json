@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-15-hats-headwear",
+  "theme": {
+    "id": "hats-headwear",
+    "name": "Hats & headwear",
+    "definition": "Single-word English entries directly associated with hats & headwear."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-15-w001",
+      "display": "Hat",
+      "grid_entry": "HAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w002",
+      "display": "Cap",
+      "grid_entry": "CAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w003",
+      "display": "Beanie",
+      "grid_entry": "BEANIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w004",
+      "display": "Beret",
+      "grid_entry": "BERET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w005",
+      "display": "Bonnet",
+      "grid_entry": "BONNET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w006",
+      "display": "Fedora",
+      "grid_entry": "FEDORA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w007",
+      "display": "Trilby",
+      "grid_entry": "TRILBY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w008",
+      "display": "Bowler",
+      "grid_entry": "BOWLER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w009",
+      "display": "Tophat",
+      "grid_entry": "TOPHAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w010",
+      "display": "Sombrero",
+      "grid_entry": "SOMBRERO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w011",
+      "display": "Panama",
+      "grid_entry": "PANAMA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w012",
+      "display": "Cloche",
+      "grid_entry": "CLOCHE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w013",
+      "display": "Visor",
+      "grid_entry": "VISOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w014",
+      "display": "Helmet",
+      "grid_entry": "HELMET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w015",
+      "display": "Hood",
+      "grid_entry": "HOOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w016",
+      "display": "Crown",
+      "grid_entry": "CROWN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w017",
+      "display": "Tiara",
+      "grid_entry": "TIARA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w018",
+      "display": "Turban",
+      "grid_entry": "TURBAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w019",
+      "display": "Fez",
+      "grid_entry": "FEZ",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w020",
+      "display": "Kepi",
+      "grid_entry": "KEPI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w021",
+      "display": "Boater",
+      "grid_entry": "BOATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w022",
+      "display": "Bobble",
+      "grid_entry": "BOBBLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w023",
+      "display": "Balaclava",
+      "grid_entry": "BALACLAVA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w024",
+      "display": "Headband",
+      "grid_entry": "HEADBAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w025",
+      "display": "Bandana",
+      "grid_entry": "BANDANA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w026",
+      "display": "Scarf",
+      "grid_entry": "SCARF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w027",
+      "display": "Veil",
+      "grid_entry": "VEIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w028",
+      "display": "Wimple",
+      "grid_entry": "WIMPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w029",
+      "display": "Mitre",
+      "grid_entry": "MITRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w030",
+      "display": "Biretta",
+      "grid_entry": "BIRETTA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w031",
+      "display": "Tam",
+      "grid_entry": "TAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w032",
+      "display": "Shako",
+      "grid_entry": "SHAKO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w033",
+      "display": "Busby",
+      "grid_entry": "BUSBY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w034",
+      "display": "Deerstalker",
+      "grid_entry": "DEERSTALKER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w035",
+      "display": "Flatcap",
+      "grid_entry": "FLATCAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w036",
+      "display": "Suncap",
+      "grid_entry": "SUNCAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w037",
+      "display": "Nightcap",
+      "grid_entry": "NIGHTCAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w038",
+      "display": "Cowboy",
+      "grid_entry": "COWBOY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w039",
+      "display": "Stetson",
+      "grid_entry": "STETSON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w040",
+      "display": "Wool",
+      "grid_entry": "WOOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w041",
+      "display": "Felt",
+      "grid_entry": "FELT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w042",
+      "display": "Silk",
+      "grid_entry": "SILK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w043",
+      "display": "Cotton",
+      "grid_entry": "COTTON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w044",
+      "display": "Leather",
+      "grid_entry": "LEATHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w045",
+      "display": "Brim",
+      "grid_entry": "BRIM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w046",
+      "display": "Band",
+      "grid_entry": "BAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w047",
+      "display": "Ribbon",
+      "grid_entry": "RIBBON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w048",
+      "display": "Buckle",
+      "grid_entry": "BUCKLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w049",
+      "display": "Feather",
+      "grid_entry": "FEATHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w050",
+      "display": "Badge",
+      "grid_entry": "BADGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w051",
+      "display": "Pin",
+      "grid_entry": "PIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w052",
+      "display": "Trim",
+      "grid_entry": "TRIM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w053",
+      "display": "Lining",
+      "grid_entry": "LINING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w054",
+      "display": "Size",
+      "grid_entry": "SIZE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w055",
+      "display": "Fit",
+      "grid_entry": "FIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w056",
+      "display": "Head",
+      "grid_entry": "HEAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w057",
+      "display": "Hair",
+      "grid_entry": "HAIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w058",
+      "display": "Fashion",
+      "grid_entry": "FASHION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w059",
+      "display": "Style",
+      "grid_entry": "STYLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w060",
+      "display": "Formal",
+      "grid_entry": "FORMAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w061",
+      "display": "Casual",
+      "grid_entry": "CASUAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w062",
+      "display": "Winter",
+      "grid_entry": "WINTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w063",
+      "display": "Summer",
+      "grid_entry": "SUMMER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w064",
+      "display": "Rain",
+      "grid_entry": "RAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w065",
+      "display": "Sun",
+      "grid_entry": "SUN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w066",
+      "display": "Shade",
+      "grid_entry": "SHADE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w067",
+      "display": "Warmth",
+      "grid_entry": "WARMTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w068",
+      "display": "Uniform",
+      "grid_entry": "UNIFORM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w069",
+      "display": "Ceremony",
+      "grid_entry": "CEREMONY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w070",
+      "display": "Costume",
+      "grid_entry": "COSTUME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w071",
+      "display": "Milliner",
+      "grid_entry": "MILLINER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w072",
+      "display": "Millinery",
+      "grid_entry": "MILLINERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w073",
+      "display": "Block",
+      "grid_entry": "BLOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w074",
+      "display": "Steam",
+      "grid_entry": "STEAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w075",
+      "display": "Shape",
+      "grid_entry": "SHAPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w076",
+      "display": "Scotland",
+      "grid_entry": "SCOTLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w077",
+      "display": "Thistle",
+      "grid_entry": "THISTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w078",
+      "display": "Tartan",
+      "grid_entry": "TARTAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w079",
+      "display": "Kilt",
+      "grid_entry": "KILT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w080",
+      "display": "Highland",
+      "grid_entry": "HIGHLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w081",
+      "display": "Ceilidh",
+      "grid_entry": "CEILIDH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w082",
+      "display": "Bagpipe",
+      "grid_entry": "BAGPIPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w083",
+      "display": "Loch",
+      "grid_entry": "LOCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w084",
+      "display": "Castle",
+      "grid_entry": "CASTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w085",
+      "display": "Gaelic",
+      "grid_entry": "GAELIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w086",
+      "display": "Whisky",
+      "grid_entry": "WHISKY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w087",
+      "display": "Haggis",
+      "grid_entry": "HAGGIS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w088",
+      "display": "Clan",
+      "grid_entry": "CLAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w089",
+      "display": "Heather",
+      "grid_entry": "HEATHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w090",
+      "display": "Stag",
+      "grid_entry": "STAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w091",
+      "display": "Glen",
+      "grid_entry": "GLEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w092",
+      "display": "Scottish",
+      "grid_entry": "SCOTTISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w093",
+      "display": "Lowland",
+      "grid_entry": "LOWLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w094",
+      "display": "Island",
+      "grid_entry": "ISLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w095",
+      "display": "Ben",
+      "grid_entry": "BEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w096",
+      "display": "Brae",
+      "grid_entry": "BRAE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w097",
+      "display": "Moor",
+      "grid_entry": "MOOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w098",
+      "display": "Deer",
+      "grid_entry": "DEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w099",
+      "display": "Eagle",
+      "grid_entry": "EAGLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-15-w100",
+      "display": "Piper",
+      "grid_entry": "PIPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

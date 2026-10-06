@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-16",
+  "date": "2026-11-16",
+  "daily_number": 32,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-16",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "World cultures & tolerance",
+    "occasion": "International Day for Tolerance"
+  },
+  "bonus": {
+    "title": "International Day for Tolerance",
+    "description": "The UN's International Day for Tolerance promotes respect, dialogue and understanding between people and cultures."
+  },
+  "shape": {
+    "id": "dove",
+    "name": "Dove",
+    "grid_file": "../shapes/2026-11-16-dove.grid.json",
+    "svg_file": "../shapes/2026-11-16-dove.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-16-world-cultures-tolerance",
+    "file": "../dictionaries/2026-11-16-world-cultures-tolerance.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "####.#####.####",
+      "####.####X.X###",
+      "X###.###XX.XX##",
+      "#X##.X.XXX.XX##",
+      "#XX#UX.X.X.XX#X",
+      "##XX.......XXX#",
+      "##XX.X.X.X.XX##",
+      "###XXX.XCX.X###",
+      "####XXXX.X.####",
+      "#####XXX.######",
+      "########.######",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "U"
+      },
+      {
+        "row": 9,
+        "col": 8,
+        "letter": "C"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 2,
+          "col": 10
+        },
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "57f154a8fb558571d2a35b3e0f9a5687b566d90aa2d070a1481a2c8ad1a8d085"
+  }
+}

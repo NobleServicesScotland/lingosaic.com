@@ -1,0 +1,682 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-21",
+  "date": "2026-11-21",
+  "theme": "Television & broadcasting",
+  "shape_id": "television",
+  "dictionary_id": "2026-11-21-television-broadcasting",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-21",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "###############",
+    "##***SHOW****##",
+    "##***E***SHOT##",
+    "##PORTRAIT***##",
+    "##R****C*U*C*##",
+    "##E*V**T*DRAW##",
+    "##S*I**R*I*M*##",
+    "##E*E*REMOTE*##",
+    "##NEWS*S***R*##",
+    "##T*E**SIGNAL##",
+    "##E*R*****O**##",
+    "##R*****MOVIE##",
+    "#####**##*E####",
+    "#####**##*L####",
+    "#####**##**####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "SHOWESHOTPORTRAITRCUCEVTDRAWSIRIMEEREMOTENEWSSRTESIGNALERORMOVIEEL",
+  "solution_hash": "eb96bbb654b8440e2f01c57f55134d39bcb925cee3eb1cb6a62c0b5952b75a9b",
+  "seed_letters": [
+    {
+      "row": 4,
+      "col": 8,
+      "letter": "W"
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "letter": "H"
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "letter": "W"
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "letter": "N"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        }
+      ],
+      "answer": "SHOW"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 12
+        }
+      ],
+      "answer": "SHOT"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        }
+      ],
+      "answer": "PORTRAIT"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 12
+        }
+      ],
+      "answer": "DRAW"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ],
+      "answer": "REMOTE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        }
+      ],
+      "answer": "NEWS"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 12
+        }
+      ],
+      "answer": "SIGNAL"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 12
+        }
+      ],
+      "answer": "MOVIE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 2
+        }
+      ],
+      "answer": "PRESENTER"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 4
+        }
+      ],
+      "answer": "VIEWER"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        }
+      ],
+      "answer": "SET"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "ACTRESS"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "STUDIO"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 10
+        },
+        {
+          "row": 15,
+          "col": 10
+        },
+        {
+          "row": 16,
+          "col": 10
+        }
+      ],
+      "answer": "NOVEL"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        }
+      ],
+      "answer": "CAMERA"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 4,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D3",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "slot_a": "A2",
+      "slot_a_index": 0,
+      "slot_b": "D5",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "P"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "T"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "slot_a": "A3",
+      "slot_a_index": 5,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "A"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "slot_a": "A3",
+      "slot_a_index": 7,
+      "slot_b": "D5",
+      "slot_b_index": 1,
+      "letter": "T"
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "slot_a": "A4",
+      "slot_a_index": 0,
+      "slot_b": "D5",
+      "slot_b_index": 3,
+      "letter": "D"
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D7",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "slot_a": "A5",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 5,
+      "letter": "O"
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "slot_a": "A5",
+      "slot_a_index": 5,
+      "slot_b": "D7",
+      "slot_b_index": 3,
+      "letter": "E"
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "slot_a": "A6",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 5,
+      "letter": "N"
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "slot_a": "A6",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "W"
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "slot_a": "A7",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 6,
+      "letter": "S"
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "slot_a": "A7",
+      "slot_a_index": 3,
+      "slot_b": "D6",
+      "slot_b_index": 0,
+      "letter": "N"
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "slot_a": "A7",
+      "slot_a_index": 4,
+      "slot_b": "D7",
+      "slot_b_index": 5,
+      "letter": "A"
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "slot_a": "A8",
+      "slot_a_index": 2,
+      "slot_b": "D6",
+      "slot_b_index": 2,
+      "letter": "V"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 8,
+    "down_slots": 7,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.27,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 4
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

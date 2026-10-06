@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-16",
+  "date": "2026-10-16",
+  "theme": "Bread & baking",
+  "shape_id": "bread-loaf",
+  "dictionary_id": "2026-10-16-bread-baking",
+  "generator_seed": "daily-2026-10-16",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###XXXXXXXXX###",
+    "###XXXXXXXXX###",
+    "##XXXXXGXXXXX##",
+    "#XXRXCXRXCXXXX#",
+    "#XXIXRXIXRXWXX#",
+    "#XXSOURDOUGHXX#",
+    "#XXEXMXDXSXEXX#",
+    "#XXXXBXLXTXAXX#",
+    "#XXXXXXEXXXTXX#",
+    "#XXXXXXXXXXXXX#",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "GRCRCIRIRWSOURDOUGHEMDSEBLTAET",
+  "solution_hash": "0b7320d13a03788a45bcd7a446102282015071f99bb7cbfece5ac432e891d21d",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 5,
+      "letter": "C"
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "letter": "C"
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "letter": "M"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "SOURDOUGH"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        }
+      ],
+      "answer": "RISE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ],
+      "answer": "CRUMB"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        }
+      ],
+      "answer": "GRIDDLE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ],
+      "answer": "CRUST"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ],
+      "answer": "WHEAT"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "S"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "U"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "D"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "U"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "slot_a": "A1",
+      "slot_a_index": 8,
+      "slot_b": "D5",
+      "slot_b_index": 1,
+      "letter": "H"
+    }
+  ],
+  "uniqueness_count": 1
+}

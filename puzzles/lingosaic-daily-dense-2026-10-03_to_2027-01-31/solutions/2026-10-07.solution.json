@@ -1,0 +1,666 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-10-07",
+  "date": "2026-10-07",
+  "theme": "Textiles & cotton",
+  "shape_id": "cotton-spool",
+  "dictionary_id": "2026-10-07-textiles-cotton",
+  "generator_seed": "dense-crossword-2.1.0:2026-10-07",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "##*******H***##",
+    "##**SCOTLAND*##",
+    "##*****A*T*Y*##",
+    "##*FABRIC*HEM##",
+    "####*A*L***####",
+    "####*GLOVE*####",
+    "####*P*R*M*####",
+    "####*I***B*####",
+    "####*PIN*R*####",
+    "####*E***O*####",
+    "####**SATIN####",
+    "##****H**D***##",
+    "##APPLIQUE**G##",
+    "##****R**R**I##",
+    "##PLANT**YARN##",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "HSCOTLANDATYFABRICHEMALGLOVEPRMIBPINREOSATINHDAPPLIQUEGRRIPLANTYARN",
+  "solution_hash": "5e9c47367be22851fb259ac3a4b5df11f205927a846002c4c10e0e16161d8e31",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 3,
+      "letter": "F"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "letter": "H"
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "letter": "H"
+    },
+    {
+      "row": 17,
+      "col": 2,
+      "letter": "P"
+    },
+    {
+      "row": 17,
+      "col": 3,
+      "letter": "L"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 11
+        }
+      ],
+      "answer": "SCOTLAND"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "FABRIC"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 12
+        }
+      ],
+      "answer": "HEM"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "GLOVE"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ],
+      "answer": "PIN"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "SATIN"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 15,
+          "col": 2
+        },
+        {
+          "row": 15,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 9
+        }
+      ],
+      "answer": "APPLIQUE"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 17,
+          "col": 2
+        },
+        {
+          "row": 17,
+          "col": 3
+        },
+        {
+          "row": 17,
+          "col": 4
+        },
+        {
+          "row": 17,
+          "col": 5
+        },
+        {
+          "row": 17,
+          "col": 6
+        }
+      ],
+      "answer": "PLANT"
+    },
+    {
+      "id": "A9",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 17,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 10
+        },
+        {
+          "row": 17,
+          "col": 11
+        },
+        {
+          "row": 17,
+          "col": 12
+        }
+      ],
+      "answer": "YARN"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        }
+      ],
+      "answer": "HAT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ],
+      "answer": "TAILOR"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        }
+      ],
+      "answer": "DYE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        }
+      ],
+      "answer": "BAGPIPE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 10,
+      "cells": [
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 9
+        }
+      ],
+      "answer": "EMBROIDERY"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 17,
+          "col": 6
+        }
+      ],
+      "answer": "SHIRT"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 15,
+          "col": 12
+        },
+        {
+          "row": 16,
+          "col": 12
+        },
+        {
+          "row": 17,
+          "col": 12
+        }
+      ],
+      "answer": "GIN"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 4,
+      "col": 7,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 4,
+      "col": 9,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D3",
+      "row": 4,
+      "col": 11,
+      "letter": "D"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 6,
+      "col": 5,
+      "letter": "B"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 6,
+      "col": 7,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 6,
+      "col": 11,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 5,
+      "letter": "G"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D2",
+      "row": 8,
+      "col": 7,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D5",
+      "row": 8,
+      "col": 9,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D4",
+      "row": 11,
+      "col": 5,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 13,
+      "col": 6,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D5",
+      "row": 13,
+      "col": 9,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D6",
+      "row": 15,
+      "col": 6,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D5",
+      "row": 15,
+      "col": 9,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D6",
+      "row": 17,
+      "col": 6,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A9",
+      "slot_b": "D5",
+      "row": 17,
+      "col": 9,
+      "letter": "Y"
+    },
+    {
+      "slot_a": "A9",
+      "slot_b": "D7",
+      "row": 17,
+      "col": 12,
+      "letter": "N"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 9,
+    "down_slots": 7,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.12,
+    "leaf_slots": 5,
+    "max_slot_crossings": 4,
+    "seed_letters": 5
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

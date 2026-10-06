@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.0.0",
+  "dictionary_id": "2026-10-19-seafood-coastal-cooking",
+  "theme": {
+    "id": "seafood-coastal-cooking",
+    "name": "Seafood & coastal cooking",
+    "definition": "Single-word English entries directly associated with seafood & coastal cooking."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-10-19-w001",
+      "display": "Seafood",
+      "grid_entry": "SEAFOOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w002",
+      "display": "Coastal",
+      "grid_entry": "COASTAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w003",
+      "display": "Cooking",
+      "grid_entry": "COOKING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w004",
+      "display": "Fish",
+      "grid_entry": "FISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w005",
+      "display": "Crab",
+      "grid_entry": "CRAB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w006",
+      "display": "Lobster",
+      "grid_entry": "LOBSTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w007",
+      "display": "Prawn",
+      "grid_entry": "PRAWN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w008",
+      "display": "Shrimp",
+      "grid_entry": "SHRIMP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w009",
+      "display": "Mussel",
+      "grid_entry": "MUSSEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w010",
+      "display": "Oyster",
+      "grid_entry": "OYSTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w011",
+      "display": "Clam",
+      "grid_entry": "CLAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w012",
+      "display": "Scallop",
+      "grid_entry": "SCALLOP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w013",
+      "display": "Salmon",
+      "grid_entry": "SALMON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w014",
+      "display": "Trout",
+      "grid_entry": "TROUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w015",
+      "display": "Cod",
+      "grid_entry": "COD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w016",
+      "display": "Haddock",
+      "grid_entry": "HADDOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w017",
+      "display": "Hake",
+      "grid_entry": "HAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w018",
+      "display": "Plaice",
+      "grid_entry": "PLAICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w019",
+      "display": "Sole",
+      "grid_entry": "SOLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w020",
+      "display": "Turbot",
+      "grid_entry": "TURBOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w021",
+      "display": "Mackerel",
+      "grid_entry": "MACKEREL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w022",
+      "display": "Sardine",
+      "grid_entry": "SARDINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w023",
+      "display": "Anchovy",
+      "grid_entry": "ANCHOVY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w024",
+      "display": "Herring",
+      "grid_entry": "HERRING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w025",
+      "display": "Tuna",
+      "grid_entry": "TUNA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w026",
+      "display": "Bass",
+      "grid_entry": "BASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w027",
+      "display": "Bream",
+      "grid_entry": "BREAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w028",
+      "display": "Mullet",
+      "grid_entry": "MULLET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w029",
+      "display": "Monkfish",
+      "grid_entry": "MONKFISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w030",
+      "display": "Halibut",
+      "grid_entry": "HALIBUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w031",
+      "display": "Squid",
+      "grid_entry": "SQUID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w032",
+      "display": "Octopus",
+      "grid_entry": "OCTOPUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w033",
+      "display": "Cuttlefish",
+      "grid_entry": "CUTTLEFISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w034",
+      "display": "Langoustine",
+      "grid_entry": "LANGOUSTINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w035",
+      "display": "Crayfish",
+      "grid_entry": "CRAYFISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w036",
+      "display": "Cockle",
+      "grid_entry": "COCKLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w037",
+      "display": "Whelk",
+      "grid_entry": "WHELK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w038",
+      "display": "Periwinkle",
+      "grid_entry": "PERIWINKLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w039",
+      "display": "Seaweed",
+      "grid_entry": "SEAWEED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w040",
+      "display": "Kelp",
+      "grid_entry": "KELP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w041",
+      "display": "Lemon",
+      "grid_entry": "LEMON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w042",
+      "display": "Dill",
+      "grid_entry": "DILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w043",
+      "display": "Parsley",
+      "grid_entry": "PARSLEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w044",
+      "display": "Garlic",
+      "grid_entry": "GARLIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w045",
+      "display": "Butter",
+      "grid_entry": "BUTTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w046",
+      "display": "Grill",
+      "grid_entry": "GRILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w047",
+      "display": "Bake",
+      "grid_entry": "BAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w048",
+      "display": "Fry",
+      "grid_entry": "FRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w049",
+      "display": "Steam",
+      "grid_entry": "STEAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w050",
+      "display": "Poach",
+      "grid_entry": "POACH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w051",
+      "display": "Roast",
+      "grid_entry": "ROAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w052",
+      "display": "Pan",
+      "grid_entry": "PAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w053",
+      "display": "Pot",
+      "grid_entry": "POT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w054",
+      "display": "Skillet",
+      "grid_entry": "SKILLET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w055",
+      "display": "Shell",
+      "grid_entry": "SHELL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w056",
+      "display": "Fillet",
+      "grid_entry": "FILLET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w057",
+      "display": "Steak",
+      "grid_entry": "STEAK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w058",
+      "display": "Chowder",
+      "grid_entry": "CHOWDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w059",
+      "display": "Bisque",
+      "grid_entry": "BISQUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w060",
+      "display": "Soup",
+      "grid_entry": "SOUP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w061",
+      "display": "Stock",
+      "grid_entry": "STOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w062",
+      "display": "Sauce",
+      "grid_entry": "SAUCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w063",
+      "display": "Coast",
+      "grid_entry": "COAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w064",
+      "display": "Harbour",
+      "grid_entry": "HARBOUR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w065",
+      "display": "Boat",
+      "grid_entry": "BOAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w066",
+      "display": "Net",
+      "grid_entry": "NET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w067",
+      "display": "Creel",
+      "grid_entry": "CREEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w068",
+      "display": "Dab",
+      "grid_entry": "DAB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w069",
+      "display": "Flounder",
+      "grid_entry": "FLOUNDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w070",
+      "display": "Skate",
+      "grid_entry": "SKATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w071",
+      "display": "Ray",
+      "grid_entry": "RAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w072",
+      "display": "Dogfish",
+      "grid_entry": "DOGFISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w073",
+      "display": "Catfish",
+      "grid_entry": "CATFISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w074",
+      "display": "Swordfish",
+      "grid_entry": "SWORDFISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w075",
+      "display": "Marlin",
+      "grid_entry": "MARLIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w076",
+      "display": "Bonito",
+      "grid_entry": "BONITO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w077",
+      "display": "Pollock",
+      "grid_entry": "POLLOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w078",
+      "display": "Coley",
+      "grid_entry": "COLEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w079",
+      "display": "Whiting",
+      "grid_entry": "WHITING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w080",
+      "display": "Snapper",
+      "grid_entry": "SNAPPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w081",
+      "display": "Grouper",
+      "grid_entry": "GROUPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w082",
+      "display": "Dorado",
+      "grid_entry": "DORADO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w083",
+      "display": "Cobia",
+      "grid_entry": "COBIA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w084",
+      "display": "Eel",
+      "grid_entry": "EEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w085",
+      "display": "Conger",
+      "grid_entry": "CONGER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w086",
+      "display": "Sprat",
+      "grid_entry": "SPRAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w087",
+      "display": "Whitebait",
+      "grid_entry": "WHITEBAIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w088",
+      "display": "Roe",
+      "grid_entry": "ROE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w089",
+      "display": "Caviar",
+      "grid_entry": "CAVIAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w090",
+      "display": "Kipper",
+      "grid_entry": "KIPPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w091",
+      "display": "Smoked",
+      "grid_entry": "SMOKED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w092",
+      "display": "Cured",
+      "grid_entry": "CURED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w093",
+      "display": "Salted",
+      "grid_entry": "SALTED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w094",
+      "display": "Marinate",
+      "grid_entry": "MARINATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w095",
+      "display": "Batter",
+      "grid_entry": "BATTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w096",
+      "display": "Breadcrumb",
+      "grid_entry": "BREADCRUMB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w097",
+      "display": "Tempura",
+      "grid_entry": "TEMPURA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w098",
+      "display": "Barbecue",
+      "grid_entry": "BARBECUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w099",
+      "display": "Broil",
+      "grid_entry": "BROIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-19-w100",
+      "display": "Sear",
+      "grid_entry": "SEAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

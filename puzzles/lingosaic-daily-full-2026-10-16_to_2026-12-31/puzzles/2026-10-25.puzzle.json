@@ -1,0 +1,303 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-25",
+  "date": "2026-10-25",
+  "daily_number": 10,
+  "generator": {
+    "version": "daily-reference-1.0.0",
+    "seed": "daily-2026-10-25",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Clocks, time & daylight",
+    "occasion": "British Summer Time ends"
+  },
+  "bonus": {
+    "title": "British Summer Time ends",
+    "description": "In the UK, the clocks go back on 25 October in 2026, ending British Summer Time and returning to Greenwich Mean Time."
+  },
+  "shape": {
+    "id": "clock",
+    "name": "Clock",
+    "grid_file": "../shapes/2026-10-25-clock.grid.json",
+    "svg_file": "../shapes/2026-10-25-clock.svg"
+  },
+  "dictionary": {
+    "id": "2026-10-25-clocks-time-daylight",
+    "file": "../dictionaries/2026-10-25-clocks-time-daylight.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "#######X#######",
+      "###XXXXXXXXX###",
+      "####XXXXXXX####",
+      "###XXXXXXXXX###",
+      "##XXXXXXXXXXS##",
+      "##.XEX.X.XAX.##",
+      "#XIX.X.X.X.X.X#",
+      "#X...........X#",
+      "#X.X.X.X.X.X.X#",
+      "##XX.X.X.X.X.##",
+      "##XXXXXXXXXX.##",
+      "###XXXXXXXXX###",
+      "####XXXXXXX####",
+      "######XXX######",
+      "####X#####X####"
+    ],
+    "seed_letters": [
+      {
+        "row": 4,
+        "col": 12,
+        "letter": "S"
+      },
+      {
+        "row": 5,
+        "col": 4,
+        "letter": "E"
+      },
+      {
+        "row": 5,
+        "col": 10,
+        "letter": "A"
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "letter": "I"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 11,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 12
+        },
+        {
+          "row": 5,
+          "col": 12
+        },
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        },
+        {
+          "row": 10,
+          "col": 12
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "fd7dfaf818a7facae64e295046917a2342c8a8c2e48983ae08e558ef34440a90"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-06",
+  "date": "2026-12-06",
+  "daily_number": 52,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-06",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "St Nicholas, gifts & winter traditions",
+    "occasion": "St Nicholas Day"
+  },
+  "bonus": {
+    "title": "St Nicholas Day",
+    "description": "St Nicholas Day is associated with the historic saint, gift-giving and winter traditions across many European countries."
+  },
+  "shape": {
+    "id": "mitre",
+    "name": "Mitre",
+    "grid_file": "../shapes/2026-12-06-mitre.grid.json",
+    "svg_file": "../shapes/2026-12-06-mitre.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-06-st-nicholas-gifts-winter-traditions",
+    "file": "../dictionaries/2026-12-06-st-nicholas-gifts-winter-traditions.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#######X#######",
+      "######XXX######",
+      "######XXX######",
+      "#####XX.XX#####",
+      "###.X.X.X.X####",
+      "###IX.XNX.X####",
+      "###........####",
+      "###.X.X.X.X####",
+      "###.XXXXX.X####",
+      "###.XXXXX.X####",
+      "###.XXXXX.X####",
+      "###.XXXXXXX####",
+      "####XXXXXXX####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 3,
+        "letter": "I"
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "N"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "bc721c705cb8f1dbd15d446307b16b00e05149f7b9df8532dd4c47a820fd7857"
+  }
+}

@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-12-12-winter-flowers-festive-plants",
+  "theme": {
+    "id": "winter-flowers-festive-plants",
+    "name": "Winter flowers & festive plants",
+    "definition": "Single-word English entries directly associated with winter flowers & festive plants."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-12-12-w001",
+      "display": "Poinsettia",
+      "grid_entry": "POINSETTIA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w002",
+      "display": "Holly",
+      "grid_entry": "HOLLY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w003",
+      "display": "IVY",
+      "grid_entry": "IVY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w004",
+      "display": "Mistletoe",
+      "grid_entry": "MISTLETOE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w005",
+      "display": "Pine",
+      "grid_entry": "PINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w006",
+      "display": "FIR",
+      "grid_entry": "FIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w007",
+      "display": "Berry",
+      "grid_entry": "BERRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w008",
+      "display": "Wreath",
+      "grid_entry": "WREATH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w009",
+      "display": "Amaryllis",
+      "grid_entry": "AMARYLLIS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w010",
+      "display": "Cyclamen",
+      "grid_entry": "CYCLAMEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w011",
+      "display": "Rosemary",
+      "grid_entry": "ROSEMARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w012",
+      "display": "Cedar",
+      "grid_entry": "CEDAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w013",
+      "display": "Leaf",
+      "grid_entry": "LEAF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w014",
+      "display": "Bloom",
+      "grid_entry": "BLOOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w015",
+      "display": "RED",
+      "grid_entry": "RED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w016",
+      "display": "Green",
+      "grid_entry": "GREEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w017",
+      "display": "Evergreen",
+      "grid_entry": "EVERGREEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w018",
+      "display": "Spruce",
+      "grid_entry": "SPRUCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w019",
+      "display": "YEW",
+      "grid_entry": "YEW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w020",
+      "display": "Boxwood",
+      "grid_entry": "BOXWOOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w021",
+      "display": "Eucalyptus",
+      "grid_entry": "EUCALYPTUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w022",
+      "display": "Laurel",
+      "grid_entry": "LAUREL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w023",
+      "display": "Myrtle",
+      "grid_entry": "MYRTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w024",
+      "display": "Juniper",
+      "grid_entry": "JUNIPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w025",
+      "display": "Cone",
+      "grid_entry": "CONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w026",
+      "display": "Needle",
+      "grid_entry": "NEEDLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w027",
+      "display": "Branch",
+      "grid_entry": "BRANCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w028",
+      "display": "Sprig",
+      "grid_entry": "SPRIG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w029",
+      "display": "Stem",
+      "grid_entry": "STEM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w030",
+      "display": "Petal",
+      "grid_entry": "PETAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w031",
+      "display": "Flower",
+      "grid_entry": "FLOWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w032",
+      "display": "Bract",
+      "grid_entry": "BRACT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w033",
+      "display": "Root",
+      "grid_entry": "ROOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w034",
+      "display": "POT",
+      "grid_entry": "POT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w035",
+      "display": "Soil",
+      "grid_entry": "SOIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w036",
+      "display": "Compost",
+      "grid_entry": "COMPOST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w037",
+      "display": "Water",
+      "grid_entry": "WATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w038",
+      "display": "Grow",
+      "grid_entry": "GROW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w039",
+      "display": "Light",
+      "grid_entry": "LIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w040",
+      "display": "Window",
+      "grid_entry": "WINDOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w041",
+      "display": "Houseplant",
+      "grid_entry": "HOUSEPLANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w042",
+      "display": "Garden",
+      "grid_entry": "GARDEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w043",
+      "display": "Winter",
+      "grid_entry": "WINTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w044",
+      "display": "Frost",
+      "grid_entry": "FROST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w045",
+      "display": "December",
+      "grid_entry": "DECEMBER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w046",
+      "display": "Christmas",
+      "grid_entry": "CHRISTMAS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w047",
+      "display": "Festive",
+      "grid_entry": "FESTIVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w048",
+      "display": "Garland",
+      "grid_entry": "GARLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w049",
+      "display": "Swag",
+      "grid_entry": "SWAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w050",
+      "display": "Table",
+      "grid_entry": "TABLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w051",
+      "display": "Centre",
+      "grid_entry": "CENTRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w052",
+      "display": "Door",
+      "grid_entry": "DOOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w053",
+      "display": "Mantel",
+      "grid_entry": "MANTEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w054",
+      "display": "Candle",
+      "grid_entry": "CANDLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w055",
+      "display": "Ribbon",
+      "grid_entry": "RIBBON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w056",
+      "display": "BOW",
+      "grid_entry": "BOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w057",
+      "display": "Gold",
+      "grid_entry": "GOLD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w058",
+      "display": "Silver",
+      "grid_entry": "SILVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w059",
+      "display": "White",
+      "grid_entry": "WHITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w060",
+      "display": "Scarlet",
+      "grid_entry": "SCARLET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w061",
+      "display": "Crimson",
+      "grid_entry": "CRIMSON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w062",
+      "display": "Florist",
+      "grid_entry": "FLORIST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w063",
+      "display": "Bouquet",
+      "grid_entry": "BOUQUET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w064",
+      "display": "Arrange",
+      "grid_entry": "ARRANGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w065",
+      "display": "Display",
+      "grid_entry": "DISPLAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w066",
+      "display": "CUT",
+      "grid_entry": "CUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w067",
+      "display": "Fresh",
+      "grid_entry": "FRESH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w068",
+      "display": "Dried",
+      "grid_entry": "DRIED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w069",
+      "display": "Earth",
+      "grid_entry": "EARTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w070",
+      "display": "Ground",
+      "grid_entry": "GROUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w071",
+      "display": "Clay",
+      "grid_entry": "CLAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w072",
+      "display": "Loam",
+      "grid_entry": "LOAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w073",
+      "display": "Sand",
+      "grid_entry": "SAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w074",
+      "display": "Silt",
+      "grid_entry": "SILT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w075",
+      "display": "Humus",
+      "grid_entry": "HUMUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w076",
+      "display": "Mulch",
+      "grid_entry": "MULCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w077",
+      "display": "Peat",
+      "grid_entry": "PEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w078",
+      "display": "Seed",
+      "grid_entry": "SEED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w079",
+      "display": "Plant",
+      "grid_entry": "PLANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w080",
+      "display": "Tree",
+      "grid_entry": "TREE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w081",
+      "display": "Shrub",
+      "grid_entry": "SHRUB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w082",
+      "display": "Farm",
+      "grid_entry": "FARM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w083",
+      "display": "Field",
+      "grid_entry": "FIELD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w084",
+      "display": "Meadow",
+      "grid_entry": "MEADOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w085",
+      "display": "Forest",
+      "grid_entry": "FOREST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w086",
+      "display": "Woodland",
+      "grid_entry": "WOODLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w087",
+      "display": "Hedge",
+      "grid_entry": "HEDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w088",
+      "display": "Orchard",
+      "grid_entry": "ORCHARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w089",
+      "display": "Crop",
+      "grid_entry": "CROP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w090",
+      "display": "Harvest",
+      "grid_entry": "HARVEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w091",
+      "display": "Growth",
+      "grid_entry": "GROWTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w092",
+      "display": "Sprout",
+      "grid_entry": "SPROUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w093",
+      "display": "Seedling",
+      "grid_entry": "SEEDLING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w094",
+      "display": "Nutrient",
+      "grid_entry": "NUTRIENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w095",
+      "display": "Rain",
+      "grid_entry": "RAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w096",
+      "display": "Sunlight",
+      "grid_entry": "SUNLIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w097",
+      "display": "Shade",
+      "grid_entry": "SHADE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w098",
+      "display": "Snow",
+      "grid_entry": "SNOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w099",
+      "display": "ICE",
+      "grid_entry": "ICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-12-w100",
+      "display": "Autumn",
+      "grid_entry": "AUTUMN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

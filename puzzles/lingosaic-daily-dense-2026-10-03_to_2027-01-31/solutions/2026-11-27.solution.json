@@ -1,0 +1,783 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-27",
+  "date": "2026-11-27",
+  "theme": "Shopping, retail & bargains",
+  "shape_id": "shopping-bag",
+  "dictionary_id": "2026-11-27-shopping-retail-bargains",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-27",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###*****BANK###",
+    "###*****O***###",
+    "###*SAVING**###",
+    "###*A#*#D#*C###",
+    "##**L******O*##",
+    "##*DEBIT*CASH##",
+    "##***A***H*T*##",
+    "##*CUSTOMER**##",
+    "##***K***C***##",
+    "##MONEY**K***##",
+    "##*N*T**NOTE*##",
+    "##*L***Q*U***##",
+    "##DISCOUNT*D*##",
+    "##*N***E***E*##",
+    "##FEE**U***A*##",
+    "##****RETAIL*##",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "BANKOSAVINGADCLODEBITCASHAHTCUSTOMERKCMONEYKNTNOTELQUDISCOUNTDNEEFEEUARETAIL",
+  "solution_hash": "aff0cdc655526a1667f353dddfe5c348aa7dd7055d383f271493dd21c647bc3e",
+  "seed_letters": [
+    {
+      "row": 2,
+      "col": 9,
+      "letter": "A"
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "letter": "N"
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "letter": "D"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "letter": "S"
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "letter": "T"
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "letter": "N"
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "letter": "Q"
+    },
+    {
+      "row": 14,
+      "col": 11,
+      "letter": "D"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 10
+        },
+        {
+          "row": 2,
+          "col": 11
+        }
+      ],
+      "answer": "BANK"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        }
+      ],
+      "answer": "SAVING"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        }
+      ],
+      "answer": "DEBIT"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "CASH"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "CUSTOMER"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        }
+      ],
+      "answer": "MONEY"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 11
+        }
+      ],
+      "answer": "NOTE"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 14,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "DISCOUNT"
+    },
+    {
+      "id": "A9",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 16,
+          "col": 2
+        },
+        {
+          "row": 16,
+          "col": 3
+        },
+        {
+          "row": 16,
+          "col": 4
+        }
+      ],
+      "answer": "FEE"
+    },
+    {
+      "id": "A10",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 17,
+          "col": 6
+        },
+        {
+          "row": 17,
+          "col": 7
+        },
+        {
+          "row": 17,
+          "col": 8
+        },
+        {
+          "row": 17,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 10
+        },
+        {
+          "row": 17,
+          "col": 11
+        }
+      ],
+      "answer": "RETAIL"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 3
+        },
+        {
+          "row": 16,
+          "col": 3
+        }
+      ],
+      "answer": "ONLINE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        }
+      ],
+      "answer": "SALE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        }
+      ],
+      "answer": "BASKET"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 17,
+          "col": 7
+        }
+      ],
+      "answer": "QUEUE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        }
+      ],
+      "answer": "BOND"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "CHECKOUT"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        }
+      ],
+      "answer": "COST"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 11
+        },
+        {
+          "row": 15,
+          "col": 11
+        },
+        {
+          "row": 16,
+          "col": 11
+        },
+        {
+          "row": 17,
+          "col": 11
+        }
+      ],
+      "answer": "DEAL"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 2,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D5",
+      "slot_b_index": 0,
+      "letter": "B"
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "slot_a": "A2",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "slot_a": "A2",
+      "slot_a_index": 4,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "N"
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A3",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A3",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 0,
+      "letter": "B"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A4",
+      "slot_a_index": 0,
+      "slot_b": "D6",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D7",
+      "slot_b_index": 2,
+      "letter": "S"
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "slot_a": "A5",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "S"
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "slot_a": "A5",
+      "slot_a_index": 6,
+      "slot_b": "D6",
+      "slot_b_index": 2,
+      "letter": "E"
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "slot_a": "A6",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "O"
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "slot_a": "A6",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "slot_a": "A7",
+      "slot_a_index": 1,
+      "slot_b": "D6",
+      "slot_b_index": 5,
+      "letter": "O"
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "slot_a": "A8",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "I"
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "slot_a": "A8",
+      "slot_a_index": 5,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "U"
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "slot_a": "A8",
+      "slot_a_index": 7,
+      "slot_b": "D6",
+      "slot_b_index": 7,
+      "letter": "T"
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "slot_a": "A9",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 5,
+      "letter": "E"
+    },
+    {
+      "row": 17,
+      "col": 7,
+      "slot_a": "A10",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 17,
+      "col": 11,
+      "slot_a": "A10",
+      "slot_a_index": 5,
+      "slot_b": "D8",
+      "slot_b_index": 3,
+      "letter": "L"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 18,
+    "across_slots": 10,
+    "down_slots": 8,
+    "crossings": 18,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 5,
+    "max_slot_crossings": 4,
+    "seed_letters": 8
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-22",
+  "date": "2026-10-22",
+  "daily_number": 7,
+  "generator": {
+    "version": "daily-reference-1.0.0",
+    "seed": "daily-2026-10-22",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Nuts & seeds",
+    "occasion": "National Nut Day"
+  },
+  "bonus": {
+    "title": "National Nut Day",
+    "description": "National Nut Day is an informal observance that makes a useful seasonal hook for nuts, seeds, trees and foods made from them."
+  },
+  "shape": {
+    "id": "acorn",
+    "name": "Acorn",
+    "grid_file": "../shapes/2026-10-22-acorn.grid.json",
+    "svg_file": "../shapes/2026-10-22-acorn.svg"
+  },
+  "dictionary": {
+    "id": "2026-10-22-nuts-seeds",
+    "file": "../dictionaries/2026-10-22-nuts-seeds.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#######X#######",
+      "##XXXXXXXXXXX##",
+      "#XXXXXXXXXXXXX#",
+      "#XXXXXXXX.XXXX#",
+      "#XX.X.XRX.XAXX#",
+      "##X.XAX.X.X.X##",
+      "##X.........X##",
+      "##X.X.X.X.X.X##",
+      "##X.X.X.X.X.X##",
+      "##XXXXXXX.XXX##",
+      "###XXXXXXXXX###",
+      "####XXXXXXX####",
+      "#####XXXXX#####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 5,
+        "col": 7,
+        "letter": "R"
+      },
+      {
+        "row": 5,
+        "col": 11,
+        "letter": "A"
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "A"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "4e700b81781f09bd7eeaa9d648411b364806e4afaf50cf213338ed73ca9ec405"
+  }
+}

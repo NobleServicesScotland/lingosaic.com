@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-11-15-recycling-reuse",
+  "theme": {
+    "id": "recycling-reuse",
+    "name": "Recycling & reuse",
+    "definition": "Single-word English entries directly associated with recycling & reuse."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-11-15-w001",
+      "display": "Recycle",
+      "grid_entry": "RECYCLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w002",
+      "display": "Reuse",
+      "grid_entry": "REUSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w003",
+      "display": "Glass",
+      "grid_entry": "GLASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w004",
+      "display": "Paper",
+      "grid_entry": "PAPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w005",
+      "display": "Metal",
+      "grid_entry": "METAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w006",
+      "display": "Plastic",
+      "grid_entry": "PLASTIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w007",
+      "display": "Compost",
+      "grid_entry": "COMPOST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w008",
+      "display": "BIN",
+      "grid_entry": "BIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w009",
+      "display": "Sort",
+      "grid_entry": "SORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w010",
+      "display": "Bottle",
+      "grid_entry": "BOTTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w011",
+      "display": "CAN",
+      "grid_entry": "CAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w012",
+      "display": "Cardboard",
+      "grid_entry": "CARDBOARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w013",
+      "display": "Repair",
+      "grid_entry": "REPAIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w014",
+      "display": "Donate",
+      "grid_entry": "DONATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w015",
+      "display": "Waste",
+      "grid_entry": "WASTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w016",
+      "display": "Cycle",
+      "grid_entry": "CYCLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w017",
+      "display": "Reduce",
+      "grid_entry": "REDUCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w018",
+      "display": "Refill",
+      "grid_entry": "REFILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w019",
+      "display": "Return",
+      "grid_entry": "RETURN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w020",
+      "display": "Reclaim",
+      "grid_entry": "RECLAIM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w021",
+      "display": "Salvage",
+      "grid_entry": "SALVAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w022",
+      "display": "Scrap",
+      "grid_entry": "SCRAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w023",
+      "display": "Material",
+      "grid_entry": "MATERIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w024",
+      "display": "Resource",
+      "grid_entry": "RESOURCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w025",
+      "display": "Packaging",
+      "grid_entry": "PACKAGING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w026",
+      "display": "Carton",
+      "grid_entry": "CARTON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w027",
+      "display": "TIN",
+      "grid_entry": "TIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w028",
+      "display": "Steel",
+      "grid_entry": "STEEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w029",
+      "display": "Aluminium",
+      "grid_entry": "ALUMINIUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w030",
+      "display": "Textile",
+      "grid_entry": "TEXTILE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w031",
+      "display": "Clothing",
+      "grid_entry": "CLOTHING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w032",
+      "display": "Electronic",
+      "grid_entry": "ELECTRONIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w033",
+      "display": "Battery",
+      "grid_entry": "BATTERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w034",
+      "display": "Phone",
+      "grid_entry": "PHONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w035",
+      "display": "Computer",
+      "grid_entry": "COMPUTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w036",
+      "display": "Appliance",
+      "grid_entry": "APPLIANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w037",
+      "display": "Furniture",
+      "grid_entry": "FURNITURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w038",
+      "display": "Wood",
+      "grid_entry": "WOOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w039",
+      "display": "Timber",
+      "grid_entry": "TIMBER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w040",
+      "display": "Garden",
+      "grid_entry": "GARDEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w041",
+      "display": "Food",
+      "grid_entry": "FOOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w042",
+      "display": "Organic",
+      "grid_entry": "ORGANIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w043",
+      "display": "Landfill",
+      "grid_entry": "LANDFILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w044",
+      "display": "Collection",
+      "grid_entry": "COLLECTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w045",
+      "display": "Depot",
+      "grid_entry": "DEPOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w046",
+      "display": "Centre",
+      "grid_entry": "CENTRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w047",
+      "display": "Kerbside",
+      "grid_entry": "KERBSIDE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w048",
+      "display": "Container",
+      "grid_entry": "CONTAINER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w049",
+      "display": "Green",
+      "grid_entry": "GREEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w050",
+      "display": "Blue",
+      "grid_entry": "BLUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w051",
+      "display": "Brown",
+      "grid_entry": "BROWN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w052",
+      "display": "BAG",
+      "grid_entry": "BAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w053",
+      "display": "Label",
+      "grid_entry": "LABEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w054",
+      "display": "Rinse",
+      "grid_entry": "RINSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w055",
+      "display": "Clean",
+      "grid_entry": "CLEAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w056",
+      "display": "Crush",
+      "grid_entry": "CRUSH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w057",
+      "display": "Flatten",
+      "grid_entry": "FLATTEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w058",
+      "display": "Separate",
+      "grid_entry": "SEPARATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w059",
+      "display": "Process",
+      "grid_entry": "PROCESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w060",
+      "display": "Pulp",
+      "grid_entry": "PULP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w061",
+      "display": "Melt",
+      "grid_entry": "MELT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w062",
+      "display": "Shred",
+      "grid_entry": "SHRED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w063",
+      "display": "Remake",
+      "grid_entry": "REMAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w064",
+      "display": "Secondhand",
+      "grid_entry": "SECONDHAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w065",
+      "display": "Charity",
+      "grid_entry": "CHARITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w066",
+      "display": "Swap",
+      "grid_entry": "SWAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w067",
+      "display": "Share",
+      "grid_entry": "SHARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w068",
+      "display": "Circular",
+      "grid_entry": "CIRCULAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w069",
+      "display": "Sustainable",
+      "grid_entry": "SUSTAINABLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w070",
+      "display": "Environment",
+      "grid_entry": "ENVIRONMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w071",
+      "display": "Energy",
+      "grid_entry": "ENERGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w072",
+      "display": "Carbon",
+      "grid_entry": "CARBON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w073",
+      "display": "Earth",
+      "grid_entry": "EARTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w074",
+      "display": "Soil",
+      "grid_entry": "SOIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w075",
+      "display": "Ground",
+      "grid_entry": "GROUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w076",
+      "display": "Clay",
+      "grid_entry": "CLAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w077",
+      "display": "Loam",
+      "grid_entry": "LOAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w078",
+      "display": "Sand",
+      "grid_entry": "SAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w079",
+      "display": "Silt",
+      "grid_entry": "SILT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w080",
+      "display": "Humus",
+      "grid_entry": "HUMUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w081",
+      "display": "Mulch",
+      "grid_entry": "MULCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w082",
+      "display": "Peat",
+      "grid_entry": "PEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w083",
+      "display": "Root",
+      "grid_entry": "ROOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w084",
+      "display": "Seed",
+      "grid_entry": "SEED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w085",
+      "display": "Plant",
+      "grid_entry": "PLANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w086",
+      "display": "Tree",
+      "grid_entry": "TREE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w087",
+      "display": "Shrub",
+      "grid_entry": "SHRUB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w088",
+      "display": "Flower",
+      "grid_entry": "FLOWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w089",
+      "display": "Leaf",
+      "grid_entry": "LEAF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w090",
+      "display": "Stem",
+      "grid_entry": "STEM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w091",
+      "display": "Bloom",
+      "grid_entry": "BLOOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w092",
+      "display": "Farm",
+      "grid_entry": "FARM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w093",
+      "display": "Field",
+      "grid_entry": "FIELD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w094",
+      "display": "Meadow",
+      "grid_entry": "MEADOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w095",
+      "display": "Forest",
+      "grid_entry": "FOREST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w096",
+      "display": "Woodland",
+      "grid_entry": "WOODLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w097",
+      "display": "Hedge",
+      "grid_entry": "HEDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w098",
+      "display": "Orchard",
+      "grid_entry": "ORCHARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w099",
+      "display": "Crop",
+      "grid_entry": "CROP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-15-w100",
+      "display": "Harvest",
+      "grid_entry": "HARVEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

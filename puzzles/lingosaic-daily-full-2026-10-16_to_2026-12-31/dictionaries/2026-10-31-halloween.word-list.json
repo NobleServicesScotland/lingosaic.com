@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-10-31-halloween",
+  "theme": {
+    "id": "halloween",
+    "name": "Halloween",
+    "definition": "Single-word English entries directly associated with halloween."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-10-31-w001",
+      "display": "Ghost",
+      "grid_entry": "GHOST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w002",
+      "display": "Witch",
+      "grid_entry": "WITCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w003",
+      "display": "Pumpkin",
+      "grid_entry": "PUMPKIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w004",
+      "display": "Mask",
+      "grid_entry": "MASK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w005",
+      "display": "BAT",
+      "grid_entry": "BAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w006",
+      "display": "Spider",
+      "grid_entry": "SPIDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w007",
+      "display": "Candy",
+      "grid_entry": "CANDY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w008",
+      "display": "Costume",
+      "grid_entry": "COSTUME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w009",
+      "display": "Skeleton",
+      "grid_entry": "SKELETON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w010",
+      "display": "Cauldron",
+      "grid_entry": "CAULDRON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w011",
+      "display": "Haunted",
+      "grid_entry": "HAUNTED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w012",
+      "display": "Lantern",
+      "grid_entry": "LANTERN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w013",
+      "display": "Broom",
+      "grid_entry": "BROOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w014",
+      "display": "Vampire",
+      "grid_entry": "VAMPIRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w015",
+      "display": "Cobweb",
+      "grid_entry": "COBWEB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w016",
+      "display": "Trick",
+      "grid_entry": "TRICK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w017",
+      "display": "Monster",
+      "grid_entry": "MONSTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w018",
+      "display": "Frankenstein",
+      "grid_entry": "FRANKENSTEIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w019",
+      "display": "Dracula",
+      "grid_entry": "DRACULA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w020",
+      "display": "Zombie",
+      "grid_entry": "ZOMBIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w021",
+      "display": "Mummy",
+      "grid_entry": "MUMMY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w022",
+      "display": "Werewolf",
+      "grid_entry": "WEREWOLF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w023",
+      "display": "Castle",
+      "grid_entry": "CASTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w024",
+      "display": "Crypt",
+      "grid_entry": "CRYPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w025",
+      "display": "Thunder",
+      "grid_entry": "THUNDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w026",
+      "display": "Shadow",
+      "grid_entry": "SHADOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w027",
+      "display": "Horror",
+      "grid_entry": "HORROR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w028",
+      "display": "Gothic",
+      "grid_entry": "GOTHIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w029",
+      "display": "Scream",
+      "grid_entry": "SCREAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w030",
+      "display": "Night",
+      "grid_entry": "NIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w031",
+      "display": "Demon",
+      "grid_entry": "DEMON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w032",
+      "display": "Spectre",
+      "grid_entry": "SPECTRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w033",
+      "display": "Phantom",
+      "grid_entry": "PHANTOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w034",
+      "display": "Grave",
+      "grid_entry": "GRAVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w035",
+      "display": "Coffin",
+      "grid_entry": "COFFIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w036",
+      "display": "Tomb",
+      "grid_entry": "TOMB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w037",
+      "display": "Skull",
+      "grid_entry": "SKULL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w038",
+      "display": "Bone",
+      "grid_entry": "BONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w039",
+      "display": "Fang",
+      "grid_entry": "FANG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w040",
+      "display": "Claw",
+      "grid_entry": "CLAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w041",
+      "display": "Blood",
+      "grid_entry": "BLOOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w042",
+      "display": "Moon",
+      "grid_entry": "MOON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w043",
+      "display": "FOG",
+      "grid_entry": "FOG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w044",
+      "display": "Mist",
+      "grid_entry": "MIST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w045",
+      "display": "Storm",
+      "grid_entry": "STORM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w046",
+      "display": "Lightning",
+      "grid_entry": "LIGHTNING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w047",
+      "display": "Candle",
+      "grid_entry": "CANDLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w048",
+      "display": "Dungeon",
+      "grid_entry": "DUNGEON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w049",
+      "display": "Tower",
+      "grid_entry": "TOWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w050",
+      "display": "Ruin",
+      "grid_entry": "RUIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w051",
+      "display": "Curse",
+      "grid_entry": "CURSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w052",
+      "display": "Spell",
+      "grid_entry": "SPELL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w053",
+      "display": "Potion",
+      "grid_entry": "POTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w054",
+      "display": "Nightmare",
+      "grid_entry": "NIGHTMARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w055",
+      "display": "Fear",
+      "grid_entry": "FEAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w056",
+      "display": "Terror",
+      "grid_entry": "TERROR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w057",
+      "display": "Shriek",
+      "grid_entry": "SHRIEK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w058",
+      "display": "Howl",
+      "grid_entry": "HOWL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w059",
+      "display": "Growl",
+      "grid_entry": "GROWL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w060",
+      "display": "Creepy",
+      "grid_entry": "CREEPY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w061",
+      "display": "Eerie",
+      "grid_entry": "EERIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w062",
+      "display": "Sinister",
+      "grid_entry": "SINISTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w063",
+      "display": "Macabre",
+      "grid_entry": "MACABRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w064",
+      "display": "Darkness",
+      "grid_entry": "DARKNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w065",
+      "display": "Midnight",
+      "grid_entry": "MIDNIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w066",
+      "display": "Cemetery",
+      "grid_entry": "CEMETERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w067",
+      "display": "Gravestone",
+      "grid_entry": "GRAVESTONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w068",
+      "display": "Raven",
+      "grid_entry": "RAVEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w069",
+      "display": "OWL",
+      "grid_entry": "OWL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w070",
+      "display": "RAT",
+      "grid_entry": "RAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w071",
+      "display": "Toad",
+      "grid_entry": "TOAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w072",
+      "display": "Snake",
+      "grid_entry": "SNAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w073",
+      "display": "Ghoul",
+      "grid_entry": "GHOUL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w074",
+      "display": "Magic",
+      "grid_entry": "MAGIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w075",
+      "display": "Black",
+      "grid_entry": "BLACK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w076",
+      "display": "Orange",
+      "grid_entry": "ORANGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w077",
+      "display": "Treat",
+      "grid_entry": "TREAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w078",
+      "display": "Film",
+      "grid_entry": "FILM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w079",
+      "display": "Cinema",
+      "grid_entry": "CINEMA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w080",
+      "display": "Movie",
+      "grid_entry": "MOVIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w081",
+      "display": "Screen",
+      "grid_entry": "SCREEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w082",
+      "display": "Camera",
+      "grid_entry": "CAMERA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w083",
+      "display": "Lens",
+      "grid_entry": "LENS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w084",
+      "display": "Frame",
+      "grid_entry": "FRAME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w085",
+      "display": "Reel",
+      "grid_entry": "REEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w086",
+      "display": "Scene",
+      "grid_entry": "SCENE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w087",
+      "display": "Shot",
+      "grid_entry": "SHOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w088",
+      "display": "Take",
+      "grid_entry": "TAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w089",
+      "display": "Script",
+      "grid_entry": "SCRIPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w090",
+      "display": "Story",
+      "grid_entry": "STORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w091",
+      "display": "Plot",
+      "grid_entry": "PLOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w092",
+      "display": "Actor",
+      "grid_entry": "ACTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w093",
+      "display": "Actress",
+      "grid_entry": "ACTRESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w094",
+      "display": "Director",
+      "grid_entry": "DIRECTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w095",
+      "display": "Producer",
+      "grid_entry": "PRODUCER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w096",
+      "display": "Edit",
+      "grid_entry": "EDIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w097",
+      "display": "Sound",
+      "grid_entry": "SOUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w098",
+      "display": "Audio",
+      "grid_entry": "AUDIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w099",
+      "display": "Music",
+      "grid_entry": "MUSIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-31-w100",
+      "display": "Score",
+      "grid_entry": "SCORE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

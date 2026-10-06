@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-10-05-school-teaching",
+  "theme": {
+    "id": "school-teaching",
+    "name": "School & teaching",
+    "definition": "Single-word English entries directly associated with school & teaching."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-10-05-w001",
+      "display": "Teacher",
+      "grid_entry": "TEACHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w002",
+      "display": "Teach",
+      "grid_entry": "TEACH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w003",
+      "display": "Teaching",
+      "grid_entry": "TEACHING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w004",
+      "display": "Class",
+      "grid_entry": "CLASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w005",
+      "display": "Classroom",
+      "grid_entry": "CLASSROOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w006",
+      "display": "Pupil",
+      "grid_entry": "PUPIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w007",
+      "display": "Student",
+      "grid_entry": "STUDENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w008",
+      "display": "Lesson",
+      "grid_entry": "LESSON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w009",
+      "display": "Learn",
+      "grid_entry": "LEARN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w010",
+      "display": "Learning",
+      "grid_entry": "LEARNING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w011",
+      "display": "School",
+      "grid_entry": "SCHOOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w012",
+      "display": "Desk",
+      "grid_entry": "DESK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w013",
+      "display": "Board",
+      "grid_entry": "BOARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w014",
+      "display": "Chalk",
+      "grid_entry": "CHALK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w015",
+      "display": "Whiteboard",
+      "grid_entry": "WHITEBOARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w016",
+      "display": "Marker",
+      "grid_entry": "MARKER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w017",
+      "display": "Book",
+      "grid_entry": "BOOK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w018",
+      "display": "Textbook",
+      "grid_entry": "TEXTBOOK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w019",
+      "display": "Exercise",
+      "grid_entry": "EXERCISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w020",
+      "display": "Homework",
+      "grid_entry": "HOMEWORK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w021",
+      "display": "Quiz",
+      "grid_entry": "QUIZ",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w022",
+      "display": "Test",
+      "grid_entry": "TEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w023",
+      "display": "Exam",
+      "grid_entry": "EXAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w024",
+      "display": "Grade",
+      "grid_entry": "GRADE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w025",
+      "display": "Mark",
+      "grid_entry": "MARK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w026",
+      "display": "Tutor",
+      "grid_entry": "TUTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w027",
+      "display": "Mentor",
+      "grid_entry": "MENTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w028",
+      "display": "Subject",
+      "grid_entry": "SUBJECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w029",
+      "display": "Maths",
+      "grid_entry": "MATHS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w030",
+      "display": "English",
+      "grid_entry": "ENGLISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w031",
+      "display": "Science",
+      "grid_entry": "SCIENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w032",
+      "display": "History",
+      "grid_entry": "HISTORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w033",
+      "display": "Geography",
+      "grid_entry": "GEOGRAPHY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w034",
+      "display": "Art",
+      "grid_entry": "ART",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w035",
+      "display": "Music",
+      "grid_entry": "MUSIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w036",
+      "display": "Reading",
+      "grid_entry": "READING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w037",
+      "display": "Writing",
+      "grid_entry": "WRITING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w038",
+      "display": "Spelling",
+      "grid_entry": "SPELLING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w039",
+      "display": "Grammar",
+      "grid_entry": "GRAMMAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w040",
+      "display": "Number",
+      "grid_entry": "NUMBER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w041",
+      "display": "Count",
+      "grid_entry": "COUNT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w042",
+      "display": "Sum",
+      "grid_entry": "SUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w043",
+      "display": "Problem",
+      "grid_entry": "PROBLEM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w044",
+      "display": "Project",
+      "grid_entry": "PROJECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w045",
+      "display": "Research",
+      "grid_entry": "RESEARCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w046",
+      "display": "Library",
+      "grid_entry": "LIBRARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w047",
+      "display": "Assembly",
+      "grid_entry": "ASSEMBLY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w048",
+      "display": "Break",
+      "grid_entry": "BREAK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w049",
+      "display": "Lunch",
+      "grid_entry": "LUNCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w050",
+      "display": "Uniform",
+      "grid_entry": "UNIFORM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w051",
+      "display": "Bag",
+      "grid_entry": "BAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w052",
+      "display": "Pencil",
+      "grid_entry": "PENCIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w053",
+      "display": "Pen",
+      "grid_entry": "PEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w054",
+      "display": "Ruler",
+      "grid_entry": "RULER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w055",
+      "display": "Eraser",
+      "grid_entry": "ERASER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w056",
+      "display": "Notebook",
+      "grid_entry": "NOTEBOOK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w057",
+      "display": "Worksheet",
+      "grid_entry": "WORKSHEET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w058",
+      "display": "Curriculum",
+      "grid_entry": "CURRICULUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w059",
+      "display": "Headteacher",
+      "grid_entry": "HEADTEACHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w060",
+      "display": "Primary",
+      "grid_entry": "PRIMARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w061",
+      "display": "Secondary",
+      "grid_entry": "SECONDARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w062",
+      "display": "College",
+      "grid_entry": "COLLEGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w063",
+      "display": "University",
+      "grid_entry": "UNIVERSITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w064",
+      "display": "Seminar",
+      "grid_entry": "SEMINAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w065",
+      "display": "Lecture",
+      "grid_entry": "LECTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w066",
+      "display": "Campus",
+      "grid_entry": "CAMPUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w067",
+      "display": "Degree",
+      "grid_entry": "DEGREE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w068",
+      "display": "Essay",
+      "grid_entry": "ESSAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w069",
+      "display": "Course",
+      "grid_entry": "COURSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w070",
+      "display": "Lab",
+      "grid_entry": "LAB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w071",
+      "display": "Dorm",
+      "grid_entry": "DORM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w072",
+      "display": "Note",
+      "grid_entry": "NOTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w073",
+      "display": "Study",
+      "grid_entry": "STUDY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w074",
+      "display": "Thesis",
+      "grid_entry": "THESIS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w075",
+      "display": "Graduate",
+      "grid_entry": "GRADUATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w076",
+      "display": "Professor",
+      "grid_entry": "PROFESSOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w077",
+      "display": "Read",
+      "grid_entry": "READ",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w078",
+      "display": "Write",
+      "grid_entry": "WRITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w079",
+      "display": "Text",
+      "grid_entry": "TEXT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w080",
+      "display": "Page",
+      "grid_entry": "PAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w081",
+      "display": "Diploma",
+      "grid_entry": "DIPLOMA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w082",
+      "display": "Cap",
+      "grid_entry": "CAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w083",
+      "display": "Gown",
+      "grid_entry": "GOWN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w084",
+      "display": "Term",
+      "grid_entry": "TERM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w085",
+      "display": "Semester",
+      "grid_entry": "SEMESTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w086",
+      "display": "Language",
+      "grid_entry": "LANGUAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w087",
+      "display": "Assignment",
+      "grid_entry": "ASSIGNMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w088",
+      "display": "Result",
+      "grid_entry": "RESULT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w089",
+      "display": "Credit",
+      "grid_entry": "CREDIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w090",
+      "display": "Module",
+      "grid_entry": "MODULE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w091",
+      "display": "Syllabus",
+      "grid_entry": "SYLLABUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w092",
+      "display": "Timetable",
+      "grid_entry": "TIMETABLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w093",
+      "display": "Club",
+      "grid_entry": "CLUB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w094",
+      "display": "Society",
+      "grid_entry": "SOCIETY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w095",
+      "display": "Hall",
+      "grid_entry": "HALL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w096",
+      "display": "Canteen",
+      "grid_entry": "CANTEEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w097",
+      "display": "Union",
+      "grid_entry": "UNION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w098",
+      "display": "Knowledge",
+      "grid_entry": "KNOWLEDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w099",
+      "display": "Skill",
+      "grid_entry": "SKILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-05-w100",
+      "display": "Think",
+      "grid_entry": "THINK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-10-05",
+  "date": "2026-10-05",
+  "theme": "School & teaching",
+  "shape_id": "open-book",
+  "dictionary_id": "2026-10-05-school-teaching",
+  "generator_seed": "dense-crossword-2.1.0:2026-10-05",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "###############",
+    "#L##########*##",
+    "#EXAM####***W##",
+    "#C*****NUMBER##",
+    "#THESIS**A**I##",
+    "#U****Y**TEST##",
+    "#R*S**L**H**E##",
+    "#E*C*CLASS***##",
+    "#**I**A****D*##",
+    "#**E**B*TUTOR##",
+    "#PEN**U*E**R*##",
+    "#**CLASSROOM*##",
+    "##*E*R**M***###",
+    "#####T***######",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "LEXAMWCNUMBERTHESISAIUYTESTRSLHEECCLASSIADEBTUTORPENUERCLASSROOMERMT",
+  "solution_hash": "6a2be3f11f352091faee12dccfff2662144b7fc91ce87581fe26c5a162c2d1d4",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 1,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "letter": "T"
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "letter": "S"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 1
+        },
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 4
+        }
+      ],
+      "answer": "EXAM"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 12
+        }
+      ],
+      "answer": "NUMBER"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 1
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        }
+      ],
+      "answer": "THESIS"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 12
+        }
+      ],
+      "answer": "TEST"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "CLASS"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 12
+        }
+      ],
+      "answer": "TUTOR"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 13,
+          "col": 1
+        },
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 3
+        }
+      ],
+      "answer": "PEN"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 11
+        }
+      ],
+      "answer": "CLASSROOM"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 1
+        },
+        {
+          "row": 5,
+          "col": 1
+        },
+        {
+          "row": 6,
+          "col": 1
+        },
+        {
+          "row": 7,
+          "col": 1
+        },
+        {
+          "row": 8,
+          "col": 1
+        },
+        {
+          "row": 9,
+          "col": 1
+        },
+        {
+          "row": 10,
+          "col": 1
+        }
+      ],
+      "answer": "LECTURE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 12
+        },
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "WRITE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "MATHS"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 6
+        }
+      ],
+      "answer": "SYLLABUS"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 3
+        }
+      ],
+      "answer": "SCIENCE"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 11
+        }
+      ],
+      "answer": "DORM"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 8
+        }
+      ],
+      "answer": "TERM"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 5
+        }
+      ],
+      "answer": "ART"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 1,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D3",
+      "row": 6,
+      "col": 9,
+      "letter": "M"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 6,
+      "col": 12,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D1",
+      "row": 7,
+      "col": 1,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D4",
+      "row": 7,
+      "col": 6,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D3",
+      "row": 8,
+      "col": 9,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D2",
+      "row": 8,
+      "col": 12,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D4",
+      "row": 10,
+      "col": 6,
+      "letter": "L"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D3",
+      "row": 10,
+      "col": 9,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D7",
+      "row": 12,
+      "col": 8,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 12,
+      "col": 11,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D5",
+      "row": 13,
+      "col": 3,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D5",
+      "row": 14,
+      "col": 3,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D8",
+      "row": 14,
+      "col": 5,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D4",
+      "row": 14,
+      "col": 6,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D7",
+      "row": 14,
+      "col": 8,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D6",
+      "row": 14,
+      "col": 11,
+      "letter": "M"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 8,
+    "down_slots": 8,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.12,
+    "leaf_slots": 3,
+    "max_slot_crossings": 5,
+    "seed_letters": 3
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

@@ -1,0 +1,675 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-10-13",
+  "date": "2026-10-13",
+  "theme": "Computing & inventions",
+  "shape_id": "microchip",
+  "dictionary_id": "2026-10-13-computing-inventions",
+  "generator_seed": "dense-crossword-2.1.0:2026-10-13",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "####*#*#*#*####",
+    "####*#*#*#*####",
+    "###*C***L***###",
+    "#**BOOLEAN****#",
+    "###*D***B**E###",
+    "#CAMERA**FILE*#",
+    "###E***A***E###",
+    "#**ALGORITHM**#",
+    "###S***R*R*E###",
+    "#*AUTOMATION**#",
+    "###R***Y*A*T###",
+    "#*TEST***L****#",
+    "###*O*A*A***###",
+    "###OUTPUT***###",
+    "####N#P#O#*####",
+    "####D#*#M#*####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "CLBOOLEANDBECAMERAFILEEAEALGORITHMSRREAUTOMATIONRYATTESTLOAAOUTPUTNPODM",
+  "solution_hash": "0566da9f05988b8b1c170a50081bf3a5dab7cffab7ad0133c74f55421611ea61",
+  "seed_letters": [
+    {
+      "row": 7,
+      "col": 4,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "letter": "L"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        }
+      ],
+      "answer": "BOOLEAN"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 1
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        }
+      ],
+      "answer": "CAMERA"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "FILE"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "ALGORITHM"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 11
+        }
+      ],
+      "answer": "AUTOMATION"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 5
+        }
+      ],
+      "answer": "TEST"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 15,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        }
+      ],
+      "answer": "OUTPUT"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        }
+      ],
+      "answer": "CODE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "LAB"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        }
+      ],
+      "answer": "ELEMENT"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        }
+      ],
+      "answer": "MEASURE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "ARRAY"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        }
+      ],
+      "answer": "TRIAL"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 16,
+          "col": 4
+        },
+        {
+          "row": 17,
+          "col": 4
+        }
+      ],
+      "answer": "SOUND"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 6
+        }
+      ],
+      "answer": "APP"
+    },
+    {
+      "id": "D9",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 17,
+          "col": 8
+        }
+      ],
+      "answer": "ATOM"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 4,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 5,
+      "col": 8,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 7,
+      "col": 3,
+      "letter": "M"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 7,
+      "col": 4,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 7,
+      "col": 11,
+      "letter": "L"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 9,
+      "col": 3,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D5",
+      "row": 9,
+      "col": 7,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D6",
+      "row": 9,
+      "col": 9,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D3",
+      "row": 9,
+      "col": 11,
+      "letter": "M"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D4",
+      "row": 11,
+      "col": 3,
+      "letter": "U"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 11,
+      "col": 7,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D6",
+      "row": 11,
+      "col": 9,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D3",
+      "row": 11,
+      "col": 11,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D4",
+      "row": 13,
+      "col": 3,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D7",
+      "row": 13,
+      "col": 4,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 15,
+      "col": 4,
+      "letter": "U"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D8",
+      "row": 15,
+      "col": 6,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D9",
+      "row": 15,
+      "col": 8,
+      "letter": "T"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 7,
+    "down_slots": 9,
+    "crossings": 18,
+    "average_crossings_per_slot": 2.25,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 2
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    1
+  ]
+}

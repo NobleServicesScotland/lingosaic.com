@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-12",
+  "date": "2026-11-12",
+  "daily_number": 28,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-12",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Lungs & breathing",
+    "occasion": "World Pneumonia Day"
+  },
+  "bonus": {
+    "title": "World Pneumonia Day",
+    "description": "World Pneumonia Day raises awareness of pneumonia and the importance of healthy lungs, prevention and treatment."
+  },
+  "shape": {
+    "id": "lungs",
+    "name": "Lungs",
+    "grid_file": "../shapes/2026-11-12-lungs.grid.json",
+    "svg_file": "../shapes/2026-11-12-lungs.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-12-lungs-breathing",
+    "file": "../dictionaries/2026-11-12-lungs-breathing.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#####.#XX######",
+      "#####.#XX######",
+      "#####.#XX######",
+      "####X.#XX#XX###",
+      "###.X.XXX.X.X##",
+      "##X.X.XAX.X.XX#",
+      "##X.........XX#",
+      "##X.X.X.X.X.XX#",
+      "##X.X.X.X.X.XX#",
+      "##X.XXX.X.X.XX#",
+      "###.XXX.#XXXX##",
+      "####XX####XX###",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "A"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 1,
+          "col": 5
+        },
+        {
+          "row": 2,
+          "col": 5
+        },
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "4c3224147b751e22d48fe85b5e8f1c07f65da83ff04b8e950c453c3046cecf1b"
+  }
+}

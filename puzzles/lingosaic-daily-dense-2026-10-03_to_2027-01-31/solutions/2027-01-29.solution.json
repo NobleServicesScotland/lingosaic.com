@@ -1,0 +1,655 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-29",
+  "date": "2027-01-29",
+  "theme": "Puzzles & brain games",
+  "shape_id": "puzzle-piece",
+  "dictionary_id": "2027-01-29-puzzles-brain-games",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-29",
+  "solution_grid": [
+    "###############",
+    "#######*#######",
+    "######ODD######",
+    "#####*N***#####",
+    "##CIPHER*****##",
+    "##**E***D**C*##",
+    "##ACROSTIC*H*##",
+    "##**C***F**A*##",
+    "####E***F*BLOCK",
+    "####NUMBER*L*H*",
+    "####T*E*R**E*E*",
+    "####**M*EVEN*S*",
+    "####**O*N**G*S*",
+    "##SUBTRACT*E*##",
+    "##P***Y*E****##",
+    "##O**********##",
+    "##TILE*******##",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "ODDNCIPHEREDCACROSTICHCFAEFBLOCKNUMBERLHTEREEMEVENSONGSSUBTRACTEPYEOTILE",
+  "solution_hash": "027aa32c106b18c7b718960b42ad053886c018613fa8d52cbe299573ad757990",
+  "seed_letters": [
+    {
+      "row": 9,
+      "col": 13,
+      "letter": "H"
+    },
+    {
+      "row": 14,
+      "col": 2,
+      "letter": "P"
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "letter": "I"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 8
+        }
+      ],
+      "answer": "ODD"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        }
+      ],
+      "answer": "CIPHER"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        }
+      ],
+      "answer": "ACROSTIC"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 13
+        },
+        {
+          "row": 8,
+          "col": 14
+        }
+      ],
+      "answer": "BLOCK"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ],
+      "answer": "NUMBER"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 11
+        }
+      ],
+      "answer": "EVEN"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        }
+      ],
+      "answer": "SUBTRACT"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 16,
+          "col": 2
+        },
+        {
+          "row": 16,
+          "col": 3
+        },
+        {
+          "row": 16,
+          "col": 4
+        },
+        {
+          "row": 16,
+          "col": 5
+        }
+      ],
+      "answer": "TILE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        }
+      ],
+      "answer": "ONE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ],
+      "answer": "PERCENT"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 10,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 8
+        }
+      ],
+      "answer": "DIFFERENCE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 11
+        }
+      ],
+      "answer": "CHALLENGE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 13
+        },
+        {
+          "row": 9,
+          "col": 13
+        },
+        {
+          "row": 10,
+          "col": 13
+        },
+        {
+          "row": 11,
+          "col": 13
+        },
+        {
+          "row": 12,
+          "col": 13
+        }
+      ],
+      "answer": "CHESS"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 6
+        }
+      ],
+      "answer": "MEMORY"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 2
+        },
+        {
+          "row": 15,
+          "col": 2
+        },
+        {
+          "row": 16,
+          "col": 2
+        }
+      ],
+      "answer": "SPOT"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 2,
+      "col": 6,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 4,
+      "col": 4,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 4,
+      "col": 6,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D2",
+      "row": 6,
+      "col": 4,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 6,
+      "col": 8,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 11,
+      "letter": "L"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D5",
+      "row": 8,
+      "col": 13,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D2",
+      "row": 9,
+      "col": 4,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D6",
+      "row": 9,
+      "col": 6,
+      "letter": "M"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D3",
+      "row": 9,
+      "col": 8,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D3",
+      "row": 11,
+      "col": 8,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D4",
+      "row": 11,
+      "col": 11,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 13,
+      "col": 2,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D6",
+      "row": 13,
+      "col": 6,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D3",
+      "row": 13,
+      "col": 8,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D7",
+      "row": 16,
+      "col": 2,
+      "letter": "T"
+    }
+  ],
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 8,
+    "down_slots": 7,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.13,
+    "leaf_slots": 3,
+    "max_slot_crossings": 4,
+    "seed_letters": 3
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

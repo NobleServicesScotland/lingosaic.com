@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-23",
+  "date": "2026-10-23",
+  "theme": "Big cats & snow leopards",
+  "shape_id": "snow-leopard-head",
+  "dictionary_id": "2026-10-23-big-cats-snow-leopards",
+  "generator_seed": "daily-2026-10-23",
+  "solution_grid": [
+    "###############",
+    "##X#########X##",
+    "##XX#######XX##",
+    "##XXX#XXX#XXX##",
+    "##XXXXXXXXXXX##",
+    "###RXXXAXBXS###",
+    "##XOXGXGXRXCX##",
+    "##XCARNIVOREX##",
+    "##XKXEXLXWXNX##",
+    "##XXXYXEXNXTX##",
+    "##XXXXXXXXXXX##",
+    "###XXXXXXXXX###",
+    "####XXXXXXX####",
+    "######XXX######",
+    "###############"
+  ],
+  "canonical_solution": "RABSOGGRCCARNIVOREKELWNYENT",
+  "solution_hash": "746f3120074cca198937a75d1ee214b52b3c5727b10fc42346c76574155fee2e",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 7,
+      "letter": "A"
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "letter": "B"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "letter": "G"
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "letter": "C"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "CARNIVORE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        }
+      ],
+      "answer": "ROCK"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ],
+      "answer": "GREY"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ],
+      "answer": "AGILE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ],
+      "answer": "BROWN"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "SCENT"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "O"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "slot_a": "A1",
+      "slot_a_index": 8,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "E"
+    }
+  ],
+  "uniqueness_count": 1
+}

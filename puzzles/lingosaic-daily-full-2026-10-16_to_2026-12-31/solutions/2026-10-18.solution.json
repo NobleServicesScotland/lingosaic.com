@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-18",
+  "date": "2026-10-18",
+  "theme": "African wildlife",
+  "shape_id": "elephant-head",
+  "dictionary_id": "2026-10-18-african-wildlife",
+  "generator_seed": "daily-2026-10-18",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#####XXXXX#####",
+    "##XXXXXXXXXXX##",
+    "XXXXXXXXXCXVXXX",
+    "XXXRXKXZXHXUXXX",
+    "XXXHXUXEXEXLXXX",
+    "XXWILDEBEESTXXX",
+    "XXXNXUXRXTXUXXX",
+    "XXXOXXXAXAXRXXX",
+    "##XXXXXXXHXEX##",
+    "######XXX######",
+    "######XXX######",
+    "######XXX######",
+    "######XXX######"
+  ],
+  "canonical_solution": "CVRKZHUHUEELWILDEBEESTNURTUOAARHE",
+  "solution_hash": "667d90cd5c0dc9800bba31ff3edfc82dc162a42c3519a86597411c33fd892da6",
+  "seed_letters": [
+    {
+      "row": 4,
+      "col": 9,
+      "letter": "C"
+    },
+    {
+      "row": 4,
+      "col": 11,
+      "letter": "V"
+    },
+    {
+      "row": 5,
+      "col": 3,
+      "letter": "R"
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "letter": "Z"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "WILDEBEEST"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ],
+      "answer": "RHINO"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ],
+      "answer": "KUDU"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ],
+      "answer": "ZEBRA"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "CHEETAH"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ],
+      "answer": "VULTURE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 3,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "D"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 5,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "B"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 7,
+      "slot_b": "D4",
+      "slot_b_index": 3,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "slot_a": "A1",
+      "slot_a_index": 9,
+      "slot_b": "D5",
+      "slot_b_index": 3,
+      "letter": "T"
+    }
+  ],
+  "uniqueness_count": 1
+}

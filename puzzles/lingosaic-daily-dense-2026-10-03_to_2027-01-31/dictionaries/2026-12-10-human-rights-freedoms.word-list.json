@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-12-10-human-rights-freedoms",
+  "theme": {
+    "id": "human-rights-freedoms",
+    "name": "Human rights & freedoms",
+    "definition": "Single-word English entries directly associated with human rights & freedoms."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-12-10-w001",
+      "display": "Rights",
+      "grid_entry": "RIGHTS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w002",
+      "display": "Freedom",
+      "grid_entry": "FREEDOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w003",
+      "display": "Dignity",
+      "grid_entry": "DIGNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w004",
+      "display": "Equality",
+      "grid_entry": "EQUALITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w005",
+      "display": "Justice",
+      "grid_entry": "JUSTICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w006",
+      "display": "Liberty",
+      "grid_entry": "LIBERTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w007",
+      "display": "Peace",
+      "grid_entry": "PEACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w008",
+      "display": "Voice",
+      "grid_entry": "VOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w009",
+      "display": "LAW",
+      "grid_entry": "LAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w010",
+      "display": "Fairness",
+      "grid_entry": "FAIRNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w011",
+      "display": "Safety",
+      "grid_entry": "SAFETY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w012",
+      "display": "Choice",
+      "grid_entry": "CHOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w013",
+      "display": "Respect",
+      "grid_entry": "RESPECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w014",
+      "display": "Human",
+      "grid_entry": "HUMAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w015",
+      "display": "Protect",
+      "grid_entry": "PROTECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w016",
+      "display": "Universal",
+      "grid_entry": "UNIVERSAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w017",
+      "display": "Legal",
+      "grid_entry": "LEGAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w018",
+      "display": "Court",
+      "grid_entry": "COURT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w019",
+      "display": "Judge",
+      "grid_entry": "JUDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w020",
+      "display": "Jury",
+      "grid_entry": "JURY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w021",
+      "display": "Rule",
+      "grid_entry": "RULE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w022",
+      "display": "Duty",
+      "grid_entry": "DUTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w023",
+      "display": "Ethics",
+      "grid_entry": "ETHICS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w024",
+      "display": "Honesty",
+      "grid_entry": "HONESTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w025",
+      "display": "Integrity",
+      "grid_entry": "INTEGRITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w026",
+      "display": "Trust",
+      "grid_entry": "TRUST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w027",
+      "display": "Support",
+      "grid_entry": "SUPPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w028",
+      "display": "Care",
+      "grid_entry": "CARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w029",
+      "display": "Help",
+      "grid_entry": "HELP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w030",
+      "display": "Share",
+      "grid_entry": "SHARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w031",
+      "display": "Give",
+      "grid_entry": "GIVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w032",
+      "display": "Donate",
+      "grid_entry": "DONATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w033",
+      "display": "Charity",
+      "grid_entry": "CHARITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w034",
+      "display": "Welfare",
+      "grid_entry": "WELFARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w035",
+      "display": "Service",
+      "grid_entry": "SERVICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w036",
+      "display": "Public",
+      "grid_entry": "PUBLIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w037",
+      "display": "Community",
+      "grid_entry": "COMMUNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w038",
+      "display": "Society",
+      "grid_entry": "SOCIETY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w039",
+      "display": "Citizen",
+      "grid_entry": "CITIZEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w040",
+      "display": "People",
+      "grid_entry": "PEOPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w041",
+      "display": "Nation",
+      "grid_entry": "NATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w042",
+      "display": "State",
+      "grid_entry": "STATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w043",
+      "display": "Union",
+      "grid_entry": "UNION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w044",
+      "display": "Council",
+      "grid_entry": "COUNCIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w045",
+      "display": "Government",
+      "grid_entry": "GOVERNMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w046",
+      "display": "Office",
+      "grid_entry": "OFFICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w047",
+      "display": "Policy",
+      "grid_entry": "POLICY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w048",
+      "display": "Treaty",
+      "grid_entry": "TREATY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w049",
+      "display": "Charter",
+      "grid_entry": "CHARTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w050",
+      "display": "Vote",
+      "grid_entry": "VOTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w051",
+      "display": "Ballot",
+      "grid_entry": "BALLOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w052",
+      "display": "Dialogue",
+      "grid_entry": "DIALOGUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w053",
+      "display": "Debate",
+      "grid_entry": "DEBATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w054",
+      "display": "Forum",
+      "grid_entry": "FORUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w055",
+      "display": "Summit",
+      "grid_entry": "SUMMIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w056",
+      "display": "Envoy",
+      "grid_entry": "ENVOY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w057",
+      "display": "Embassy",
+      "grid_entry": "EMBASSY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w058",
+      "display": "Mission",
+      "grid_entry": "MISSION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w059",
+      "display": "Delegate",
+      "grid_entry": "DELEGATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w060",
+      "display": "Alliance",
+      "grid_entry": "ALLIANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w061",
+      "display": "Border",
+      "grid_entry": "BORDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w062",
+      "display": "Region",
+      "grid_entry": "REGION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w063",
+      "display": "Local",
+      "grid_entry": "LOCAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w064",
+      "display": "Global",
+      "grid_entry": "GLOBAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w065",
+      "display": "World",
+      "grid_entry": "WORLD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w066",
+      "display": "Culture",
+      "grid_entry": "CULTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w067",
+      "display": "Custom",
+      "grid_entry": "CUSTOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w068",
+      "display": "Heritage",
+      "grid_entry": "HERITAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w069",
+      "display": "Tradition",
+      "grid_entry": "TRADITION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w070",
+      "display": "Belief",
+      "grid_entry": "BELIEF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w071",
+      "display": "Faith",
+      "grid_entry": "FAITH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w072",
+      "display": "Language",
+      "grid_entry": "LANGUAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w073",
+      "display": "Diversity",
+      "grid_entry": "DIVERSITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w074",
+      "display": "Inclusion",
+      "grid_entry": "INCLUSION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w075",
+      "display": "Access",
+      "grid_entry": "ACCESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w076",
+      "display": "Equal",
+      "grid_entry": "EQUAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w077",
+      "display": "Adapt",
+      "grid_entry": "ADAPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w078",
+      "display": "Welcome",
+      "grid_entry": "WELCOME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w079",
+      "display": "Listen",
+      "grid_entry": "LISTEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w080",
+      "display": "Patient",
+      "grid_entry": "PATIENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w081",
+      "display": "Kindness",
+      "grid_entry": "KINDNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w082",
+      "display": "Generosity",
+      "grid_entry": "GENEROSITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w083",
+      "display": "Solidarity",
+      "grid_entry": "SOLIDARITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w084",
+      "display": "Unity",
+      "grid_entry": "UNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w085",
+      "display": "Partner",
+      "grid_entry": "PARTNER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w086",
+      "display": "Team",
+      "grid_entry": "TEAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w087",
+      "display": "Group",
+      "grid_entry": "GROUP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w088",
+      "display": "Network",
+      "grid_entry": "NETWORK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w089",
+      "display": "Volunteer",
+      "grid_entry": "VOLUNTEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w090",
+      "display": "AID",
+      "grid_entry": "AID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w091",
+      "display": "Relief",
+      "grid_entry": "RELIEF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w092",
+      "display": "Appeal",
+      "grid_entry": "APPEAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w093",
+      "display": "Fundraise",
+      "grid_entry": "FUNDRAISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w094",
+      "display": "Campaign",
+      "grid_entry": "CAMPAIGN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w095",
+      "display": "Advocate",
+      "grid_entry": "ADVOCATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w096",
+      "display": "Account",
+      "grid_entry": "ACCOUNT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w097",
+      "display": "Audit",
+      "grid_entry": "AUDIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w098",
+      "display": "Record",
+      "grid_entry": "RECORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w099",
+      "display": "Report",
+      "grid_entry": "REPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-10-w100",
+      "display": "Openness",
+      "grid_entry": "OPENNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

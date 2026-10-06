@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-27",
+  "date": "2026-10-27",
+  "daily_number": 12,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-10-27",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Film, sound & recording",
+    "occasion": "World Day for Audiovisual Heritage"
+  },
+  "bonus": {
+    "title": "World Day for Audiovisual Heritage",
+    "description": "UNESCO's audiovisual heritage day celebrates recorded sound and moving images and the effort required to preserve them."
+  },
+  "shape": {
+    "id": "film-reel",
+    "name": "Film reel",
+    "grid_file": "../shapes/2026-10-27-film-reel.grid.json",
+    "svg_file": "../shapes/2026-10-27-film-reel.svg"
+  },
+  "dictionary": {
+    "id": "2026-10-27-film-sound-recording",
+    "file": "../dictionaries/2026-10-27-film-sound-recording.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "#####XXXXX#####",
+      "####XXXX.X.####",
+      "###XXXXX.X.X###",
+      "##XXXX.X.X.XX##",
+      "##XX.X.X.XJXX##",
+      "##XX.......XX##",
+      "##XXPX.X.X.XX##",
+      "##XX.X.XXX.XX##",
+      "###XXX.XXX.X###",
+      "####XXXXXX.####",
+      "#####XXXXX#####",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "J"
+      },
+      {
+        "row": 8,
+        "col": 4,
+        "letter": "P"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "733108487e7531baeec619efef9b117aa107b9bd25fcb83047ff376d72691f99"
+  }
+}

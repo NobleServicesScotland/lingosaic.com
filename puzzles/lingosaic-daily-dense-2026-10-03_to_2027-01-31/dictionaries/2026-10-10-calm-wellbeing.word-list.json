@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-10-10-calm-wellbeing",
+  "theme": {
+    "id": "calm-wellbeing",
+    "name": "Calm & wellbeing",
+    "definition": "Single-word English entries directly associated with calm & wellbeing."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-10-10-w001",
+      "display": "Calm",
+      "grid_entry": "CALM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w002",
+      "display": "Peace",
+      "grid_entry": "PEACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w003",
+      "display": "Rest",
+      "grid_entry": "REST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w004",
+      "display": "Relax",
+      "grid_entry": "RELAX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w005",
+      "display": "Relaxation",
+      "grid_entry": "RELAXATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w006",
+      "display": "Quiet",
+      "grid_entry": "QUIET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w007",
+      "display": "Stillness",
+      "grid_entry": "STILLNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w008",
+      "display": "Breath",
+      "grid_entry": "BREATH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w009",
+      "display": "Breathe",
+      "grid_entry": "BREATHE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w010",
+      "display": "Sleep",
+      "grid_entry": "SLEEP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w011",
+      "display": "Nap",
+      "grid_entry": "NAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w012",
+      "display": "Pause",
+      "grid_entry": "PAUSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w013",
+      "display": "Break",
+      "grid_entry": "BREAK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w014",
+      "display": "Walk",
+      "grid_entry": "WALK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w015",
+      "display": "Nature",
+      "grid_entry": "NATURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w016",
+      "display": "Garden",
+      "grid_entry": "GARDEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w017",
+      "display": "Water",
+      "grid_entry": "WATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w018",
+      "display": "Music",
+      "grid_entry": "MUSIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w019",
+      "display": "Read",
+      "grid_entry": "READ",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w020",
+      "display": "Reading",
+      "grid_entry": "READING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w021",
+      "display": "Book",
+      "grid_entry": "BOOK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w022",
+      "display": "Tea",
+      "grid_entry": "TEA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w023",
+      "display": "Warm",
+      "grid_entry": "WARM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w024",
+      "display": "Comfort",
+      "grid_entry": "COMFORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w025",
+      "display": "Cozy",
+      "grid_entry": "COZY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w026",
+      "display": "Mindful",
+      "grid_entry": "MINDFUL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w027",
+      "display": "Mindfulness",
+      "grid_entry": "MINDFULNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w028",
+      "display": "Meditate",
+      "grid_entry": "MEDITATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w029",
+      "display": "Meditation",
+      "grid_entry": "MEDITATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w030",
+      "display": "Yoga",
+      "grid_entry": "YOGA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w031",
+      "display": "Stretch",
+      "grid_entry": "STRETCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w032",
+      "display": "Balance",
+      "grid_entry": "BALANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w033",
+      "display": "Routine",
+      "grid_entry": "ROUTINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w034",
+      "display": "Health",
+      "grid_entry": "HEALTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w035",
+      "display": "Wellbeing",
+      "grid_entry": "WELLBEING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w036",
+      "display": "Wellness",
+      "grid_entry": "WELLNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w037",
+      "display": "Kindness",
+      "grid_entry": "KINDNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w038",
+      "display": "Gratitude",
+      "grid_entry": "GRATITUDE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w039",
+      "display": "Smile",
+      "grid_entry": "SMILE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w040",
+      "display": "Laugh",
+      "grid_entry": "LAUGH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w041",
+      "display": "Friend",
+      "grid_entry": "FRIEND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w042",
+      "display": "Family",
+      "grid_entry": "FAMILY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w043",
+      "display": "Talk",
+      "grid_entry": "TALK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w044",
+      "display": "Listen",
+      "grid_entry": "LISTEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w045",
+      "display": "Support",
+      "grid_entry": "SUPPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w046",
+      "display": "Care",
+      "grid_entry": "CARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w047",
+      "display": "Counsel",
+      "grid_entry": "COUNSEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w048",
+      "display": "Help",
+      "grid_entry": "HELP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w049",
+      "display": "Hobby",
+      "grid_entry": "HOBBY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w050",
+      "display": "Craft",
+      "grid_entry": "CRAFT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w051",
+      "display": "Draw",
+      "grid_entry": "DRAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w052",
+      "display": "Paint",
+      "grid_entry": "PAINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w053",
+      "display": "Write",
+      "grid_entry": "WRITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w054",
+      "display": "Journal",
+      "grid_entry": "JOURNAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w055",
+      "display": "Sunlight",
+      "grid_entry": "SUNLIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w056",
+      "display": "Fresh",
+      "grid_entry": "FRESH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w057",
+      "display": "Air",
+      "grid_entry": "AIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w058",
+      "display": "Exercise",
+      "grid_entry": "EXERCISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w059",
+      "display": "Move",
+      "grid_entry": "MOVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w060",
+      "display": "Swim",
+      "grid_entry": "SWIM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w061",
+      "display": "Cycle",
+      "grid_entry": "CYCLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w062",
+      "display": "Restful",
+      "grid_entry": "RESTFUL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w063",
+      "display": "Gentle",
+      "grid_entry": "GENTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w064",
+      "display": "Soft",
+      "grid_entry": "SOFT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w065",
+      "display": "Slow",
+      "grid_entry": "SLOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w066",
+      "display": "Focus",
+      "grid_entry": "FOCUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w067",
+      "display": "Present",
+      "grid_entry": "PRESENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w068",
+      "display": "Patience",
+      "grid_entry": "PATIENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w069",
+      "display": "Acceptance",
+      "grid_entry": "ACCEPTANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w070",
+      "display": "Hope",
+      "grid_entry": "HOPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w071",
+      "display": "Joy",
+      "grid_entry": "JOY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w072",
+      "display": "Contentment",
+      "grid_entry": "CONTENTMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w073",
+      "display": "Serene",
+      "grid_entry": "SERENE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w074",
+      "display": "Tranquil",
+      "grid_entry": "TRANQUIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w075",
+      "display": "Ease",
+      "grid_entry": "EASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w076",
+      "display": "Unwind",
+      "grid_entry": "UNWIND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w077",
+      "display": "Restore",
+      "grid_entry": "RESTORE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w078",
+      "display": "Refresh",
+      "grid_entry": "REFRESH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w079",
+      "display": "Recover",
+      "grid_entry": "RECOVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w080",
+      "display": "Share",
+      "grid_entry": "SHARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w081",
+      "display": "Give",
+      "grid_entry": "GIVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w082",
+      "display": "Generosity",
+      "grid_entry": "GENEROSITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w083",
+      "display": "Patient",
+      "grid_entry": "PATIENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w084",
+      "display": "Thanks",
+      "grid_entry": "THANKS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w085",
+      "display": "Charity",
+      "grid_entry": "CHARITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w086",
+      "display": "Welcome",
+      "grid_entry": "WELCOME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w087",
+      "display": "Respect",
+      "grid_entry": "RESPECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w088",
+      "display": "Carer",
+      "grid_entry": "CARER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w089",
+      "display": "Nurse",
+      "grid_entry": "NURSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w090",
+      "display": "Helper",
+      "grid_entry": "HELPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w091",
+      "display": "Aide",
+      "grid_entry": "AIDE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w092",
+      "display": "Social",
+      "grid_entry": "SOCIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w093",
+      "display": "Hospice",
+      "grid_entry": "HOSPICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w094",
+      "display": "Respite",
+      "grid_entry": "RESPITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w095",
+      "display": "Therapy",
+      "grid_entry": "THERAPY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w096",
+      "display": "Visit",
+      "grid_entry": "VISIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w097",
+      "display": "Service",
+      "grid_entry": "SERVICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w098",
+      "display": "Welfare",
+      "grid_entry": "WELFARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w099",
+      "display": "Community",
+      "grid_entry": "COMMUNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-10-w100",
+      "display": "Volunteer",
+      "grid_entry": "VOLUNTEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

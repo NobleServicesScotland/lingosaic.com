@@ -1,0 +1,617 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-02",
+  "date": "2027-01-02",
+  "theme": "Space & science fiction",
+  "shape_id": "ringed-planet",
+  "dictionary_id": "2027-01-02-space-science-fiction",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-02",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "###############",
+    "#######*#######",
+    "#####F****##R*#",
+    "####DUST**STAR#",
+    "###S*T***W**D**",
+    "#**H*U***ORBIT*",
+    "#B*I*ROVER**O*#",
+    "SAMPLE***M*P*##",
+    "*S*****M*H*O###",
+    "RED*ASTEROID###",
+    "#****O*T*L**###",
+    "####*ICE*E*####",
+    "#####L*O**#####",
+    "#######R#######",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "FRDUSTSTARSTWDHUORBITBIROVEROSAMPLEMPSMHOREDASTEROIDOTLICEELOR",
+  "solution_hash": "80a9dda414898867b27907fda39c490d660a710be7b565e51a0e60aba1ea94fa",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 12,
+      "letter": "A"
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "letter": "M"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        }
+      ],
+      "answer": "DUST"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 6,
+          "col": 13
+        }
+      ],
+      "answer": "STAR"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 13
+        }
+      ],
+      "answer": "ORBIT"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ],
+      "answer": "ROVER"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 10,
+          "col": 0
+        },
+        {
+          "row": 10,
+          "col": 1
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "SAMPLE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 0
+        },
+        {
+          "row": 12,
+          "col": 1
+        },
+        {
+          "row": 12,
+          "col": 2
+        }
+      ],
+      "answer": "RED"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 11
+        }
+      ],
+      "answer": "ASTEROID"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        }
+      ],
+      "answer": "ICE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "FUTURE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 12
+        },
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "RADIO"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ],
+      "answer": "SHIP"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "WORMHOLE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 9,
+          "col": 1
+        },
+        {
+          "row": 10,
+          "col": 1
+        },
+        {
+          "row": 11,
+          "col": 1
+        },
+        {
+          "row": 12,
+          "col": 1
+        }
+      ],
+      "answer": "BASE"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        }
+      ],
+      "answer": "POD"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        }
+      ],
+      "answer": "METEOR"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 5
+        }
+      ],
+      "answer": "SOIL"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 6,
+      "col": 5,
+      "letter": "U"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 6,
+      "col": 12,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 9,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D2",
+      "row": 8,
+      "col": 12,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D1",
+      "row": 9,
+      "col": 5,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 9,
+      "col": 9,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 10,
+      "col": 1,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D3",
+      "row": 10,
+      "col": 3,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D1",
+      "row": 10,
+      "col": 5,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D5",
+      "row": 12,
+      "col": 1,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D8",
+      "row": 12,
+      "col": 5,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 12,
+      "col": 7,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D4",
+      "row": 12,
+      "col": 9,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D6",
+      "row": 12,
+      "col": 11,
+      "letter": "D"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D8",
+      "row": 14,
+      "col": 5,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D7",
+      "row": 14,
+      "col": 7,
+      "letter": "E"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 8,
+    "down_slots": 8,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 5,
+    "max_slot_crossings": 4,
+    "seed_letters": 2
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    1
+  ]
+}

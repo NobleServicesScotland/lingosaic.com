@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "theme": {
+    "id": "garden",
+    "name": "In the garden"
+  },
+  "words": [
+    {
+      "display": "Oak",
+      "grid_entry": "OAK"
+    },
+    {
+      "display": "Oat",
+      "grid_entry": "OAT"
+    },
+    {
+      "display": "Kale",
+      "grid_entry": "KALE"
+    },
+    {
+      "display": "Ash",
+      "grid_entry": "ASH"
+    },
+    {
+      "display": "Aloe",
+      "grid_entry": "ALOE"
+    },
+    {
+      "display": "Elm",
+      "grid_entry": "ELM"
+    },
+    {
+      "display": "Moss",
+      "grid_entry": "MOSS"
+    },
+    {
+      "display": "Ivy",
+      "grid_entry": "IVY"
+    },
+    {
+      "display": "Yew",
+      "grid_entry": "YEW"
+    },
+    {
+      "display": "Yam",
+      "grid_entry": "YAM"
+    },
+    {
+      "display": "Pea",
+      "grid_entry": "PEA"
+    },
+    {
+      "display": "Pod",
+      "grid_entry": "POD"
+    },
+    {
+      "display": "Dill",
+      "grid_entry": "DILL"
+    },
+    {
+      "display": "Fig",
+      "grid_entry": "FIG"
+    },
+    {
+      "display": "Fir",
+      "grid_entry": "FIR"
+    },
+    {
+      "display": "Rye",
+      "grid_entry": "RYE"
+    }
+  ]
+}

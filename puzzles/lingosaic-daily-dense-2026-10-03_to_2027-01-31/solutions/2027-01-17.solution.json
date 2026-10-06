@@ -1,0 +1,620 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-17",
+  "date": "2027-01-17",
+  "theme": "Inventions & printing",
+  "shape_id": "light-bulb",
+  "dictionary_id": "2027-01-17-inventions-printing",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-17",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#######*#######",
+    "#####RADIO#####",
+    "####****N**####",
+    "###E*M**KITE###",
+    "###N*A*E*D*T###",
+    "###G*T*N*E*C###",
+    "##LITHOGRAPH*##",
+    "###N*S*I****###",
+    "###E***N****###",
+    "###*INVENTOR###",
+    "####***E*Y*####",
+    "#####**R*P#####",
+    "####*****E*####",
+    "####DATA*F*####",
+    "####**E*LAB####",
+    "#####*S**C#####",
+    "#####STOVE#####",
+    "###############"
+  ],
+  "canonical_solution": "RADIONEMKITENAEDTGTNECLITHOGRAPHNSIENINVENTOREYRPEDATAFELABSCSTOVE",
+  "solution_hash": "695fe75481bdf5a4170e9204ec907313c86e934f77aaa363a277d55155718338",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 3,
+      "letter": "E"
+    },
+    {
+      "row": 17,
+      "col": 6,
+      "letter": "S"
+    },
+    {
+      "row": 18,
+      "col": 6,
+      "letter": "T"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 9
+        }
+      ],
+      "answer": "RADIO"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 11
+        }
+      ],
+      "answer": "KITE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        }
+      ],
+      "answer": "LITHOGRAPH"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 11
+        }
+      ],
+      "answer": "INVENTOR"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        }
+      ],
+      "answer": "DATA"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 10
+        }
+      ],
+      "answer": "LAB"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 18,
+          "col": 5
+        },
+        {
+          "row": 18,
+          "col": 6
+        },
+        {
+          "row": 18,
+          "col": 7
+        },
+        {
+          "row": 18,
+          "col": 8
+        },
+        {
+          "row": 18,
+          "col": 9
+        }
+      ],
+      "answer": "STOVE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        }
+      ],
+      "answer": "INK"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ],
+      "answer": "ENGINE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ],
+      "answer": "MATHS"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "IDEA"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        }
+      ],
+      "answer": "ETCH"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        }
+      ],
+      "answer": "ENGINEER"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 9
+        },
+        {
+          "row": 18,
+          "col": 9
+        }
+      ],
+      "answer": "TYPEFACE"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 17,
+          "col": 6
+        },
+        {
+          "row": 18,
+          "col": 6
+        }
+      ],
+      "answer": "TEST"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 3,
+      "col": 8,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 8,
+      "letter": "K"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 5,
+      "col": 9,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D5",
+      "row": 5,
+      "col": 11,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D2",
+      "row": 8,
+      "col": 3,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 8,
+      "col": 5,
+      "letter": "H"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D6",
+      "row": 8,
+      "col": 7,
+      "letter": "G"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 9,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D5",
+      "row": 8,
+      "col": 11,
+      "letter": "H"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D6",
+      "row": 11,
+      "col": 7,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D7",
+      "row": 11,
+      "col": 9,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D8",
+      "row": 15,
+      "col": 6,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D7",
+      "row": 16,
+      "col": 9,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D8",
+      "row": 18,
+      "col": 6,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 18,
+      "col": 9,
+      "letter": "E"
+    }
+  ],
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 7,
+    "down_slots": 8,
+    "crossings": 15,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 5,
+    "max_slot_crossings": 5,
+    "seed_letters": 3
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-08-rock-roll-music",
+  "theme": {
+    "id": "rock-roll-music",
+    "name": "Rock & roll music",
+    "definition": "Single-word English entries directly associated with rock & roll music."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-08-w001",
+      "display": "Music",
+      "grid_entry": "MUSIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w002",
+      "display": "Piano",
+      "grid_entry": "PIANO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w003",
+      "display": "Violin",
+      "grid_entry": "VIOLIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w004",
+      "display": "Guitar",
+      "grid_entry": "GUITAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w005",
+      "display": "Choir",
+      "grid_entry": "CHOIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w006",
+      "display": "Song",
+      "grid_entry": "SONG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w007",
+      "display": "Melody",
+      "grid_entry": "MELODY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w008",
+      "display": "Rhythm",
+      "grid_entry": "RHYTHM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w009",
+      "display": "Orchestra",
+      "grid_entry": "ORCHESTRA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w010",
+      "display": "Concert",
+      "grid_entry": "CONCERT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w011",
+      "display": "Singer",
+      "grid_entry": "SINGER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w012",
+      "display": "Drum",
+      "grid_entry": "DRUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w013",
+      "display": "Flute",
+      "grid_entry": "FLUTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w014",
+      "display": "Cello",
+      "grid_entry": "CELLO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w015",
+      "display": "Note",
+      "grid_entry": "NOTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w016",
+      "display": "Composer",
+      "grid_entry": "COMPOSER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w017",
+      "display": "Tune",
+      "grid_entry": "TUNE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w018",
+      "display": "Beat",
+      "grid_entry": "BEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w019",
+      "display": "Tempo",
+      "grid_entry": "TEMPO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w020",
+      "display": "Chord",
+      "grid_entry": "CHORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w021",
+      "display": "Scale",
+      "grid_entry": "SCALE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w022",
+      "display": "Harmony",
+      "grid_entry": "HARMONY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w023",
+      "display": "Solo",
+      "grid_entry": "SOLO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w024",
+      "display": "Duet",
+      "grid_entry": "DUET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w025",
+      "display": "Trio",
+      "grid_entry": "TRIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w026",
+      "display": "Band",
+      "grid_entry": "BAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w027",
+      "display": "Player",
+      "grid_entry": "PLAYER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w028",
+      "display": "Musician",
+      "grid_entry": "MUSICIAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w029",
+      "display": "Conductor",
+      "grid_entry": "CONDUCTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w030",
+      "display": "Stage",
+      "grid_entry": "STAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w031",
+      "display": "Club",
+      "grid_entry": "CLUB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w032",
+      "display": "Jazz",
+      "grid_entry": "JAZZ",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w033",
+      "display": "Blues",
+      "grid_entry": "BLUES",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w034",
+      "display": "Swing",
+      "grid_entry": "SWING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w035",
+      "display": "Soul",
+      "grid_entry": "SOUL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w036",
+      "display": "Rock",
+      "grid_entry": "ROCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w037",
+      "display": "Folk",
+      "grid_entry": "FOLK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w038",
+      "display": "Classic",
+      "grid_entry": "CLASSIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w039",
+      "display": "Pop",
+      "grid_entry": "POP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w040",
+      "display": "Opera",
+      "grid_entry": "OPERA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w041",
+      "display": "Bass",
+      "grid_entry": "BASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w042",
+      "display": "Oboe",
+      "grid_entry": "OBOE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w043",
+      "display": "Clarinet",
+      "grid_entry": "CLARINET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w044",
+      "display": "Trumpet",
+      "grid_entry": "TRUMPET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w045",
+      "display": "Trombone",
+      "grid_entry": "TROMBONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w046",
+      "display": "Saxophone",
+      "grid_entry": "SAXOPHONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w047",
+      "display": "Horn",
+      "grid_entry": "HORN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w048",
+      "display": "Harp",
+      "grid_entry": "HARP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w049",
+      "display": "Organ",
+      "grid_entry": "ORGAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w050",
+      "display": "Banjo",
+      "grid_entry": "BANJO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w051",
+      "display": "Mandolin",
+      "grid_entry": "MANDOLIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w052",
+      "display": "Tenor",
+      "grid_entry": "TENOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w053",
+      "display": "Alto",
+      "grid_entry": "ALTO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w054",
+      "display": "Soprano",
+      "grid_entry": "SOPRANO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w055",
+      "display": "Baritone",
+      "grid_entry": "BARITONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w056",
+      "display": "Reed",
+      "grid_entry": "REED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w057",
+      "display": "Brass",
+      "grid_entry": "BRASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w058",
+      "display": "String",
+      "grid_entry": "STRING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w059",
+      "display": "Bow",
+      "grid_entry": "BOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w060",
+      "display": "Key",
+      "grid_entry": "KEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w061",
+      "display": "Valve",
+      "grid_entry": "VALVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w062",
+      "display": "Mouthpiece",
+      "grid_entry": "MOUTHPIECE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w063",
+      "display": "Amplifier",
+      "grid_entry": "AMPLIFIER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w064",
+      "display": "Microphone",
+      "grid_entry": "MICROPHONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w065",
+      "display": "Speaker",
+      "grid_entry": "SPEAKER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w066",
+      "display": "Record",
+      "grid_entry": "RECORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w067",
+      "display": "Album",
+      "grid_entry": "ALBUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w068",
+      "display": "Improvise",
+      "grid_entry": "IMPROVISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w069",
+      "display": "Riff",
+      "grid_entry": "RIFF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w070",
+      "display": "Groove",
+      "grid_entry": "GROOVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w071",
+      "display": "Phrase",
+      "grid_entry": "PHRASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w072",
+      "display": "Verse",
+      "grid_entry": "VERSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w073",
+      "display": "Chorus",
+      "grid_entry": "CHORUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w074",
+      "display": "Bridge",
+      "grid_entry": "BRIDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w075",
+      "display": "Intro",
+      "grid_entry": "INTRO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w076",
+      "display": "Outro",
+      "grid_entry": "OUTRO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w077",
+      "display": "Score",
+      "grid_entry": "SCORE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w078",
+      "display": "Sheet",
+      "grid_entry": "SHEET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w079",
+      "display": "Practice",
+      "grid_entry": "PRACTICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w080",
+      "display": "Rehearse",
+      "grid_entry": "REHEARSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w081",
+      "display": "Perform",
+      "grid_entry": "PERFORM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w082",
+      "display": "Listen",
+      "grid_entry": "LISTEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w083",
+      "display": "Dance",
+      "grid_entry": "DANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w084",
+      "display": "Film",
+      "grid_entry": "FILM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w085",
+      "display": "Cinema",
+      "grid_entry": "CINEMA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w086",
+      "display": "Movie",
+      "grid_entry": "MOVIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w087",
+      "display": "Screen",
+      "grid_entry": "SCREEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w088",
+      "display": "Camera",
+      "grid_entry": "CAMERA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w089",
+      "display": "Lens",
+      "grid_entry": "LENS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w090",
+      "display": "Frame",
+      "grid_entry": "FRAME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w091",
+      "display": "Reel",
+      "grid_entry": "REEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w092",
+      "display": "Scene",
+      "grid_entry": "SCENE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w093",
+      "display": "Shot",
+      "grid_entry": "SHOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w094",
+      "display": "Take",
+      "grid_entry": "TAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w095",
+      "display": "Script",
+      "grid_entry": "SCRIPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w096",
+      "display": "Story",
+      "grid_entry": "STORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w097",
+      "display": "Plot",
+      "grid_entry": "PLOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w098",
+      "display": "Actor",
+      "grid_entry": "ACTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w099",
+      "display": "Actress",
+      "grid_entry": "ACTRESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-08-w100",
+      "display": "Director",
+      "grid_entry": "DIRECTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

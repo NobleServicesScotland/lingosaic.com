@@ -1,0 +1,623 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-12-26",
+  "date": "2026-12-26",
+  "daily_number": 85,
+  "generator": {
+    "version": "dense-crossword-2.0.0",
+    "seed": "dense-crossword-2.0.0:2026-12-26",
+    "uniqueness_required": true,
+    "topology": "dense-crossword-network"
+  },
+  "theme": {
+    "name": "Boxing Day & British holiday traditions",
+    "occasion": "Boxing Day"
+  },
+  "bonus": {
+    "title": "Boxing Day",
+    "description": "Boxing Day is a public holiday in the UK and several Commonwealth countries, traditionally associated with gifts, sport and visiting."
+  },
+  "shape": {
+    "id": "gift-box",
+    "name": "Gift box",
+    "grid_file": "../shapes/2026-12-26-gift-box.grid.json",
+    "svg_file": "../shapes/2026-12-26-gift-box.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-26-boxing-day-british-holiday-traditions",
+    "file": "../dictionaries/2026-12-26-boxing-day-british-holiday-traditions.word-list.json",
+    "approved_word_count": 100
+  },
+  "complexity": {
+    "slot_count": 18,
+    "across_slots": 9,
+    "down_slots": 9,
+    "crossings": 18,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 7,
+    "max_slot_crossings": 4,
+    "seed_letters": 7
+  },
+  "grid": {
+    "width": 15,
+    "height": 20,
+    "legend": {
+      "#": "outside silhouette",
+      "*": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "###*********###",
+      "###*.*******###",
+      "###*..E*N...###",
+      "###*.#####.*###",
+      "##**.*.***.**##",
+      "##**....**.*.##",
+      "##****L*.*.*.##",
+      "##**.......*.##",
+      "##******.*.*I##",
+      "##*P*........##",
+      "##...***.*.*.##",
+      "##*.*N**.****##",
+      "##*.......**.##",
+      "##*.*.**.*T*.##",
+      "##*.*.**.....##",
+      "##***...**.*.##",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 4,
+        "col": 6,
+        "letter": "E"
+      },
+      {
+        "row": 4,
+        "col": 8,
+        "letter": "N"
+      },
+      {
+        "row": 8,
+        "col": 6,
+        "letter": "L"
+      },
+      {
+        "row": 10,
+        "col": 12,
+        "letter": "I"
+      },
+      {
+        "row": 11,
+        "col": 3,
+        "letter": "P"
+      },
+      {
+        "row": 13,
+        "col": 5,
+        "letter": "N"
+      },
+      {
+        "row": 15,
+        "col": 10,
+        "letter": "T"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 12
+        }
+      ]
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 10
+        },
+        {
+          "row": 16,
+          "col": 11
+        },
+        {
+          "row": 16,
+          "col": 12
+        }
+      ]
+    },
+    {
+      "id": "A9",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 17,
+          "col": 5
+        },
+        {
+          "row": 17,
+          "col": 6
+        },
+        {
+          "row": 17,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 3
+        },
+        {
+          "row": 16,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 17,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 15,
+          "col": 10
+        },
+        {
+          "row": 16,
+          "col": 10
+        },
+        {
+          "row": 17,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        },
+        {
+          "row": 10,
+          "col": 12
+        },
+        {
+          "row": 11,
+          "col": 12
+        },
+        {
+          "row": 12,
+          "col": 12
+        }
+      ]
+    },
+    {
+      "id": "D9",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 12
+        },
+        {
+          "row": 15,
+          "col": 12
+        },
+        {
+          "row": 16,
+          "col": 12
+        },
+        {
+          "row": 17,
+          "col": 12
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "c4d5fe0423ab91249f4719a854ad274d417222683abfc8a93e5753f88e921917"
+  }
+}

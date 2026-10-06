@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-27",
+  "date": "2026-12-27",
+  "daily_number": 73,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-27",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Public health & emergency preparedness",
+    "occasion": "International Day of Epidemic Preparedness"
+  },
+  "bonus": {
+    "title": "International Day of Epidemic Preparedness",
+    "description": "This UN day encourages stronger preparation, cooperation and resilient systems for future epidemics."
+  },
+  "shape": {
+    "id": "medical-cross",
+    "name": "Medical cross",
+    "grid_file": "../shapes/2026-12-27-medical-cross.grid.json",
+    "svg_file": "../shapes/2026-12-27-medical-cross.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-27-public-health-emergency-preparedness",
+    "file": "../dictionaries/2026-12-27-public-health-emergency-preparedness.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "#####XXXXX#####",
+      "#####XXXXX#####",
+      "#####.XXXX#####",
+      "##XXX.XXX.XXX##",
+      "##X.XRXHXYXXX##",
+      "##X........XX##",
+      "##X.X.X.X.XXX##",
+      "##XPXXX.X.XXX##",
+      "###.#XX.X.#####",
+      "###.#XX.XX#####",
+      "###.#XX.XX#####",
+      "#####XX.XX#####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "R"
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "H"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "Y"
+      },
+      {
+        "row": 9,
+        "col": 3,
+        "letter": "P"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "1eddfae622b0fcf1a86ee70d76be7941e5b698f1d5ca38c9f8f81affbffac906"
+  }
+}

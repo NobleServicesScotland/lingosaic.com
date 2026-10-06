@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-19-cinema-snacks",
+  "theme": {
+    "id": "cinema-snacks",
+    "name": "Cinema snacks",
+    "definition": "Single-word English entries directly associated with cinema snacks."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-19-w001",
+      "display": "Popcorn",
+      "grid_entry": "POPCORN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w002",
+      "display": "Cinema",
+      "grid_entry": "CINEMA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w003",
+      "display": "Movie",
+      "grid_entry": "MOVIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w004",
+      "display": "Film",
+      "grid_entry": "FILM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w005",
+      "display": "Screen",
+      "grid_entry": "SCREEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w006",
+      "display": "Snack",
+      "grid_entry": "SNACK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w007",
+      "display": "Snacks",
+      "grid_entry": "SNACKS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w008",
+      "display": "Sweet",
+      "grid_entry": "SWEET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w009",
+      "display": "Candy",
+      "grid_entry": "CANDY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w010",
+      "display": "Chocolate",
+      "grid_entry": "CHOCOLATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w011",
+      "display": "Toffee",
+      "grid_entry": "TOFFEE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w012",
+      "display": "Fudge",
+      "grid_entry": "FUDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w013",
+      "display": "Gummy",
+      "grid_entry": "GUMMY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w014",
+      "display": "Mint",
+      "grid_entry": "MINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w015",
+      "display": "Crisp",
+      "grid_entry": "CRISP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w016",
+      "display": "Chips",
+      "grid_entry": "CHIPS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w017",
+      "display": "Nachos",
+      "grid_entry": "NACHOS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w018",
+      "display": "Cheese",
+      "grid_entry": "CHEESE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w019",
+      "display": "Dip",
+      "grid_entry": "DIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w020",
+      "display": "Salsa",
+      "grid_entry": "SALSA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w021",
+      "display": "Hotdog",
+      "grid_entry": "HOTDOG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w022",
+      "display": "Pretzel",
+      "grid_entry": "PRETZEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w023",
+      "display": "Peanut",
+      "grid_entry": "PEANUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w024",
+      "display": "Nut",
+      "grid_entry": "NUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w025",
+      "display": "Raisin",
+      "grid_entry": "RAISIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w026",
+      "display": "Cookie",
+      "grid_entry": "COOKIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w027",
+      "display": "Biscuit",
+      "grid_entry": "BISCUIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w028",
+      "display": "Brownie",
+      "grid_entry": "BROWNIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w029",
+      "display": "Icecream",
+      "grid_entry": "ICECREAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w030",
+      "display": "Soda",
+      "grid_entry": "SODA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w031",
+      "display": "Cola",
+      "grid_entry": "COLA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w032",
+      "display": "Juice",
+      "grid_entry": "JUICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w033",
+      "display": "Water",
+      "grid_entry": "WATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w034",
+      "display": "Cup",
+      "grid_entry": "CUP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w035",
+      "display": "Straw",
+      "grid_entry": "STRAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w036",
+      "display": "Tub",
+      "grid_entry": "TUB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w037",
+      "display": "Box",
+      "grid_entry": "BOX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w038",
+      "display": "Bag",
+      "grid_entry": "BAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w039",
+      "display": "Tray",
+      "grid_entry": "TRAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w040",
+      "display": "Counter",
+      "grid_entry": "COUNTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w041",
+      "display": "Queue",
+      "grid_entry": "QUEUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w042",
+      "display": "Ticket",
+      "grid_entry": "TICKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w043",
+      "display": "Seat",
+      "grid_entry": "SEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w044",
+      "display": "Aisle",
+      "grid_entry": "AISLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w045",
+      "display": "Trailer",
+      "grid_entry": "TRAILER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w046",
+      "display": "Advert",
+      "grid_entry": "ADVERT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w047",
+      "display": "Light",
+      "grid_entry": "LIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w048",
+      "display": "Sound",
+      "grid_entry": "SOUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w049",
+      "display": "Projector",
+      "grid_entry": "PROJECTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w050",
+      "display": "Camera",
+      "grid_entry": "CAMERA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w051",
+      "display": "Actor",
+      "grid_entry": "ACTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w052",
+      "display": "Director",
+      "grid_entry": "DIRECTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w053",
+      "display": "Scene",
+      "grid_entry": "SCENE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w054",
+      "display": "Story",
+      "grid_entry": "STORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w055",
+      "display": "Comedy",
+      "grid_entry": "COMEDY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w056",
+      "display": "Drama",
+      "grid_entry": "DRAMA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w057",
+      "display": "Action",
+      "grid_entry": "ACTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w058",
+      "display": "Horror",
+      "grid_entry": "HORROR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w059",
+      "display": "Family",
+      "grid_entry": "FAMILY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w060",
+      "display": "Friend",
+      "grid_entry": "FRIEND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w061",
+      "display": "Share",
+      "grid_entry": "SHARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w062",
+      "display": "Salt",
+      "grid_entry": "SALT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w063",
+      "display": "Butter",
+      "grid_entry": "BUTTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w064",
+      "display": "Caramel",
+      "grid_entry": "CARAMEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w065",
+      "display": "Kernel",
+      "grid_entry": "KERNEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w066",
+      "display": "Corn",
+      "grid_entry": "CORN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w067",
+      "display": "Pop",
+      "grid_entry": "POP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w068",
+      "display": "Popped",
+      "grid_entry": "POPPED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w069",
+      "display": "Crunch",
+      "grid_entry": "CRUNCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w070",
+      "display": "Crunchy",
+      "grid_entry": "CRUNCHY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w071",
+      "display": "Script",
+      "grid_entry": "SCRIPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w072",
+      "display": "Reel",
+      "grid_entry": "REEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w073",
+      "display": "Studio",
+      "grid_entry": "STUDIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w074",
+      "display": "Edit",
+      "grid_entry": "EDIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w075",
+      "display": "Frame",
+      "grid_entry": "FRAME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w076",
+      "display": "Lens",
+      "grid_entry": "LENS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w077",
+      "display": "Shot",
+      "grid_entry": "SHOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w078",
+      "display": "Take",
+      "grid_entry": "TAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w079",
+      "display": "Plot",
+      "grid_entry": "PLOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w080",
+      "display": "Actress",
+      "grid_entry": "ACTRESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w081",
+      "display": "Producer",
+      "grid_entry": "PRODUCER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w082",
+      "display": "Audio",
+      "grid_entry": "AUDIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w083",
+      "display": "Music",
+      "grid_entry": "MUSIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w084",
+      "display": "Score",
+      "grid_entry": "SCORE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w085",
+      "display": "Voice",
+      "grid_entry": "VOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w086",
+      "display": "Speech",
+      "grid_entry": "SPEECH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w087",
+      "display": "Record",
+      "grid_entry": "RECORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w088",
+      "display": "Tape",
+      "grid_entry": "TAPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w089",
+      "display": "Archive",
+      "grid_entry": "ARCHIVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w090",
+      "display": "Footage",
+      "grid_entry": "FOOTAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w091",
+      "display": "Set",
+      "grid_entry": "SET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w092",
+      "display": "Broadcast",
+      "grid_entry": "BROADCAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w093",
+      "display": "Channel",
+      "grid_entry": "CHANNEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w094",
+      "display": "Signal",
+      "grid_entry": "SIGNAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w095",
+      "display": "Television",
+      "grid_entry": "TELEVISION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w096",
+      "display": "Radio",
+      "grid_entry": "RADIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w097",
+      "display": "News",
+      "grid_entry": "NEWS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w098",
+      "display": "Report",
+      "grid_entry": "REPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w099",
+      "display": "Show",
+      "grid_entry": "SHOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-19-w100",
+      "display": "Series",
+      "grid_entry": "SERIES",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-18",
+  "date": "2026-12-18",
+  "theme": "Migration, travel & journeys",
+  "shape_id": "suitcase",
+  "dictionary_id": "2026-12-18-migration-travel-journeys",
+  "generator_seed": "daily-2026-12-18",
+  "solution_grid": [
+    "###############",
+    "####S#C########",
+    "###XUXOXXXXX###",
+    "###XIXMXXXXXJ##",
+    "##BXT#M###TXO##",
+    "##OXCXUXXXRXU##",
+    "##RXAXNXXXAXR##",
+    "##DESTINATION##",
+    "##EXEXTXXXNXE##",
+    "##RXXXYXXXXXY##",
+    "##XXXXXXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "###############"
+  ],
+  "canonical_solution": "SCUOIMJBTMTOOCURURANARDESTINATIONEETNERYY",
+  "solution_hash": "356b3d6dbf96c3fa03437977d49c66650b67224d63033ecb88b7243f7ec5d98e",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "A"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "N"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "letter": "A"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 11,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "DESTINATION"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        }
+      ],
+      "answer": "BORDER"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 1,
+          "col": 4
+        },
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ],
+      "answer": "SUITCASE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 1,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ],
+      "answer": "COMMUNITY"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ],
+      "answer": "TRAIN"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 12
+        },
+        {
+          "row": 4,
+          "col": 12
+        },
+        {
+          "row": 5,
+          "col": 12
+        },
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "JOURNEY"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 2,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "D"
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 6,
+      "letter": "S"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 6,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 8,
+      "slot_b": "D4",
+      "slot_b_index": 3,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "slot_a": "A1",
+      "slot_a_index": 10,
+      "slot_b": "D5",
+      "slot_b_index": 4,
+      "letter": "N"
+    }
+  ]
+}

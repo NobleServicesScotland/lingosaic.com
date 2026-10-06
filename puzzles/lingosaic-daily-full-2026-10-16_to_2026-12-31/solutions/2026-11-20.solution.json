@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-20",
+  "date": "2026-11-20",
+  "theme": "Childhood & play",
+  "shape_id": "teddy-bear",
+  "dictionary_id": "2026-11-20-childhood-play",
+  "generator_seed": "daily-2026-11-20",
+  "solution_grid": [
+    "###############",
+    "##XXX#####XXX##",
+    "#XXXXX###XXXXX#",
+    "#XXXXXXXXXXXXX#",
+    "#XSXXXLXXXXXXX#",
+    "##KXXXAXBXSXX##",
+    "##IXGXUXLXAX###",
+    "##PLAYGROUND###",
+    "##PXMXHXCXDX###",
+    "##IXEXXXKXBX###",
+    "##NXXXXXSXOXX##",
+    "#XGXXXXXXXXXXX#",
+    "#XXXXXX#XXXXXX#",
+    "##XXXX###XXXX##",
+    "###XX#####XX###"
+  ],
+  "canonical_solution": "SLKABSIGULAPLAYGROUNDPMHCDIEKBNSOGX",
+  "solution_hash": "21fc2e13e59ab3c363c971b89d7197304715d37f2b8aa32192cfcaebca2a29de",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "G"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "PLAYGROUND"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        }
+      ],
+      "answer": "SKIPPING"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ],
+      "answer": "GAME"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ],
+      "answer": "LAUGH"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ],
+      "answer": "BLOCKS"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "SANDBOX"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 2,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "G"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "O"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 8,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "N"
+    }
+  ]
+}

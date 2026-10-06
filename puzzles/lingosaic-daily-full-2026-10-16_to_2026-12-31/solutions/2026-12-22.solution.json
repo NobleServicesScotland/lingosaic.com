@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-22",
+  "date": "2026-12-22",
+  "theme": "Cookies & biscuits",
+  "shape_id": "cookie",
+  "dictionary_id": "2026-12-22-cookies-biscuits",
+  "generator_seed": "daily-2026-12-22",
+  "solution_grid": [
+    "###############",
+    "##########C####",
+    "#####XXXXXH####",
+    "####XXXXXXO####",
+    "###XXXXXXXCX###",
+    "##BXXXBXXXOXX##",
+    "##IXCXUXCXLXX##",
+    "##SHORTBREADX##",
+    "##CXOXTXUXTXX##",
+    "##UXKXEXMXEXX##",
+    "##IXIXRXBXXX###",
+    "##T#EXXXXXX####",
+    "#####XXXXX#####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "CHOCBBOICUCLSHORTBREADCOTUTUKEMEIIRBTE",
+  "solution_hash": "b12836a8d9e6dbb23e63eed095fa39a193af229c7c9a8e17f2fd6e55e210d14f",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 2,
+      "letter": "I"
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "C"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "U"
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "letter": "C"
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "letter": "O"
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "letter": "U"
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "letter": "M"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "SHORTBREAD"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        }
+      ],
+      "answer": "BISCUIT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ],
+      "answer": "COOKIE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ],
+      "answer": "BUTTER"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ],
+      "answer": "CRUMB"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 1,
+          "col": 10
+        },
+        {
+          "row": 2,
+          "col": 10
+        },
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "CHOCOLATE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 2,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "S"
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "O"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "T"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 8,
+      "slot_b": "D5",
+      "slot_b_index": 6,
+      "letter": "A"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-13",
+  "date": "2026-11-13",
+  "theme": "Kindness & helping others",
+  "shape_id": "heart",
+  "dictionary_id": "2026-11-13-kindness-helping-others",
+  "generator_seed": "daily-2026-11-13",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "######C########",
+    "####XXH##XX####",
+    "###XRXA#XXLX###",
+    "##XXEXRXXXIXX##",
+    "##XXSXIXHXSXX##",
+    "###XPATIENTX###",
+    "###XEXYXLXEX###",
+    "####CXXXPXN####",
+    "####TXXXXX#####",
+    "######XXX######",
+    "######XXX######",
+    "#######X#######",
+    "###############"
+  ],
+  "canonical_solution": "CHRALERISIHSPATIENTEYLECPNT",
+  "solution_hash": "a405347e013f5e0afd6a451f5c9e26fe078a2513ec63afcc81d708860716f00c",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 6,
+      "letter": "R"
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "S"
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "letter": "H"
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "letter": "E"
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "letter": "Y"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "PATIENT"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ],
+      "answer": "RESPECT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ],
+      "answer": "CHARITY"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "HELP"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "LISTEN"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 5,
+      "letter": "T"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 3,
+      "letter": "T"
+    }
+  ]
+}

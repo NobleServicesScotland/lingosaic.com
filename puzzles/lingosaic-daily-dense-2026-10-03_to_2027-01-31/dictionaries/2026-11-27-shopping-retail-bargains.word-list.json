@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-11-27-shopping-retail-bargains",
+  "theme": {
+    "id": "shopping-retail-bargains",
+    "name": "Shopping, retail & bargains",
+    "definition": "Single-word English entries directly associated with shopping, retail & bargains."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-11-27-w001",
+      "display": "Shopping",
+      "grid_entry": "SHOPPING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w002",
+      "display": "Sale",
+      "grid_entry": "SALE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w003",
+      "display": "Price",
+      "grid_entry": "PRICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w004",
+      "display": "Bargain",
+      "grid_entry": "BARGAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w005",
+      "display": "Store",
+      "grid_entry": "STORE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w006",
+      "display": "Cart",
+      "grid_entry": "CART",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w007",
+      "display": "Basket",
+      "grid_entry": "BASKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w008",
+      "display": "Retail",
+      "grid_entry": "RETAIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w009",
+      "display": "Coupon",
+      "grid_entry": "COUPON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w010",
+      "display": "Discount",
+      "grid_entry": "DISCOUNT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w011",
+      "display": "Queue",
+      "grid_entry": "QUEUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w012",
+      "display": "Receipt",
+      "grid_entry": "RECEIPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w013",
+      "display": "Checkout",
+      "grid_entry": "CHECKOUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w014",
+      "display": "Offer",
+      "grid_entry": "OFFER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w015",
+      "display": "Online",
+      "grid_entry": "ONLINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w016",
+      "display": "Deal",
+      "grid_entry": "DEAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w017",
+      "display": "Bank",
+      "grid_entry": "BANK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w018",
+      "display": "Money",
+      "grid_entry": "MONEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w019",
+      "display": "Cash",
+      "grid_entry": "CASH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w020",
+      "display": "Coin",
+      "grid_entry": "COIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w021",
+      "display": "Note",
+      "grid_entry": "NOTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w022",
+      "display": "Credit",
+      "grid_entry": "CREDIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w023",
+      "display": "Debit",
+      "grid_entry": "DEBIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w024",
+      "display": "Loan",
+      "grid_entry": "LOAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w025",
+      "display": "Saving",
+      "grid_entry": "SAVING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w026",
+      "display": "Account",
+      "grid_entry": "ACCOUNT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w027",
+      "display": "Interest",
+      "grid_entry": "INTEREST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w028",
+      "display": "Payment",
+      "grid_entry": "PAYMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w029",
+      "display": "Deposit",
+      "grid_entry": "DEPOSIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w030",
+      "display": "Withdraw",
+      "grid_entry": "WITHDRAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w031",
+      "display": "Transfer",
+      "grid_entry": "TRANSFER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w032",
+      "display": "Balance",
+      "grid_entry": "BALANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w033",
+      "display": "Budget",
+      "grid_entry": "BUDGET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w034",
+      "display": "Finance",
+      "grid_entry": "FINANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w035",
+      "display": "Fund",
+      "grid_entry": "FUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w036",
+      "display": "Invest",
+      "grid_entry": "INVEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w037",
+      "display": "Investor",
+      "grid_entry": "INVESTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w038",
+      "display": "Share",
+      "grid_entry": "SHARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w039",
+      "display": "Stock",
+      "grid_entry": "STOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w040",
+      "display": "Bond",
+      "grid_entry": "BOND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w041",
+      "display": "Market",
+      "grid_entry": "MARKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w042",
+      "display": "Cost",
+      "grid_entry": "COST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w043",
+      "display": "Value",
+      "grid_entry": "VALUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w044",
+      "display": "Rate",
+      "grid_entry": "RATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w045",
+      "display": "TAX",
+      "grid_entry": "TAX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w046",
+      "display": "FEE",
+      "grid_entry": "FEE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w047",
+      "display": "Bill",
+      "grid_entry": "BILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w048",
+      "display": "Invoice",
+      "grid_entry": "INVOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w049",
+      "display": "Wage",
+      "grid_entry": "WAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w050",
+      "display": "Salary",
+      "grid_entry": "SALARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w051",
+      "display": "Shop",
+      "grid_entry": "SHOP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w052",
+      "display": "Customer",
+      "grid_entry": "CUSTOMER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w053",
+      "display": "Seller",
+      "grid_entry": "SELLER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w054",
+      "display": "Buyer",
+      "grid_entry": "BUYER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w055",
+      "display": "Branch",
+      "grid_entry": "BRANCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w056",
+      "display": "Counter",
+      "grid_entry": "COUNTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w057",
+      "display": "Teller",
+      "grid_entry": "TELLER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w058",
+      "display": "Card",
+      "grid_entry": "CARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w059",
+      "display": "PIN",
+      "grid_entry": "PIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w060",
+      "display": "Wallet",
+      "grid_entry": "WALLET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w061",
+      "display": "Purse",
+      "grid_entry": "PURSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w062",
+      "display": "Mortgage",
+      "grid_entry": "MORTGAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w063",
+      "display": "Insure",
+      "grid_entry": "INSURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w064",
+      "display": "Policy",
+      "grid_entry": "POLICY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w065",
+      "display": "Claim",
+      "grid_entry": "CLAIM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w066",
+      "display": "Asset",
+      "grid_entry": "ASSET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w067",
+      "display": "Debt",
+      "grid_entry": "DEBT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w068",
+      "display": "Profit",
+      "grid_entry": "PROFIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w069",
+      "display": "Loss",
+      "grid_entry": "LOSS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w070",
+      "display": "Trade",
+      "grid_entry": "TRADE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w071",
+      "display": "Commerce",
+      "grid_entry": "COMMERCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w072",
+      "display": "Charity",
+      "grid_entry": "CHARITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w073",
+      "display": "Donate",
+      "grid_entry": "DONATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w074",
+      "display": "Fundraise",
+      "grid_entry": "FUNDRAISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w075",
+      "display": "Grant",
+      "grid_entry": "GRANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w076",
+      "display": "AID",
+      "grid_entry": "AID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w077",
+      "display": "Support",
+      "grid_entry": "SUPPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w078",
+      "display": "Sponsor",
+      "grid_entry": "SPONSOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w079",
+      "display": "Gift",
+      "grid_entry": "GIFT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w080",
+      "display": "Giving",
+      "grid_entry": "GIVING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w081",
+      "display": "Appeal",
+      "grid_entry": "APPEAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w082",
+      "display": "Cause",
+      "grid_entry": "CAUSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w083",
+      "display": "Volunteer",
+      "grid_entry": "VOLUNTEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w084",
+      "display": "Community",
+      "grid_entry": "COMMUNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w085",
+      "display": "Rights",
+      "grid_entry": "RIGHTS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w086",
+      "display": "Freedom",
+      "grid_entry": "FREEDOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w087",
+      "display": "Liberty",
+      "grid_entry": "LIBERTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w088",
+      "display": "Justice",
+      "grid_entry": "JUSTICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w089",
+      "display": "Equality",
+      "grid_entry": "EQUALITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w090",
+      "display": "Dignity",
+      "grid_entry": "DIGNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w091",
+      "display": "Respect",
+      "grid_entry": "RESPECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w092",
+      "display": "Peace",
+      "grid_entry": "PEACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w093",
+      "display": "LAW",
+      "grid_entry": "LAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w094",
+      "display": "Legal",
+      "grid_entry": "LEGAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w095",
+      "display": "Court",
+      "grid_entry": "COURT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w096",
+      "display": "Judge",
+      "grid_entry": "JUDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w097",
+      "display": "Jury",
+      "grid_entry": "JURY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w098",
+      "display": "Rule",
+      "grid_entry": "RULE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w099",
+      "display": "Duty",
+      "grid_entry": "DUTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-27-w100",
+      "display": "Ethics",
+      "grid_entry": "ETHICS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

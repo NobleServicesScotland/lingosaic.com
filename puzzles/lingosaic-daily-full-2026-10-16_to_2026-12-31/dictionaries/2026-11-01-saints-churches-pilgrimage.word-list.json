@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-11-01-saints-churches-pilgrimage",
+  "theme": {
+    "id": "saints-churches-pilgrimage",
+    "name": "Saints, churches & pilgrimage",
+    "definition": "Single-word English entries directly associated with saints, churches & pilgrimage."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-11-01-w001",
+      "display": "Saint",
+      "grid_entry": "SAINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w002",
+      "display": "Church",
+      "grid_entry": "CHURCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w003",
+      "display": "Altar",
+      "grid_entry": "ALTAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w004",
+      "display": "Pilgrim",
+      "grid_entry": "PILGRIM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w005",
+      "display": "Shrine",
+      "grid_entry": "SHRINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w006",
+      "display": "Candle",
+      "grid_entry": "CANDLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w007",
+      "display": "Chapel",
+      "grid_entry": "CHAPEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w008",
+      "display": "Abbey",
+      "grid_entry": "ABBEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w009",
+      "display": "Cathedral",
+      "grid_entry": "CATHEDRAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w010",
+      "display": "Prayer",
+      "grid_entry": "PRAYER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w011",
+      "display": "Relic",
+      "grid_entry": "RELIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w012",
+      "display": "Choir",
+      "grid_entry": "CHOIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w013",
+      "display": "Bells",
+      "grid_entry": "BELLS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w014",
+      "display": "Icon",
+      "grid_entry": "ICON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w015",
+      "display": "Feast",
+      "grid_entry": "FEAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w016",
+      "display": "Mass",
+      "grid_entry": "MASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w017",
+      "display": "Organ",
+      "grid_entry": "ORGAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w018",
+      "display": "Bishop",
+      "grid_entry": "BISHOP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w019",
+      "display": "Priest",
+      "grid_entry": "PRIEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w020",
+      "display": "Monk",
+      "grid_entry": "MONK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w021",
+      "display": "NUN",
+      "grid_entry": "NUN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w022",
+      "display": "Abbot",
+      "grid_entry": "ABBOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w023",
+      "display": "Clergy",
+      "grid_entry": "CLERGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w024",
+      "display": "Parish",
+      "grid_entry": "PARISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w025",
+      "display": "Diocese",
+      "grid_entry": "DIOCESE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w026",
+      "display": "Archbishop",
+      "grid_entry": "ARCHBISHOP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w027",
+      "display": "Mitre",
+      "grid_entry": "MITRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w028",
+      "display": "Cross",
+      "grid_entry": "CROSS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w029",
+      "display": "Robe",
+      "grid_entry": "ROBE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w030",
+      "display": "Vestment",
+      "grid_entry": "VESTMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w031",
+      "display": "Gospel",
+      "grid_entry": "GOSPEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w032",
+      "display": "Bible",
+      "grid_entry": "BIBLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w033",
+      "display": "Psalm",
+      "grid_entry": "PSALM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w034",
+      "display": "Hymn",
+      "grid_entry": "HYMN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w035",
+      "display": "Faith",
+      "grid_entry": "FAITH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w036",
+      "display": "Hope",
+      "grid_entry": "HOPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w037",
+      "display": "Charity",
+      "grid_entry": "CHARITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w038",
+      "display": "Grace",
+      "grid_entry": "GRACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w039",
+      "display": "Peace",
+      "grid_entry": "PEACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w040",
+      "display": "Spirit",
+      "grid_entry": "SPIRIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w041",
+      "display": "Holy",
+      "grid_entry": "HOLY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w042",
+      "display": "Sacred",
+      "grid_entry": "SACRED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w043",
+      "display": "Worship",
+      "grid_entry": "WORSHIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w044",
+      "display": "Service",
+      "grid_entry": "SERVICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w045",
+      "display": "Nave",
+      "grid_entry": "NAVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w046",
+      "display": "Aisle",
+      "grid_entry": "AISLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w047",
+      "display": "Chancel",
+      "grid_entry": "CHANCEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w048",
+      "display": "Transept",
+      "grid_entry": "TRANSEPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w049",
+      "display": "Apse",
+      "grid_entry": "APSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w050",
+      "display": "Tower",
+      "grid_entry": "TOWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w051",
+      "display": "Spire",
+      "grid_entry": "SPIRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w052",
+      "display": "Steeple",
+      "grid_entry": "STEEPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w053",
+      "display": "Cloister",
+      "grid_entry": "CLOISTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w054",
+      "display": "Crypt",
+      "grid_entry": "CRYPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w055",
+      "display": "Font",
+      "grid_entry": "FONT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w056",
+      "display": "Pulpit",
+      "grid_entry": "PULPIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w057",
+      "display": "Lectern",
+      "grid_entry": "LECTERN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w058",
+      "display": "Window",
+      "grid_entry": "WINDOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w059",
+      "display": "Glass",
+      "grid_entry": "GLASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w060",
+      "display": "Mosaic",
+      "grid_entry": "MOSAIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w061",
+      "display": "Stone",
+      "grid_entry": "STONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w062",
+      "display": "Arch",
+      "grid_entry": "ARCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w063",
+      "display": "Vault",
+      "grid_entry": "VAULT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w064",
+      "display": "Chapter",
+      "grid_entry": "CHAPTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w065",
+      "display": "Monastery",
+      "grid_entry": "MONASTERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w066",
+      "display": "Convent",
+      "grid_entry": "CONVENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w067",
+      "display": "Pilgrimage",
+      "grid_entry": "PILGRIMAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w068",
+      "display": "Martyr",
+      "grid_entry": "MARTYR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w069",
+      "display": "Ceremony",
+      "grid_entry": "CEREMONY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w070",
+      "display": "Procession",
+      "grid_entry": "PROCESSION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w071",
+      "display": "Incense",
+      "grid_entry": "INCENSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w072",
+      "display": "Vigil",
+      "grid_entry": "VIGIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w073",
+      "display": "Advent",
+      "grid_entry": "ADVENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w074",
+      "display": "Christmas",
+      "grid_entry": "CHRISTMAS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w075",
+      "display": "Easter",
+      "grid_entry": "EASTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w076",
+      "display": "Nativity",
+      "grid_entry": "NATIVITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w077",
+      "display": "Angel",
+      "grid_entry": "ANGEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w078",
+      "display": "Star",
+      "grid_entry": "STAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w079",
+      "display": "Medieval",
+      "grid_entry": "MEDIEVAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w080",
+      "display": "King",
+      "grid_entry": "KING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w081",
+      "display": "Queen",
+      "grid_entry": "QUEEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w082",
+      "display": "Knight",
+      "grid_entry": "KNIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w083",
+      "display": "Castle",
+      "grid_entry": "CASTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w084",
+      "display": "Manor",
+      "grid_entry": "MANOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w085",
+      "display": "Becket",
+      "grid_entry": "BECKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w086",
+      "display": "Canterbury",
+      "grid_entry": "CANTERBURY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w087",
+      "display": "History",
+      "grid_entry": "HISTORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w088",
+      "display": "Heritage",
+      "grid_entry": "HERITAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w089",
+      "display": "Tradition",
+      "grid_entry": "TRADITION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w090",
+      "display": "Festival",
+      "grid_entry": "FESTIVAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w091",
+      "display": "Memorial",
+      "grid_entry": "MEMORIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w092",
+      "display": "Monument",
+      "grid_entry": "MONUMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w093",
+      "display": "Tomb",
+      "grid_entry": "TOMB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w094",
+      "display": "Grave",
+      "grid_entry": "GRAVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w095",
+      "display": "Rights",
+      "grid_entry": "RIGHTS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w096",
+      "display": "Freedom",
+      "grid_entry": "FREEDOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w097",
+      "display": "Liberty",
+      "grid_entry": "LIBERTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w098",
+      "display": "Justice",
+      "grid_entry": "JUSTICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w099",
+      "display": "Equality",
+      "grid_entry": "EQUALITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-01-w100",
+      "display": "Dignity",
+      "grid_entry": "DIGNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

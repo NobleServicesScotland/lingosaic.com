@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-18",
+  "date": "2026-10-18",
+  "daily_number": 3,
+  "generator": {
+    "version": "daily-reference-1.0.0",
+    "seed": "daily-2026-10-18",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "African wildlife",
+    "occasion": "World Okapi Day"
+  },
+  "bonus": {
+    "title": "World Okapi Day",
+    "description": "World Okapi Day draws attention to the elusive okapi and to conservation of the forests and wildlife of the Democratic Republic of the Congo."
+  },
+  "shape": {
+    "id": "elephant-head",
+    "name": "Elephant head",
+    "grid_file": "../shapes/2026-10-18-elephant-head.grid.json",
+    "svg_file": "../shapes/2026-10-18-elephant-head.svg"
+  },
+  "dictionary": {
+    "id": "2026-10-18-african-wildlife",
+    "file": "../dictionaries/2026-10-18-african-wildlife.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "#####XXXXX#####",
+      "##XXXXXXXXXXX##",
+      "XXXXXXXXXCXVXXX",
+      "XXXRX.XZX.X.XXX",
+      "XXX.X.X.X.X.XXX",
+      "XX..........XXX",
+      "XXX.X.X.X.X.XXX",
+      "XXX.XXX.X.X.XXX",
+      "##XXXXXXX.X.X##",
+      "######XXX######",
+      "######XXX######",
+      "######XXX######",
+      "######XXX######"
+    ],
+    "seed_letters": [
+      {
+        "row": 4,
+        "col": 9,
+        "letter": "C"
+      },
+      {
+        "row": 4,
+        "col": 11,
+        "letter": "V"
+      },
+      {
+        "row": 5,
+        "col": 3,
+        "letter": "R"
+      },
+      {
+        "row": 5,
+        "col": 7,
+        "letter": "Z"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "667d90cd5c0dc9800bba31ff3edfc82dc162a42c3519a86597411c33fd892da6"
+  }
+}

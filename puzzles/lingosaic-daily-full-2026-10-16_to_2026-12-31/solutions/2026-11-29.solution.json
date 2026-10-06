@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-29",
+  "date": "2026-11-29",
+  "theme": "Advent & Christmas preparation",
+  "shape_id": "advent-candle",
+  "dictionary_id": "2026-11-29-advent-christmas-preparation",
+  "generator_seed": "daily-2026-11-29",
+  "solution_grid": [
+    "###############",
+    "######XXX######",
+    "#####XXXXC#####",
+    "#####WXXXH#####",
+    "#####RXXXR#####",
+    "###S#EXAXI#####",
+    "###U#AXDXS#####",
+    "###NATIVITY####",
+    "###D#HXEXM#####",
+    "###A#XXNXA#####",
+    "###Y#XXTXS#####",
+    "#####XXXXX#####",
+    "#####XXXXX#####",
+    "#####XXXXX#####",
+    "###############"
+  ],
+  "canonical_solution": "CWHRRSEAIUADSNATIVITYDHEMANAYTS",
+  "solution_hash": "8283832c93decb54b91c2df9746972f244214341a3b57037f1c77b32122bca75",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 3,
+      "letter": "U"
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "letter": "D"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "NATIVITY"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ],
+      "answer": "SUNDAY"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ],
+      "answer": "WREATH"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        }
+      ],
+      "answer": "ADVENT"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "CHRISTMAS"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "N"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 4,
+      "letter": "T"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "V"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 5,
+      "letter": "T"
+    }
+  ]
+}

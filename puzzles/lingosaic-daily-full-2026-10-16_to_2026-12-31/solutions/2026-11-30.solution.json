@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-30",
+  "date": "2026-11-30",
+  "theme": "Scotland & Scottish culture",
+  "shape_id": "thistle",
+  "dictionary_id": "2026-11-30-scotland-scottish-culture",
+  "generator_seed": "daily-2026-11-30",
+  "solution_grid": [
+    "###############",
+    "######XXXS#####",
+    "#####XXXXC#####",
+    "###HXXXXXOX####",
+    "###EXXXXXTX####",
+    "###AXHXXXLX####",
+    "###T#AXGXA#####",
+    "###HIGHLANDX###",
+    "###EXGXEXDXX###",
+    "###R#IXNXXX####",
+    "#####S#XXXX####",
+    "#######XXX#####",
+    "#######XXX#####",
+    "#######XX######",
+    "#######XX######"
+  ],
+  "canonical_solution": "SCHOETAHLTAGAHIGHLANDEGEDRINS",
+  "solution_hash": "d92917cf049752e8e17d74701b9bcbc835eda762bf670db85bb14c42a7e4e261",
+  "seed_letters": [
+    {
+      "row": 3,
+      "col": 9,
+      "letter": "O"
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "letter": "T"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "letter": "G"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "letter": "H"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "HIGHLAND"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ],
+      "answer": "HEATHER"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "HAGGIS"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ],
+      "answer": "GLEN"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 1,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "SCOTLAND"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 4,
+      "letter": "H"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "G"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "L"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 6,
+      "letter": "N"
+    }
+  ]
+}

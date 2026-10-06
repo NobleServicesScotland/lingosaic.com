@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-03",
+  "date": "2026-11-03",
+  "theme": "Sandwiches & fillings",
+  "shape_id": "sandwich",
+  "dictionary_id": "2026-11-03-sandwiches-fillings",
+  "generator_seed": "daily-2026-11-03",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#####L#X#######",
+    "#####EXXXX#####",
+    "####XTXXXXX####",
+    "##XBXTXTXBXXX##",
+    "##XAXUXOXRXXX##",
+    "###CUCUMBERX###",
+    "###OXEXAXAXX###",
+    "###NXXXTXDX####",
+    "###XXXXOXXXX###",
+    "####XXXXXXX####",
+    "######XXX######",
+    "#######X#######",
+    "###############"
+  ],
+  "canonical_solution": "LETBTTBAUORCUCUMBEROEAANTDO",
+  "solution_hash": "b793b97b0bb8a5d67805ba43877f6705f976787aa8392327667064d0265da4ae",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 9,
+      "letter": "B"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "letter": "U"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "letter": "O"
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "letter": "A"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "CUCUMBER"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ],
+      "answer": "BACON"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 5
+        },
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ],
+      "answer": "LETTUCE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        }
+      ],
+      "answer": "TOMATO"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ],
+      "answer": "BREAD"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 5,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "M"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "E"
+    }
+  ]
+}

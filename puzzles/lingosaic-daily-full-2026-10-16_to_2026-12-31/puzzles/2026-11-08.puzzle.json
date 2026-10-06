@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-08",
+  "date": "2026-11-08",
+  "daily_number": 24,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-08",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "STEM & inventions",
+    "occasion": "National STEM Day"
+  },
+  "bonus": {
+    "title": "National STEM Day",
+    "description": "National STEM Day encourages curiosity about science, technology, engineering and mathematics."
+  },
+  "shape": {
+    "id": "light-bulb",
+    "name": "Light bulb",
+    "grid_file": "../shapes/2026-11-08-light-bulb.grid.json",
+    "svg_file": "../shapes/2026-11-08-light-bulb.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-08-stem-inventions",
+    "file": "../dictionaries/2026-11-08-stem-inventions.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "######XXX######",
+      "####XXXXXXX####",
+      "####XXXX.XX####",
+      "###XXXXX.XXX###",
+      "###X.XXX.XXX###",
+      "###X.XCXEXDX###",
+      "####.......####",
+      "####IX.X.X.####",
+      "####.X.XXX.####",
+      "####.X.XXX.####",
+      "#####X.XXX.####",
+      "#####X.XXX#####",
+      "######XXX######",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "C"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "E"
+      },
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "D"
+      },
+      {
+        "row": 8,
+        "col": 4,
+        "letter": "I"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "b77fb44ba7dc11369d01aaffd551d444dcda2b77c65c60e88423f62df0cad2f3"
+  }
+}

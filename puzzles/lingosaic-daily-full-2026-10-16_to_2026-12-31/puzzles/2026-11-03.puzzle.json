@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-03",
+  "date": "2026-11-03",
+  "daily_number": 19,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-03",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Sandwiches & fillings",
+    "occasion": "National Sandwich Day"
+  },
+  "bonus": {
+    "title": "National Sandwich Day",
+    "description": "National Sandwich Day is an easy excuse to celebrate breads, fillings, condiments and classic sandwich combinations."
+  },
+  "shape": {
+    "id": "sandwich",
+    "name": "Sandwich",
+    "grid_file": "../shapes/2026-11-03-sandwich.grid.json",
+    "svg_file": "../shapes/2026-11-03-sandwich.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-03-sandwiches-fillings",
+    "file": "../dictionaries/2026-11-03-sandwiches-fillings.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "#####.#X#######",
+      "#####.XXXX#####",
+      "####X.XXXXX####",
+      "##X.X.X.XBXXX##",
+      "##X.XUXOX.XXX##",
+      "###........X###",
+      "###.X.X.XAXX###",
+      "###.XXX.X.X####",
+      "###XXXX.XXXX###",
+      "####XXXXXXX####",
+      "######XXX######",
+      "#######X#######",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 5,
+        "col": 9,
+        "letter": "B"
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "U"
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "O"
+      },
+      {
+        "row": 8,
+        "col": 9,
+        "letter": "A"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 5
+        },
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "b793b97b0bb8a5d67805ba43877f6705f976787aa8392327667064d0265da4ae"
+  }
+}

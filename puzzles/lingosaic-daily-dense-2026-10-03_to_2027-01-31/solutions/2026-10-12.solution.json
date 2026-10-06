@@ -1,0 +1,683 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-10-12",
+  "date": "2026-10-12",
+  "theme": "Farming & harvest",
+  "shape_id": "barn",
+  "dictionary_id": "2026-10-12-farming-harvest",
+  "generator_seed": "dense-crossword-2.1.0:2026-10-12",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#######*#######",
+    "######**B######",
+    "#####F**E*#####",
+    "####HARVEST####",
+    "###**R**T***###",
+    "##***M*P**G***#",
+    "##***IRRIGATE*#",
+    "##CORN*O**R***#",
+    "##O**G*D**DUCK#",
+    "##M****U**E***#",
+    "##P*CHICKEN**M#",
+    "##O****E*G***A#",
+    "##S*F****GRAIN#",
+    "##TRACTOR****U#",
+    "##**R********R#",
+    "##COMBINE****E#",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "BFEHARVESTRTMPGIRRIGATECORNOROGDDUCKMUEPCHICKENMOEGASFGRAINTRACTORURRCOMBINEE",
+  "solution_hash": "5f9158e23329d52ef31fde0ee697224acc3abe29ac0d5903dffd1fc88cc8472e",
+  "seed_letters": [
+    {
+      "row": 3,
+      "col": 8,
+      "letter": "B"
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "letter": "E"
+    },
+    {
+      "row": 17,
+      "col": 4,
+      "letter": "M"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        }
+      ],
+      "answer": "HARVEST"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 12
+        }
+      ],
+      "answer": "IRRIGATE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ],
+      "answer": "CORN"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 12
+        },
+        {
+          "row": 10,
+          "col": 13
+        }
+      ],
+      "answer": "DUCK"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 10
+        }
+      ],
+      "answer": "CHICKEN"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 12
+        },
+        {
+          "row": 14,
+          "col": 13
+        }
+      ],
+      "answer": "GRAIN"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 15,
+          "col": 2
+        },
+        {
+          "row": 15,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        }
+      ],
+      "answer": "TRACTOR"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 17,
+          "col": 2
+        },
+        {
+          "row": 17,
+          "col": 3
+        },
+        {
+          "row": 17,
+          "col": 4
+        },
+        {
+          "row": 17,
+          "col": 5
+        },
+        {
+          "row": 17,
+          "col": 6
+        },
+        {
+          "row": 17,
+          "col": 7
+        },
+        {
+          "row": 17,
+          "col": 8
+        }
+      ],
+      "answer": "COMBINE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "BEET"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "FARMING"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        }
+      ],
+      "answer": "PRODUCE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        }
+      ],
+      "answer": "GARDEN"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 2
+        },
+        {
+          "row": 15,
+          "col": 2
+        }
+      ],
+      "answer": "COMPOST"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "EGG"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 12,
+          "col": 13
+        },
+        {
+          "row": 13,
+          "col": 13
+        },
+        {
+          "row": 14,
+          "col": 13
+        },
+        {
+          "row": 15,
+          "col": 13
+        },
+        {
+          "row": 16,
+          "col": 13
+        },
+        {
+          "row": 17,
+          "col": 13
+        }
+      ],
+      "answer": "MANURE"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 16,
+          "col": 4
+        },
+        {
+          "row": 17,
+          "col": 4
+        }
+      ],
+      "answer": "FARM"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 5,
+      "col": 5,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 8,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 8,
+      "col": 5,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D3",
+      "row": 8,
+      "col": 7,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 10,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D5",
+      "row": 9,
+      "col": 2,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D2",
+      "row": 9,
+      "col": 5,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 10,
+      "col": 10,
+      "letter": "D"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D3",
+      "row": 12,
+      "col": 7,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D6",
+      "row": 12,
+      "col": 9,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D4",
+      "row": 12,
+      "col": 10,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 14,
+      "col": 9,
+      "letter": "G"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D7",
+      "row": 14,
+      "col": 13,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D5",
+      "row": 15,
+      "col": 2,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D8",
+      "row": 15,
+      "col": 4,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D8",
+      "row": 17,
+      "col": 4,
+      "letter": "M"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 8,
+    "down_slots": 8,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 4,
+    "max_slot_crossings": 3,
+    "seed_letters": 3
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-21",
+  "date": "2026-11-21",
+  "daily_number": 37,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-21",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Television & broadcasting",
+    "occasion": "World Television Day"
+  },
+  "bonus": {
+    "title": "World Television Day",
+    "description": "World Television Day recognises television's role in communication, culture, news and public debate."
+  },
+  "shape": {
+    "id": "television",
+    "name": "Television",
+    "grid_file": "../shapes/2026-11-21-television.grid.json",
+    "svg_file": "../shapes/2026-11-21-television.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-21-television-broadcasting",
+    "file": "../dictionaries/2026-11-21-television-broadcasting.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "###############",
+      "##XXXXXXX.X.X##",
+      "##XXXXXXX.X.X##",
+      "##XXX.XXX.X.X##",
+      "##X.XIXAX.XEX##",
+      "##X.........X##",
+      "##X.X.X.X.X.X##",
+      "##X.X.X.XXXXX##",
+      "##X.X.X.XXXXX##",
+      "##XXXXX.XXXXX##",
+      "#####XX##XX####",
+      "#####XX##XX####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "I"
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "A"
+      },
+      {
+        "row": 6,
+        "col": 11,
+        "letter": "E"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 11
+        },
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "fff9b863eb24fe64c79476fc64a80914a52b64f742f3f2011efcfcf88fce3252"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-21",
+  "date": "2026-11-21",
+  "theme": "Television & broadcasting",
+  "shape_id": "television",
+  "dictionary_id": "2026-11-21-television-broadcasting",
+  "generator_seed": "daily-2026-11-21",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "##XXXXXXXRXCX##",
+    "##XXXXXXXEXAX##",
+    "##XXXVXXXMXMX##",
+    "##XSXIXAXOXEX##",
+    "##XPRESENTERX##",
+    "##XOXWXRXEXAX##",
+    "##XRXEXIXXXXX##",
+    "##XTXRXAXXXXX##",
+    "##XXXXXLXXXXX##",
+    "#####XX##XX####",
+    "#####XX##XX####",
+    "###############"
+  ],
+  "canonical_solution": "RCEAVMMSIAOEPRESENTEROWREAREITRAL",
+  "solution_hash": "fff9b863eb24fe64c79476fc64a80914a52b64f742f3f2011efcfcf88fce3252",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 5,
+      "letter": "I"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "letter": "A"
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "letter": "E"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "PRESENTER"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ],
+      "answer": "SPORT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "VIEWER"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ],
+      "answer": "AERIAL"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "REMOTE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 11
+        },
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        }
+      ],
+      "answer": "CAMERA"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 1,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 4,
+      "letter": "T"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "slot_a": "A1",
+      "slot_a_index": 8,
+      "slot_b": "D5",
+      "slot_b_index": 4,
+      "letter": "R"
+    }
+  ]
+}

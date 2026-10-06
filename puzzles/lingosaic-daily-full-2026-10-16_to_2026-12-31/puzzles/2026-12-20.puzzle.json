@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-20",
+  "date": "2026-12-20",
+  "daily_number": 66,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-20",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Community & cooperation",
+    "occasion": "International Human Solidarity Day"
+  },
+  "bonus": {
+    "title": "International Human Solidarity Day",
+    "description": "The UN's International Human Solidarity Day highlights cooperation, shared responsibility and support between communities."
+  },
+  "shape": {
+    "id": "linked-hands",
+    "name": "Linked hands",
+    "grid_file": "../shapes/2026-12-20-linked-hands.grid.json",
+    "svg_file": "../shapes/2026-12-20-linked-hands.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-20-community-cooperation",
+    "file": "../dictionaries/2026-12-20-community-cooperation.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "###############",
+      "####XX###XX####",
+      "###X.X.#XX.X###",
+      "##XX.X.XXX.XX##",
+      "##XXUX.XTXIXX##",
+      "###X...P...X###",
+      "###X.X.X.X.X###",
+      "####XX.X.XX####",
+      "#####X.X.X#####",
+      "######.X.######",
+      "######.X.######",
+      "#######X.######",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "U"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "T"
+      },
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "I"
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "letter": "P"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "e6d887bf55273afce0c321376a641bf3691ebaf997de546e57fe299bbc9bcf14"
+  }
+}

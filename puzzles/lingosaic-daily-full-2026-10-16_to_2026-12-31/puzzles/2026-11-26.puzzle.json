@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-26",
+  "date": "2026-11-26",
+  "daily_number": 42,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-26",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Thanksgiving food & traditions",
+    "occasion": "Thanksgiving Day"
+  },
+  "bonus": {
+    "title": "Thanksgiving Day",
+    "description": "Thanksgiving is celebrated in the United States on the fourth Thursday of November, with food, family and traditions of gratitude."
+  },
+  "shape": {
+    "id": "turkey",
+    "name": "Turkey",
+    "grid_file": "../shapes/2026-11-26-turkey.grid.json",
+    "svg_file": "../shapes/2026-11-26-turkey.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-26-thanksgiving-food-traditions",
+    "file": "../dictionaries/2026-11-26-thanksgiving-food-traditions.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "######XXX######",
+      "###XXXXX.XXX###",
+      "##XXXXXX.XXXX##",
+      "#XXXXXXX.XXXXX#",
+      "#XXXXX.X.XXXXX#",
+      "#XXXTXAX.X.XXX#",
+      "#XXX.......XXX#",
+      "##XX.XAX.X.XX##",
+      "###X.X.X.X.X###",
+      "####.X.X.X.####",
+      "####.#XXXX.####",
+      "#######XX#.####",
+      "#######XX#.####",
+      "#######XX######"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "T"
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "A"
+      },
+      {
+        "row": 8,
+        "col": 6,
+        "letter": "A"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "5eba5ca61f49105494adf2c32af3a1e9f8e7a743047e7ed711c07f668e6a8ce1"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-29",
+  "date": "2026-10-29",
+  "theme": "Caregiving & helping professions",
+  "shape_id": "helping-hands",
+  "dictionary_id": "2026-10-29-caregiving-helping-professions",
+  "generator_seed": "daily-2026-10-29",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "####CX##HXX####",
+    "###XOXX#OXCX###",
+    "##XXUXCXSXAXX##",
+    "##XXNXAXPXRXX##",
+    "###XSERVICEX###",
+    "###XEXEXCXRX###",
+    "####LXXXEXX####",
+    "#####XXXXX#####",
+    "######XXX######",
+    "######XXX######",
+    "#######X#######",
+    "###############"
+  ],
+  "canonical_solution": "CHOOCUCSANAPRSERVICEEECRLE",
+  "solution_hash": "ea719f76587fc6cd6629a74fe8a59e06f287717b20fbbdd6fbfe6db3ecea8b7e",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "A"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "letter": "R"
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "letter": "C"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "SERVICE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ],
+      "answer": "COUNSEL"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ],
+      "answer": "CARE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "HOSPICE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ],
+      "answer": "CARER"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 4,
+      "letter": "S"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 4,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 3,
+      "letter": "E"
+    }
+  ]
+}

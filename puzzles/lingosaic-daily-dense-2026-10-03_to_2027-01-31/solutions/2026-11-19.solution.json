@@ -1,0 +1,578 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-19",
+  "date": "2026-11-19",
+  "theme": "Water, sanitation & plumbing",
+  "shape_id": "water-droplet",
+  "dictionary_id": "2026-11-19-water-sanitation-plumbing",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-19",
+  "solution_grid": [
+    "###############",
+    "#######P#######",
+    "####*#HOT######",
+    "####*#*T*######",
+    "####*#*A*######",
+    "####***B**#####",
+    "##F#S*FLUSH####",
+    "##I#T**E*E*####",
+    "##L#O*B**W*####",
+    "##TAP*A**E**###",
+    "##E*CISTERN*###",
+    "##R*O*I*****###",
+    "##**C*NURSE*###",
+    "###*K**P*H**###",
+    "####***I*O*####",
+    "####***P*W*####",
+    "####**METER####",
+    "#####****R#####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "PHOTTABFSFLUSHITEELOBWTAPAEECISTERNROICNURSEKPHIOPWMETERR",
+  "solution_hash": "779a17aae04e9d6414ec7b879e95e59581df388bf1a08111d7aceaaad0586d2b",
+  "seed_letters": [
+    {
+      "row": 8,
+      "col": 2,
+      "letter": "L"
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "letter": "C"
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "letter": "S"
+    },
+    {
+      "row": 16,
+      "col": 9,
+      "letter": "E"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 8
+        }
+      ],
+      "answer": "HOT"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 10
+        }
+      ],
+      "answer": "FLUSH"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ],
+      "answer": "TAP"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ],
+      "answer": "CISTERN"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 10
+        }
+      ],
+      "answer": "NURSE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 10
+        }
+      ],
+      "answer": "METER"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        }
+      ],
+      "answer": "FILTER"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 4
+        }
+      ],
+      "answer": "STOPCOCK"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        }
+      ],
+      "answer": "BASIN"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 1,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        }
+      ],
+      "answer": "POTABLE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        }
+      ],
+      "answer": "UPIPE"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "SEWER"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 9
+        }
+      ],
+      "answer": "SHOWER"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 2,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "O"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "slot_a": "A2",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 5,
+      "letter": "L"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "slot_a": "A2",
+      "slot_a_index": 3,
+      "slot_b": "D6",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "slot_a": "A3",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "P"
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "slot_a": "A4",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 4,
+      "letter": "C"
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "S"
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "slot_a": "A4",
+      "slot_a_index": 5,
+      "slot_b": "D6",
+      "slot_b_index": 4,
+      "letter": "R"
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D3",
+      "slot_b_index": 4,
+      "letter": "N"
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 1,
+      "slot_b": "D5",
+      "slot_b_index": 0,
+      "letter": "U"
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "slot_a": "A5",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 16,
+      "col": 7,
+      "slot_a": "A6",
+      "slot_a_index": 1,
+      "slot_b": "D5",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 16,
+      "col": 9,
+      "slot_a": "A6",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 4,
+      "letter": "E"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 13,
+    "across_slots": 6,
+    "down_slots": 7,
+    "crossings": 13,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 2,
+    "max_slot_crossings": 3,
+    "seed_letters": 4
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

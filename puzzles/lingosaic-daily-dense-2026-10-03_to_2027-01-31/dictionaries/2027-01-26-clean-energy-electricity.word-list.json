@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-26-clean-energy-electricity",
+  "theme": {
+    "id": "clean-energy-electricity",
+    "name": "Clean energy & electricity",
+    "definition": "Single-word English entries directly associated with clean energy & electricity."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-26-w001",
+      "display": "Energy",
+      "grid_entry": "ENERGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w002",
+      "display": "Clean",
+      "grid_entry": "CLEAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w003",
+      "display": "Renewable",
+      "grid_entry": "RENEWABLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w004",
+      "display": "Solar",
+      "grid_entry": "SOLAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w005",
+      "display": "Wind",
+      "grid_entry": "WIND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w006",
+      "display": "Hydro",
+      "grid_entry": "HYDRO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w007",
+      "display": "Tidal",
+      "grid_entry": "TIDAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w008",
+      "display": "Wave",
+      "grid_entry": "WAVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w009",
+      "display": "Geothermal",
+      "grid_entry": "GEOTHERMAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w010",
+      "display": "Biomass",
+      "grid_entry": "BIOMASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w011",
+      "display": "Electric",
+      "grid_entry": "ELECTRIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w012",
+      "display": "Electricity",
+      "grid_entry": "ELECTRICITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w013",
+      "display": "Power",
+      "grid_entry": "POWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w014",
+      "display": "Grid",
+      "grid_entry": "GRID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w015",
+      "display": "Battery",
+      "grid_entry": "BATTERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w016",
+      "display": "Storage",
+      "grid_entry": "STORAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w017",
+      "display": "Charge",
+      "grid_entry": "CHARGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w018",
+      "display": "Charger",
+      "grid_entry": "CHARGER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w019",
+      "display": "Volt",
+      "grid_entry": "VOLT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w020",
+      "display": "Voltage",
+      "grid_entry": "VOLTAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w021",
+      "display": "Amp",
+      "grid_entry": "AMP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w022",
+      "display": "Ampere",
+      "grid_entry": "AMPERE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w023",
+      "display": "Watt",
+      "grid_entry": "WATT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w024",
+      "display": "Current",
+      "grid_entry": "CURRENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w025",
+      "display": "Circuit",
+      "grid_entry": "CIRCUIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w026",
+      "display": "Cable",
+      "grid_entry": "CABLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w027",
+      "display": "Wire",
+      "grid_entry": "WIRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w028",
+      "display": "Turbine",
+      "grid_entry": "TURBINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w029",
+      "display": "Panel",
+      "grid_entry": "PANEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w030",
+      "display": "Inverter",
+      "grid_entry": "INVERTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w031",
+      "display": "Generator",
+      "grid_entry": "GENERATOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w032",
+      "display": "Motor",
+      "grid_entry": "MOTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w033",
+      "display": "Transformer",
+      "grid_entry": "TRANSFORMER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w034",
+      "display": "Substation",
+      "grid_entry": "SUBSTATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w035",
+      "display": "Meter",
+      "grid_entry": "METER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w036",
+      "display": "Switch",
+      "grid_entry": "SWITCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w037",
+      "display": "Plug",
+      "grid_entry": "PLUG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w038",
+      "display": "Socket",
+      "grid_entry": "SOCKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w039",
+      "display": "Light",
+      "grid_entry": "LIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w040",
+      "display": "Led",
+      "grid_entry": "LED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w041",
+      "display": "Heat",
+      "grid_entry": "HEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w042",
+      "display": "Pump",
+      "grid_entry": "PUMP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w043",
+      "display": "Efficiency",
+      "grid_entry": "EFFICIENCY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w044",
+      "display": "Efficient",
+      "grid_entry": "EFFICIENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w045",
+      "display": "Carbon",
+      "grid_entry": "CARBON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w046",
+      "display": "Emission",
+      "grid_entry": "EMISSION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w047",
+      "display": "Climate",
+      "grid_entry": "CLIMATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w048",
+      "display": "Green",
+      "grid_entry": "GREEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w049",
+      "display": "Sustainable",
+      "grid_entry": "SUSTAINABLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w050",
+      "display": "Sun",
+      "grid_entry": "SUN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w051",
+      "display": "Sunlight",
+      "grid_entry": "SUNLIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w052",
+      "display": "Breeze",
+      "grid_entry": "BREEZE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w053",
+      "display": "Dam",
+      "grid_entry": "DAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w054",
+      "display": "River",
+      "grid_entry": "RIVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w055",
+      "display": "Reservoir",
+      "grid_entry": "RESERVOIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w056",
+      "display": "Water",
+      "grid_entry": "WATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w057",
+      "display": "Steam",
+      "grid_entry": "STEAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w058",
+      "display": "Hydrogen",
+      "grid_entry": "HYDROGEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w059",
+      "display": "Fuel",
+      "grid_entry": "FUEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w060",
+      "display": "Biogas",
+      "grid_entry": "BIOGAS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w061",
+      "display": "Ethanol",
+      "grid_entry": "ETHANOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w062",
+      "display": "Vehicle",
+      "grid_entry": "VEHICLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w063",
+      "display": "Charging",
+      "grid_entry": "CHARGING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w064",
+      "display": "Home",
+      "grid_entry": "HOME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w065",
+      "display": "House",
+      "grid_entry": "HOUSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w066",
+      "display": "Industry",
+      "grid_entry": "INDUSTRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w067",
+      "display": "Factory",
+      "grid_entry": "FACTORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w068",
+      "display": "Demand",
+      "grid_entry": "DEMAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w069",
+      "display": "Supply",
+      "grid_entry": "SUPPLY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w070",
+      "display": "Network",
+      "grid_entry": "NETWORK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w071",
+      "display": "Science",
+      "grid_entry": "SCIENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w072",
+      "display": "Technology",
+      "grid_entry": "TECHNOLOGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w073",
+      "display": "Engineer",
+      "grid_entry": "ENGINEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w074",
+      "display": "Maths",
+      "grid_entry": "MATHS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w075",
+      "display": "Robot",
+      "grid_entry": "ROBOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w076",
+      "display": "Laser",
+      "grid_entry": "LASER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w077",
+      "display": "Engine",
+      "grid_entry": "ENGINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w078",
+      "display": "Patent",
+      "grid_entry": "PATENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w079",
+      "display": "Inventor",
+      "grid_entry": "INVENTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w080",
+      "display": "Design",
+      "grid_entry": "DESIGN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w081",
+      "display": "Data",
+      "grid_entry": "DATA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w082",
+      "display": "Lab",
+      "grid_entry": "LAB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w083",
+      "display": "Code",
+      "grid_entry": "CODE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w084",
+      "display": "Device",
+      "grid_entry": "DEVICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w085",
+      "display": "Model",
+      "grid_entry": "MODEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w086",
+      "display": "Research",
+      "grid_entry": "RESEARCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w087",
+      "display": "Theory",
+      "grid_entry": "THEORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w088",
+      "display": "Evidence",
+      "grid_entry": "EVIDENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w089",
+      "display": "Test",
+      "grid_entry": "TEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w090",
+      "display": "Trial",
+      "grid_entry": "TRIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w091",
+      "display": "Experiment",
+      "grid_entry": "EXPERIMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w092",
+      "display": "Result",
+      "grid_entry": "RESULT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w093",
+      "display": "Method",
+      "grid_entry": "METHOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w094",
+      "display": "Laboratory",
+      "grid_entry": "LABORATORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w095",
+      "display": "Sample",
+      "grid_entry": "SAMPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w096",
+      "display": "Measure",
+      "grid_entry": "MEASURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w097",
+      "display": "Observe",
+      "grid_entry": "OBSERVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w098",
+      "display": "Discovery",
+      "grid_entry": "DISCOVERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w099",
+      "display": "Invention",
+      "grid_entry": "INVENTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-26-w100",
+      "display": "Machine",
+      "grid_entry": "MACHINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

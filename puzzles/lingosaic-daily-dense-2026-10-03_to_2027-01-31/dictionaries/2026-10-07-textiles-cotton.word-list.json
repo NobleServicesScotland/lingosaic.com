@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-10-07-textiles-cotton",
+  "theme": {
+    "id": "textiles-cotton",
+    "name": "Textiles & cotton",
+    "definition": "Single-word English entries directly associated with textiles & cotton."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-10-07-w001",
+      "display": "Cotton",
+      "grid_entry": "COTTON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w002",
+      "display": "Fibre",
+      "grid_entry": "FIBRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w003",
+      "display": "Fiber",
+      "grid_entry": "FIBER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w004",
+      "display": "Thread",
+      "grid_entry": "THREAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w005",
+      "display": "Yarn",
+      "grid_entry": "YARN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w006",
+      "display": "Cloth",
+      "grid_entry": "CLOTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w007",
+      "display": "Fabric",
+      "grid_entry": "FABRIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w008",
+      "display": "Textile",
+      "grid_entry": "TEXTILE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w009",
+      "display": "Weave",
+      "grid_entry": "WEAVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w010",
+      "display": "Woven",
+      "grid_entry": "WOVEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w011",
+      "display": "Knit",
+      "grid_entry": "KNIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w012",
+      "display": "Knitting",
+      "grid_entry": "KNITTING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w013",
+      "display": "Crochet",
+      "grid_entry": "CROCHET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w014",
+      "display": "Loom",
+      "grid_entry": "LOOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w015",
+      "display": "Spindle",
+      "grid_entry": "SPINDLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w016",
+      "display": "Spool",
+      "grid_entry": "SPOOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w017",
+      "display": "Bobbin",
+      "grid_entry": "BOBBIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w018",
+      "display": "Needle",
+      "grid_entry": "NEEDLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w019",
+      "display": "Pin",
+      "grid_entry": "PIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w020",
+      "display": "Sew",
+      "grid_entry": "SEW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w021",
+      "display": "Sewing",
+      "grid_entry": "SEWING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w022",
+      "display": "Stitch",
+      "grid_entry": "STITCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w023",
+      "display": "Seam",
+      "grid_entry": "SEAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w024",
+      "display": "Hem",
+      "grid_entry": "HEM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w025",
+      "display": "Patch",
+      "grid_entry": "PATCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w026",
+      "display": "Quilt",
+      "grid_entry": "QUILT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w027",
+      "display": "Quilting",
+      "grid_entry": "QUILTING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w028",
+      "display": "Lace",
+      "grid_entry": "LACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w029",
+      "display": "Linen",
+      "grid_entry": "LINEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w030",
+      "display": "Wool",
+      "grid_entry": "WOOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w031",
+      "display": "Silk",
+      "grid_entry": "SILK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w032",
+      "display": "Denim",
+      "grid_entry": "DENIM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w033",
+      "display": "Canvas",
+      "grid_entry": "CANVAS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w034",
+      "display": "Muslin",
+      "grid_entry": "MUSLIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w035",
+      "display": "Calico",
+      "grid_entry": "CALICO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w036",
+      "display": "Velvet",
+      "grid_entry": "VELVET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w037",
+      "display": "Satin",
+      "grid_entry": "SATIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w038",
+      "display": "Twill",
+      "grid_entry": "TWILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w039",
+      "display": "Felt",
+      "grid_entry": "FELT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w040",
+      "display": "Fleece",
+      "grid_entry": "FLEECE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w041",
+      "display": "Jersey",
+      "grid_entry": "JERSEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w042",
+      "display": "Tartan",
+      "grid_entry": "TARTAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w043",
+      "display": "Plaid",
+      "grid_entry": "PLAID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w044",
+      "display": "Dye",
+      "grid_entry": "DYE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w045",
+      "display": "Colour",
+      "grid_entry": "COLOUR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w046",
+      "display": "Print",
+      "grid_entry": "PRINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w047",
+      "display": "Pattern",
+      "grid_entry": "PATTERN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w048",
+      "display": "Stripe",
+      "grid_entry": "STRIPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w049",
+      "display": "Check",
+      "grid_entry": "CHECK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w050",
+      "display": "Floral",
+      "grid_entry": "FLORAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w051",
+      "display": "Batik",
+      "grid_entry": "BATIK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w052",
+      "display": "Embroidery",
+      "grid_entry": "EMBROIDERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w053",
+      "display": "Applique",
+      "grid_entry": "APPLIQUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w054",
+      "display": "Button",
+      "grid_entry": "BUTTON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w055",
+      "display": "Zipper",
+      "grid_entry": "ZIPPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w056",
+      "display": "Fastener",
+      "grid_entry": "FASTENER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w057",
+      "display": "Elastic",
+      "grid_entry": "ELASTIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w058",
+      "display": "Ribbon",
+      "grid_entry": "RIBBON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w059",
+      "display": "Trim",
+      "grid_entry": "TRIM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w060",
+      "display": "Tassel",
+      "grid_entry": "TASSEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w061",
+      "display": "Fringe",
+      "grid_entry": "FRINGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w062",
+      "display": "Garment",
+      "grid_entry": "GARMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w063",
+      "display": "Shirt",
+      "grid_entry": "SHIRT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w064",
+      "display": "Dress",
+      "grid_entry": "DRESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w065",
+      "display": "Skirt",
+      "grid_entry": "SKIRT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w066",
+      "display": "Trouser",
+      "grid_entry": "TROUSER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w067",
+      "display": "Jacket",
+      "grid_entry": "JACKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w068",
+      "display": "Coat",
+      "grid_entry": "COAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w069",
+      "display": "Sock",
+      "grid_entry": "SOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w070",
+      "display": "Glove",
+      "grid_entry": "GLOVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w071",
+      "display": "Scarf",
+      "grid_entry": "SCARF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w072",
+      "display": "Hat",
+      "grid_entry": "HAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w073",
+      "display": "Apron",
+      "grid_entry": "APRON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w074",
+      "display": "Towel",
+      "grid_entry": "TOWEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w075",
+      "display": "Sheet",
+      "grid_entry": "SHEET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w076",
+      "display": "Curtain",
+      "grid_entry": "CURTAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w077",
+      "display": "Upholstery",
+      "grid_entry": "UPHOLSTERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w078",
+      "display": "Natural",
+      "grid_entry": "NATURAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w079",
+      "display": "Plant",
+      "grid_entry": "PLANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w080",
+      "display": "Boll",
+      "grid_entry": "BOLL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w081",
+      "display": "Seed",
+      "grid_entry": "SEED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w082",
+      "display": "Gin",
+      "grid_entry": "GIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w083",
+      "display": "Harvest",
+      "grid_entry": "HARVEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w084",
+      "display": "Spinning",
+      "grid_entry": "SPINNING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w085",
+      "display": "Mill",
+      "grid_entry": "MILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w086",
+      "display": "Fashion",
+      "grid_entry": "FASHION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w087",
+      "display": "Tailor",
+      "grid_entry": "TAILOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w088",
+      "display": "Dressmaker",
+      "grid_entry": "DRESSMAKER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w089",
+      "display": "Scotland",
+      "grid_entry": "SCOTLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w090",
+      "display": "Thistle",
+      "grid_entry": "THISTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w091",
+      "display": "Kilt",
+      "grid_entry": "KILT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w092",
+      "display": "Highland",
+      "grid_entry": "HIGHLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w093",
+      "display": "Ceilidh",
+      "grid_entry": "CEILIDH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w094",
+      "display": "Bagpipe",
+      "grid_entry": "BAGPIPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w095",
+      "display": "Loch",
+      "grid_entry": "LOCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w096",
+      "display": "Castle",
+      "grid_entry": "CASTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w097",
+      "display": "Gaelic",
+      "grid_entry": "GAELIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w098",
+      "display": "Whisky",
+      "grid_entry": "WHISKY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w099",
+      "display": "Haggis",
+      "grid_entry": "HAGGIS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-07-w100",
+      "display": "Clan",
+      "grid_entry": "CLAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

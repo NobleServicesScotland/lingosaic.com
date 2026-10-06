@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-19",
+  "date": "2026-12-19",
+  "daily_number": 65,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-19",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Hard candy & traditional sweets",
+    "occasion": "National Hard Candy Day"
+  },
+  "bonus": {
+    "title": "National Hard Candy Day",
+    "description": "A seasonal food observance centred on hard sweets, boiled candy and traditional confectionery."
+  },
+  "shape": {
+    "id": "candy-cane",
+    "name": "Candy cane",
+    "grid_file": "../shapes/2026-12-19-candy-cane.grid.json",
+    "svg_file": "../shapes/2026-12-19-candy-cane.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-19-hard-candy-traditional-sweets",
+    "file": "../dictionaries/2026-12-19-hard-candy-traditional-sweets.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###XXXXX#######",
+      "##XXXXXXX######",
+      "#XXXXXXXX######",
+      "##XXX.#XXX#####",
+      "###.#.#XX.#####",
+      "###O#I#.X.#####",
+      "###........####",
+      "###.#.#NX.#####",
+      "###.#.#.XX#####",
+      "#######XXX#####",
+      "#######XXX#####",
+      "#######XXX#####",
+      "#######XXX#####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 3,
+        "letter": "O"
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "I"
+      },
+      {
+        "row": 8,
+        "col": 7,
+        "letter": "N"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "1c915aa7fb93b4ed89df528b52bbd19c57a8b6f82df83d0fd645004955b15a72"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-05",
+  "date": "2026-12-05",
+  "daily_number": 51,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-05",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Soil, gardening & earth",
+    "occasion": "World Soil Day"
+  },
+  "bonus": {
+    "title": "World Soil Day",
+    "description": "World Soil Day highlights the importance of healthy soil for food, ecosystems, farming and biodiversity."
+  },
+  "shape": {
+    "id": "seedling",
+    "name": "Seedling",
+    "grid_file": "../shapes/2026-12-05-seedling.grid.json",
+    "svg_file": "../shapes/2026-12-05-seedling.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-05-soil-gardening-earth",
+    "file": "../dictionaries/2026-12-05-soil-gardening-earth.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "######XXX######",
+      "#####XXXXX#####",
+      "####XXXXXXX####",
+      "####XX.XXXX####",
+      "####.X.XXX.####",
+      "###X.X.XLX.####",
+      "####...S...X###",
+      "####.X.X.#.X###",
+      "####.X.X.X.####",
+      "####.X.XXXX####",
+      "####.##XXX#####",
+      "####.##XXX#####",
+      "#######XX######",
+      "#######XX######"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "L"
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "letter": "S"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "36b8fc7b5f9b98be670d435dddac644a89ef2b1e8011ca82b9b7046accbf0058"
+  }
+}

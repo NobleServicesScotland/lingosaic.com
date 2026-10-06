@@ -1,0 +1,532 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-06",
+  "date": "2027-01-06",
+  "theme": "Stars, kings & Epiphany",
+  "shape_id": "star",
+  "dictionary_id": "2027-01-06-stars-kings-epiphany",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-06",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#######*#######",
+    "#######*#######",
+    "######***######",
+    "######S*W######",
+    "#####*T*R*#####",
+    "NORTHPOLE*PAPER",
+    "#**O**C*A*R***#",
+    "##*Y**K*T*ELF##",
+    "###**BISHOP*###",
+    "###*S*N***A*###",
+    "###*TAG*J*R*###",
+    "###*A**HOPE*###",
+    "###TREE#Y***###",
+    "###**#####**###",
+    "###############",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "SWTRNORTHPOLEPAPEROCARYKTELFBISHOPSNATAGJRAHOPETREEY",
+  "solution_hash": "2401ebe9fb30cf6dc4334eb97c8082828065eb72f2dd31b08402af31e0fdcaad",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 8,
+      "letter": "W"
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "letter": "L"
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "letter": "J"
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "letter": "T"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 0
+        },
+        {
+          "row": 7,
+          "col": 1
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        }
+      ],
+      "answer": "NORTHPOLE"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 13
+        },
+        {
+          "row": 7,
+          "col": 14
+        }
+      ],
+      "answer": "PAPER"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "ELF"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ],
+      "answer": "BISHOP"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 6
+        }
+      ],
+      "answer": "TAG"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "HOPE"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        }
+      ],
+      "answer": "TREE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        }
+      ],
+      "answer": "STOCKING"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ],
+      "answer": "WREATH"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ],
+      "answer": "TOY"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "PREPARE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 4
+        }
+      ],
+      "answer": "STAR"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 8
+        }
+      ],
+      "answer": "JOY"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D3",
+      "row": 7,
+      "col": 3,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 7,
+      "col": 6,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 7,
+      "col": 8,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 7,
+      "col": 10,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D4",
+      "row": 9,
+      "col": 10,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D1",
+      "row": 10,
+      "col": 6,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D2",
+      "row": 10,
+      "col": 8,
+      "letter": "H"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 10,
+      "col": 10,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 12,
+      "col": 4,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D1",
+      "row": 12,
+      "col": 6,
+      "letter": "G"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 13,
+      "col": 8,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D4",
+      "row": 13,
+      "col": 10,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D5",
+      "row": 14,
+      "col": 4,
+      "letter": "R"
+    }
+  ],
+  "complexity": {
+    "slot_count": 13,
+    "across_slots": 7,
+    "down_slots": 6,
+    "crossings": 13,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 5,
+    "max_slot_crossings": 4,
+    "seed_letters": 4
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

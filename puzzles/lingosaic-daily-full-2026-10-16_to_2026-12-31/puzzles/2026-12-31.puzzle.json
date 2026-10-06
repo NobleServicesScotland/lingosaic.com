@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-31",
+  "date": "2026-12-31",
+  "daily_number": 77,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-31",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "New Year & celebrations",
+    "occasion": "New Year's Eve"
+  },
+  "bonus": {
+    "title": "New Year's Eve",
+    "description": "New Year's Eve closes the calendar year with countdowns, midnight celebrations, fireworks and resolutions."
+  },
+  "shape": {
+    "id": "firework",
+    "name": "Firework",
+    "grid_file": "../shapes/2026-12-31-firework.grid.json",
+    "svg_file": "../shapes/2026-12-31-firework.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-31-new-year-celebrations",
+    "file": "../dictionaries/2026-12-31-new-year-celebrations.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#######X#######",
+      "######.XX######",
+      "######.X.######",
+      "####.X.X.X#####",
+      "##.#OX.X.X.####",
+      "##A#AX.X.XL####",
+      "##..........###",
+      "##.#TX.X.X.####",
+      "##.##XXX.X.####",
+      "#####XXX.X#####",
+      "#####XXX.X#####",
+      "####XXXXXXX####",
+      "####XX###XX####",
+      "###X#######X###"
+    ],
+    "seed_letters": [
+      {
+        "row": 5,
+        "col": 4,
+        "letter": "O"
+      },
+      {
+        "row": 6,
+        "col": 2,
+        "letter": "A"
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "A"
+      },
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "L"
+      },
+      {
+        "row": 8,
+        "col": 4,
+        "letter": "T"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "54aa18918705484245b30f9ef81b6469fd3aa9e711672ad7ea077af124cf268b"
+  }
+}

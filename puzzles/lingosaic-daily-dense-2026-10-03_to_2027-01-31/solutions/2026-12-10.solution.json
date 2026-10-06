@@ -1,0 +1,574 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-12-10",
+  "date": "2026-12-10",
+  "theme": "Human rights & freedoms",
+  "shape_id": "raised-hand",
+  "dictionary_id": "2026-12-10-human-rights-freedoms",
+  "generator_seed": "dense-crossword-2.0.0:2026-12-10",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "########J*#####",
+    "########U*#####",
+    "######AID***###",
+    "#####***GIVE###",
+    "####****E*O*J*#",
+    "####***J**I*U*#",
+    "###L***U**C*R*#",
+    "###O*D*SAFETY*#",
+    "###COURT******#",
+    "###A#T*I**F*###",
+    "###L#Y*C**R*###",
+    "###*#*PEACE*###",
+    "#####*****E####",
+    "#####*WORLD####",
+    "#####*****O####",
+    "#####*FORUM####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "JUAIDGIVEEOJJIULUCRODSAFETYCOURTATIFLYCRPEACEEWORLDOFORUM",
+  "solution_hash": "08fa527b1988dc94d6309376809acf3b7c7ddc62b51fa0fe670b393d011aa0bf",
+  "seed_letters": [
+    {
+      "row": 10,
+      "col": 7,
+      "letter": "T"
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "letter": "T"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        }
+      ],
+      "answer": "AID"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 11
+        }
+      ],
+      "answer": "GIVE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "SAFETY"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        }
+      ],
+      "answer": "COURT"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "PEACE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 10
+        }
+      ],
+      "answer": "WORLD"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 17,
+          "col": 6
+        },
+        {
+          "row": 17,
+          "col": 7
+        },
+        {
+          "row": 17,
+          "col": 8
+        },
+        {
+          "row": 17,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 10
+        }
+      ],
+      "answer": "FORUM"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        }
+      ],
+      "answer": "LOCAL"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        }
+      ],
+      "answer": "DUTY"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        }
+      ],
+      "answer": "JUSTICE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "JUDGE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "VOICE"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 10
+        },
+        {
+          "row": 15,
+          "col": 10
+        },
+        {
+          "row": 16,
+          "col": 10
+        },
+        {
+          "row": 17,
+          "col": 10
+        }
+      ],
+      "answer": "FREEDOM"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "JURY"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 4,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "D"
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "slot_a": "A2",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 3,
+      "letter": "G"
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "slot_a": "A2",
+      "slot_a_index": 2,
+      "slot_b": "D5",
+      "slot_b_index": 0,
+      "letter": "V"
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "S"
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 9,
+      "col": 12,
+      "slot_a": "A3",
+      "slot_a_index": 5,
+      "slot_b": "D7",
+      "slot_b_index": 3,
+      "letter": "Y"
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "slot_a": "A4",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "C"
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "U"
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "slot_a": "A4",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 1,
+      "slot_b": "D3",
+      "slot_b_index": 6,
+      "letter": "E"
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "slot_a": "A5",
+      "slot_a_index": 4,
+      "slot_b": "D6",
+      "slot_b_index": 2,
+      "letter": "E"
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "slot_a": "A6",
+      "slot_a_index": 4,
+      "slot_b": "D6",
+      "slot_b_index": 4,
+      "letter": "D"
+    },
+    {
+      "row": 17,
+      "col": 10,
+      "slot_a": "A7",
+      "slot_a_index": 4,
+      "slot_b": "D6",
+      "slot_b_index": 6,
+      "letter": "M"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 14,
+    "across_slots": 7,
+    "down_slots": 7,
+    "crossings": 13,
+    "average_crossings_per_slot": 1.86,
+    "leaf_slots": 6,
+    "max_slot_crossings": 3,
+    "seed_letters": 2
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    1
+  ]
+}

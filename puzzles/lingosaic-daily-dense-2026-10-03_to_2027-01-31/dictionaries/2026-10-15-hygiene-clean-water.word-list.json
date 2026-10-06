@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-10-15-hygiene-clean-water",
+  "theme": {
+    "id": "hygiene-clean-water",
+    "name": "Hygiene & clean water",
+    "definition": "Single-word English entries directly associated with hygiene & clean water."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-10-15-w001",
+      "display": "Hygiene",
+      "grid_entry": "HYGIENE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w002",
+      "display": "Clean",
+      "grid_entry": "CLEAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w003",
+      "display": "Cleaning",
+      "grid_entry": "CLEANING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w004",
+      "display": "Wash",
+      "grid_entry": "WASH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w005",
+      "display": "Hand",
+      "grid_entry": "HAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w006",
+      "display": "Hands",
+      "grid_entry": "HANDS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w007",
+      "display": "Soap",
+      "grid_entry": "SOAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w008",
+      "display": "Water",
+      "grid_entry": "WATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w009",
+      "display": "Tap",
+      "grid_entry": "TAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w010",
+      "display": "Basin",
+      "grid_entry": "BASIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w011",
+      "display": "Sink",
+      "grid_entry": "SINK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w012",
+      "display": "Shower",
+      "grid_entry": "SHOWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w013",
+      "display": "Bath",
+      "grid_entry": "BATH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w014",
+      "display": "Towel",
+      "grid_entry": "TOWEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w015",
+      "display": "Brush",
+      "grid_entry": "BRUSH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w016",
+      "display": "Scrub",
+      "grid_entry": "SCRUB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w017",
+      "display": "Rinse",
+      "grid_entry": "RINSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w018",
+      "display": "Dry",
+      "grid_entry": "DRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w019",
+      "display": "Sanitise",
+      "grid_entry": "SANITISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w020",
+      "display": "Sanitizer",
+      "grid_entry": "SANITIZER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w021",
+      "display": "Disinfect",
+      "grid_entry": "DISINFECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w022",
+      "display": "Disinfectant",
+      "grid_entry": "DISINFECTANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w023",
+      "display": "Germ",
+      "grid_entry": "GERM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w024",
+      "display": "Bacteria",
+      "grid_entry": "BACTERIA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w025",
+      "display": "Virus",
+      "grid_entry": "VIRUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w026",
+      "display": "Microbe",
+      "grid_entry": "MICROBE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w027",
+      "display": "Health",
+      "grid_entry": "HEALTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w028",
+      "display": "Healthy",
+      "grid_entry": "HEALTHY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w029",
+      "display": "Safe",
+      "grid_entry": "SAFE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w030",
+      "display": "Safety",
+      "grid_entry": "SAFETY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w031",
+      "display": "Drink",
+      "grid_entry": "DRINK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w032",
+      "display": "Drinking",
+      "grid_entry": "DRINKING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w033",
+      "display": "Filter",
+      "grid_entry": "FILTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w034",
+      "display": "Filtration",
+      "grid_entry": "FILTRATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w035",
+      "display": "Purify",
+      "grid_entry": "PURIFY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w036",
+      "display": "Purity",
+      "grid_entry": "PURITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w037",
+      "display": "Fresh",
+      "grid_entry": "FRESH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w038",
+      "display": "Supply",
+      "grid_entry": "SUPPLY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w039",
+      "display": "Pipe",
+      "grid_entry": "PIPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w040",
+      "display": "Pump",
+      "grid_entry": "PUMP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w041",
+      "display": "Drain",
+      "grid_entry": "DRAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w042",
+      "display": "Sewer",
+      "grid_entry": "SEWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w043",
+      "display": "Toilet",
+      "grid_entry": "TOILET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w044",
+      "display": "Flush",
+      "grid_entry": "FLUSH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w045",
+      "display": "Cistern",
+      "grid_entry": "CISTERN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w046",
+      "display": "Plumber",
+      "grid_entry": "PLUMBER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w047",
+      "display": "Sanitation",
+      "grid_entry": "SANITATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w048",
+      "display": "Wastewater",
+      "grid_entry": "WASTEWATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w049",
+      "display": "Chlorine",
+      "grid_entry": "CHLORINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w050",
+      "display": "Boil",
+      "grid_entry": "BOIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w051",
+      "display": "Lather",
+      "grid_entry": "LATHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w052",
+      "display": "Foam",
+      "grid_entry": "FOAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w053",
+      "display": "Nail",
+      "grid_entry": "NAIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w054",
+      "display": "Palm",
+      "grid_entry": "PALM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w055",
+      "display": "Finger",
+      "grid_entry": "FINGER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w056",
+      "display": "Thumb",
+      "grid_entry": "THUMB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w057",
+      "display": "Wrist",
+      "grid_entry": "WRIST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w058",
+      "display": "Skin",
+      "grid_entry": "SKIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w059",
+      "display": "Dental",
+      "grid_entry": "DENTAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w060",
+      "display": "Tooth",
+      "grid_entry": "TOOTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w061",
+      "display": "Toothbrush",
+      "grid_entry": "TOOTHBRUSH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w062",
+      "display": "Paste",
+      "grid_entry": "PASTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w063",
+      "display": "Floss",
+      "grid_entry": "FLOSS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w064",
+      "display": "Kitchen",
+      "grid_entry": "KITCHEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w065",
+      "display": "Food",
+      "grid_entry": "FOOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w066",
+      "display": "Cleanliness",
+      "grid_entry": "CLEANLINESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w067",
+      "display": "Routine",
+      "grid_entry": "ROUTINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w068",
+      "display": "Prevent",
+      "grid_entry": "PREVENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w069",
+      "display": "Prevention",
+      "grid_entry": "PREVENTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w070",
+      "display": "Infection",
+      "grid_entry": "INFECTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w071",
+      "display": "Public",
+      "grid_entry": "PUBLIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w072",
+      "display": "Community",
+      "grid_entry": "COMMUNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w073",
+      "display": "Well",
+      "grid_entry": "WELL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w074",
+      "display": "Waterworks",
+      "grid_entry": "WATERWORKS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w075",
+      "display": "Reservoir",
+      "grid_entry": "RESERVOIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w076",
+      "display": "River",
+      "grid_entry": "RIVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w077",
+      "display": "Source",
+      "grid_entry": "SOURCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w078",
+      "display": "Valve",
+      "grid_entry": "VALVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w079",
+      "display": "Wrench",
+      "grid_entry": "WRENCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w080",
+      "display": "Joint",
+      "grid_entry": "JOINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w081",
+      "display": "Fitting",
+      "grid_entry": "FITTING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w082",
+      "display": "Tank",
+      "grid_entry": "TANK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w083",
+      "display": "Mains",
+      "grid_entry": "MAINS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w084",
+      "display": "Flow",
+      "grid_entry": "FLOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w085",
+      "display": "Leak",
+      "grid_entry": "LEAK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w086",
+      "display": "Pressure",
+      "grid_entry": "PRESSURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w087",
+      "display": "Gauge",
+      "grid_entry": "GAUGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w088",
+      "display": "Meter",
+      "grid_entry": "METER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w089",
+      "display": "Hose",
+      "grid_entry": "HOSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w090",
+      "display": "Trap",
+      "grid_entry": "TRAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w091",
+      "display": "Upipe",
+      "grid_entry": "UPIPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w092",
+      "display": "Bend",
+      "grid_entry": "BEND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w093",
+      "display": "Coupling",
+      "grid_entry": "COUPLING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w094",
+      "display": "Thread",
+      "grid_entry": "THREAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w095",
+      "display": "Seal",
+      "grid_entry": "SEAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w096",
+      "display": "Washer",
+      "grid_entry": "WASHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w097",
+      "display": "Stopcock",
+      "grid_entry": "STOPCOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w098",
+      "display": "Faucet",
+      "grid_entry": "FAUCET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w099",
+      "display": "Spout",
+      "grid_entry": "SPOUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-15-w100",
+      "display": "Overflow",
+      "grid_entry": "OVERFLOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

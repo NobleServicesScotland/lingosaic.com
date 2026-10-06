@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-12-22-cookies-biscuits",
+  "theme": {
+    "id": "cookies-biscuits",
+    "name": "Cookies & biscuits",
+    "definition": "Single-word English entries directly associated with cookies & biscuits."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-12-22-w001",
+      "display": "Cookie",
+      "grid_entry": "COOKIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w002",
+      "display": "Biscuit",
+      "grid_entry": "BISCUIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w003",
+      "display": "Ginger",
+      "grid_entry": "GINGER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w004",
+      "display": "Chocolate",
+      "grid_entry": "CHOCOLATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w005",
+      "display": "OAT",
+      "grid_entry": "OAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w006",
+      "display": "Butter",
+      "grid_entry": "BUTTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w007",
+      "display": "Sugar",
+      "grid_entry": "SUGAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w008",
+      "display": "Flour",
+      "grid_entry": "FLOUR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w009",
+      "display": "Bake",
+      "grid_entry": "BAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w010",
+      "display": "Dough",
+      "grid_entry": "DOUGH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w011",
+      "display": "Crunch",
+      "grid_entry": "CRUNCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w012",
+      "display": "Icing",
+      "grid_entry": "ICING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w013",
+      "display": "Shortbread",
+      "grid_entry": "SHORTBREAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w014",
+      "display": "Vanilla",
+      "grid_entry": "VANILLA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w015",
+      "display": "TIN",
+      "grid_entry": "TIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w016",
+      "display": "Crumb",
+      "grid_entry": "CRUMB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w017",
+      "display": "Dessert",
+      "grid_entry": "DESSERT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w018",
+      "display": "Pudding",
+      "grid_entry": "PUDDING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w019",
+      "display": "Custard",
+      "grid_entry": "CUSTARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w020",
+      "display": "Crumble",
+      "grid_entry": "CRUMBLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w021",
+      "display": "Trifle",
+      "grid_entry": "TRIFLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w022",
+      "display": "Sponge",
+      "grid_entry": "SPONGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w023",
+      "display": "Treacle",
+      "grid_entry": "TREACLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w024",
+      "display": "Apple",
+      "grid_entry": "APPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w025",
+      "display": "Rhubarb",
+      "grid_entry": "RHUBARB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w026",
+      "display": "Tart",
+      "grid_entry": "TART",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w027",
+      "display": "PIE",
+      "grid_entry": "PIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w028",
+      "display": "Cream",
+      "grid_entry": "CREAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w029",
+      "display": "Sago",
+      "grid_entry": "SAGO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w030",
+      "display": "Rice",
+      "grid_entry": "RICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w031",
+      "display": "Jelly",
+      "grid_entry": "JELLY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w032",
+      "display": "Fool",
+      "grid_entry": "FOOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w033",
+      "display": "Bakewell",
+      "grid_entry": "BAKEWELL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w034",
+      "display": "Parfait",
+      "grid_entry": "PARFAIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w035",
+      "display": "Yogurt",
+      "grid_entry": "YOGURT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w036",
+      "display": "Fruit",
+      "grid_entry": "FRUIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w037",
+      "display": "Berry",
+      "grid_entry": "BERRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w038",
+      "display": "Granola",
+      "grid_entry": "GRANOLA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w039",
+      "display": "Layer",
+      "grid_entry": "LAYER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w040",
+      "display": "Spoon",
+      "grid_entry": "SPOON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w041",
+      "display": "Glass",
+      "grid_entry": "GLASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w042",
+      "display": "Syrup",
+      "grid_entry": "SYRUP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w043",
+      "display": "NUT",
+      "grid_entry": "NUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w044",
+      "display": "Honey",
+      "grid_entry": "HONEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w045",
+      "display": "Strawberry",
+      "grid_entry": "STRAWBERRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w046",
+      "display": "Raspberry",
+      "grid_entry": "RASPBERRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w047",
+      "display": "Blueberry",
+      "grid_entry": "BLUEBERRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w048",
+      "display": "Banana",
+      "grid_entry": "BANANA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w049",
+      "display": "Peach",
+      "grid_entry": "PEACH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w050",
+      "display": "Mango",
+      "grid_entry": "MANGO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w051",
+      "display": "Cherry",
+      "grid_entry": "CHERRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w052",
+      "display": "Coconut",
+      "grid_entry": "COCONUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w053",
+      "display": "Almond",
+      "grid_entry": "ALMOND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w054",
+      "display": "Walnut",
+      "grid_entry": "WALNUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w055",
+      "display": "Pecan",
+      "grid_entry": "PECAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w056",
+      "display": "Mousse",
+      "grid_entry": "MOUSSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w057",
+      "display": "Gelato",
+      "grid_entry": "GELATO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w058",
+      "display": "Sorbet",
+      "grid_entry": "SORBET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w059",
+      "display": "Compote",
+      "grid_entry": "COMPOTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w060",
+      "display": "Coulis",
+      "grid_entry": "COULIS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w061",
+      "display": "Caramel",
+      "grid_entry": "CARAMEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w062",
+      "display": "Toffee",
+      "grid_entry": "TOFFEE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w063",
+      "display": "Fudge",
+      "grid_entry": "FUDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w064",
+      "display": "Meringue",
+      "grid_entry": "MERINGUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w065",
+      "display": "Whipped",
+      "grid_entry": "WHIPPED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w066",
+      "display": "Chilled",
+      "grid_entry": "CHILLED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w067",
+      "display": "Frozen",
+      "grid_entry": "FROZEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w068",
+      "display": "Sweet",
+      "grid_entry": "SWEET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w069",
+      "display": "Garnish",
+      "grid_entry": "GARNISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w070",
+      "display": "Mint",
+      "grid_entry": "MINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w071",
+      "display": "Brownie",
+      "grid_entry": "BROWNIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w072",
+      "display": "Cocoa",
+      "grid_entry": "COCOA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w073",
+      "display": "EGG",
+      "grid_entry": "EGG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w074",
+      "display": "Oven",
+      "grid_entry": "OVEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w075",
+      "display": "Batter",
+      "grid_entry": "BATTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w076",
+      "display": "Slice",
+      "grid_entry": "SLICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w077",
+      "display": "Ganache",
+      "grid_entry": "GANACHE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w078",
+      "display": "Cheesecake",
+      "grid_entry": "CHEESECAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w079",
+      "display": "Pavlova",
+      "grid_entry": "PAVLOVA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w080",
+      "display": "Posset",
+      "grid_entry": "POSSET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w081",
+      "display": "Baker",
+      "grid_entry": "BAKER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w082",
+      "display": "Baking",
+      "grid_entry": "BAKING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w083",
+      "display": "Milk",
+      "grid_entry": "MILK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w084",
+      "display": "Cheese",
+      "grid_entry": "CHEESE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w085",
+      "display": "Bread",
+      "grid_entry": "BREAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w086",
+      "display": "Yeast",
+      "grid_entry": "YEAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w087",
+      "display": "Crust",
+      "grid_entry": "CRUST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w088",
+      "display": "Wheat",
+      "grid_entry": "WHEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w089",
+      "display": "RYE",
+      "grid_entry": "RYE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w090",
+      "display": "Barley",
+      "grid_entry": "BARLEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w091",
+      "display": "Oats",
+      "grid_entry": "OATS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w092",
+      "display": "MIX",
+      "grid_entry": "MIX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w093",
+      "display": "Whisk",
+      "grid_entry": "WHISK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w094",
+      "display": "Stir",
+      "grid_entry": "STIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w095",
+      "display": "Fold",
+      "grid_entry": "FOLD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w096",
+      "display": "Knead",
+      "grid_entry": "KNEAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w097",
+      "display": "Proof",
+      "grid_entry": "PROOF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w098",
+      "display": "Rise",
+      "grid_entry": "RISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w099",
+      "display": "Roast",
+      "grid_entry": "ROAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-22-w100",
+      "display": "Grill",
+      "grid_entry": "GRILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

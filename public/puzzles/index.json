@@ -1,0 +1,607 @@
+[
+  {
+    "id": "daily-2026-10-03",
+    "date": "2026-10-03",
+    "theme": "Cards & stationery"
+  },
+  {
+    "id": "daily-2026-10-04",
+    "date": "2026-10-04",
+    "theme": "Animals & wildlife"
+  },
+  {
+    "id": "daily-2026-10-05",
+    "date": "2026-10-05",
+    "theme": "School & teaching"
+  },
+  {
+    "id": "daily-2026-10-06",
+    "date": "2026-10-06",
+    "theme": "Pasta & noodles"
+  },
+  {
+    "id": "daily-2026-10-07",
+    "date": "2026-10-07",
+    "theme": "Textiles & cotton"
+  },
+  {
+    "id": "daily-2026-10-08",
+    "date": "2026-10-08",
+    "theme": "Ocean life"
+  },
+  {
+    "id": "daily-2026-10-09",
+    "date": "2026-10-09",
+    "theme": "Mail & postage"
+  },
+  {
+    "id": "daily-2026-10-10",
+    "date": "2026-10-10",
+    "theme": "Calm & wellbeing"
+  },
+  {
+    "id": "daily-2026-10-11",
+    "date": "2026-10-11",
+    "theme": "Childhood & learning"
+  },
+  {
+    "id": "daily-2026-10-12",
+    "date": "2026-10-12",
+    "theme": "Farming & harvest"
+  },
+  {
+    "id": "daily-2026-10-13",
+    "date": "2026-10-13",
+    "theme": "Computing & inventions"
+  },
+  {
+    "id": "daily-2026-10-14",
+    "date": "2026-10-14",
+    "theme": "Measurement & standards"
+  },
+  {
+    "id": "daily-2026-10-15",
+    "date": "2026-10-15",
+    "theme": "Hygiene & clean water"
+  },
+  {
+    "id": "daily-2026-10-16",
+    "date": "2026-10-16",
+    "theme": "Bread & baking"
+  },
+  {
+    "id": "daily-2026-10-17",
+    "date": "2026-10-17",
+    "theme": "Pasta & Italian cooking"
+  },
+  {
+    "id": "daily-2026-10-18",
+    "date": "2026-10-18",
+    "theme": "African wildlife"
+  },
+  {
+    "id": "daily-2026-10-19",
+    "date": "2026-10-19",
+    "theme": "Seafood & coastal cooking"
+  },
+  {
+    "id": "daily-2026-10-20",
+    "date": "2026-10-20",
+    "theme": "Rainforest animals"
+  },
+  {
+    "id": "daily-2026-10-21",
+    "date": "2026-10-21",
+    "theme": "Apples & orchards"
+  },
+  {
+    "id": "daily-2026-10-22",
+    "date": "2026-10-22",
+    "theme": "Nuts & seeds"
+  },
+  {
+    "id": "daily-2026-10-23",
+    "date": "2026-10-23",
+    "theme": "Big cats & snow leopards"
+  },
+  {
+    "id": "daily-2026-10-24",
+    "date": "2026-10-24",
+    "theme": "Countries & diplomacy"
+  },
+  {
+    "id": "daily-2026-10-25",
+    "date": "2026-10-25",
+    "theme": "Clocks, time & daylight"
+  },
+  {
+    "id": "daily-2026-10-26",
+    "date": "2026-10-26",
+    "theme": "Pumpkins & squashes"
+  },
+  {
+    "id": "daily-2026-10-27",
+    "date": "2026-10-27",
+    "theme": "Film, sound & recording"
+  },
+  {
+    "id": "daily-2026-10-28",
+    "date": "2026-10-28",
+    "theme": "Chocolate & confectionery"
+  },
+  {
+    "id": "daily-2026-10-29",
+    "date": "2026-10-29",
+    "theme": "Caregiving & helping professions"
+  },
+  {
+    "id": "daily-2026-10-30",
+    "date": "2026-10-30",
+    "theme": "Classic monsters & horror"
+  },
+  {
+    "id": "daily-2026-10-31",
+    "date": "2026-10-31",
+    "theme": "Halloween"
+  },
+  {
+    "id": "daily-2026-11-01",
+    "date": "2026-11-01",
+    "theme": "Saints, churches & pilgrimage"
+  },
+  {
+    "id": "daily-2026-11-02",
+    "date": "2026-11-02",
+    "theme": "Remembrance & memorials"
+  },
+  {
+    "id": "daily-2026-11-03",
+    "date": "2026-11-03",
+    "theme": "Sandwiches & fillings"
+  },
+  {
+    "id": "daily-2026-11-04",
+    "date": "2026-11-04",
+    "theme": "Sweets & candy"
+  },
+  {
+    "id": "daily-2026-11-05",
+    "date": "2026-11-05",
+    "theme": "Fireworks & bonfires"
+  },
+  {
+    "id": "daily-2026-11-06",
+    "date": "2026-11-06",
+    "theme": "Saxophone & jazz"
+  },
+  {
+    "id": "daily-2026-11-07",
+    "date": "2026-11-07",
+    "theme": "Bison & North American wildlife"
+  },
+  {
+    "id": "daily-2026-11-08",
+    "date": "2026-11-08",
+    "theme": "STEM & inventions"
+  },
+  {
+    "id": "daily-2026-11-09",
+    "date": "2026-11-09",
+    "theme": "British puddings & desserts"
+  },
+  {
+    "id": "daily-2026-11-10",
+    "date": "2026-11-10",
+    "theme": "Science & discovery"
+  },
+  {
+    "id": "daily-2026-11-11",
+    "date": "2026-11-11",
+    "theme": "Remembrance & service"
+  },
+  {
+    "id": "daily-2026-11-12",
+    "date": "2026-11-12",
+    "theme": "Lungs & breathing"
+  },
+  {
+    "id": "daily-2026-11-13",
+    "date": "2026-11-13",
+    "theme": "Kindness & helping others"
+  },
+  {
+    "id": "daily-2026-11-14",
+    "date": "2026-11-14",
+    "theme": "Pickles & preserves"
+  },
+  {
+    "id": "daily-2026-11-15",
+    "date": "2026-11-15",
+    "theme": "Recycling & reuse"
+  },
+  {
+    "id": "daily-2026-11-16",
+    "date": "2026-11-16",
+    "theme": "World cultures & tolerance"
+  },
+  {
+    "id": "daily-2026-11-17",
+    "date": "2026-11-17",
+    "theme": "Students & university life"
+  },
+  {
+    "id": "daily-2026-11-18",
+    "date": "2026-11-18",
+    "theme": "Microbes, antibiotics & medicine"
+  },
+  {
+    "id": "daily-2026-11-19",
+    "date": "2026-11-19",
+    "theme": "Water, sanitation & plumbing"
+  },
+  {
+    "id": "daily-2026-11-20",
+    "date": "2026-11-20",
+    "theme": "Childhood & play"
+  },
+  {
+    "id": "daily-2026-11-21",
+    "date": "2026-11-21",
+    "theme": "Television & broadcasting"
+  },
+  {
+    "id": "daily-2026-11-22",
+    "date": "2026-11-22",
+    "theme": "Music & musicians"
+  },
+  {
+    "id": "daily-2026-11-23",
+    "date": "2026-11-23",
+    "theme": "Mathematics & number patterns"
+  },
+  {
+    "id": "daily-2026-11-24",
+    "date": "2026-11-24",
+    "theme": "Evolution & natural history"
+  },
+  {
+    "id": "daily-2026-11-25",
+    "date": "2026-11-25",
+    "theme": "Desserts & parfaits"
+  },
+  {
+    "id": "daily-2026-11-26",
+    "date": "2026-11-26",
+    "theme": "Thanksgiving food & traditions"
+  },
+  {
+    "id": "daily-2026-11-27",
+    "date": "2026-11-27",
+    "theme": "Shopping, retail & bargains"
+  },
+  {
+    "id": "daily-2026-11-28",
+    "date": "2026-11-28",
+    "theme": "Mars & planetary exploration"
+  },
+  {
+    "id": "daily-2026-11-29",
+    "date": "2026-11-29",
+    "theme": "Advent & Christmas preparation"
+  },
+  {
+    "id": "daily-2026-11-30",
+    "date": "2026-11-30",
+    "theme": "Scotland & Scottish culture"
+  },
+  {
+    "id": "daily-2026-12-01",
+    "date": "2026-12-01",
+    "theme": "Giving & charity"
+  },
+  {
+    "id": "daily-2026-12-02",
+    "date": "2026-12-02",
+    "theme": "Freedom & human rights"
+  },
+  {
+    "id": "daily-2026-12-03",
+    "date": "2026-12-03",
+    "theme": "Accessibility & inclusion"
+  },
+  {
+    "id": "daily-2026-12-04",
+    "date": "2026-12-04",
+    "theme": "Banks, money & finance"
+  },
+  {
+    "id": "daily-2026-12-05",
+    "date": "2026-12-05",
+    "theme": "Soil, gardening & earth"
+  },
+  {
+    "id": "daily-2026-12-06",
+    "date": "2026-12-06",
+    "theme": "St Nicholas, gifts & winter traditions"
+  },
+  {
+    "id": "daily-2026-12-07",
+    "date": "2026-12-07",
+    "theme": "Aviation & airports"
+  },
+  {
+    "id": "daily-2026-12-08",
+    "date": "2026-12-08",
+    "theme": "Brownies & baking"
+  },
+  {
+    "id": "daily-2026-12-09",
+    "date": "2026-12-09",
+    "theme": "Honesty, law & public service"
+  },
+  {
+    "id": "daily-2026-12-10",
+    "date": "2026-12-10",
+    "theme": "Human rights & freedoms"
+  },
+  {
+    "id": "daily-2026-12-11",
+    "date": "2026-12-11",
+    "theme": "Mountains & mountaineering"
+  },
+  {
+    "id": "daily-2026-12-12",
+    "date": "2026-12-12",
+    "theme": "Winter flowers & festive plants"
+  },
+  {
+    "id": "daily-2026-12-13",
+    "date": "2026-12-13",
+    "theme": "Candles, light & Scandinavian winter"
+  },
+  {
+    "id": "daily-2026-12-14",
+    "date": "2026-12-14",
+    "theme": "Monkeys & primates"
+  },
+  {
+    "id": "daily-2026-12-15",
+    "date": "2026-12-15",
+    "theme": "Languages & alphabets"
+  },
+  {
+    "id": "daily-2026-12-16",
+    "date": "2026-12-16",
+    "theme": "Jane Austen & Regency England"
+  },
+  {
+    "id": "daily-2026-12-17",
+    "date": "2026-12-17",
+    "theme": "Aviation pioneers & early flight"
+  },
+  {
+    "id": "daily-2026-12-18",
+    "date": "2026-12-18",
+    "theme": "Migration, travel & journeys"
+  },
+  {
+    "id": "daily-2026-12-19",
+    "date": "2026-12-19",
+    "theme": "Hard candy & traditional sweets"
+  },
+  {
+    "id": "daily-2026-12-20",
+    "date": "2026-12-20",
+    "theme": "Community & cooperation"
+  },
+  {
+    "id": "daily-2026-12-21",
+    "date": "2026-12-21",
+    "theme": "Winter & the solstice"
+  },
+  {
+    "id": "daily-2026-12-22",
+    "date": "2026-12-22",
+    "theme": "Cookies & biscuits"
+  },
+  {
+    "id": "daily-2026-12-23",
+    "date": "2026-12-23",
+    "theme": "Unusual festive traditions"
+  },
+  {
+    "id": "daily-2026-12-24",
+    "date": "2026-12-24",
+    "theme": "Christmas Eve & Santa preparations"
+  },
+  {
+    "id": "daily-2026-12-25",
+    "date": "2026-12-25",
+    "theme": "Christmas Day"
+  },
+  {
+    "id": "daily-2026-12-26",
+    "date": "2026-12-26",
+    "theme": "Boxing Day & British holiday traditions"
+  },
+  {
+    "id": "daily-2026-12-27",
+    "date": "2026-12-27",
+    "theme": "Public health & emergency preparedness"
+  },
+  {
+    "id": "daily-2026-12-28",
+    "date": "2026-12-28",
+    "theme": "Cinema & filmmaking"
+  },
+  {
+    "id": "daily-2026-12-29",
+    "date": "2026-12-29",
+    "theme": "Medieval England & cathedrals"
+  },
+  {
+    "id": "daily-2026-12-30",
+    "date": "2026-12-30",
+    "theme": "Jungle animals & adventure stories"
+  },
+  {
+    "id": "daily-2026-12-31",
+    "date": "2026-12-31",
+    "theme": "New Year & celebrations"
+  },
+  {
+    "id": "daily-2027-01-01",
+    "date": "2027-01-01",
+    "theme": "New Year & celebrations"
+  },
+  {
+    "id": "daily-2027-01-02",
+    "date": "2027-01-02",
+    "theme": "Space & science fiction"
+  },
+  {
+    "id": "daily-2027-01-03",
+    "date": "2027-01-03",
+    "theme": "Fantasy & storytelling"
+  },
+  {
+    "id": "daily-2027-01-04",
+    "date": "2027-01-04",
+    "theme": "Accessibility & Braille"
+  },
+  {
+    "id": "daily-2027-01-05",
+    "date": "2027-01-05",
+    "theme": "Birds & birdwatching"
+  },
+  {
+    "id": "daily-2027-01-06",
+    "date": "2027-01-06",
+    "theme": "Stars, kings & Epiphany"
+  },
+  {
+    "id": "daily-2027-01-07",
+    "date": "2027-01-07",
+    "theme": "Winter traditions"
+  },
+  {
+    "id": "daily-2027-01-08",
+    "date": "2027-01-08",
+    "theme": "Rock & roll music"
+  },
+  {
+    "id": "daily-2027-01-09",
+    "date": "2027-01-09",
+    "theme": "Words & language"
+  },
+  {
+    "id": "daily-2027-01-10",
+    "date": "2027-01-10",
+    "theme": "Houseplants & indoor gardening"
+  },
+  {
+    "id": "daily-2027-01-11",
+    "date": "2027-01-11",
+    "theme": "Kindness & gratitude"
+  },
+  {
+    "id": "daily-2027-01-12",
+    "date": "2027-01-12",
+    "theme": "Pharmacy & medicine"
+  },
+  {
+    "id": "daily-2027-01-13",
+    "date": "2027-01-13",
+    "theme": "Stories & imagination"
+  },
+  {
+    "id": "daily-2027-01-14",
+    "date": "2027-01-14",
+    "theme": "Pets & companion animals"
+  },
+  {
+    "id": "daily-2027-01-15",
+    "date": "2027-01-15",
+    "theme": "Hats & headwear"
+  },
+  {
+    "id": "daily-2027-01-16",
+    "date": "2027-01-16",
+    "theme": "Spices & hot food"
+  },
+  {
+    "id": "daily-2027-01-17",
+    "date": "2027-01-17",
+    "theme": "Inventions & printing"
+  },
+  {
+    "id": "daily-2027-01-18",
+    "date": "2027-01-18",
+    "theme": "Children's stories"
+  },
+  {
+    "id": "daily-2027-01-19",
+    "date": "2027-01-19",
+    "theme": "Cinema snacks"
+  },
+  {
+    "id": "daily-2027-01-20",
+    "date": "2027-01-20",
+    "theme": "Polar wildlife"
+  },
+  {
+    "id": "daily-2027-01-21",
+    "date": "2027-01-21",
+    "theme": "Woodland wildlife"
+  },
+  {
+    "id": "daily-2027-01-22",
+    "date": "2027-01-22",
+    "theme": "Celebration & joy"
+  },
+  {
+    "id": "daily-2027-01-23",
+    "date": "2027-01-23",
+    "theme": "Pies & baking"
+  },
+  {
+    "id": "daily-2027-01-24",
+    "date": "2027-01-24",
+    "theme": "Education & learning"
+  },
+  {
+    "id": "daily-2027-01-25",
+    "date": "2027-01-25",
+    "theme": "Scotland & Burns Night"
+  },
+  {
+    "id": "daily-2027-01-26",
+    "date": "2027-01-26",
+    "theme": "Clean energy & electricity"
+  },
+  {
+    "id": "daily-2027-01-27",
+    "date": "2027-01-27",
+    "theme": "Chocolate & cake"
+  },
+  {
+    "id": "daily-2027-01-28",
+    "date": "2027-01-28",
+    "theme": "Computers & data privacy"
+  },
+  {
+    "id": "daily-2027-01-29",
+    "date": "2027-01-29",
+    "theme": "Puzzles & brain games"
+  },
+  {
+    "id": "daily-2027-01-30",
+    "date": "2027-01-30",
+    "theme": "Bread & pastries"
+  },
+  {
+    "id": "daily-2027-01-31",
+    "date": "2027-01-31",
+    "theme": "African wildlife"
+  }
+]

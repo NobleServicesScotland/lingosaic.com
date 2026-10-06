@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-25-scotland-burns-night",
+  "theme": {
+    "id": "scotland-burns-night",
+    "name": "Scotland & Burns Night",
+    "definition": "Single-word English entries directly associated with scotland & burns night."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-25-w001",
+      "display": "Scotland",
+      "grid_entry": "SCOTLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w002",
+      "display": "Thistle",
+      "grid_entry": "THISTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w003",
+      "display": "Tartan",
+      "grid_entry": "TARTAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w004",
+      "display": "Kilt",
+      "grid_entry": "KILT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w005",
+      "display": "Highland",
+      "grid_entry": "HIGHLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w006",
+      "display": "Ceilidh",
+      "grid_entry": "CEILIDH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w007",
+      "display": "Bagpipe",
+      "grid_entry": "BAGPIPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w008",
+      "display": "Loch",
+      "grid_entry": "LOCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w009",
+      "display": "Castle",
+      "grid_entry": "CASTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w010",
+      "display": "Gaelic",
+      "grid_entry": "GAELIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w011",
+      "display": "Whisky",
+      "grid_entry": "WHISKY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w012",
+      "display": "Haggis",
+      "grid_entry": "HAGGIS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w013",
+      "display": "Clan",
+      "grid_entry": "CLAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w014",
+      "display": "Heather",
+      "grid_entry": "HEATHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w015",
+      "display": "Stag",
+      "grid_entry": "STAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w016",
+      "display": "Glen",
+      "grid_entry": "GLEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w017",
+      "display": "Scottish",
+      "grid_entry": "SCOTTISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w018",
+      "display": "Lowland",
+      "grid_entry": "LOWLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w019",
+      "display": "Island",
+      "grid_entry": "ISLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w020",
+      "display": "Ben",
+      "grid_entry": "BEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w021",
+      "display": "Brae",
+      "grid_entry": "BRAE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w022",
+      "display": "Moor",
+      "grid_entry": "MOOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w023",
+      "display": "Deer",
+      "grid_entry": "DEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w024",
+      "display": "Eagle",
+      "grid_entry": "EAGLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w025",
+      "display": "Piper",
+      "grid_entry": "PIPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w026",
+      "display": "Fiddle",
+      "grid_entry": "FIDDLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w027",
+      "display": "Music",
+      "grid_entry": "MUSIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w028",
+      "display": "Dance",
+      "grid_entry": "DANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w029",
+      "display": "Scots",
+      "grid_entry": "SCOTS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w030",
+      "display": "Tower",
+      "grid_entry": "TOWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w031",
+      "display": "Bridge",
+      "grid_entry": "BRIDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w032",
+      "display": "Croft",
+      "grid_entry": "CROFT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w033",
+      "display": "Sheep",
+      "grid_entry": "SHEEP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w034",
+      "display": "Cattle",
+      "grid_entry": "CATTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w035",
+      "display": "Farm",
+      "grid_entry": "FARM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w036",
+      "display": "Fishing",
+      "grid_entry": "FISHING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w037",
+      "display": "Boat",
+      "grid_entry": "BOAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w038",
+      "display": "Malt",
+      "grid_entry": "MALT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w039",
+      "display": "Barley",
+      "grid_entry": "BARLEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w040",
+      "display": "Dram",
+      "grid_entry": "DRAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w041",
+      "display": "Oatcake",
+      "grid_entry": "OATCAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w042",
+      "display": "Shortbread",
+      "grid_entry": "SHORTBREAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w043",
+      "display": "Porridge",
+      "grid_entry": "PORRIDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w044",
+      "display": "Salmon",
+      "grid_entry": "SALMON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w045",
+      "display": "Venison",
+      "grid_entry": "VENISON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w046",
+      "display": "Neaps",
+      "grid_entry": "NEAPS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w047",
+      "display": "Tatties",
+      "grid_entry": "TATTIES",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w048",
+      "display": "Burns",
+      "grid_entry": "BURNS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w049",
+      "display": "Poet",
+      "grid_entry": "POET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w050",
+      "display": "Edinburgh",
+      "grid_entry": "EDINBURGH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w051",
+      "display": "Glasgow",
+      "grid_entry": "GLASGOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w052",
+      "display": "Aberdeen",
+      "grid_entry": "ABERDEEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w053",
+      "display": "Dundee",
+      "grid_entry": "DUNDEE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w054",
+      "display": "Stirling",
+      "grid_entry": "STIRLING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w055",
+      "display": "Skye",
+      "grid_entry": "SKYE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w056",
+      "display": "Arran",
+      "grid_entry": "ARRAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w057",
+      "display": "Orkney",
+      "grid_entry": "ORKNEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w058",
+      "display": "Shetland",
+      "grid_entry": "SHETLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w059",
+      "display": "Hebrides",
+      "grid_entry": "HEBRIDES",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w060",
+      "display": "Cairngorm",
+      "grid_entry": "CAIRNGORM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w061",
+      "display": "Grampian",
+      "grid_entry": "GRAMPIAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w062",
+      "display": "Forth",
+      "grid_entry": "FORTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w063",
+      "display": "Tay",
+      "grid_entry": "TAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w064",
+      "display": "Spey",
+      "grid_entry": "SPEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w065",
+      "display": "Clyde",
+      "grid_entry": "CLYDE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w066",
+      "display": "Andrew",
+      "grid_entry": "ANDREW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w067",
+      "display": "Saint",
+      "grid_entry": "SAINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w068",
+      "display": "Saltire",
+      "grid_entry": "SALTIRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w069",
+      "display": "Unicorn",
+      "grid_entry": "UNICORN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w070",
+      "display": "Heritage",
+      "grid_entry": "HERITAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w071",
+      "display": "History",
+      "grid_entry": "HISTORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w072",
+      "display": "Tradition",
+      "grid_entry": "TRADITION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w073",
+      "display": "Festival",
+      "grid_entry": "FESTIVAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w074",
+      "display": "Hogmanay",
+      "grid_entry": "HOGMANAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w075",
+      "display": "Earth",
+      "grid_entry": "EARTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w076",
+      "display": "Soil",
+      "grid_entry": "SOIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w077",
+      "display": "Ground",
+      "grid_entry": "GROUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w078",
+      "display": "Clay",
+      "grid_entry": "CLAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w079",
+      "display": "Loam",
+      "grid_entry": "LOAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w080",
+      "display": "Sand",
+      "grid_entry": "SAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w081",
+      "display": "Silt",
+      "grid_entry": "SILT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w082",
+      "display": "Humus",
+      "grid_entry": "HUMUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w083",
+      "display": "Compost",
+      "grid_entry": "COMPOST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w084",
+      "display": "Mulch",
+      "grid_entry": "MULCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w085",
+      "display": "Peat",
+      "grid_entry": "PEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w086",
+      "display": "Root",
+      "grid_entry": "ROOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w087",
+      "display": "Seed",
+      "grid_entry": "SEED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w088",
+      "display": "Plant",
+      "grid_entry": "PLANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w089",
+      "display": "Tree",
+      "grid_entry": "TREE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w090",
+      "display": "Shrub",
+      "grid_entry": "SHRUB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w091",
+      "display": "Flower",
+      "grid_entry": "FLOWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w092",
+      "display": "Leaf",
+      "grid_entry": "LEAF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w093",
+      "display": "Stem",
+      "grid_entry": "STEM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w094",
+      "display": "Bloom",
+      "grid_entry": "BLOOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w095",
+      "display": "Garden",
+      "grid_entry": "GARDEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w096",
+      "display": "Field",
+      "grid_entry": "FIELD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w097",
+      "display": "Meadow",
+      "grid_entry": "MEADOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w098",
+      "display": "Forest",
+      "grid_entry": "FOREST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w099",
+      "display": "Woodland",
+      "grid_entry": "WOODLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-25-w100",
+      "display": "Hedge",
+      "grid_entry": "HEDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-31",
+  "date": "2026-10-31",
+  "daily_number": 16,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-10-31",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Halloween",
+    "occasion": "Halloween"
+  },
+  "bonus": {
+    "title": "Halloween",
+    "description": "Halloween brings together costumes, lanterns, ghosts, trick-or-treating and centuries of autumn folklore."
+  },
+  "shape": {
+    "id": "jack-o-lantern",
+    "name": "Jack-o'-lantern",
+    "grid_file": "../shapes/2026-10-31-jack-o-lantern.grid.json",
+    "svg_file": "../shapes/2026-10-31-jack-o-lantern.svg"
+  },
+  "dictionary": {
+    "id": "2026-10-31-halloween",
+    "file": "../dictionaries/2026-10-31-halloween.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#######XX######",
+      "#######XX######",
+      "######XXX######",
+      "####.X.XXX#####",
+      "####.X.X.X.####",
+      "###X.XUX.X.X###",
+      "##XX...T...XX##",
+      "##XX.XTX.X.XX##",
+      "##XX.X.X.X.XX##",
+      "###X.X.X.XXX###",
+      "####.XXX.XX####",
+      "#####XXX.X#####",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "U"
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "letter": "T"
+      },
+      {
+        "row": 8,
+        "col": 6,
+        "letter": "T"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "593f1a38d1c4339adb16e006902cdf3cfd35c2cfbc2b59ab344722b2a1c3ae02"
+  }
+}

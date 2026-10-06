@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-10",
+  "date": "2026-11-10",
+  "theme": "Science & discovery",
+  "shape_id": "microscope",
+  "dictionary_id": "2026-11-10-science-discovery",
+  "generator_seed": "daily-2026-11-10",
+  "solution_grid": [
+    "###############",
+    "########XEXX###",
+    "#######XXVXX###",
+    "###T##XXXIXX###",
+    "###H#XXXXDXX###",
+    "###E#DXXXE#####",
+    "###O#IXDXN#####",
+    "###RESEARCH####",
+    "###Y#CXTXE#####",
+    "####XOXAXXX####",
+    "####XVXXXXX####",
+    "####XEXXXXX####",
+    "###XXRXXXXXXX##",
+    "###XXYXXXXXXX##",
+    "###############"
+  ],
+  "canonical_solution": "EVTIHDEDEOIDNRESEARCHYCTEOAVERY",
+  "solution_hash": "9b6fecde168e519f964ffc47701f53f92f1b5149b03718d36a8704fa58bca6c6",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 3,
+      "letter": "O"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "letter": "D"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "letter": "N"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "RESEARCH"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        }
+      ],
+      "answer": "THEORY"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 5
+        }
+      ],
+      "answer": "DISCOVERY"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ],
+      "answer": "DATA"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 1,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "EVIDENCE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 4,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "S"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 6,
+      "letter": "C"
+    }
+  ]
+}

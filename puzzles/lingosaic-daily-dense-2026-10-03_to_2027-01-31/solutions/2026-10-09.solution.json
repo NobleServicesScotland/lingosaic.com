@@ -1,0 +1,687 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-10-09",
+  "date": "2026-10-09",
+  "theme": "Mail & postage",
+  "shape_id": "envelope",
+  "dictionary_id": "2026-10-09-mail-postage",
+  "generator_seed": "dense-crossword-2.1.0:2026-10-09",
+  "solution_grid": [
+    "###############",
+    "######**#######",
+    "#####**M*V#####",
+    "###*C*VISA*####",
+    "##**A**G*NAME##",
+    "#COURIER******#",
+    "#***D**A*F****#",
+    "#*F****N*I****#",
+    "#*REGISTERED**#",
+    "#*A******S*E**#",
+    "#INK*DEPOT*L**#",
+    "#*K******C*I**#",
+    "#AIRMAIL*L*V**#",
+    "#*N*A***PAPER*#",
+    "#*G*I****S*R**#",
+    "#**ALBUM*S*Y**#",
+    "###############",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "MVCVISAAGNAMECOURIERDAFFNIREGISTEREDASEINKDEPOTLKCIAIRMAILLVNAPAPERGISRALBUMSY",
+  "solution_hash": "f9fa944a76b82195ba058e825302c87d043ed96619a604ddb34129a1c6549f00",
+  "seed_letters": [
+    {
+      "row": 3,
+      "col": 4,
+      "letter": "C"
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "letter": "R"
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "letter": "P"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 9
+        }
+      ],
+      "answer": "VISA"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 4,
+          "col": 12
+        }
+      ],
+      "answer": "NAME"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 1
+        },
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        }
+      ],
+      "answer": "COURIER"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        }
+      ],
+      "answer": "REGISTERED"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 10,
+          "col": 1
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ],
+      "answer": "INK"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "DEPOT"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 12,
+          "col": 1
+        },
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "AIRMAIL"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 12
+        }
+      ],
+      "answer": "PAPER"
+    },
+    {
+      "id": "A9",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 15,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        }
+      ],
+      "answer": "ALBUM"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        }
+      ],
+      "answer": "MIGRANT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        }
+      ],
+      "answer": "VAN"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        }
+      ],
+      "answer": "CARD"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 10,
+      "cells": [
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 9
+        }
+      ],
+      "answer": "FIRSTCLASS"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 2
+        }
+      ],
+      "answer": "FRANKING"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 11
+        },
+        {
+          "row": 15,
+          "col": 11
+        }
+      ],
+      "answer": "DELIVERY"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 4
+        }
+      ],
+      "answer": "MAIL"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 3,
+      "col": 7,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 3,
+      "col": 9,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 4,
+      "col": 9,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 5,
+      "col": 4,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 7,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D5",
+      "row": 8,
+      "col": 2,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D1",
+      "row": 8,
+      "col": 7,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 9,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D6",
+      "row": 8,
+      "col": 11,
+      "letter": "D"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 10,
+      "col": 2,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D4",
+      "row": 10,
+      "col": 9,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D5",
+      "row": 12,
+      "col": 2,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 12,
+      "col": 4,
+      "letter": "M"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D4",
+      "row": 13,
+      "col": 9,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D6",
+      "row": 13,
+      "col": 11,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A9",
+      "slot_b": "D7",
+      "row": 15,
+      "col": 4,
+      "letter": "L"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 9,
+    "down_slots": 7,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 5,
+    "max_slot_crossings": 4,
+    "seed_letters": 3
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

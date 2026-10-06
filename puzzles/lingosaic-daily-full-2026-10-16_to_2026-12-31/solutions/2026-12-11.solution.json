@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-11",
+  "date": "2026-12-11",
+  "theme": "Mountains & mountaineering",
+  "shape_id": "mountain",
+  "dictionary_id": "2026-12-11-mountains-mountaineering",
+  "generator_seed": "daily-2026-12-11",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###########X###",
+    "###########X###",
+    "####RX####XXX##",
+    "####IXT#C#XXX##",
+    "####DXR#LXCXX##",
+    "###XGLACIERXXX#",
+    "###XEXIXMXAXXX#",
+    "##XXXXLXBXMXXXX",
+    "##XXXXXXXXPXXXX",
+    "#XXXXXXXXXOXXXX",
+    "#XXXXXXXXXNXXXX",
+    "XXXXXXXXXXXXXXX",
+    "###############"
+  ],
+  "canonical_solution": "RITCDRLCGLACIEREIMALBMPON",
+  "solution_hash": "5775bf07afdd9c6f133c7e445d40c457b19bec8dc73cbaccd33404d5029f4457",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 4,
+      "letter": "I"
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "D"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "letter": "C"
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "letter": "I"
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "letter": "M"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "GLACIER"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ],
+      "answer": "RIDGE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ],
+      "answer": "TRAIL"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "CLIMB"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        }
+      ],
+      "answer": "CRAMPON"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "G"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "R"
+    }
+  ]
+}

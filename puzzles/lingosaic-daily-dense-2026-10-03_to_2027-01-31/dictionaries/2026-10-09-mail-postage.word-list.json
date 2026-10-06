@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-10-09-mail-postage",
+  "theme": {
+    "id": "mail-postage",
+    "name": "Mail & postage",
+    "definition": "Single-word English entries directly associated with mail & postage."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-10-09-w001",
+      "display": "Mail",
+      "grid_entry": "MAIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w002",
+      "display": "Post",
+      "grid_entry": "POST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w003",
+      "display": "Postal",
+      "grid_entry": "POSTAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w004",
+      "display": "Postage",
+      "grid_entry": "POSTAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w005",
+      "display": "Stamp",
+      "grid_entry": "STAMP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w006",
+      "display": "Letter",
+      "grid_entry": "LETTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w007",
+      "display": "Envelope",
+      "grid_entry": "ENVELOPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w008",
+      "display": "Address",
+      "grid_entry": "ADDRESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w009",
+      "display": "Parcel",
+      "grid_entry": "PARCEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w010",
+      "display": "Package",
+      "grid_entry": "PACKAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w011",
+      "display": "Box",
+      "grid_entry": "BOX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w012",
+      "display": "Card",
+      "grid_entry": "CARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w013",
+      "display": "Postcard",
+      "grid_entry": "POSTCARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w014",
+      "display": "Delivery",
+      "grid_entry": "DELIVERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w015",
+      "display": "Deliver",
+      "grid_entry": "DELIVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w016",
+      "display": "Courier",
+      "grid_entry": "COURIER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w017",
+      "display": "Postman",
+      "grid_entry": "POSTMAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w018",
+      "display": "Postwoman",
+      "grid_entry": "POSTWOMAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w019",
+      "display": "Sort",
+      "grid_entry": "SORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w020",
+      "display": "Sorting",
+      "grid_entry": "SORTING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w021",
+      "display": "Depot",
+      "grid_entry": "DEPOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w022",
+      "display": "Office",
+      "grid_entry": "OFFICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w023",
+      "display": "Postbox",
+      "grid_entry": "POSTBOX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w024",
+      "display": "Mailbox",
+      "grid_entry": "MAILBOX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w025",
+      "display": "Pillarbox",
+      "grid_entry": "PILLARBOX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w026",
+      "display": "Collection",
+      "grid_entry": "COLLECTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w027",
+      "display": "Dispatch",
+      "grid_entry": "DISPATCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w028",
+      "display": "Send",
+      "grid_entry": "SEND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w029",
+      "display": "Sender",
+      "grid_entry": "SENDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w030",
+      "display": "Receive",
+      "grid_entry": "RECEIVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w031",
+      "display": "Receiver",
+      "grid_entry": "RECEIVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w032",
+      "display": "Recipient",
+      "grid_entry": "RECIPIENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w033",
+      "display": "Return",
+      "grid_entry": "RETURN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w034",
+      "display": "Label",
+      "grid_entry": "LABEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w035",
+      "display": "Barcode",
+      "grid_entry": "BARCODE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w036",
+      "display": "Track",
+      "grid_entry": "TRACK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w037",
+      "display": "Tracking",
+      "grid_entry": "TRACKING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w038",
+      "display": "Signature",
+      "grid_entry": "SIGNATURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w039",
+      "display": "Registered",
+      "grid_entry": "REGISTERED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w040",
+      "display": "Express",
+      "grid_entry": "EXPRESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w041",
+      "display": "Airmail",
+      "grid_entry": "AIRMAIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w042",
+      "display": "Surface",
+      "grid_entry": "SURFACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w043",
+      "display": "Firstclass",
+      "grid_entry": "FIRSTCLASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w044",
+      "display": "Secondclass",
+      "grid_entry": "SECONDCLASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w045",
+      "display": "Zipcode",
+      "grid_entry": "ZIPCODE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w046",
+      "display": "Postcode",
+      "grid_entry": "POSTCODE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w047",
+      "display": "Street",
+      "grid_entry": "STREET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w048",
+      "display": "Road",
+      "grid_entry": "ROAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w049",
+      "display": "City",
+      "grid_entry": "CITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w050",
+      "display": "Town",
+      "grid_entry": "TOWN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w051",
+      "display": "Country",
+      "grid_entry": "COUNTRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w052",
+      "display": "Region",
+      "grid_entry": "REGION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w053",
+      "display": "Name",
+      "grid_entry": "NAME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w054",
+      "display": "Date",
+      "grid_entry": "DATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w055",
+      "display": "Message",
+      "grid_entry": "MESSAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w056",
+      "display": "Paper",
+      "grid_entry": "PAPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w057",
+      "display": "Ink",
+      "grid_entry": "INK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w058",
+      "display": "Pen",
+      "grid_entry": "PEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w059",
+      "display": "Seal",
+      "grid_entry": "SEAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w060",
+      "display": "Flap",
+      "grid_entry": "FLAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w061",
+      "display": "Slot",
+      "grid_entry": "SLOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w062",
+      "display": "Bag",
+      "grid_entry": "BAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w063",
+      "display": "Van",
+      "grid_entry": "VAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w064",
+      "display": "Truck",
+      "grid_entry": "TRUCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w065",
+      "display": "Bicycle",
+      "grid_entry": "BICYCLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w066",
+      "display": "Route",
+      "grid_entry": "ROUTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w067",
+      "display": "Round",
+      "grid_entry": "ROUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w068",
+      "display": "Service",
+      "grid_entry": "SERVICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w069",
+      "display": "Counter",
+      "grid_entry": "COUNTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w070",
+      "display": "Queue",
+      "grid_entry": "QUEUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w071",
+      "display": "Scale",
+      "grid_entry": "SCALE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w072",
+      "display": "Weight",
+      "grid_entry": "WEIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w073",
+      "display": "Rate",
+      "grid_entry": "RATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w074",
+      "display": "Fee",
+      "grid_entry": "FEE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w075",
+      "display": "Price",
+      "grid_entry": "PRICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w076",
+      "display": "Frank",
+      "grid_entry": "FRANK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w077",
+      "display": "Franking",
+      "grid_entry": "FRANKING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w078",
+      "display": "Cancellation",
+      "grid_entry": "CANCELLATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w079",
+      "display": "Philately",
+      "grid_entry": "PHILATELY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w080",
+      "display": "Collector",
+      "grid_entry": "COLLECTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w081",
+      "display": "Album",
+      "grid_entry": "ALBUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w082",
+      "display": "Issue",
+      "grid_entry": "ISSUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w083",
+      "display": "Special",
+      "grid_entry": "SPECIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w084",
+      "display": "Royal",
+      "grid_entry": "ROYAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w085",
+      "display": "Domestic",
+      "grid_entry": "DOMESTIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w086",
+      "display": "Journey",
+      "grid_entry": "JOURNEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w087",
+      "display": "Travel",
+      "grid_entry": "TRAVEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w088",
+      "display": "Migrant",
+      "grid_entry": "MIGRANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w089",
+      "display": "Border",
+      "grid_entry": "BORDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w090",
+      "display": "Passport",
+      "grid_entry": "PASSPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w091",
+      "display": "Train",
+      "grid_entry": "TRAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w092",
+      "display": "Ship",
+      "grid_entry": "SHIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w093",
+      "display": "Suitcase",
+      "grid_entry": "SUITCASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w094",
+      "display": "Home",
+      "grid_entry": "HOME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w095",
+      "display": "Arrival",
+      "grid_entry": "ARRIVAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w096",
+      "display": "Departure",
+      "grid_entry": "DEPARTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w097",
+      "display": "Visa",
+      "grid_entry": "VISA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w098",
+      "display": "Community",
+      "grid_entry": "COMMUNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w099",
+      "display": "Destination",
+      "grid_entry": "DESTINATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-09-w100",
+      "display": "Migration",
+      "grid_entry": "MIGRATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

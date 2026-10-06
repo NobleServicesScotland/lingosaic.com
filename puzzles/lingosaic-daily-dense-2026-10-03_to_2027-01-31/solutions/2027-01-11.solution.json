@@ -1,0 +1,576 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-11",
+  "date": "2027-01-11",
+  "theme": "Kindness & gratitude",
+  "shape_id": "heart",
+  "dictionary_id": "2027-01-11-kindness-gratitude",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-11",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "####*G###*T####",
+    "##*F*I**L*R**##",
+    "##*ADVOCATE**##",
+    "#**I*E**W*A*C*#",
+    "#**R***T**TEAM#",
+    "#*INTEGRITY*R*#",
+    "##*E***U****E##",
+    "##*S***S*V**R##",
+    "###S*NATION*###",
+    "####**I**I*####",
+    "#####*D**C#####",
+    "#####PEACE#####",
+    "######*I*######",
+    "#######D#######",
+    "#######*#######",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "GTFILRADVOCATEIEWACRTTEAMINTEGRITYREUESSVRSNATIONIIDCPEACEID",
+  "solution_hash": "90363004b3270936a070d0a97f5b41049734be4b8d3b11755547342a0d9aebf0",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 12,
+      "letter": "C"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        }
+      ],
+      "answer": "ADVOCATE"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 13
+        }
+      ],
+      "answer": "TEAM"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ],
+      "answer": "INTEGRITY"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "NATION"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "PEACE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        }
+      ],
+      "answer": "GIVE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ],
+      "answer": "TREATY"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        }
+      ],
+      "answer": "FAIRNESS"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "LAW"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        },
+        {
+          "row": 10,
+          "col": 12
+        }
+      ],
+      "answer": "CARER"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ],
+      "answer": "TRUST"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "VOICE"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 6
+        }
+      ],
+      "answer": "AIDE"
+    },
+    {
+      "id": "D9",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        }
+      ],
+      "answer": "AID"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D3",
+      "row": 5,
+      "col": 3,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 5,
+      "letter": "V"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D4",
+      "row": 5,
+      "col": 8,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 5,
+      "col": 10,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 7,
+      "col": 10,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D5",
+      "row": 7,
+      "col": 12,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 8,
+      "col": 3,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D6",
+      "row": 8,
+      "col": 7,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D2",
+      "row": 8,
+      "col": 10,
+      "letter": "Y"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D8",
+      "row": 11,
+      "col": 6,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D6",
+      "row": 11,
+      "col": 7,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D7",
+      "row": 11,
+      "col": 9,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D8",
+      "row": 14,
+      "col": 6,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D9",
+      "row": 14,
+      "col": 7,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D7",
+      "row": 14,
+      "col": 9,
+      "letter": "E"
+    }
+  ],
+  "complexity": {
+    "slot_count": 14,
+    "across_slots": 5,
+    "down_slots": 9,
+    "crossings": 15,
+    "average_crossings_per_slot": 2.14,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 1
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    1
+  ]
+}

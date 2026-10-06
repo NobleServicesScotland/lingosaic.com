@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-27",
+  "date": "2026-11-27",
+  "daily_number": 43,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-27",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Shopping, retail & bargains",
+    "occasion": "Black Friday"
+  },
+  "bonus": {
+    "title": "Black Friday",
+    "description": "Black Friday is one of the best-known retail days of the year, associated with promotions, shopping and seasonal sales."
+  },
+  "shape": {
+    "id": "shopping-bag",
+    "name": "Shopping bag",
+    "grid_file": "../shapes/2026-11-27-shopping-bag.grid.json",
+    "svg_file": "../shapes/2026-11-27-shopping-bag.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-27-shopping-retail-bargains",
+    "file": "../dictionaries/2026-11-27-shopping-retail-bargains.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "###XXXXX.XXX###",
+      "###XXXXX.XXX###",
+      "###XX#.#.#XX###",
+      "##XX.X.X.XXXX##",
+      "##XX.XSXPX.XX##",
+      "##XX...E...XX##",
+      "##XX.X.X.X.XX##",
+      "##XX.X.X.XRXX##",
+      "##XX.X.XXX.XX##",
+      "##XX.X.XXXXXX##",
+      "##XXXXXXXXXXX##",
+      "##XXXXXXXXXXX##",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "S"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "P"
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "letter": "E"
+      },
+      {
+        "row": 9,
+        "col": 10,
+        "letter": "R"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "23b911dfa0a18177946b1087746a12b874a32e77d2175a707e6331e5a1598ea3"
+  }
+}

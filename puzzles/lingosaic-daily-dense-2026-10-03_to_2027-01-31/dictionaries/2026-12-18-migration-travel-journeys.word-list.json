@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-12-18-migration-travel-journeys",
+  "theme": {
+    "id": "migration-travel-journeys",
+    "name": "Migration, travel & journeys",
+    "definition": "Single-word English entries directly associated with migration, travel & journeys."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-12-18-w001",
+      "display": "Journey",
+      "grid_entry": "JOURNEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w002",
+      "display": "Travel",
+      "grid_entry": "TRAVEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w003",
+      "display": "Migrant",
+      "grid_entry": "MIGRANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w004",
+      "display": "Border",
+      "grid_entry": "BORDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w005",
+      "display": "Passport",
+      "grid_entry": "PASSPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w006",
+      "display": "Train",
+      "grid_entry": "TRAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w007",
+      "display": "Ship",
+      "grid_entry": "SHIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w008",
+      "display": "Road",
+      "grid_entry": "ROAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w009",
+      "display": "Suitcase",
+      "grid_entry": "SUITCASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w010",
+      "display": "Home",
+      "grid_entry": "HOME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w011",
+      "display": "Arrival",
+      "grid_entry": "ARRIVAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w012",
+      "display": "Departure",
+      "grid_entry": "DEPARTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w013",
+      "display": "Route",
+      "grid_entry": "ROUTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w014",
+      "display": "Visa",
+      "grid_entry": "VISA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w015",
+      "display": "Community",
+      "grid_entry": "COMMUNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w016",
+      "display": "Destination",
+      "grid_entry": "DESTINATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w017",
+      "display": "Migration",
+      "grid_entry": "MIGRATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w018",
+      "display": "Airport",
+      "grid_entry": "AIRPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w019",
+      "display": "Station",
+      "grid_entry": "STATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w020",
+      "display": "Port",
+      "grid_entry": "PORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w021",
+      "display": "BUS",
+      "grid_entry": "BUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w022",
+      "display": "Coach",
+      "grid_entry": "COACH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w023",
+      "display": "CAR",
+      "grid_entry": "CAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w024",
+      "display": "Ferry",
+      "grid_entry": "FERRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w025",
+      "display": "Plane",
+      "grid_entry": "PLANE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w026",
+      "display": "Flight",
+      "grid_entry": "FLIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w027",
+      "display": "Ticket",
+      "grid_entry": "TICKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w028",
+      "display": "Luggage",
+      "grid_entry": "LUGGAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w029",
+      "display": "Baggage",
+      "grid_entry": "BAGGAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w030",
+      "display": "MAP",
+      "grid_entry": "MAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w031",
+      "display": "Guide",
+      "grid_entry": "GUIDE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w032",
+      "display": "Country",
+      "grid_entry": "COUNTRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w033",
+      "display": "Region",
+      "grid_entry": "REGION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w034",
+      "display": "City",
+      "grid_entry": "CITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w035",
+      "display": "Town",
+      "grid_entry": "TOWN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w036",
+      "display": "Village",
+      "grid_entry": "VILLAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w037",
+      "display": "Move",
+      "grid_entry": "MOVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w038",
+      "display": "Relocate",
+      "grid_entry": "RELOCATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w039",
+      "display": "Settle",
+      "grid_entry": "SETTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w040",
+      "display": "Work",
+      "grid_entry": "WORK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w041",
+      "display": "Family",
+      "grid_entry": "FAMILY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w042",
+      "display": "Study",
+      "grid_entry": "STUDY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w043",
+      "display": "Refugee",
+      "grid_entry": "REFUGEE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w044",
+      "display": "Asylum",
+      "grid_entry": "ASYLUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w045",
+      "display": "Residence",
+      "grid_entry": "RESIDENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w046",
+      "display": "Permit",
+      "grid_entry": "PERMIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w047",
+      "display": "Customs",
+      "grid_entry": "CUSTOMS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w048",
+      "display": "Checkpoint",
+      "grid_entry": "CHECKPOINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w049",
+      "display": "Crossing",
+      "grid_entry": "CROSSING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w050",
+      "display": "Frontier",
+      "grid_entry": "FRONTIER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w051",
+      "display": "Origin",
+      "grid_entry": "ORIGIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w052",
+      "display": "Host",
+      "grid_entry": "HOST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w053",
+      "display": "Language",
+      "grid_entry": "LANGUAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w054",
+      "display": "Culture",
+      "grid_entry": "CULTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w055",
+      "display": "Integrate",
+      "grid_entry": "INTEGRATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w056",
+      "display": "Network",
+      "grid_entry": "NETWORK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w057",
+      "display": "Diaspora",
+      "grid_entry": "DIASPORA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w058",
+      "display": "Remit",
+      "grid_entry": "REMIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w059",
+      "display": "Homeward",
+      "grid_entry": "HOMEWARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w060",
+      "display": "Return",
+      "grid_entry": "RETURN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w061",
+      "display": "Transit",
+      "grid_entry": "TRANSIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w062",
+      "display": "Stopover",
+      "grid_entry": "STOPOVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w063",
+      "display": "Terminal",
+      "grid_entry": "TERMINAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w064",
+      "display": "Gate",
+      "grid_entry": "GATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w065",
+      "display": "Platform",
+      "grid_entry": "PLATFORM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w066",
+      "display": "Harbour",
+      "grid_entry": "HARBOUR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w067",
+      "display": "Voyage",
+      "grid_entry": "VOYAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w068",
+      "display": "Sail",
+      "grid_entry": "SAIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w069",
+      "display": "Drive",
+      "grid_entry": "DRIVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w070",
+      "display": "Walk",
+      "grid_entry": "WALK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w071",
+      "display": "Distance",
+      "grid_entry": "DISTANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w072",
+      "display": "Mile",
+      "grid_entry": "MILE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w073",
+      "display": "Kilometre",
+      "grid_entry": "KILOMETRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w074",
+      "display": "Direction",
+      "grid_entry": "DIRECTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w075",
+      "display": "Rights",
+      "grid_entry": "RIGHTS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w076",
+      "display": "Freedom",
+      "grid_entry": "FREEDOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w077",
+      "display": "Liberty",
+      "grid_entry": "LIBERTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w078",
+      "display": "Justice",
+      "grid_entry": "JUSTICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w079",
+      "display": "Equality",
+      "grid_entry": "EQUALITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w080",
+      "display": "Dignity",
+      "grid_entry": "DIGNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w081",
+      "display": "Respect",
+      "grid_entry": "RESPECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w082",
+      "display": "Peace",
+      "grid_entry": "PEACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w083",
+      "display": "LAW",
+      "grid_entry": "LAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w084",
+      "display": "Legal",
+      "grid_entry": "LEGAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w085",
+      "display": "Court",
+      "grid_entry": "COURT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w086",
+      "display": "Judge",
+      "grid_entry": "JUDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w087",
+      "display": "Jury",
+      "grid_entry": "JURY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w088",
+      "display": "Rule",
+      "grid_entry": "RULE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w089",
+      "display": "Duty",
+      "grid_entry": "DUTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w090",
+      "display": "Ethics",
+      "grid_entry": "ETHICS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w091",
+      "display": "Honesty",
+      "grid_entry": "HONESTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w092",
+      "display": "Integrity",
+      "grid_entry": "INTEGRITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w093",
+      "display": "Trust",
+      "grid_entry": "TRUST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w094",
+      "display": "Fairness",
+      "grid_entry": "FAIRNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w095",
+      "display": "Voice",
+      "grid_entry": "VOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w096",
+      "display": "Choice",
+      "grid_entry": "CHOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w097",
+      "display": "Safety",
+      "grid_entry": "SAFETY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w098",
+      "display": "Protect",
+      "grid_entry": "PROTECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w099",
+      "display": "Support",
+      "grid_entry": "SUPPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-18-w100",
+      "display": "Care",
+      "grid_entry": "CARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

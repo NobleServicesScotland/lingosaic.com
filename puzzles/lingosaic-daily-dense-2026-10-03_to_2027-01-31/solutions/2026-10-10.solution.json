@@ -1,0 +1,653 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-10-10",
+  "date": "2026-10-10",
+  "theme": "Calm & wellbeing",
+  "shape_id": "heart",
+  "dictionary_id": "2026-10-10-calm-wellbeing",
+  "generator_seed": "dense-crossword-2.1.0:2026-10-10",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "####D*###*C####",
+    "##T*RECOVER*W##",
+    "##A*A*O***A*A##",
+    "#SLOW*MINDFUL*#",
+    "#*K***M***T*K*#",
+    "#****MUSIC*C**#",
+    "##**W*N**O*A*##",
+    "##**A*I*SMILE##",
+    "###WRITE*F*M###",
+    "####M*Y**O*####",
+    "#####**J*R#####",
+    "#####*SOFT#####",
+    "######*Y*######",
+    "#######*#######",
+    "#######*#######",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "DCTRECOVERWAAOAASLOWMINDFULKMTKMUSICCWNOAAISMILEWRITEFMMYOJRSOFTY",
+  "solution_hash": "04cda1ccdc0ff99b303bfc0a007271e8206f520990bceca98654ad6fab5370a8",
+  "seed_letters": [
+    {
+      "row": 4,
+      "col": 2,
+      "letter": "T"
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "letter": "W"
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "letter": "C"
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "letter": "C"
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "letter": "W"
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "letter": "O"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        }
+      ],
+      "answer": "RECOVER"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 1
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        }
+      ],
+      "answer": "SLOW"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 12
+        }
+      ],
+      "answer": "MINDFUL"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "MUSIC"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 12
+        }
+      ],
+      "answer": "SMILE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ],
+      "answer": "WRITE"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "SOFT"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        }
+      ],
+      "answer": "DRAW"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "CRAFT"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        }
+      ],
+      "answer": "TALK"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        }
+      ],
+      "answer": "COMMUNITY"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 12
+        },
+        {
+          "row": 5,
+          "col": 12
+        },
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "WALK"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "COMFORT"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        }
+      ],
+      "answer": "CALM"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ],
+      "answer": "WARM"
+    },
+    {
+      "id": "D9",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        }
+      ],
+      "answer": "JOY"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 4,
+      "col": 4,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D4",
+      "row": 4,
+      "col": 6,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 4,
+      "col": 10,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D3",
+      "row": 6,
+      "col": 2,
+      "letter": "L"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 6,
+      "col": 4,
+      "letter": "W"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D4",
+      "row": 6,
+      "col": 6,
+      "letter": "M"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D2",
+      "row": 6,
+      "col": 10,
+      "letter": "F"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D5",
+      "row": 6,
+      "col": 12,
+      "letter": "L"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 6,
+      "letter": "U"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D6",
+      "row": 8,
+      "col": 9,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D6",
+      "row": 10,
+      "col": 9,
+      "letter": "M"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D7",
+      "row": 10,
+      "col": 11,
+      "letter": "L"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D8",
+      "row": 11,
+      "col": 4,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D4",
+      "row": 11,
+      "col": 6,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D9",
+      "row": 14,
+      "col": 7,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D6",
+      "row": 14,
+      "col": 9,
+      "letter": "T"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 7,
+    "down_slots": 9,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 5,
+    "max_slot_crossings": 4,
+    "seed_letters": 6
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

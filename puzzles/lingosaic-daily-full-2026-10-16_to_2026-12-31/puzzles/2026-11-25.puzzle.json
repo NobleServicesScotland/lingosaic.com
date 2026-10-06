@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-25",
+  "date": "2026-11-25",
+  "daily_number": 41,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-25",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Desserts & parfaits",
+    "occasion": "National Parfait Day"
+  },
+  "bonus": {
+    "title": "National Parfait Day",
+    "description": "A light-hearted food observance celebrating layered desserts, fruit, cream and other sweet combinations."
+  },
+  "shape": {
+    "id": "parfait-glass",
+    "name": "Parfait glass",
+    "grid_file": "../shapes/2026-11-25-parfait-glass.grid.json",
+    "svg_file": "../shapes/2026-11-25-parfait-glass.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-25-desserts-parfaits",
+    "file": "../dictionaries/2026-11-25-desserts-parfaits.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "###############",
+      "######.########",
+      "###XXX.XXX.X###",
+      "###XXX.XXX.X###",
+      "###XSXUXLX.X###",
+      "####.......####",
+      "####.X.X.X.####",
+      "####.XXX.X.####",
+      "####.XXX.X.####",
+      "#####XXXXX#####",
+      "####XXXXXXX####",
+      "####XXXXXXX####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "S"
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "U"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "L"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "a62e6c44a5337ee4253b969832830a99066d2d968d9d2b005fc48f615cf4022b"
+  }
+}

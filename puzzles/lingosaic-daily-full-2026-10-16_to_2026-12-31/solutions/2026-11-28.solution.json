@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-28",
+  "date": "2026-11-28",
+  "theme": "Mars & planetary exploration",
+  "shape_id": "mars",
+  "dictionary_id": "2026-11-28-mars-planetary-exploration",
+  "generator_seed": "daily-2026-11-28",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#####XXXXX#####",
+    "####XXXXXXR####",
+    "###XXXXXXXOX###",
+    "##XXDXXXSXCXX##",
+    "##XXUXOXPXKXX##",
+    "##XXSURFACEXX##",
+    "##XXTXBXCXTXX##",
+    "##XXXXIXEXXXX##",
+    "###XXXTXXXXX###",
+    "####XXXXXXX####",
+    "#####XXXXX#####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "RODSCUOPKSURFACETBCTIET",
+  "solution_hash": "5d822eda25ecc0165eca18c31add039de40f3130095906908b3aa0639170272e",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "U"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "O"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "letter": "K"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "SURFACE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ],
+      "answer": "DUST"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ],
+      "answer": "ORBIT"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "SPACE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ],
+      "answer": "ROCKET"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "S"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 4,
+      "letter": "E"
+    }
+  ]
+}

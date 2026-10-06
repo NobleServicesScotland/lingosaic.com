@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-10-03-cards-stationery",
+  "theme": {
+    "id": "cards-stationery",
+    "name": "Cards & stationery",
+    "definition": "Single-word English entries directly associated with cards & stationery."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-10-03-w001",
+      "display": "Card",
+      "grid_entry": "CARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w002",
+      "display": "Cards",
+      "grid_entry": "CARDS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w003",
+      "display": "Paper",
+      "grid_entry": "PAPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w004",
+      "display": "Papercraft",
+      "grid_entry": "PAPERCRAFT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w005",
+      "display": "Stationery",
+      "grid_entry": "STATIONERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w006",
+      "display": "Envelope",
+      "grid_entry": "ENVELOPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w007",
+      "display": "Stamp",
+      "grid_entry": "STAMP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w008",
+      "display": "Ink",
+      "grid_entry": "INK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w009",
+      "display": "Pen",
+      "grid_entry": "PEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w010",
+      "display": "Pencil",
+      "grid_entry": "PENCIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w011",
+      "display": "Marker",
+      "grid_entry": "MARKER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w012",
+      "display": "Crayon",
+      "grid_entry": "CRAYON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w013",
+      "display": "Glue",
+      "grid_entry": "GLUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w014",
+      "display": "Ribbon",
+      "grid_entry": "RIBBON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w015",
+      "display": "Sticker",
+      "grid_entry": "STICKER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w016",
+      "display": "Glitter",
+      "grid_entry": "GLITTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w017",
+      "display": "Scissors",
+      "grid_entry": "SCISSORS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w018",
+      "display": "Fold",
+      "grid_entry": "FOLD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w019",
+      "display": "Crease",
+      "grid_entry": "CREASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w020",
+      "display": "Cut",
+      "grid_entry": "CUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w021",
+      "display": "Score",
+      "grid_entry": "SCORE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w022",
+      "display": "Emboss",
+      "grid_entry": "EMBOSS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w023",
+      "display": "Embossing",
+      "grid_entry": "EMBOSSING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w024",
+      "display": "Diecut",
+      "grid_entry": "DIECUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w025",
+      "display": "Template",
+      "grid_entry": "TEMPLATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w026",
+      "display": "Greeting",
+      "grid_entry": "GREETING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w027",
+      "display": "Message",
+      "grid_entry": "MESSAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w028",
+      "display": "Note",
+      "grid_entry": "NOTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w029",
+      "display": "Letter",
+      "grid_entry": "LETTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w030",
+      "display": "Postcard",
+      "grid_entry": "POSTCARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w031",
+      "display": "Invite",
+      "grid_entry": "INVITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w032",
+      "display": "Invitation",
+      "grid_entry": "INVITATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w033",
+      "display": "Birthday",
+      "grid_entry": "BIRTHDAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w034",
+      "display": "Anniversary",
+      "grid_entry": "ANNIVERSARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w035",
+      "display": "Thankyou",
+      "grid_entry": "THANKYOU",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w036",
+      "display": "Blank",
+      "grid_entry": "BLANK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w037",
+      "display": "Decorate",
+      "grid_entry": "DECORATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w038",
+      "display": "Design",
+      "grid_entry": "DESIGN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w039",
+      "display": "Craft",
+      "grid_entry": "CRAFT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w040",
+      "display": "Handmade",
+      "grid_entry": "HANDMADE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w041",
+      "display": "Washi",
+      "grid_entry": "WASHI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w042",
+      "display": "Tape",
+      "grid_entry": "TAPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w043",
+      "display": "Twine",
+      "grid_entry": "TWINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w044",
+      "display": "String",
+      "grid_entry": "STRING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w045",
+      "display": "Confetti",
+      "grid_entry": "CONFETTI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w046",
+      "display": "Sequin",
+      "grid_entry": "SEQUIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w047",
+      "display": "Button",
+      "grid_entry": "BUTTON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w048",
+      "display": "Bead",
+      "grid_entry": "BEAD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w049",
+      "display": "Felt",
+      "grid_entry": "FELT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w050",
+      "display": "Foam",
+      "grid_entry": "FOAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w051",
+      "display": "Vellum",
+      "grid_entry": "VELLUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w052",
+      "display": "Parchment",
+      "grid_entry": "PARCHMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w053",
+      "display": "Cardstock",
+      "grid_entry": "CARDSTOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w054",
+      "display": "Liner",
+      "grid_entry": "LINER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w055",
+      "display": "Seal",
+      "grid_entry": "SEAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w056",
+      "display": "Wax",
+      "grid_entry": "WAX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w057",
+      "display": "Calligraphy",
+      "grid_entry": "CALLIGRAPHY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w058",
+      "display": "Nib",
+      "grid_entry": "NIB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w059",
+      "display": "Brush",
+      "grid_entry": "BRUSH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w060",
+      "display": "Eraser",
+      "grid_entry": "ERASER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w061",
+      "display": "Ruler",
+      "grid_entry": "RULER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w062",
+      "display": "Clip",
+      "grid_entry": "CLIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w063",
+      "display": "Staple",
+      "grid_entry": "STAPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w064",
+      "display": "Punch",
+      "grid_entry": "PUNCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w065",
+      "display": "Corner",
+      "grid_entry": "CORNER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w066",
+      "display": "Border",
+      "grid_entry": "BORDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w067",
+      "display": "Pattern",
+      "grid_entry": "PATTERN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w068",
+      "display": "Motif",
+      "grid_entry": "MOTIF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w069",
+      "display": "Colour",
+      "grid_entry": "COLOUR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w070",
+      "display": "Palette",
+      "grid_entry": "PALETTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w071",
+      "display": "Sketch",
+      "grid_entry": "SKETCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w072",
+      "display": "Draw",
+      "grid_entry": "DRAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w073",
+      "display": "Write",
+      "grid_entry": "WRITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w074",
+      "display": "Address",
+      "grid_entry": "ADDRESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w075",
+      "display": "Mail",
+      "grid_entry": "MAIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w076",
+      "display": "Postage",
+      "grid_entry": "POSTAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w077",
+      "display": "Language",
+      "grid_entry": "LANGUAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w078",
+      "display": "Alphabet",
+      "grid_entry": "ALPHABET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w079",
+      "display": "Script",
+      "grid_entry": "SCRIPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w080",
+      "display": "Word",
+      "grid_entry": "WORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w081",
+      "display": "Vowel",
+      "grid_entry": "VOWEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w082",
+      "display": "Consonant",
+      "grid_entry": "CONSONANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w083",
+      "display": "Grammar",
+      "grid_entry": "GRAMMAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w084",
+      "display": "Speech",
+      "grid_entry": "SPEECH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w085",
+      "display": "Dialect",
+      "grid_entry": "DIALECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w086",
+      "display": "Phrase",
+      "grid_entry": "PHRASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w087",
+      "display": "Symbol",
+      "grid_entry": "SYMBOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w088",
+      "display": "Read",
+      "grid_entry": "READ",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w089",
+      "display": "Sound",
+      "grid_entry": "SOUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w090",
+      "display": "Translate",
+      "grid_entry": "TRANSLATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w091",
+      "display": "Syllable",
+      "grid_entry": "SYLLABLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w092",
+      "display": "Sentence",
+      "grid_entry": "SENTENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w093",
+      "display": "Spelling",
+      "grid_entry": "SPELLING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w094",
+      "display": "Voice",
+      "grid_entry": "VOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w095",
+      "display": "Accent",
+      "grid_entry": "ACCENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w096",
+      "display": "Meaning",
+      "grid_entry": "MEANING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w097",
+      "display": "Definition",
+      "grid_entry": "DEFINITION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w098",
+      "display": "Dictionary",
+      "grid_entry": "DICTIONARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w099",
+      "display": "Thesaurus",
+      "grid_entry": "THESAURUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-03-w100",
+      "display": "Book",
+      "grid_entry": "BOOK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

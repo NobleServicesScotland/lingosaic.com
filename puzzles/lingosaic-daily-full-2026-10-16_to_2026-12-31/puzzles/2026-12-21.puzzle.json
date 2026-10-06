@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-21",
+  "date": "2026-12-21",
+  "daily_number": 67,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-21",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Winter & the solstice",
+    "occasion": "December solstice"
+  },
+  "bonus": {
+    "title": "December solstice",
+    "description": "The December solstice brings the shortest day and longest night of the year in the Northern Hemisphere."
+  },
+  "shape": {
+    "id": "snowflake",
+    "name": "Snowflake",
+    "grid_file": "../shapes/2026-12-21-snowflake.grid.json",
+    "svg_file": "../shapes/2026-12-21-snowflake.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-21-winter-the-solstice",
+    "file": "../dictionaries/2026-12-21-winter-the-solstice.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#######X#######",
+      "####X##X##X####",
+      "#####X#X#X#####",
+      "##X.#X#.#X##X##",
+      "###.X.X.X.XX###",
+      "###.#OX.X.#####",
+      "#XX........XXX#",
+      "###.#.X.X.#####",
+      "###XX#X.X.XX###",
+      "##X##X#X#.##X##",
+      "#####X#X#.#####",
+      "####X##X#.X####",
+      "#######X#######",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "O"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "4196356b9b58ef6bd79b24247da18b2dc83648177f2d27038d9f39bda634017f"
+  }
+}

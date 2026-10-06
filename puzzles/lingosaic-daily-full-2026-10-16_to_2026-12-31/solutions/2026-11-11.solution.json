@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-11",
+  "date": "2026-11-11",
+  "theme": "Remembrance & service",
+  "shape_id": "poppy",
+  "dictionary_id": "2026-11-11-remembrance-service",
+  "generator_seed": "daily-2026-11-11",
+  "solution_grid": [
+    "###############",
+    "######XXX######",
+    "#####XXXXX#####",
+    "####AXMXXXX####",
+    "###XRXEXXXXX###",
+    "##XXMXMXXXXXX##",
+    "##XXIXOXSXLXX##",
+    "###XSERVICEX###",
+    "####TXIXLXG####",
+    "####IXAXEXI####",
+    "####CXLXNXO####",
+    "####E#XXC#N####",
+    "#######XE######",
+    "#######XX######",
+    "#######XX######"
+  ],
+  "canonical_solution": "AMREMMIOSLSERVICETILGIAEICLNOECNE",
+  "solution_hash": "306a867c36e1a9f9c68b2055c1c095e31d330b11ec3fb5aacf6719cec59ba454",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 8,
+      "letter": "S"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "letter": "L"
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "letter": "I"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "SERVICE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ],
+      "answer": "ARMISTICE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ],
+      "answer": "MEMORIAL"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        }
+      ],
+      "answer": "SILENCE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "LEGION"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 4,
+      "letter": "S"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 4,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "E"
+    }
+  ]
+}

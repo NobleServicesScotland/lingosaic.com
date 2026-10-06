@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-11-21-television-broadcasting",
+  "theme": {
+    "id": "television-broadcasting",
+    "name": "Television & broadcasting",
+    "definition": "Single-word English entries directly associated with television & broadcasting."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-11-21-w001",
+      "display": "Television",
+      "grid_entry": "TELEVISION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w002",
+      "display": "Screen",
+      "grid_entry": "SCREEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w003",
+      "display": "Channel",
+      "grid_entry": "CHANNEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w004",
+      "display": "Studio",
+      "grid_entry": "STUDIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w005",
+      "display": "Camera",
+      "grid_entry": "CAMERA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w006",
+      "display": "News",
+      "grid_entry": "NEWS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w007",
+      "display": "Remote",
+      "grid_entry": "REMOTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w008",
+      "display": "Series",
+      "grid_entry": "SERIES",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w009",
+      "display": "Signal",
+      "grid_entry": "SIGNAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w010",
+      "display": "Aerial",
+      "grid_entry": "AERIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w011",
+      "display": "Broadcast",
+      "grid_entry": "BROADCAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w012",
+      "display": "Presenter",
+      "grid_entry": "PRESENTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w013",
+      "display": "Episode",
+      "grid_entry": "EPISODE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w014",
+      "display": "Drama",
+      "grid_entry": "DRAMA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w015",
+      "display": "Sport",
+      "grid_entry": "SPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w016",
+      "display": "Viewer",
+      "grid_entry": "VIEWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w017",
+      "display": "Film",
+      "grid_entry": "FILM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w018",
+      "display": "Cinema",
+      "grid_entry": "CINEMA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w019",
+      "display": "Movie",
+      "grid_entry": "MOVIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w020",
+      "display": "Lens",
+      "grid_entry": "LENS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w021",
+      "display": "Frame",
+      "grid_entry": "FRAME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w022",
+      "display": "Reel",
+      "grid_entry": "REEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w023",
+      "display": "Scene",
+      "grid_entry": "SCENE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w024",
+      "display": "Shot",
+      "grid_entry": "SHOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w025",
+      "display": "Take",
+      "grid_entry": "TAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w026",
+      "display": "Script",
+      "grid_entry": "SCRIPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w027",
+      "display": "Story",
+      "grid_entry": "STORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w028",
+      "display": "Plot",
+      "grid_entry": "PLOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w029",
+      "display": "Actor",
+      "grid_entry": "ACTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w030",
+      "display": "Actress",
+      "grid_entry": "ACTRESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w031",
+      "display": "Director",
+      "grid_entry": "DIRECTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w032",
+      "display": "Producer",
+      "grid_entry": "PRODUCER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w033",
+      "display": "Edit",
+      "grid_entry": "EDIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w034",
+      "display": "Sound",
+      "grid_entry": "SOUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w035",
+      "display": "Audio",
+      "grid_entry": "AUDIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w036",
+      "display": "Music",
+      "grid_entry": "MUSIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w037",
+      "display": "Score",
+      "grid_entry": "SCORE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w038",
+      "display": "Voice",
+      "grid_entry": "VOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w039",
+      "display": "Speech",
+      "grid_entry": "SPEECH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w040",
+      "display": "Record",
+      "grid_entry": "RECORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w041",
+      "display": "Tape",
+      "grid_entry": "TAPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w042",
+      "display": "Archive",
+      "grid_entry": "ARCHIVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w043",
+      "display": "Footage",
+      "grid_entry": "FOOTAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w044",
+      "display": "SET",
+      "grid_entry": "SET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w045",
+      "display": "Light",
+      "grid_entry": "LIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w046",
+      "display": "Projector",
+      "grid_entry": "PROJECTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w047",
+      "display": "Radio",
+      "grid_entry": "RADIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w048",
+      "display": "Report",
+      "grid_entry": "REPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w049",
+      "display": "Show",
+      "grid_entry": "SHOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w050",
+      "display": "Comedy",
+      "grid_entry": "COMEDY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w051",
+      "display": "Documentary",
+      "grid_entry": "DOCUMENTARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w052",
+      "display": "Interview",
+      "grid_entry": "INTERVIEW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w053",
+      "display": "Theatre",
+      "grid_entry": "THEATRE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w054",
+      "display": "Stage",
+      "grid_entry": "STAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w055",
+      "display": "Curtain",
+      "grid_entry": "CURTAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w056",
+      "display": "Cast",
+      "grid_entry": "CAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w057",
+      "display": "Role",
+      "grid_entry": "ROLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w058",
+      "display": "Costume",
+      "grid_entry": "COSTUME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w059",
+      "display": "Prop",
+      "grid_entry": "PROP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w060",
+      "display": "Makeup",
+      "grid_entry": "MAKEUP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w061",
+      "display": "Dance",
+      "grid_entry": "DANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w062",
+      "display": "Song",
+      "grid_entry": "SONG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w063",
+      "display": "Choir",
+      "grid_entry": "CHOIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w064",
+      "display": "Concert",
+      "grid_entry": "CONCERT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w065",
+      "display": "Performance",
+      "grid_entry": "PERFORMANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w066",
+      "display": "Artist",
+      "grid_entry": "ARTIST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w067",
+      "display": "Author",
+      "grid_entry": "AUTHOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w068",
+      "display": "Writer",
+      "grid_entry": "WRITER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w069",
+      "display": "Novel",
+      "grid_entry": "NOVEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w070",
+      "display": "Poem",
+      "grid_entry": "POEM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w071",
+      "display": "Poet",
+      "grid_entry": "POET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w072",
+      "display": "Book",
+      "grid_entry": "BOOK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w073",
+      "display": "Page",
+      "grid_entry": "PAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w074",
+      "display": "Print",
+      "grid_entry": "PRINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w075",
+      "display": "Press",
+      "grid_entry": "PRESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w076",
+      "display": "Publish",
+      "grid_entry": "PUBLISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w077",
+      "display": "Editor",
+      "grid_entry": "EDITOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w078",
+      "display": "Journal",
+      "grid_entry": "JOURNAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w079",
+      "display": "Paper",
+      "grid_entry": "PAPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w080",
+      "display": "Letter",
+      "grid_entry": "LETTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w081",
+      "display": "Quill",
+      "grid_entry": "QUILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w082",
+      "display": "INK",
+      "grid_entry": "INK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w083",
+      "display": "Draw",
+      "grid_entry": "DRAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w084",
+      "display": "Sketch",
+      "grid_entry": "SKETCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w085",
+      "display": "Paint",
+      "grid_entry": "PAINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w086",
+      "display": "Canvas",
+      "grid_entry": "CANVAS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w087",
+      "display": "Portrait",
+      "grid_entry": "PORTRAIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w088",
+      "display": "Photo",
+      "grid_entry": "PHOTO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w089",
+      "display": "Image",
+      "grid_entry": "IMAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w090",
+      "display": "Picture",
+      "grid_entry": "PICTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w091",
+      "display": "Album",
+      "grid_entry": "ALBUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w092",
+      "display": "Gallery",
+      "grid_entry": "GALLERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w093",
+      "display": "Museum",
+      "grid_entry": "MUSEUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w094",
+      "display": "Heritage",
+      "grid_entry": "HERITAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w095",
+      "display": "Culture",
+      "grid_entry": "CULTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w096",
+      "display": "Design",
+      "grid_entry": "DESIGN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w097",
+      "display": "Graphic",
+      "grid_entry": "GRAPHIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w098",
+      "display": "Poster",
+      "grid_entry": "POSTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w099",
+      "display": "Trailer",
+      "grid_entry": "TRAILER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-21-w100",
+      "display": "Clip",
+      "grid_entry": "CLIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

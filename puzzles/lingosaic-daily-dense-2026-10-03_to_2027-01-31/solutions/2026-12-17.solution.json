@@ -1,0 +1,714 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-12-17",
+  "date": "2026-12-17",
+  "theme": "Aviation pioneers & early flight",
+  "shape_id": "biplane",
+  "dictionary_id": "2026-12-17-aviation-pioneers-early-flight",
+  "generator_seed": "dense-crossword-2.0.0:2026-12-17",
+  "solution_grid": [
+    "###############",
+    "#######*#######",
+    "#######*#######",
+    "#######A#######",
+    "######*I*######",
+    "##AIRPORT**P*##",
+    "##**U****D*R**#",
+    "##D*N*AILERON*#",
+    "#CREW*I**L*P*C#",
+    "#*A*AIRPLANE*A#",
+    "#*G*Y*F**Y*LAB#",
+    "###T#*I***#L*I#",
+    "###O#JET*S#E*N#",
+    "##*W**L**A*R*##",
+    "##AERODROME**##",
+    "###R###*#P#####",
+    "###*###*#L#####",
+    "#######*#E#####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "AIAIRPORTPUDRDNAILERONCREWILPCAAIRPLANEAGYFYLABTILIOJETSENWLARAERODROMERPLE",
+  "solution_hash": "bf229020fdea62b316bf0630a0abbe1fa449bf6f84a15c9d49270cbf00ead5f2",
+  "seed_letters": [
+    {
+      "row": 7,
+      "col": 9,
+      "letter": "E"
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "letter": "T"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        }
+      ],
+      "answer": "AIRPORT"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "AILERON"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 8,
+          "col": 1
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ],
+      "answer": "CREW"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "AIRPLANE"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 12
+        },
+        {
+          "row": 10,
+          "col": 13
+        }
+      ],
+      "answer": "LAB"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "JET"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 14,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 10
+        }
+      ],
+      "answer": "AERODROME"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        }
+      ],
+      "answer": "DRAG"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 3
+        }
+      ],
+      "answer": "TOWER"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ],
+      "answer": "RUNWAY"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 6
+        }
+      ],
+      "answer": "AIRFIELD"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        }
+      ],
+      "answer": "AIR"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "DELAY"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 9
+        }
+      ],
+      "answer": "SAMPLE"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 11
+        }
+      ],
+      "answer": "PROPELLER"
+    },
+    {
+      "id": "D9",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 13
+        },
+        {
+          "row": 9,
+          "col": 13
+        },
+        {
+          "row": 10,
+          "col": 13
+        },
+        {
+          "row": 11,
+          "col": 13
+        },
+        {
+          "row": 12,
+          "col": 13
+        }
+      ],
+      "answer": "CABIN"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 5,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 0,
+      "letter": "R"
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 5,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A2",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A2",
+      "slot_a_index": 3,
+      "slot_b": "D6",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "slot_a": "A2",
+      "slot_a_index": 5,
+      "slot_b": "D8",
+      "slot_b_index": 2,
+      "letter": "O"
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "slot_a": "A3",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 1,
+      "letter": "R"
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "W"
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "slot_a": "A4",
+      "slot_a_index": 0,
+      "slot_b": "D3",
+      "slot_b_index": 4,
+      "letter": "A"
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "slot_a": "A4",
+      "slot_a_index": 5,
+      "slot_b": "D6",
+      "slot_b_index": 3,
+      "letter": "A"
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "slot_a": "A4",
+      "slot_a_index": 7,
+      "slot_b": "D8",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D8",
+      "slot_b_index": 5,
+      "letter": "L"
+    },
+    {
+      "row": 10,
+      "col": 13,
+      "slot_a": "A5",
+      "slot_a_index": 2,
+      "slot_b": "D9",
+      "slot_b_index": 2,
+      "letter": "B"
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "slot_a": "A6",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 5,
+      "letter": "E"
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "slot_a": "A7",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "E"
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "slot_a": "A7",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 7,
+      "letter": "D"
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "slot_a": "A7",
+      "slot_a_index": 7,
+      "slot_b": "D7",
+      "slot_b_index": 2,
+      "letter": "M"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 7,
+    "down_slots": 9,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.12,
+    "leaf_slots": 6,
+    "max_slot_crossings": 4,
+    "seed_letters": 2
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    1
+  ]
+}

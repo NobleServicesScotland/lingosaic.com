@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-16",
+  "date": "2026-12-16",
+  "daily_number": 62,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-16",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Jane Austen & Regency England",
+    "occasion": "Jane Austen's birthday"
+  },
+  "bonus": {
+    "title": "Jane Austen's birthday",
+    "description": "Jane Austen was born on 16 December 1775 and became one of the best-known novelists of the English Regency period."
+  },
+  "shape": {
+    "id": "quill",
+    "name": "Quill",
+    "grid_file": "../shapes/2026-12-16-quill.grid.json",
+    "svg_file": "../shapes/2026-12-16-quill.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-16-jane-austen-regency-england",
+    "file": "../dictionaries/2026-12-16-jane-austen-regency-england.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###.########X##",
+      "###.#####XXXX##",
+      "###.##XXXXXX###",
+      "###.##X.XXXX###",
+      "###.##X.X.XX###",
+      "###.#.XCXEX####",
+      "###........####",
+      "###.#.X.X.#####",
+      "###.#.X.X.#####",
+      "####XOX.#.#####",
+      "####X.###.#####",
+      "####X.#########",
+      "####X.#########",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "C"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "E"
+      },
+      {
+        "row": 10,
+        "col": 5,
+        "letter": "O"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 1,
+          "col": 3
+        },
+        {
+          "row": 2,
+          "col": 3
+        },
+        {
+          "row": 3,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "4854d129bd6b83450d9d181bd05e1a13a5cc339b9ec925a800770b38defc98f4"
+  }
+}

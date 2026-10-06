@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-15",
+  "date": "2026-12-15",
+  "daily_number": 61,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-15",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Languages & alphabets",
+    "occasion": "World Turkic Language Family Day"
+  },
+  "bonus": {
+    "title": "World Turkic Language Family Day",
+    "description": "A language-focused international observance makes this a natural day for alphabets, scripts and words."
+  },
+  "shape": {
+    "id": "alphabet-tile",
+    "name": "Alphabet tile",
+    "grid_file": "../shapes/2026-12-15-alphabet-tile.grid.json",
+    "svg_file": "../shapes/2026-12-15-alphabet-tile.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-15-languages-alphabets",
+    "file": "../dictionaries/2026-12-15-languages-alphabets.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "######.########",
+      "######.########",
+      "##XXXX.XXXXXX##",
+      "##XX.X.XXXXXX##",
+      "##XX.X.X.X.XX##",
+      "##XX.XNXYXHXX##",
+      "##XX.......XX##",
+      "##XX.X.X.X.XX##",
+      "##XX.X.X.X.XX##",
+      "##XX.XXX.X.XX##",
+      "##XX.XXXXXXXX##",
+      "###############",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "N"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "Y"
+      },
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "H"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 1,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "6e4e8a1c3ad103d71636b2b8c74392d72d252c471e00c8c1aede2369553d4cdc"
+  }
+}

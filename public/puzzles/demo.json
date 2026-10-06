@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "demo",
+  "generator_version": "1.0.0",
+  "seed": "1",
+  "theme": {
+    "id": "garden",
+    "name": "In the garden"
+  },
+  "shape": {
+    "schema_version": 1,
+    "id": "demo",
+    "name": "Garden gate",
+    "rows": [
+      "...#...",
+      ".#.#.#.",
+      ".#.#.#."
+    ]
+  },
+  "seeds": {
+    "0": "F"
+  },
+  "validation": {
+    "algorithm": "SHA-256",
+    "canonical_version": 1,
+    "hash": "a9c801c56f2f02ce4a84e99bdefa98af2085a47dfece0ca06c79de58fd8eb1d9"
+  }
+}

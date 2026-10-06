@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-10-12-farming-harvest",
+  "theme": {
+    "id": "farming-harvest",
+    "name": "Farming & harvest",
+    "definition": "Single-word English entries directly associated with farming & harvest."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-10-12-w001",
+      "display": "Farm",
+      "grid_entry": "FARM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w002",
+      "display": "Farmer",
+      "grid_entry": "FARMER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w003",
+      "display": "Farming",
+      "grid_entry": "FARMING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w004",
+      "display": "Field",
+      "grid_entry": "FIELD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w005",
+      "display": "Crop",
+      "grid_entry": "CROP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w006",
+      "display": "Harvest",
+      "grid_entry": "HARVEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w007",
+      "display": "Wheat",
+      "grid_entry": "WHEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w008",
+      "display": "Barley",
+      "grid_entry": "BARLEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w009",
+      "display": "Oat",
+      "grid_entry": "OAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w010",
+      "display": "Rye",
+      "grid_entry": "RYE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w011",
+      "display": "Corn",
+      "grid_entry": "CORN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w012",
+      "display": "Maize",
+      "grid_entry": "MAIZE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w013",
+      "display": "Potato",
+      "grid_entry": "POTATO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w014",
+      "display": "Carrot",
+      "grid_entry": "CARROT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w015",
+      "display": "Turnip",
+      "grid_entry": "TURNIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w016",
+      "display": "Beet",
+      "grid_entry": "BEET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w017",
+      "display": "Onion",
+      "grid_entry": "ONION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w018",
+      "display": "Cabbage",
+      "grid_entry": "CABBAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w019",
+      "display": "Pea",
+      "grid_entry": "PEA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w020",
+      "display": "Bean",
+      "grid_entry": "BEAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w021",
+      "display": "Apple",
+      "grid_entry": "APPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w022",
+      "display": "Pear",
+      "grid_entry": "PEAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w023",
+      "display": "Plum",
+      "grid_entry": "PLUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w024",
+      "display": "Berry",
+      "grid_entry": "BERRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w025",
+      "display": "Orchard",
+      "grid_entry": "ORCHARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w026",
+      "display": "Vineyard",
+      "grid_entry": "VINEYARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w027",
+      "display": "Barn",
+      "grid_entry": "BARN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w028",
+      "display": "Shed",
+      "grid_entry": "SHED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w029",
+      "display": "Tractor",
+      "grid_entry": "TRACTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w030",
+      "display": "Plough",
+      "grid_entry": "PLOUGH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w031",
+      "display": "Plow",
+      "grid_entry": "PLOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w032",
+      "display": "Harrow",
+      "grid_entry": "HARROW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w033",
+      "display": "Drill",
+      "grid_entry": "DRILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w034",
+      "display": "Seed",
+      "grid_entry": "SEED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w035",
+      "display": "Sow",
+      "grid_entry": "SOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w036",
+      "display": "Sowing",
+      "grid_entry": "SOWING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w037",
+      "display": "Reap",
+      "grid_entry": "REAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w038",
+      "display": "Reaper",
+      "grid_entry": "REAPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w039",
+      "display": "Combine",
+      "grid_entry": "COMBINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w040",
+      "display": "Thresh",
+      "grid_entry": "THRESH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w041",
+      "display": "Bale",
+      "grid_entry": "BALE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w042",
+      "display": "Hay",
+      "grid_entry": "HAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w043",
+      "display": "Straw",
+      "grid_entry": "STRAW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w044",
+      "display": "Silage",
+      "grid_entry": "SILAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w045",
+      "display": "Fence",
+      "grid_entry": "FENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w046",
+      "display": "Gate",
+      "grid_entry": "GATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w047",
+      "display": "Hedge",
+      "grid_entry": "HEDGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w048",
+      "display": "Pasture",
+      "grid_entry": "PASTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w049",
+      "display": "Meadow",
+      "grid_entry": "MEADOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w050",
+      "display": "Soil",
+      "grid_entry": "SOIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w051",
+      "display": "Earth",
+      "grid_entry": "EARTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w052",
+      "display": "Loam",
+      "grid_entry": "LOAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w053",
+      "display": "Clay",
+      "grid_entry": "CLAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w054",
+      "display": "Compost",
+      "grid_entry": "COMPOST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w055",
+      "display": "Manure",
+      "grid_entry": "MANURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w056",
+      "display": "Fertiliser",
+      "grid_entry": "FERTILISER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w057",
+      "display": "Irrigate",
+      "grid_entry": "IRRIGATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w058",
+      "display": "Water",
+      "grid_entry": "WATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w059",
+      "display": "Rain",
+      "grid_entry": "RAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w060",
+      "display": "Sun",
+      "grid_entry": "SUN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w061",
+      "display": "Season",
+      "grid_entry": "SEASON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w062",
+      "display": "Autumn",
+      "grid_entry": "AUTUMN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w063",
+      "display": "Spring",
+      "grid_entry": "SPRING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w064",
+      "display": "Livestock",
+      "grid_entry": "LIVESTOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w065",
+      "display": "Cattle",
+      "grid_entry": "CATTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w066",
+      "display": "Cow",
+      "grid_entry": "COW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w067",
+      "display": "Bull",
+      "grid_entry": "BULL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w068",
+      "display": "Calf",
+      "grid_entry": "CALF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w069",
+      "display": "Sheep",
+      "grid_entry": "SHEEP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w070",
+      "display": "Lamb",
+      "grid_entry": "LAMB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w071",
+      "display": "Pig",
+      "grid_entry": "PIG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w072",
+      "display": "Piglet",
+      "grid_entry": "PIGLET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w073",
+      "display": "Hen",
+      "grid_entry": "HEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w074",
+      "display": "Chicken",
+      "grid_entry": "CHICKEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w075",
+      "display": "Duck",
+      "grid_entry": "DUCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w076",
+      "display": "Goose",
+      "grid_entry": "GOOSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w077",
+      "display": "Horse",
+      "grid_entry": "HORSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w078",
+      "display": "Goat",
+      "grid_entry": "GOAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w079",
+      "display": "Dairy",
+      "grid_entry": "DAIRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w080",
+      "display": "Milk",
+      "grid_entry": "MILK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w081",
+      "display": "Wool",
+      "grid_entry": "WOOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w082",
+      "display": "Egg",
+      "grid_entry": "EGG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w083",
+      "display": "Market",
+      "grid_entry": "MARKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w084",
+      "display": "Produce",
+      "grid_entry": "PRODUCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w085",
+      "display": "Yield",
+      "grid_entry": "YIELD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w086",
+      "display": "Grain",
+      "grid_entry": "GRAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w087",
+      "display": "Mill",
+      "grid_entry": "MILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w088",
+      "display": "Root",
+      "grid_entry": "ROOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w089",
+      "display": "Worm",
+      "grid_entry": "WORM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w090",
+      "display": "Humus",
+      "grid_entry": "HUMUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w091",
+      "display": "Garden",
+      "grid_entry": "GARDEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w092",
+      "display": "Mulch",
+      "grid_entry": "MULCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w093",
+      "display": "Nutrient",
+      "grid_entry": "NUTRIENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w094",
+      "display": "Plant",
+      "grid_entry": "PLANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w095",
+      "display": "Topsoil",
+      "grid_entry": "TOPSOIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w096",
+      "display": "Peat",
+      "grid_entry": "PEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w097",
+      "display": "Ground",
+      "grid_entry": "GROUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w098",
+      "display": "Sand",
+      "grid_entry": "SAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w099",
+      "display": "Silt",
+      "grid_entry": "SILT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-10-12-w100",
+      "display": "Tree",
+      "grid_entry": "TREE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

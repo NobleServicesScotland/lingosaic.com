@@ -1,0 +1,39 @@
+{
+  "date": "2026-12-10",
+  "status": "PASS",
+  "generator_version": "dense-crossword-2.0.0",
+  "dictionary_words": 100,
+  "slot_count": 14,
+  "across_slots": 7,
+  "down_slots": 7,
+  "crossings": 13,
+  "average_crossings_per_slot": 1.86,
+  "leaf_slots": 6,
+  "max_slot_crossings": 3,
+  "seed_letters": 2,
+  "uniqueness_count": 1,
+  "solution_hash_matches": true,
+  "topology_checks": {
+    "minimum_12_slots": true,
+    "at_least_5_across": true,
+    "at_least_5_down": true,
+    "connected_network": true,
+    "not_single_spine": true
+  },
+  "answers": [
+    "AID",
+    "GIVE",
+    "SAFETY",
+    "COURT",
+    "PEACE",
+    "WORLD",
+    "FORUM",
+    "LOCAL",
+    "DUTY",
+    "JUSTICE",
+    "JUDGE",
+    "VOICE",
+    "FREEDOM",
+    "JURY"
+  ]
+}

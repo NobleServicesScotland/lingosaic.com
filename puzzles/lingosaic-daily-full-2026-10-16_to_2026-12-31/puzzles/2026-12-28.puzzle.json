@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-28",
+  "date": "2026-12-28",
+  "daily_number": 74,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-28",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Cinema & filmmaking",
+    "occasion": "Early cinema anniversary"
+  },
+  "bonus": {
+    "title": "Early cinema anniversary",
+    "description": "28 December is associated with the Lumi\u00e8re brothers' famous 1895 public film screening in Paris and the beginnings of cinema."
+  },
+  "shape": {
+    "id": "movie-camera",
+    "name": "Movie camera",
+    "grid_file": "../shapes/2026-12-28-movie-camera.grid.json",
+    "svg_file": "../shapes/2026-12-28-movie-camera.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-28-cinema-filmmaking",
+    "file": "../dictionaries/2026-12-28-cinema-filmmaking.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "####XX###XX####",
+      "###XXXX#XXXX###",
+      "##XXXXXXXXXXX##",
+      "##XXXXXXXXXXX##",
+      "###XX.X#XXXX##X",
+      "###.XCX.XMX#XXX",
+      "###........XXXX",
+      "###.X.X.X.XXXXX",
+      "###.X.XEX.XXXXX",
+      "###XX.X.X.XXXXX",
+      "###XXXX.XXX#XXX",
+      "##############X",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "C"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "M"
+      },
+      {
+        "row": 9,
+        "col": 7,
+        "letter": "E"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "5f4fa62f203951f56571314f15ac8d8a2b384bfd72a2b64841ba973d7299f4d7"
+  }
+}

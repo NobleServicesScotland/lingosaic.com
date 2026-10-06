@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-03-fantasy-storytelling",
+  "theme": {
+    "id": "fantasy-storytelling",
+    "name": "Fantasy & storytelling",
+    "definition": "Single-word English entries directly associated with fantasy & storytelling."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-03-w001",
+      "display": "Fantasy",
+      "grid_entry": "FANTASY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w002",
+      "display": "Story",
+      "grid_entry": "STORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w003",
+      "display": "Tale",
+      "grid_entry": "TALE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w004",
+      "display": "Legend",
+      "grid_entry": "LEGEND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w005",
+      "display": "Myth",
+      "grid_entry": "MYTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w006",
+      "display": "Magic",
+      "grid_entry": "MAGIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w007",
+      "display": "Wizard",
+      "grid_entry": "WIZARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w008",
+      "display": "Witch",
+      "grid_entry": "WITCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w009",
+      "display": "Dragon",
+      "grid_entry": "DRAGON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w010",
+      "display": "Elf",
+      "grid_entry": "ELF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w011",
+      "display": "Dwarf",
+      "grid_entry": "DWARF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w012",
+      "display": "Giant",
+      "grid_entry": "GIANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w013",
+      "display": "Troll",
+      "grid_entry": "TROLL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w014",
+      "display": "Goblin",
+      "grid_entry": "GOBLIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w015",
+      "display": "Orc",
+      "grid_entry": "ORC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w016",
+      "display": "Fairy",
+      "grid_entry": "FAIRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w017",
+      "display": "Knight",
+      "grid_entry": "KNIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w018",
+      "display": "King",
+      "grid_entry": "KING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w019",
+      "display": "Queen",
+      "grid_entry": "QUEEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w020",
+      "display": "Prince",
+      "grid_entry": "PRINCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w021",
+      "display": "Princess",
+      "grid_entry": "PRINCESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w022",
+      "display": "Castle",
+      "grid_entry": "CASTLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w023",
+      "display": "Tower",
+      "grid_entry": "TOWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w024",
+      "display": "Dungeon",
+      "grid_entry": "DUNGEON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w025",
+      "display": "Quest",
+      "grid_entry": "QUEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w026",
+      "display": "Journey",
+      "grid_entry": "JOURNEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w027",
+      "display": "Hero",
+      "grid_entry": "HERO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w028",
+      "display": "Villain",
+      "grid_entry": "VILLAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w029",
+      "display": "Sword",
+      "grid_entry": "SWORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w030",
+      "display": "Shield",
+      "grid_entry": "SHIELD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w031",
+      "display": "Crown",
+      "grid_entry": "CROWN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w032",
+      "display": "Throne",
+      "grid_entry": "THRONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w033",
+      "display": "Spell",
+      "grid_entry": "SPELL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w034",
+      "display": "Potion",
+      "grid_entry": "POTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w035",
+      "display": "Wand",
+      "grid_entry": "WAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w036",
+      "display": "Staff",
+      "grid_entry": "STAFF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w037",
+      "display": "Ring",
+      "grid_entry": "RING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w038",
+      "display": "Amulet",
+      "grid_entry": "AMULET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w039",
+      "display": "Treasure",
+      "grid_entry": "TREASURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w040",
+      "display": "Map",
+      "grid_entry": "MAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w041",
+      "display": "Forest",
+      "grid_entry": "FOREST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w042",
+      "display": "Mountain",
+      "grid_entry": "MOUNTAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w043",
+      "display": "Cave",
+      "grid_entry": "CAVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w044",
+      "display": "River",
+      "grid_entry": "RIVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w045",
+      "display": "Kingdom",
+      "grid_entry": "KINGDOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w046",
+      "display": "Realm",
+      "grid_entry": "REALM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w047",
+      "display": "Village",
+      "grid_entry": "VILLAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w048",
+      "display": "Tavern",
+      "grid_entry": "TAVERN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w049",
+      "display": "Horse",
+      "grid_entry": "HORSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w050",
+      "display": "Wolf",
+      "grid_entry": "WOLF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w051",
+      "display": "Raven",
+      "grid_entry": "RAVEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w052",
+      "display": "Owl",
+      "grid_entry": "OWL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w053",
+      "display": "Phoenix",
+      "grid_entry": "PHOENIX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w054",
+      "display": "Unicorn",
+      "grid_entry": "UNICORN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w055",
+      "display": "Griffin",
+      "grid_entry": "GRIFFIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w056",
+      "display": "Mermaid",
+      "grid_entry": "MERMAID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w057",
+      "display": "Monster",
+      "grid_entry": "MONSTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w058",
+      "display": "Ghost",
+      "grid_entry": "GHOST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w059",
+      "display": "Spirit",
+      "grid_entry": "SPIRIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w060",
+      "display": "Prophecy",
+      "grid_entry": "PROPHECY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w061",
+      "display": "Riddle",
+      "grid_entry": "RIDDLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w062",
+      "display": "Secret",
+      "grid_entry": "SECRET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w063",
+      "display": "Door",
+      "grid_entry": "DOOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w064",
+      "display": "Portal",
+      "grid_entry": "PORTAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w065",
+      "display": "Dream",
+      "grid_entry": "DREAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w066",
+      "display": "Adventure",
+      "grid_entry": "ADVENTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w067",
+      "display": "Chapter",
+      "grid_entry": "CHAPTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w068",
+      "display": "Book",
+      "grid_entry": "BOOK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w069",
+      "display": "Novel",
+      "grid_entry": "NOVEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w070",
+      "display": "Author",
+      "grid_entry": "AUTHOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w071",
+      "display": "Reader",
+      "grid_entry": "READER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w072",
+      "display": "Page",
+      "grid_entry": "PAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w073",
+      "display": "Plot",
+      "grid_entry": "PLOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w074",
+      "display": "Character",
+      "grid_entry": "CHARACTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w075",
+      "display": "Scene",
+      "grid_entry": "SCENE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w076",
+      "display": "Ending",
+      "grid_entry": "ENDING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w077",
+      "display": "Beginning",
+      "grid_entry": "BEGINNING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w078",
+      "display": "Narrator",
+      "grid_entry": "NARRATOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w079",
+      "display": "Language",
+      "grid_entry": "LANGUAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w080",
+      "display": "Alphabet",
+      "grid_entry": "ALPHABET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w081",
+      "display": "Letter",
+      "grid_entry": "LETTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w082",
+      "display": "Script",
+      "grid_entry": "SCRIPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w083",
+      "display": "Word",
+      "grid_entry": "WORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w084",
+      "display": "Vowel",
+      "grid_entry": "VOWEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w085",
+      "display": "Consonant",
+      "grid_entry": "CONSONANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w086",
+      "display": "Grammar",
+      "grid_entry": "GRAMMAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w087",
+      "display": "Speech",
+      "grid_entry": "SPEECH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w088",
+      "display": "Dialect",
+      "grid_entry": "DIALECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w089",
+      "display": "Phrase",
+      "grid_entry": "PHRASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w090",
+      "display": "Symbol",
+      "grid_entry": "SYMBOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w091",
+      "display": "Write",
+      "grid_entry": "WRITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w092",
+      "display": "Read",
+      "grid_entry": "READ",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w093",
+      "display": "Sound",
+      "grid_entry": "SOUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w094",
+      "display": "Translate",
+      "grid_entry": "TRANSLATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w095",
+      "display": "Syllable",
+      "grid_entry": "SYLLABLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w096",
+      "display": "Sentence",
+      "grid_entry": "SENTENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w097",
+      "display": "Spelling",
+      "grid_entry": "SPELLING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w098",
+      "display": "Voice",
+      "grid_entry": "VOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w099",
+      "display": "Accent",
+      "grid_entry": "ACCENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-03-w100",
+      "display": "Meaning",
+      "grid_entry": "MEANING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

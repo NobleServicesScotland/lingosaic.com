@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-12-07-aviation-airports",
+  "theme": {
+    "id": "aviation-airports",
+    "name": "Aviation & airports",
+    "definition": "Single-word English entries directly associated with aviation & airports."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-12-07-w001",
+      "display": "Airplane",
+      "grid_entry": "AIRPLANE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w002",
+      "display": "Airport",
+      "grid_entry": "AIRPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w003",
+      "display": "Runway",
+      "grid_entry": "RUNWAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w004",
+      "display": "Pilot",
+      "grid_entry": "PILOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w005",
+      "display": "Flight",
+      "grid_entry": "FLIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w006",
+      "display": "Wing",
+      "grid_entry": "WING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w007",
+      "display": "Cabin",
+      "grid_entry": "CABIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w008",
+      "display": "Tower",
+      "grid_entry": "TOWER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w009",
+      "display": "Radar",
+      "grid_entry": "RADAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w010",
+      "display": "JET",
+      "grid_entry": "JET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w011",
+      "display": "Baggage",
+      "grid_entry": "BAGGAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w012",
+      "display": "Terminal",
+      "grid_entry": "TERMINAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w013",
+      "display": "Crew",
+      "grid_entry": "CREW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w014",
+      "display": "Gate",
+      "grid_entry": "GATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w015",
+      "display": "Takeoff",
+      "grid_entry": "TAKEOFF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w016",
+      "display": "Landing",
+      "grid_entry": "LANDING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w017",
+      "display": "Aircraft",
+      "grid_entry": "AIRCRAFT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w018",
+      "display": "Engine",
+      "grid_entry": "ENGINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w019",
+      "display": "Propeller",
+      "grid_entry": "PROPELLER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w020",
+      "display": "Glider",
+      "grid_entry": "GLIDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w021",
+      "display": "Biplane",
+      "grid_entry": "BIPLANE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w022",
+      "display": "Flyer",
+      "grid_entry": "FLYER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w023",
+      "display": "Airfield",
+      "grid_entry": "AIRFIELD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w024",
+      "display": "Aerodrome",
+      "grid_entry": "AERODROME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w025",
+      "display": "Hangar",
+      "grid_entry": "HANGAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w026",
+      "display": "Taxiway",
+      "grid_entry": "TAXIWAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w027",
+      "display": "Apron",
+      "grid_entry": "APRON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w028",
+      "display": "Cockpit",
+      "grid_entry": "COCKPIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w029",
+      "display": "Fuselage",
+      "grid_entry": "FUSELAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w030",
+      "display": "Tail",
+      "grid_entry": "TAIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w031",
+      "display": "Rudder",
+      "grid_entry": "RUDDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w032",
+      "display": "Aileron",
+      "grid_entry": "AILERON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w033",
+      "display": "Flap",
+      "grid_entry": "FLAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w034",
+      "display": "Slat",
+      "grid_entry": "SLAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w035",
+      "display": "Spoiler",
+      "grid_entry": "SPOILER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w036",
+      "display": "Thrust",
+      "grid_entry": "THRUST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w037",
+      "display": "Lift",
+      "grid_entry": "LIFT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w038",
+      "display": "Drag",
+      "grid_entry": "DRAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w039",
+      "display": "Altitude",
+      "grid_entry": "ALTITUDE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w040",
+      "display": "Speed",
+      "grid_entry": "SPEED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w041",
+      "display": "Climb",
+      "grid_entry": "CLIMB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w042",
+      "display": "Descent",
+      "grid_entry": "DESCENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w043",
+      "display": "Cruise",
+      "grid_entry": "CRUISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w044",
+      "display": "Route",
+      "grid_entry": "ROUTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w045",
+      "display": "Heading",
+      "grid_entry": "HEADING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w046",
+      "display": "Bearing",
+      "grid_entry": "BEARING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w047",
+      "display": "Compass",
+      "grid_entry": "COMPASS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w048",
+      "display": "Navigation",
+      "grid_entry": "NAVIGATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w049",
+      "display": "Radio",
+      "grid_entry": "RADIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w050",
+      "display": "Beacon",
+      "grid_entry": "BEACON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w051",
+      "display": "Control",
+      "grid_entry": "CONTROL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w052",
+      "display": "ATC",
+      "grid_entry": "ATC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w053",
+      "display": "Boarding",
+      "grid_entry": "BOARDING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w054",
+      "display": "Passport",
+      "grid_entry": "PASSPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w055",
+      "display": "Ticket",
+      "grid_entry": "TICKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w056",
+      "display": "Security",
+      "grid_entry": "SECURITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w057",
+      "display": "Lounge",
+      "grid_entry": "LOUNGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w058",
+      "display": "Checkin",
+      "grid_entry": "CHECKIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w059",
+      "display": "Departure",
+      "grid_entry": "DEPARTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w060",
+      "display": "Arrival",
+      "grid_entry": "ARRIVAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w061",
+      "display": "Delay",
+      "grid_entry": "DELAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w062",
+      "display": "Divert",
+      "grid_entry": "DIVERT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w063",
+      "display": "Turbulence",
+      "grid_entry": "TURBULENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w064",
+      "display": "Cloud",
+      "grid_entry": "CLOUD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w065",
+      "display": "Weather",
+      "grid_entry": "WEATHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w066",
+      "display": "Fuel",
+      "grid_entry": "FUEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w067",
+      "display": "Tank",
+      "grid_entry": "TANK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w068",
+      "display": "Gear",
+      "grid_entry": "GEAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w069",
+      "display": "Wheel",
+      "grid_entry": "WHEEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w070",
+      "display": "Brake",
+      "grid_entry": "BRAKE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w071",
+      "display": "Helicopter",
+      "grid_entry": "HELICOPTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w072",
+      "display": "Balloon",
+      "grid_entry": "BALLOON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w073",
+      "display": "Airship",
+      "grid_entry": "AIRSHIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w074",
+      "display": "Aviator",
+      "grid_entry": "AVIATOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w075",
+      "display": "Pioneer",
+      "grid_entry": "PIONEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w076",
+      "display": "Wright",
+      "grid_entry": "WRIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w077",
+      "display": "Orville",
+      "grid_entry": "ORVILLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w078",
+      "display": "Wilbur",
+      "grid_entry": "WILBUR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w079",
+      "display": "Dayton",
+      "grid_entry": "DAYTON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w080",
+      "display": "Science",
+      "grid_entry": "SCIENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w081",
+      "display": "Research",
+      "grid_entry": "RESEARCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w082",
+      "display": "Theory",
+      "grid_entry": "THEORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w083",
+      "display": "Model",
+      "grid_entry": "MODEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w084",
+      "display": "Data",
+      "grid_entry": "DATA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w085",
+      "display": "Evidence",
+      "grid_entry": "EVIDENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w086",
+      "display": "Test",
+      "grid_entry": "TEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w087",
+      "display": "Trial",
+      "grid_entry": "TRIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w088",
+      "display": "Experiment",
+      "grid_entry": "EXPERIMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w089",
+      "display": "Result",
+      "grid_entry": "RESULT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w090",
+      "display": "Method",
+      "grid_entry": "METHOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w091",
+      "display": "Laboratory",
+      "grid_entry": "LABORATORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w092",
+      "display": "LAB",
+      "grid_entry": "LAB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w093",
+      "display": "Sample",
+      "grid_entry": "SAMPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w094",
+      "display": "Measure",
+      "grid_entry": "MEASURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w095",
+      "display": "Observe",
+      "grid_entry": "OBSERVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w096",
+      "display": "Discovery",
+      "grid_entry": "DISCOVERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w097",
+      "display": "Invention",
+      "grid_entry": "INVENTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w098",
+      "display": "Design",
+      "grid_entry": "DESIGN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w099",
+      "display": "Engineer",
+      "grid_entry": "ENGINEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-07-w100",
+      "display": "Machine",
+      "grid_entry": "MACHINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-26",
+  "date": "2026-11-26",
+  "theme": "Thanksgiving food & traditions",
+  "shape_id": "turkey",
+  "dictionary_id": "2026-11-26-thanksgiving-food-traditions",
+  "generator_seed": "daily-2026-11-26",
+  "solution_grid": [
+    "###############",
+    "######XXX######",
+    "###XXXXXCXXX###",
+    "##XXXXXXRXXXX##",
+    "#XXXXXXXAXXXXX#",
+    "#XXXXXPXNXXXXX#",
+    "#XXXTXAXBXSXXX#",
+    "#XXXHARVESTXXX#",
+    "##XXAXAXRXUXX##",
+    "###XNXDXRXFX###",
+    "####KXEXYXF####",
+    "####S#XXXXI####",
+    "#######XX#N####",
+    "#######XX#G####",
+    "#######XX######"
+  ],
+  "canonical_solution": "CRAPNTABSHARVESTAARUNDRFKEYFSING",
+  "solution_hash": "5eba5ca61f49105494adf2c32af3a1e9f8e7a743047e7ed711c07f668e6a8ce1",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "T"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "A"
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "letter": "A"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "HARVEST"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ],
+      "answer": "THANKS"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ],
+      "answer": "PARADE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ],
+      "answer": "CRANBERRY"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "STUFFING"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 1,
+      "letter": "H"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 5,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "T"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-05",
+  "date": "2026-11-05",
+  "daily_number": 21,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-05",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Fireworks & bonfires",
+    "occasion": "Bonfire Night"
+  },
+  "bonus": {
+    "title": "Bonfire Night",
+    "description": "Bonfire Night in Britain commemorates the failure of the Gunpowder Plot of 1605 and is marked with fireworks and bonfires."
+  },
+  "shape": {
+    "id": "rocket-firework",
+    "name": "Rocket firework",
+    "grid_file": "../shapes/2026-11-05-rocket-firework.grid.json",
+    "svg_file": "../shapes/2026-11-05-rocket-firework.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-05-fireworks-bonfires",
+    "file": "../dictionaries/2026-11-05-fireworks-bonfires.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#######X#######",
+      "######XXX######",
+      "######XXX######",
+      "#####XX.X.#####",
+      "###.XXXOX.X####",
+      "###IXBX.XBX####",
+      "###........####",
+      "###.#.X.X.#####",
+      "###.#.X.XX#####",
+      "###.#XXXXX#####",
+      "###.#XXXXX#####",
+      "####XXXXXXX####",
+      "####XX###XX####",
+      "###X#######X###"
+    ],
+    "seed_letters": [
+      {
+        "row": 5,
+        "col": 7,
+        "letter": "O"
+      },
+      {
+        "row": 6,
+        "col": 3,
+        "letter": "I"
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "B"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "B"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "15ce5305d87cf3feb3a25cc2873e50903a3aa355389954ea05b8b54388cbc9c3"
+  }
+}

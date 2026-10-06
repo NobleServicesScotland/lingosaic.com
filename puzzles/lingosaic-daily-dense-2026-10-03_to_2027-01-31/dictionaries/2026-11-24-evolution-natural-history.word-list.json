@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-11-24-evolution-natural-history",
+  "theme": {
+    "id": "evolution-natural-history",
+    "name": "Evolution & natural history",
+    "definition": "Single-word English entries directly associated with evolution & natural history."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-11-24-w001",
+      "display": "Evolution",
+      "grid_entry": "EVOLUTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w002",
+      "display": "Darwin",
+      "grid_entry": "DARWIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w003",
+      "display": "Finch",
+      "grid_entry": "FINCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w004",
+      "display": "Species",
+      "grid_entry": "SPECIES",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w005",
+      "display": "Fossil",
+      "grid_entry": "FOSSIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w006",
+      "display": "Nature",
+      "grid_entry": "NATURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w007",
+      "display": "Adapt",
+      "grid_entry": "ADAPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w008",
+      "display": "Gene",
+      "grid_entry": "GENE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w009",
+      "display": "Mutation",
+      "grid_entry": "MUTATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w010",
+      "display": "Selection",
+      "grid_entry": "SELECTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w011",
+      "display": "Ancestor",
+      "grid_entry": "ANCESTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w012",
+      "display": "Biology",
+      "grid_entry": "BIOLOGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w013",
+      "display": "Origin",
+      "grid_entry": "ORIGIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w014",
+      "display": "Galapagos",
+      "grid_entry": "GALAPAGOS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w015",
+      "display": "Variation",
+      "grid_entry": "VARIATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w016",
+      "display": "Natural",
+      "grid_entry": "NATURAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w017",
+      "display": "Science",
+      "grid_entry": "SCIENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w018",
+      "display": "Research",
+      "grid_entry": "RESEARCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w019",
+      "display": "Theory",
+      "grid_entry": "THEORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w020",
+      "display": "Model",
+      "grid_entry": "MODEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w021",
+      "display": "Data",
+      "grid_entry": "DATA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w022",
+      "display": "Evidence",
+      "grid_entry": "EVIDENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w023",
+      "display": "Test",
+      "grid_entry": "TEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w024",
+      "display": "Trial",
+      "grid_entry": "TRIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w025",
+      "display": "Experiment",
+      "grid_entry": "EXPERIMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w026",
+      "display": "Result",
+      "grid_entry": "RESULT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w027",
+      "display": "Method",
+      "grid_entry": "METHOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w028",
+      "display": "Laboratory",
+      "grid_entry": "LABORATORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w029",
+      "display": "LAB",
+      "grid_entry": "LAB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w030",
+      "display": "Sample",
+      "grid_entry": "SAMPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w031",
+      "display": "Measure",
+      "grid_entry": "MEASURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w032",
+      "display": "Observe",
+      "grid_entry": "OBSERVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w033",
+      "display": "Discovery",
+      "grid_entry": "DISCOVERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w034",
+      "display": "Invention",
+      "grid_entry": "INVENTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w035",
+      "display": "Design",
+      "grid_entry": "DESIGN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w036",
+      "display": "Engineer",
+      "grid_entry": "ENGINEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w037",
+      "display": "Machine",
+      "grid_entry": "MACHINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w038",
+      "display": "Device",
+      "grid_entry": "DEVICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w039",
+      "display": "Tool",
+      "grid_entry": "TOOL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w040",
+      "display": "System",
+      "grid_entry": "SYSTEM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w041",
+      "display": "Technology",
+      "grid_entry": "TECHNOLOGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w042",
+      "display": "Robot",
+      "grid_entry": "ROBOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w043",
+      "display": "Circuit",
+      "grid_entry": "CIRCUIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w044",
+      "display": "Sensor",
+      "grid_entry": "SENSOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w045",
+      "display": "Laser",
+      "grid_entry": "LASER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w046",
+      "display": "Engine",
+      "grid_entry": "ENGINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w047",
+      "display": "Motor",
+      "grid_entry": "MOTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w048",
+      "display": "Atom",
+      "grid_entry": "ATOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w049",
+      "display": "Molecule",
+      "grid_entry": "MOLECULE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w050",
+      "display": "Element",
+      "grid_entry": "ELEMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w051",
+      "display": "Matter",
+      "grid_entry": "MATTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w052",
+      "display": "Energy",
+      "grid_entry": "ENERGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w053",
+      "display": "Force",
+      "grid_entry": "FORCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w054",
+      "display": "Motion",
+      "grid_entry": "MOTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w055",
+      "display": "Speed",
+      "grid_entry": "SPEED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w056",
+      "display": "Light",
+      "grid_entry": "LIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w057",
+      "display": "Sound",
+      "grid_entry": "SOUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w058",
+      "display": "Wave",
+      "grid_entry": "WAVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w059",
+      "display": "Heat",
+      "grid_entry": "HEAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w060",
+      "display": "Cold",
+      "grid_entry": "COLD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w061",
+      "display": "Pressure",
+      "grid_entry": "PRESSURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w062",
+      "display": "Electric",
+      "grid_entry": "ELECTRIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w063",
+      "display": "Magnet",
+      "grid_entry": "MAGNET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w064",
+      "display": "Field",
+      "grid_entry": "FIELD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w065",
+      "display": "Physics",
+      "grid_entry": "PHYSICS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w066",
+      "display": "Chemistry",
+      "grid_entry": "CHEMISTRY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w067",
+      "display": "Geology",
+      "grid_entry": "GEOLOGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w068",
+      "display": "Ecology",
+      "grid_entry": "ECOLOGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w069",
+      "display": "Botany",
+      "grid_entry": "BOTANY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w070",
+      "display": "Zoology",
+      "grid_entry": "ZOOLOGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w071",
+      "display": "Genetics",
+      "grid_entry": "GENETICS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w072",
+      "display": "Astronomy",
+      "grid_entry": "ASTRONOMY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w073",
+      "display": "Medicine",
+      "grid_entry": "MEDICINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w074",
+      "display": "Anatomy",
+      "grid_entry": "ANATOMY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w075",
+      "display": "Microbe",
+      "grid_entry": "MICROBE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w076",
+      "display": "Bacteria",
+      "grid_entry": "BACTERIA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w077",
+      "display": "Virus",
+      "grid_entry": "VIRUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w078",
+      "display": "Cell",
+      "grid_entry": "CELL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w079",
+      "display": "Tissue",
+      "grid_entry": "TISSUE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w080",
+      "display": "Organ",
+      "grid_entry": "ORGAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w081",
+      "display": "DNA",
+      "grid_entry": "DNA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w082",
+      "display": "Protein",
+      "grid_entry": "PROTEIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w083",
+      "display": "Enzyme",
+      "grid_entry": "ENZYME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w084",
+      "display": "Adaptation",
+      "grid_entry": "ADAPTATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w085",
+      "display": "Number",
+      "grid_entry": "NUMBER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w086",
+      "display": "Maths",
+      "grid_entry": "MATHS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w087",
+      "display": "Logic",
+      "grid_entry": "LOGIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w088",
+      "display": "Code",
+      "grid_entry": "CODE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w089",
+      "display": "Program",
+      "grid_entry": "PROGRAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w090",
+      "display": "Dataset",
+      "grid_entry": "DATASET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w091",
+      "display": "Algorithm",
+      "grid_entry": "ALGORITHM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w092",
+      "display": "Compute",
+      "grid_entry": "COMPUTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w093",
+      "display": "Digital",
+      "grid_entry": "DIGITAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w094",
+      "display": "Binary",
+      "grid_entry": "BINARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w095",
+      "display": "Network",
+      "grid_entry": "NETWORK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w096",
+      "display": "Server",
+      "grid_entry": "SERVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w097",
+      "display": "Signal",
+      "grid_entry": "SIGNAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w098",
+      "display": "Radar",
+      "grid_entry": "RADAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w099",
+      "display": "Satellite",
+      "grid_entry": "SATELLITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-11-24-w100",
+      "display": "Patent",
+      "grid_entry": "PATENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

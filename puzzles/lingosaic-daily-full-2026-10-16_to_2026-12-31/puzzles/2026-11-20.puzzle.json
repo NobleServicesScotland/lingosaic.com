@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-20",
+  "date": "2026-11-20",
+  "daily_number": 36,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-20",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Childhood & play",
+    "occasion": "World Children's Day"
+  },
+  "bonus": {
+    "title": "World Children's Day",
+    "description": "World Children's Day celebrates children and draws attention to children's rights, wellbeing and opportunities."
+  },
+  "shape": {
+    "id": "teddy-bear",
+    "name": "Teddy bear",
+    "grid_file": "../shapes/2026-11-20-teddy-bear.grid.json",
+    "svg_file": "../shapes/2026-11-20-teddy-bear.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-20-childhood-play",
+    "file": "../dictionaries/2026-11-20-childhood-play.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "##XXX#####XXX##",
+      "#XXXXX###XXXXX#",
+      "#XXXXXXXXXXXXX#",
+      "#X.XXX.XXXXXXX#",
+      "##.XXX.X.X.XX##",
+      "##.XGX.X.X.X###",
+      "##..........###",
+      "##.X.X.X.X.X###",
+      "##.X.XXX.X.X###",
+      "##.XXXXX.X.XX##",
+      "#X.XXXXXXX.XXX#",
+      "#XXXXXX#XXXXXX#",
+      "##XXXX###XXXX##",
+      "###XX#####XX###"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "G"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "21fc2e13e59ab3c363c971b89d7197304715d37f2b8aa32192cfcaebca2a29de"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-24",
+  "date": "2026-10-24",
+  "daily_number": 9,
+  "generator": {
+    "version": "daily-reference-1.0.0",
+    "seed": "daily-2026-10-24",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Countries & diplomacy",
+    "occasion": "United Nations Day"
+  },
+  "bonus": {
+    "title": "United Nations Day",
+    "description": "United Nations Day marks the anniversary of the UN Charter coming into force on 24 October 1945."
+  },
+  "shape": {
+    "id": "globe",
+    "name": "Globe",
+    "grid_file": "../shapes/2026-10-24-globe.grid.json",
+    "svg_file": "../shapes/2026-10-24-globe.svg"
+  },
+  "dictionary": {
+    "id": "2026-10-24-countries-diplomacy",
+    "file": "../dictionaries/2026-10-24-countries-diplomacy.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#####XXXXX#####",
+      "####XXXXXXX####",
+      "###XXPXXXXX.###",
+      "##X.X.XXXXX.X##",
+      "#XX.X.XXXPX.XX#",
+      "#XX.X.X.X.X.XX#",
+      "#XX.........XX#",
+      "#XX.X.X.X.XXXX#",
+      "#XX.X.X.X.XXXX#",
+      "##XXX.XXXXXXX##",
+      "###XXXXXXXXX###",
+      "####XXXXXXX####",
+      "#####XXXXX#####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 3,
+        "col": 5,
+        "letter": "P"
+      },
+      {
+        "row": 5,
+        "col": 9,
+        "letter": "P"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 3,
+          "col": 11
+        },
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "f4d8ef3d34cf0f5883a5a2a0b94c3b953f4de46a15e198d15f0f46dfe5cc674f"
+  }
+}

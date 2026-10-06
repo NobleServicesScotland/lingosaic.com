@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-23",
+  "date": "2026-11-23",
+  "theme": "Mathematics & number patterns",
+  "shape_id": "spiral",
+  "dictionary_id": "2026-11-23-mathematics-number-patterns",
+  "generator_seed": "daily-2026-11-23",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#####XX########",
+    "####XXXXXXXX###",
+    "##XXX###NXXXX##",
+    "##XXXXAXUXXXX##",
+    "#XXXPXNXMXRXXX#",
+    "#XXXALGEBRAXXX#",
+    "##XXTXL#EXT#X##",
+    "##XXTXEXRXIXX##",
+    "###XEXX###OXX##",
+    "###XRXXXXXX####",
+    "####N###XX#####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "NAUPNMRALGEBRATLETTERIEORN",
+  "solution_hash": "9e863e1a2cfb38131ac7216902dbf57fb103071346ef10ac8001dcd50982875f",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "N"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "letter": "R"
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "letter": "T"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "ALGEBRA"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ],
+      "answer": "PATTERN"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ],
+      "answer": "ANGLE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "NUMBER"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ],
+      "answer": "RATIO"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "G"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "B"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "A"
+    }
+  ]
+}

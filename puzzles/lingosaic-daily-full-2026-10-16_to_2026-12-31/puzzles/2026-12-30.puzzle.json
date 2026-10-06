@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-30",
+  "date": "2026-12-30",
+  "daily_number": 76,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-30",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Jungle animals & adventure stories",
+    "occasion": "Rudyard Kipling's birthday"
+  },
+  "bonus": {
+    "title": "Rudyard Kipling's birthday",
+    "description": "Rudyard Kipling was born on 30 December 1865; The Jungle Book makes the date a natural hook for jungle animals and adventure stories."
+  },
+  "shape": {
+    "id": "tiger",
+    "name": "Tiger",
+    "grid_file": "../shapes/2026-12-30-tiger.grid.json",
+    "svg_file": "../shapes/2026-12-30-tiger.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-30-jungle-animals-adventure-stories",
+    "file": "../dictionaries/2026-12-30-jungle-animals-adventure-stories.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "###############",
+      "#####.X.X######",
+      "###.#.X.XX#####",
+      "###.X.X.X.X####",
+      "##XGXKX.X.XXX##",
+      "##X........XX##",
+      "##X.X.XEX.XXX##",
+      "##XXXXX.X.XXX##",
+      "##XXXXXXX.XXX##",
+      "#####XXXXX#####",
+      "######XXX######",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 3,
+        "letter": "G"
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "K"
+      },
+      {
+        "row": 8,
+        "col": 7,
+        "letter": "E"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "c338e2f028e0443c3ba69f18cdd99f731d949f0fa11535d8a33a8bdf16b9749a"
+  }
+}

@@ -1,0 +1,647 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-10-27",
+  "date": "2026-10-27",
+  "theme": "Film, sound & recording",
+  "shape_id": "film-reel",
+  "dictionary_id": "2026-10-27-film-sound-recording",
+  "generator_seed": "dense-crossword-2.0.0:2026-10-27",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#####NEWS*#####",
+    "#####***C*#####",
+    "####*CINEMA####",
+    "###*****N*C*###",
+    "##**DANCE*T*R##",
+    "##*F*R*U*ROLE##",
+    "##*RECORD*R*E##",
+    "##*A*H*T****L##",
+    "##*M*IMAGE*T*##",
+    "##*E*V*I*DRAW##",
+    "##***E*N*I*K*##",
+    "###******T*E###",
+    "####*******####",
+    "#####*****#####",
+    "#####*****#####",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "NEWSCCINEMANCDANCETRFRUROLERECORDREAHTLMIMAGETEVIDRAWENIKTE",
+  "solution_hash": "ec5c847d6a125fe35cabbc30593564a1a1b52db7520ce5c39b442bd234b09602",
+  "seed_letters": [
+    {
+      "row": 2,
+      "col": 7,
+      "letter": "W"
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "letter": "N"
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "letter": "F"
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "letter": "E"
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "letter": "K"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 2,
+          "col": 5
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 8
+        }
+      ],
+      "answer": "NEWS"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        }
+      ],
+      "answer": "CINEMA"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "DANCE"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "ROLE"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        }
+      ],
+      "answer": "RECORD"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "IMAGE"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 12
+        }
+      ],
+      "answer": "DRAW"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        }
+      ],
+      "answer": "FRAME"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        }
+      ],
+      "answer": "ARCHIVE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "CURTAIN"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "SCENE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        }
+      ],
+      "answer": "EDIT"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ],
+      "answer": "ACTOR"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 11
+        }
+      ],
+      "answer": "TAKE"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "REEL"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 2,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 3,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "slot_a": "A2",
+      "slot_a_index": 3,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "E"
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "slot_a": "A2",
+      "slot_a_index": 5,
+      "slot_b": "D6",
+      "slot_b_index": 0,
+      "letter": "A"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "slot_a": "A3",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 0,
+      "letter": "A"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "slot_a": "A3",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A4",
+      "slot_a_index": 1,
+      "slot_b": "D6",
+      "slot_b_index": 3,
+      "letter": "O"
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "slot_a": "A4",
+      "slot_a_index": 3,
+      "slot_b": "D8",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 1,
+      "letter": "R"
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "slot_a": "A5",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "C"
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "slot_a": "A6",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 4,
+      "letter": "I"
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "slot_a": "A6",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 4,
+      "letter": "A"
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "slot_a": "A6",
+      "slot_a_index": 4,
+      "slot_b": "D5",
+      "slot_b_index": 0,
+      "letter": "E"
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "slot_a": "A7",
+      "slot_a_index": 0,
+      "slot_b": "D5",
+      "slot_b_index": 1,
+      "letter": "D"
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "slot_a": "A7",
+      "slot_a_index": 2,
+      "slot_b": "D7",
+      "slot_b_index": 1,
+      "letter": "A"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 7,
+    "down_slots": 8,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.13,
+    "leaf_slots": 4,
+    "max_slot_crossings": 3,
+    "seed_letters": 5
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

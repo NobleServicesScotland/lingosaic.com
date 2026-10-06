@@ -1,0 +1,586 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-10-11",
+  "date": "2026-10-11",
+  "theme": "Childhood & learning",
+  "shape_id": "kite",
+  "dictionary_id": "2026-10-11-childhood-learning",
+  "generator_seed": "dense-crossword-2.1.0:2026-10-11",
+  "solution_grid": [
+    "###############",
+    "#######*#######",
+    "######**S######",
+    "######**O######",
+    "#####PLANE#####",
+    "####*R**G**####",
+    "####TOY***F####",
+    "###B*J*LEARN###",
+    "##CAKE*A**I**##",
+    "##*L*COURSE**##",
+    "###L*T*G**N*###",
+    "####**CHILD####",
+    "####**L****####",
+    "#####DANCE#####",
+    "######S*A######",
+    "######S*R######",
+    "#######*#######",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "SOPLANERGTOYFBJLEARNCAKEAILCOURSELTGNCHILDLDANCESASR",
+  "solution_hash": "810cf28ec1018c67550ab938b4173a8aa4a5703f20be6b249daa232943f2eb60",
+  "seed_letters": [
+    {
+      "row": 4,
+      "col": 6,
+      "letter": "L"
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "letter": "N"
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "T"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "Y"
+    },
+    {
+      "row": 7,
+      "col": 3,
+      "letter": "B"
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "letter": "C"
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "letter": "L"
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "letter": "C"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        }
+      ],
+      "answer": "PLANE"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ],
+      "answer": "TOY"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "LEARN"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ],
+      "answer": "CAKE"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "COURSE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "CHILD"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        }
+      ],
+      "answer": "DANCE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        }
+      ],
+      "answer": "SONG"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "PROJECT"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "FRIEND"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ],
+      "answer": "BALL"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ],
+      "answer": "LAUGH"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 6
+        }
+      ],
+      "answer": "CLASS"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 8
+        }
+      ],
+      "answer": "CAR"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 4,
+      "col": 5,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 4,
+      "col": 8,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 6,
+      "col": 5,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D5",
+      "row": 7,
+      "col": 7,
+      "letter": "L"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 7,
+      "col": 10,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 3,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D2",
+      "row": 8,
+      "col": 5,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D2",
+      "row": 9,
+      "col": 5,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 9,
+      "col": 7,
+      "letter": "U"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D3",
+      "row": 9,
+      "col": 10,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 11,
+      "col": 6,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D5",
+      "row": 11,
+      "col": 7,
+      "letter": "H"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D3",
+      "row": 11,
+      "col": 10,
+      "letter": "D"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D6",
+      "row": 13,
+      "col": 6,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 13,
+      "col": 8,
+      "letter": "C"
+    }
+  ],
+  "complexity": {
+    "slot_count": 14,
+    "across_slots": 7,
+    "down_slots": 7,
+    "crossings": 15,
+    "average_crossings_per_slot": 2.14,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 8
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

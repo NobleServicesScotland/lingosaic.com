@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-23",
+  "status": "PASS",
+  "generator_version": "dense-crossword-2.0.0",
+  "dictionary_words": 100,
+  "slot_count": 17,
+  "across_slots": 9,
+  "down_slots": 8,
+  "crossings": 17,
+  "average_crossings_per_slot": 2.0,
+  "leaf_slots": 6,
+  "max_slot_crossings": 4,
+  "seed_letters": 4,
+  "uniqueness_count": 1,
+  "solution_hash_matches": true,
+  "topology_checks": {
+    "minimum_12_slots": true,
+    "at_least_5_across": true,
+    "at_least_5_down": true,
+    "connected_network": true,
+    "not_single_spine": true
+  },
+  "answers": [
+    "DEN",
+    "CUB",
+    "POUNCE",
+    "BOBCAT",
+    "PREDATOR",
+    "FUR",
+    "JAW",
+    "LEOPARD",
+    "SERVAL",
+    "SHEEP",
+    "TAIL",
+    "CARNIVORE",
+    "CAT",
+    "ICE",
+    "JAGUAR",
+    "IBEX",
+    "CARACAL"
+  ]
+}

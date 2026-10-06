@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-28-computers-data-privacy",
+  "theme": {
+    "id": "computers-data-privacy",
+    "name": "Computers & data privacy",
+    "definition": "Single-word English entries directly associated with computers & data privacy."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-28-w001",
+      "display": "Privacy",
+      "grid_entry": "PRIVACY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w002",
+      "display": "Data",
+      "grid_entry": "DATA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w003",
+      "display": "Personal",
+      "grid_entry": "PERSONAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w004",
+      "display": "Password",
+      "grid_entry": "PASSWORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w005",
+      "display": "Passcode",
+      "grid_entry": "PASSCODE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w006",
+      "display": "Login",
+      "grid_entry": "LOGIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w007",
+      "display": "Account",
+      "grid_entry": "ACCOUNT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w008",
+      "display": "Username",
+      "grid_entry": "USERNAME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w009",
+      "display": "Encrypt",
+      "grid_entry": "ENCRYPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w010",
+      "display": "Encryption",
+      "grid_entry": "ENCRYPTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w011",
+      "display": "Cipher",
+      "grid_entry": "CIPHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w012",
+      "display": "Key",
+      "grid_entry": "KEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w013",
+      "display": "Token",
+      "grid_entry": "TOKEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w014",
+      "display": "Cookie",
+      "grid_entry": "COOKIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w015",
+      "display": "Tracking",
+      "grid_entry": "TRACKING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w016",
+      "display": "Consent",
+      "grid_entry": "CONSENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w017",
+      "display": "Permission",
+      "grid_entry": "PERMISSION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w018",
+      "display": "Access",
+      "grid_entry": "ACCESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w019",
+      "display": "Security",
+      "grid_entry": "SECURITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w020",
+      "display": "Secure",
+      "grid_entry": "SECURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w021",
+      "display": "Breach",
+      "grid_entry": "BREACH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w022",
+      "display": "Leak",
+      "grid_entry": "LEAK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w023",
+      "display": "Hack",
+      "grid_entry": "HACK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w024",
+      "display": "Hacker",
+      "grid_entry": "HACKER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w025",
+      "display": "Phishing",
+      "grid_entry": "PHISHING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w026",
+      "display": "Malware",
+      "grid_entry": "MALWARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w027",
+      "display": "Virus",
+      "grid_entry": "VIRUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w028",
+      "display": "Firewall",
+      "grid_entry": "FIREWALL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w029",
+      "display": "Backup",
+      "grid_entry": "BACKUP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w030",
+      "display": "Cloud",
+      "grid_entry": "CLOUD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w031",
+      "display": "Server",
+      "grid_entry": "SERVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w032",
+      "display": "Database",
+      "grid_entry": "DATABASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w033",
+      "display": "Record",
+      "grid_entry": "RECORD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w034",
+      "display": "File",
+      "grid_entry": "FILE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w035",
+      "display": "Folder",
+      "grid_entry": "FOLDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w036",
+      "display": "Device",
+      "grid_entry": "DEVICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w037",
+      "display": "Phone",
+      "grid_entry": "PHONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w038",
+      "display": "Laptop",
+      "grid_entry": "LAPTOP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w039",
+      "display": "Computer",
+      "grid_entry": "COMPUTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w040",
+      "display": "Tablet",
+      "grid_entry": "TABLET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w041",
+      "display": "Network",
+      "grid_entry": "NETWORK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w042",
+      "display": "Wifi",
+      "grid_entry": "WIFI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w043",
+      "display": "Router",
+      "grid_entry": "ROUTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w044",
+      "display": "Browser",
+      "grid_entry": "BROWSER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w045",
+      "display": "Website",
+      "grid_entry": "WEBSITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w046",
+      "display": "App",
+      "grid_entry": "APP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w047",
+      "display": "Software",
+      "grid_entry": "SOFTWARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w048",
+      "display": "Update",
+      "grid_entry": "UPDATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w049",
+      "display": "Patch",
+      "grid_entry": "PATCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w050",
+      "display": "Identity",
+      "grid_entry": "IDENTITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w051",
+      "display": "Profile",
+      "grid_entry": "PROFILE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w052",
+      "display": "Location",
+      "grid_entry": "LOCATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w053",
+      "display": "Camera",
+      "grid_entry": "CAMERA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w054",
+      "display": "Microphone",
+      "grid_entry": "MICROPHONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w055",
+      "display": "Contact",
+      "grid_entry": "CONTACT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w056",
+      "display": "Message",
+      "grid_entry": "MESSAGE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w057",
+      "display": "Email",
+      "grid_entry": "EMAIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w058",
+      "display": "Payment",
+      "grid_entry": "PAYMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w059",
+      "display": "Bank",
+      "grid_entry": "BANK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w060",
+      "display": "Card",
+      "grid_entry": "CARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w061",
+      "display": "Pin",
+      "grid_entry": "PIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w062",
+      "display": "Biometric",
+      "grid_entry": "BIOMETRIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w063",
+      "display": "Face",
+      "grid_entry": "FACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w064",
+      "display": "Fingerprint",
+      "grid_entry": "FINGERPRINT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w065",
+      "display": "Authenticate",
+      "grid_entry": "AUTHENTICATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w066",
+      "display": "Verify",
+      "grid_entry": "VERIFY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w067",
+      "display": "Private",
+      "grid_entry": "PRIVATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w068",
+      "display": "Public",
+      "grid_entry": "PUBLIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w069",
+      "display": "Share",
+      "grid_entry": "SHARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w070",
+      "display": "Delete",
+      "grid_entry": "DELETE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w071",
+      "display": "Erase",
+      "grid_entry": "ERASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w072",
+      "display": "Retention",
+      "grid_entry": "RETENTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w073",
+      "display": "Policy",
+      "grid_entry": "POLICY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w074",
+      "display": "Rights",
+      "grid_entry": "RIGHTS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w075",
+      "display": "Protect",
+      "grid_entry": "PROTECT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w076",
+      "display": "Protection",
+      "grid_entry": "PROTECTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w077",
+      "display": "Gdpr",
+      "grid_entry": "GDPR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w078",
+      "display": "Cookieless",
+      "grid_entry": "COOKIELESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w079",
+      "display": "Anonymous",
+      "grid_entry": "ANONYMOUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w080",
+      "display": "Science",
+      "grid_entry": "SCIENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w081",
+      "display": "Technology",
+      "grid_entry": "TECHNOLOGY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w082",
+      "display": "Engineer",
+      "grid_entry": "ENGINEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w083",
+      "display": "Maths",
+      "grid_entry": "MATHS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w084",
+      "display": "Robot",
+      "grid_entry": "ROBOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w085",
+      "display": "Circuit",
+      "grid_entry": "CIRCUIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w086",
+      "display": "Laser",
+      "grid_entry": "LASER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w087",
+      "display": "Engine",
+      "grid_entry": "ENGINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w088",
+      "display": "Patent",
+      "grid_entry": "PATENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w089",
+      "display": "Inventor",
+      "grid_entry": "INVENTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w090",
+      "display": "Design",
+      "grid_entry": "DESIGN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w091",
+      "display": "Lab",
+      "grid_entry": "LAB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w092",
+      "display": "Code",
+      "grid_entry": "CODE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w093",
+      "display": "Model",
+      "grid_entry": "MODEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w094",
+      "display": "Research",
+      "grid_entry": "RESEARCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w095",
+      "display": "Theory",
+      "grid_entry": "THEORY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w096",
+      "display": "Evidence",
+      "grid_entry": "EVIDENCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w097",
+      "display": "Test",
+      "grid_entry": "TEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w098",
+      "display": "Trial",
+      "grid_entry": "TRIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w099",
+      "display": "Experiment",
+      "grid_entry": "EXPERIMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-28-w100",
+      "display": "Result",
+      "grid_entry": "RESULT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

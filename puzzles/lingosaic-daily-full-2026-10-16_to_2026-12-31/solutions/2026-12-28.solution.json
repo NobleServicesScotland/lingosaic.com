@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-28",
+  "date": "2026-12-28",
+  "theme": "Cinema & filmmaking",
+  "shape_id": "movie-camera",
+  "dictionary_id": "2026-12-28-cinema-filmmaking",
+  "generator_seed": "daily-2026-12-28",
+  "solution_grid": [
+    "###############",
+    "####XX###XX####",
+    "###XXXX#XXXX###",
+    "##XXXXXXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "###XXSX#XXXX##X",
+    "###EXCXSXMX#XXX",
+    "###DIRECTORXXXX",
+    "###IXIXRXVXXXXX",
+    "###TXPXEXIXXXXX",
+    "###XXTXEXEXXXXX",
+    "###XXXXNXXX#XXX",
+    "##############X",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "SECSMDIRECTORIIRVTPEITEEN",
+  "solution_hash": "5f4fa62f203951f56571314f15ac8d8a2b384bfd72a2b64841ba973d7299f4d7",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 5,
+      "letter": "C"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "letter": "M"
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "letter": "E"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "DIRECTOR"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ],
+      "answer": "EDIT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "SCRIPT"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ],
+      "answer": "SCREEN"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "MOVIE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 1,
+      "letter": "D"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "O"
+    }
+  ]
+}

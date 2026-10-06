@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-04-accessibility-braille",
+  "theme": {
+    "id": "accessibility-braille",
+    "name": "Accessibility & Braille",
+    "definition": "Single-word English entries directly associated with accessibility & braille."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-04-w001",
+      "display": "Access",
+      "grid_entry": "ACCESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w002",
+      "display": "Inclusion",
+      "grid_entry": "INCLUSION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w003",
+      "display": "Ramp",
+      "grid_entry": "RAMP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w004",
+      "display": "Braille",
+      "grid_entry": "BRAILLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w005",
+      "display": "Caption",
+      "grid_entry": "CAPTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w006",
+      "display": "Sign",
+      "grid_entry": "SIGN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w007",
+      "display": "Mobility",
+      "grid_entry": "MOBILITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w008",
+      "display": "Hearing",
+      "grid_entry": "HEARING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w009",
+      "display": "Vision",
+      "grid_entry": "VISION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w010",
+      "display": "Support",
+      "grid_entry": "SUPPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w011",
+      "display": "Equality",
+      "grid_entry": "EQUALITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w012",
+      "display": "Design",
+      "grid_entry": "DESIGN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w013",
+      "display": "Adapt",
+      "grid_entry": "ADAPT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w014",
+      "display": "Magnifier",
+      "grid_entry": "MAGNIFIER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w015",
+      "display": "Voice",
+      "grid_entry": "VOICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w016",
+      "display": "Reach",
+      "grid_entry": "REACH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w017",
+      "display": "Health",
+      "grid_entry": "HEALTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w018",
+      "display": "Care",
+      "grid_entry": "CARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w019",
+      "display": "Nurse",
+      "grid_entry": "NURSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w020",
+      "display": "Doctor",
+      "grid_entry": "DOCTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w021",
+      "display": "Medic",
+      "grid_entry": "MEDIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w022",
+      "display": "Clinic",
+      "grid_entry": "CLINIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w023",
+      "display": "Hospital",
+      "grid_entry": "HOSPITAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w024",
+      "display": "Patient",
+      "grid_entry": "PATIENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w025",
+      "display": "Treatment",
+      "grid_entry": "TREATMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w026",
+      "display": "Therapy",
+      "grid_entry": "THERAPY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w027",
+      "display": "Medicine",
+      "grid_entry": "MEDICINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w028",
+      "display": "Tablet",
+      "grid_entry": "TABLET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w029",
+      "display": "Dose",
+      "grid_entry": "DOSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w030",
+      "display": "Vaccine",
+      "grid_entry": "VACCINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w031",
+      "display": "Injection",
+      "grid_entry": "INJECTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w032",
+      "display": "Lung",
+      "grid_entry": "LUNG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w033",
+      "display": "Heart",
+      "grid_entry": "HEART",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w034",
+      "display": "Brain",
+      "grid_entry": "BRAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w035",
+      "display": "Blood",
+      "grid_entry": "BLOOD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w036",
+      "display": "Nerve",
+      "grid_entry": "NERVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w037",
+      "display": "Bone",
+      "grid_entry": "BONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w038",
+      "display": "Muscle",
+      "grid_entry": "MUSCLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w039",
+      "display": "Skin",
+      "grid_entry": "SKIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w040",
+      "display": "Chest",
+      "grid_entry": "CHEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w041",
+      "display": "Airway",
+      "grid_entry": "AIRWAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w042",
+      "display": "Breath",
+      "grid_entry": "BREATH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w043",
+      "display": "Oxygen",
+      "grid_entry": "OXYGEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w044",
+      "display": "Pulse",
+      "grid_entry": "PULSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w045",
+      "display": "Cough",
+      "grid_entry": "COUGH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w046",
+      "display": "Fever",
+      "grid_entry": "FEVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w047",
+      "display": "Pain",
+      "grid_entry": "PAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w048",
+      "display": "Wound",
+      "grid_entry": "WOUND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w049",
+      "display": "Heal",
+      "grid_entry": "HEAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w050",
+      "display": "Recovery",
+      "grid_entry": "RECOVERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w051",
+      "display": "Infection",
+      "grid_entry": "INFECTION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w052",
+      "display": "Microbe",
+      "grid_entry": "MICROBE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w053",
+      "display": "Bacteria",
+      "grid_entry": "BACTERIA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w054",
+      "display": "Virus",
+      "grid_entry": "VIRUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w055",
+      "display": "Germ",
+      "grid_entry": "GERM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w056",
+      "display": "Fungus",
+      "grid_entry": "FUNGUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w057",
+      "display": "Antibiotic",
+      "grid_entry": "ANTIBIOTIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w058",
+      "display": "Resistance",
+      "grid_entry": "RESISTANCE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w059",
+      "display": "Hygiene",
+      "grid_entry": "HYGIENE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w060",
+      "display": "Sanitation",
+      "grid_entry": "SANITATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w061",
+      "display": "Clean",
+      "grid_entry": "CLEAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w062",
+      "display": "Water",
+      "grid_entry": "WATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w063",
+      "display": "Soap",
+      "grid_entry": "SOAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w064",
+      "display": "Wash",
+      "grid_entry": "WASH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w065",
+      "display": "Filter",
+      "grid_entry": "FILTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w066",
+      "display": "Public",
+      "grid_entry": "PUBLIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w067",
+      "display": "Response",
+      "grid_entry": "RESPONSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w068",
+      "display": "Alert",
+      "grid_entry": "ALERT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w069",
+      "display": "Outbreak",
+      "grid_entry": "OUTBREAK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w070",
+      "display": "Epidemic",
+      "grid_entry": "EPIDEMIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w071",
+      "display": "Pandemic",
+      "grid_entry": "PANDEMIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w072",
+      "display": "Prepare",
+      "grid_entry": "PREPARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w073",
+      "display": "Plan",
+      "grid_entry": "PLAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w074",
+      "display": "Supply",
+      "grid_entry": "SUPPLY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w075",
+      "display": "Training",
+      "grid_entry": "TRAINING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w076",
+      "display": "Safety",
+      "grid_entry": "SAFETY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w077",
+      "display": "System",
+      "grid_entry": "SYSTEM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w078",
+      "display": "Lab",
+      "grid_entry": "LAB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w079",
+      "display": "Test",
+      "grid_entry": "TEST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w080",
+      "display": "Screen",
+      "grid_entry": "SCREEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w081",
+      "display": "Prevent",
+      "grid_entry": "PREVENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w082",
+      "display": "Carer",
+      "grid_entry": "CARER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w083",
+      "display": "Helper",
+      "grid_entry": "HELPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w084",
+      "display": "Aide",
+      "grid_entry": "AIDE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w085",
+      "display": "Social",
+      "grid_entry": "SOCIAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w086",
+      "display": "Family",
+      "grid_entry": "FAMILY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w087",
+      "display": "Respite",
+      "grid_entry": "RESPITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w088",
+      "display": "Hospice",
+      "grid_entry": "HOSPICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w089",
+      "display": "Counsel",
+      "grid_entry": "COUNSEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w090",
+      "display": "Listen",
+      "grid_entry": "LISTEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w091",
+      "display": "Visit",
+      "grid_entry": "VISIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w092",
+      "display": "Welfare",
+      "grid_entry": "WELFARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w093",
+      "display": "Community",
+      "grid_entry": "COMMUNITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w094",
+      "display": "Service",
+      "grid_entry": "SERVICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w095",
+      "display": "Home",
+      "grid_entry": "HOME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w096",
+      "display": "Equity",
+      "grid_entry": "EQUITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w097",
+      "display": "Rehab",
+      "grid_entry": "REHAB",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w098",
+      "display": "Exercise",
+      "grid_entry": "EXERCISE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w099",
+      "display": "Fitness",
+      "grid_entry": "FITNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-04-w100",
+      "display": "Diet",
+      "grid_entry": "DIET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

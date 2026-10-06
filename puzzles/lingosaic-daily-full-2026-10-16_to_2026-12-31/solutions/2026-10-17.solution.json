@@ -1,0 +1,335 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-17",
+  "date": "2026-10-17",
+  "theme": "Pasta & Italian cooking",
+  "shape_id": "pasta-bowl",
+  "dictionary_id": "2026-10-17-pasta-italian-cooking",
+  "generator_seed": "daily-2026-10-17",
+  "solution_grid": [
+    "###############",
+    "##X#X#X#X#X#X##",
+    "##X#S#X#X#X#X##",
+    "##X#A#X#X#X#X##",
+    "##X#U#X#X#I#X##",
+    "#XCXCXDXLXTXXX#",
+    "#XAXEXRXAXAXHX#",
+    "#XPAPPARDELLEX#",
+    "##EXAXIXLXIXR##",
+    "##RXNXNXEXAXB##",
+    "####XXXXXXN####",
+    "#####XXXXX#####",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "SAUICCDLTAERAAHPAPPARDELLEEAILIRRNNEABN",
+  "solution_hash": "6525070a9ffc2d09f233322afa0ab78d47d6bbd2fe1f8133327cfb3ccc678fb0",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 6,
+      "letter": "D"
+    },
+    {
+      "row": 6,
+      "col": 12,
+      "letter": "H"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 11,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "PAPPARDELLE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        }
+      ],
+      "answer": "CAPER"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ],
+      "answer": "SAUCEPAN"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ],
+      "answer": "DRAIN"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "LADLE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ],
+      "answer": "ITALIAN"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "HERB"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 2,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 5,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "D"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 8,
+      "slot_b": "D5",
+      "slot_b_index": 3,
+      "letter": "L"
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "slot_a": "A1",
+      "slot_a_index": 10,
+      "slot_b": "D6",
+      "slot_b_index": 1,
+      "letter": "E"
+    }
+  ],
+  "uniqueness_count": 1
+}

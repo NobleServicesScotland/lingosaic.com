@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-30",
+  "date": "2026-11-30",
+  "daily_number": 46,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-30",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Scotland & Scottish culture",
+    "occasion": "St Andrew's Day"
+  },
+  "bonus": {
+    "title": "St Andrew's Day",
+    "description": "St Andrew's Day is Scotland's national day and celebrates Scottish history, culture and traditions."
+  },
+  "shape": {
+    "id": "thistle",
+    "name": "Thistle",
+    "grid_file": "../shapes/2026-11-30-thistle.grid.json",
+    "svg_file": "../shapes/2026-11-30-thistle.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-30-scotland-scottish-culture",
+    "file": "../dictionaries/2026-11-30-scotland-scottish-culture.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "######XXX.#####",
+      "#####XXXX.#####",
+      "###.XXXXXOX####",
+      "###.XXXXXTX####",
+      "###.X.XXX.X####",
+      "###.#.XGXA#####",
+      "###...H....X###",
+      "###.X.X.X.XX###",
+      "###.#.X.XXX####",
+      "#####.#XXXX####",
+      "#######XXX#####",
+      "#######XXX#####",
+      "#######XX######",
+      "#######XX######"
+    ],
+    "seed_letters": [
+      {
+        "row": 3,
+        "col": 9,
+        "letter": "O"
+      },
+      {
+        "row": 4,
+        "col": 9,
+        "letter": "T"
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "G"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "A"
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "letter": "H"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 1,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "d92917cf049752e8e17d74701b9bcbc835eda762bf670db85bb14c42a7e4e261"
+  }
+}

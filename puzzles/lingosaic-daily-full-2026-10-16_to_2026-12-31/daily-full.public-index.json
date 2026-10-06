@@ -1,0 +1,1392 @@
+{
+  "schema_version": 1,
+  "batch_id": "daily-full-2026",
+  "days": [
+    {
+      "date": "2026-10-16",
+      "theme": {
+        "name": "Bread & baking",
+        "occasion": "World Food Day / World Bread Day"
+      },
+      "bonus": {
+        "title": "World Food Day / World Bread Day",
+        "description": "World Food Day is observed on 16 October, and the date is also widely used to celebrate bread and baking."
+      },
+      "shape": {
+        "id": "bread-loaf",
+        "name": "Bread loaf",
+        "grid_file": "../shapes/2026-10-16-bread-loaf.grid.json",
+        "svg_file": "../shapes/2026-10-16-bread-loaf.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-16.puzzle.json"
+    },
+    {
+      "date": "2026-10-17",
+      "theme": {
+        "name": "Pasta & Italian cooking",
+        "occasion": "National Pasta Day"
+      },
+      "bonus": {
+        "title": "National Pasta Day",
+        "description": "National Pasta Day is an informal US food observance celebrating pasta in its many shapes, sauces and regional traditions."
+      },
+      "shape": {
+        "id": "pasta-bowl",
+        "name": "Pasta bowl",
+        "grid_file": "../shapes/2026-10-17-pasta-bowl.grid.json",
+        "svg_file": "../shapes/2026-10-17-pasta-bowl.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-17.puzzle.json"
+    },
+    {
+      "date": "2026-10-18",
+      "theme": {
+        "name": "African wildlife",
+        "occasion": "World Okapi Day"
+      },
+      "bonus": {
+        "title": "World Okapi Day",
+        "description": "World Okapi Day draws attention to the elusive okapi and to conservation of the forests and wildlife of the Democratic Republic of the Congo."
+      },
+      "shape": {
+        "id": "elephant-head",
+        "name": "Elephant head",
+        "grid_file": "../shapes/2026-10-18-elephant-head.grid.json",
+        "svg_file": "../shapes/2026-10-18-elephant-head.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-18.puzzle.json"
+    },
+    {
+      "date": "2026-10-19",
+      "theme": {
+        "name": "Seafood & coastal cooking",
+        "occasion": "National Seafood Bisque Day"
+      },
+      "bonus": {
+        "title": "National Seafood Bisque Day",
+        "description": "National Seafood Bisque Day is an informal food observance and a natural hook for seafood, coastal ingredients and maritime cooking."
+      },
+      "shape": {
+        "id": "fish",
+        "name": "Fish",
+        "grid_file": "../shapes/2026-10-19-fish.grid.json",
+        "svg_file": "../shapes/2026-10-19-fish.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-19.puzzle.json"
+    },
+    {
+      "date": "2026-10-20",
+      "theme": {
+        "name": "Rainforest animals",
+        "occasion": "International Sloth Day"
+      },
+      "bonus": {
+        "title": "International Sloth Day",
+        "description": "International Sloth Day celebrates sloths and helps draw attention to the tropical forest habitats on which they depend."
+      },
+      "shape": {
+        "id": "sloth-face",
+        "name": "Sloth face",
+        "grid_file": "../shapes/2026-10-20-sloth-face.grid.json",
+        "svg_file": "../shapes/2026-10-20-sloth-face.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-20.puzzle.json"
+    },
+    {
+      "date": "2026-10-21",
+      "theme": {
+        "name": "Apples & orchards",
+        "occasion": "Apple Day"
+      },
+      "bonus": {
+        "title": "Apple Day",
+        "description": "Apple Day began in the UK as a celebration of orchards, local apple varieties and the richness of traditional fruit growing."
+      },
+      "shape": {
+        "id": "apple",
+        "name": "Apple",
+        "grid_file": "../shapes/2026-10-21-apple.grid.json",
+        "svg_file": "../shapes/2026-10-21-apple.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-21.puzzle.json"
+    },
+    {
+      "date": "2026-10-22",
+      "theme": {
+        "name": "Nuts & seeds",
+        "occasion": "National Nut Day"
+      },
+      "bonus": {
+        "title": "National Nut Day",
+        "description": "National Nut Day is an informal observance that makes a useful seasonal hook for nuts, seeds, trees and foods made from them."
+      },
+      "shape": {
+        "id": "acorn",
+        "name": "Acorn",
+        "grid_file": "../shapes/2026-10-22-acorn.grid.json",
+        "svg_file": "../shapes/2026-10-22-acorn.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-22.puzzle.json"
+    },
+    {
+      "date": "2026-10-23",
+      "theme": {
+        "name": "Big cats & snow leopards",
+        "occasion": "International Snow Leopard Day"
+      },
+      "bonus": {
+        "title": "International Snow Leopard Day",
+        "description": "International Snow Leopard Day highlights the conservation of snow leopards and the high-mountain habitats on which they depend."
+      },
+      "shape": {
+        "id": "snow-leopard-head",
+        "name": "Snow leopard head",
+        "grid_file": "../shapes/2026-10-23-snow-leopard-head.grid.json",
+        "svg_file": "../shapes/2026-10-23-snow-leopard-head.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-23.puzzle.json"
+    },
+    {
+      "date": "2026-10-24",
+      "theme": {
+        "name": "Countries & diplomacy",
+        "occasion": "United Nations Day"
+      },
+      "bonus": {
+        "title": "United Nations Day",
+        "description": "United Nations Day marks the anniversary of the UN Charter coming into force on 24 October 1945."
+      },
+      "shape": {
+        "id": "globe",
+        "name": "Globe",
+        "grid_file": "../shapes/2026-10-24-globe.grid.json",
+        "svg_file": "../shapes/2026-10-24-globe.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-24.puzzle.json"
+    },
+    {
+      "date": "2026-10-25",
+      "theme": {
+        "name": "Clocks, time & daylight",
+        "occasion": "British Summer Time ends"
+      },
+      "bonus": {
+        "title": "British Summer Time ends",
+        "description": "In the UK, the clocks go back on 25 October in 2026, ending British Summer Time and returning to Greenwich Mean Time."
+      },
+      "shape": {
+        "id": "clock",
+        "name": "Clock",
+        "grid_file": "../shapes/2026-10-25-clock.grid.json",
+        "svg_file": "../shapes/2026-10-25-clock.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-25.puzzle.json"
+    },
+    {
+      "date": "2026-10-26",
+      "theme": {
+        "name": "Pumpkins & squashes",
+        "occasion": "National Pumpkin Day"
+      },
+      "bonus": {
+        "title": "National Pumpkin Day",
+        "description": "A seasonal celebration of pumpkins and other squashes, perfectly timed for late October."
+      },
+      "shape": {
+        "id": "pumpkin",
+        "name": "Pumpkin",
+        "grid_file": "../shapes/2026-10-26-pumpkin.grid.json",
+        "svg_file": "../shapes/2026-10-26-pumpkin.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-26.puzzle.json"
+    },
+    {
+      "date": "2026-10-27",
+      "theme": {
+        "name": "Film, sound & recording",
+        "occasion": "World Day for Audiovisual Heritage"
+      },
+      "bonus": {
+        "title": "World Day for Audiovisual Heritage",
+        "description": "UNESCO's audiovisual heritage day celebrates recorded sound and moving images and the effort required to preserve them."
+      },
+      "shape": {
+        "id": "film-reel",
+        "name": "Film reel",
+        "grid_file": "../shapes/2026-10-27-film-reel.grid.json",
+        "svg_file": "../shapes/2026-10-27-film-reel.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-27.puzzle.json"
+    },
+    {
+      "date": "2026-10-28",
+      "theme": {
+        "name": "Chocolate & confectionery",
+        "occasion": "National Chocolate Day"
+      },
+      "bonus": {
+        "title": "National Chocolate Day",
+        "description": "A sweet observance devoted to chocolate, confectionery and the craft of making treats."
+      },
+      "shape": {
+        "id": "chocolate-bar",
+        "name": "Chocolate bar",
+        "grid_file": "../shapes/2026-10-28-chocolate-bar.grid.json",
+        "svg_file": "../shapes/2026-10-28-chocolate-bar.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-28.puzzle.json"
+    },
+    {
+      "date": "2026-10-29",
+      "theme": {
+        "name": "Caregiving & helping professions",
+        "occasion": "International Day of Care and Support"
+      },
+      "bonus": {
+        "title": "International Day of Care and Support",
+        "description": "This UN observance recognises care work and the people who support children, families, older people and communities."
+      },
+      "shape": {
+        "id": "helping-hands",
+        "name": "Helping hands",
+        "grid_file": "../shapes/2026-10-29-helping-hands.grid.json",
+        "svg_file": "../shapes/2026-10-29-helping-hands.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-29.puzzle.json"
+    },
+    {
+      "date": "2026-10-30",
+      "theme": {
+        "name": "Classic monsters & horror",
+        "occasion": "Frankenstein Friday"
+      },
+      "bonus": {
+        "title": "Frankenstein Friday",
+        "description": "Frankenstein Friday is a playful celebration of Mary Shelley's famous creation and the wider tradition of Gothic horror."
+      },
+      "shape": {
+        "id": "frankenstein-monster",
+        "name": "Frankenstein monster",
+        "grid_file": "../shapes/2026-10-30-frankenstein-monster.grid.json",
+        "svg_file": "../shapes/2026-10-30-frankenstein-monster.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-30.puzzle.json"
+    },
+    {
+      "date": "2026-10-31",
+      "theme": {
+        "name": "Halloween",
+        "occasion": "Halloween"
+      },
+      "bonus": {
+        "title": "Halloween",
+        "description": "Halloween brings together costumes, lanterns, ghosts, trick-or-treating and centuries of autumn folklore."
+      },
+      "shape": {
+        "id": "jack-o-lantern",
+        "name": "Jack-o'-lantern",
+        "grid_file": "../shapes/2026-10-31-jack-o-lantern.grid.json",
+        "svg_file": "../shapes/2026-10-31-jack-o-lantern.svg"
+      },
+      "puzzle_file": "puzzles/2026-10-31.puzzle.json"
+    },
+    {
+      "date": "2026-11-01",
+      "theme": {
+        "name": "Saints, churches & pilgrimage",
+        "occasion": "All Saints' Day"
+      },
+      "bonus": {
+        "title": "All Saints' Day",
+        "description": "All Saints' Day is a Christian feast honouring saints and has long been associated with churches, pilgrimage and remembrance."
+      },
+      "shape": {
+        "id": "church",
+        "name": "Church",
+        "grid_file": "../shapes/2026-11-01-church.grid.json",
+        "svg_file": "../shapes/2026-11-01-church.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-01.puzzle.json"
+    },
+    {
+      "date": "2026-11-02",
+      "theme": {
+        "name": "Remembrance & memorials",
+        "occasion": "All Souls' Day"
+      },
+      "bonus": {
+        "title": "All Souls' Day",
+        "description": "All Souls' Day is traditionally a day of remembrance for the dead, often marked with candles, prayers and visits to graves."
+      },
+      "shape": {
+        "id": "memorial-candle",
+        "name": "Memorial candle",
+        "grid_file": "../shapes/2026-11-02-memorial-candle.grid.json",
+        "svg_file": "../shapes/2026-11-02-memorial-candle.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-02.puzzle.json"
+    },
+    {
+      "date": "2026-11-03",
+      "theme": {
+        "name": "Sandwiches & fillings",
+        "occasion": "National Sandwich Day"
+      },
+      "bonus": {
+        "title": "National Sandwich Day",
+        "description": "National Sandwich Day is an easy excuse to celebrate breads, fillings, condiments and classic sandwich combinations."
+      },
+      "shape": {
+        "id": "sandwich",
+        "name": "Sandwich",
+        "grid_file": "../shapes/2026-11-03-sandwich.grid.json",
+        "svg_file": "../shapes/2026-11-03-sandwich.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-03.puzzle.json"
+    },
+    {
+      "date": "2026-11-04",
+      "theme": {
+        "name": "Sweets & candy",
+        "occasion": "National Candy Day"
+      },
+      "bonus": {
+        "title": "National Candy Day",
+        "description": "A playful celebration of sweets, candy, toffee, gummies and other confectionery."
+      },
+      "shape": {
+        "id": "wrapped-sweet",
+        "name": "Wrapped sweet",
+        "grid_file": "../shapes/2026-11-04-wrapped-sweet.grid.json",
+        "svg_file": "../shapes/2026-11-04-wrapped-sweet.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-04.puzzle.json"
+    },
+    {
+      "date": "2026-11-05",
+      "theme": {
+        "name": "Fireworks & bonfires",
+        "occasion": "Bonfire Night"
+      },
+      "bonus": {
+        "title": "Bonfire Night",
+        "description": "Bonfire Night in Britain commemorates the failure of the Gunpowder Plot of 1605 and is marked with fireworks and bonfires."
+      },
+      "shape": {
+        "id": "rocket-firework",
+        "name": "Rocket firework",
+        "grid_file": "../shapes/2026-11-05-rocket-firework.grid.json",
+        "svg_file": "../shapes/2026-11-05-rocket-firework.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-05.puzzle.json"
+    },
+    {
+      "date": "2026-11-06",
+      "theme": {
+        "name": "Saxophone & jazz",
+        "occasion": "Saxophone Day"
+      },
+      "bonus": {
+        "title": "Saxophone Day",
+        "description": "Saxophone Day celebrates the instrument and its enormous role in jazz, big bands and popular music."
+      },
+      "shape": {
+        "id": "saxophone",
+        "name": "Saxophone",
+        "grid_file": "../shapes/2026-11-06-saxophone.grid.json",
+        "svg_file": "../shapes/2026-11-06-saxophone.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-06.puzzle.json"
+    },
+    {
+      "date": "2026-11-07",
+      "theme": {
+        "name": "Bison & North American wildlife",
+        "occasion": "National Bison Day"
+      },
+      "bonus": {
+        "title": "National Bison Day",
+        "description": "National Bison Day celebrates an iconic North American animal and the grassland ecosystems it inhabits."
+      },
+      "shape": {
+        "id": "bison",
+        "name": "Bison",
+        "grid_file": "../shapes/2026-11-07-bison.grid.json",
+        "svg_file": "../shapes/2026-11-07-bison.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-07.puzzle.json"
+    },
+    {
+      "date": "2026-11-08",
+      "theme": {
+        "name": "STEM & inventions",
+        "occasion": "National STEM Day"
+      },
+      "bonus": {
+        "title": "National STEM Day",
+        "description": "National STEM Day encourages curiosity about science, technology, engineering and mathematics."
+      },
+      "shape": {
+        "id": "light-bulb",
+        "name": "Light bulb",
+        "grid_file": "../shapes/2026-11-08-light-bulb.grid.json",
+        "svg_file": "../shapes/2026-11-08-light-bulb.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-08.puzzle.json"
+    },
+    {
+      "date": "2026-11-09",
+      "theme": {
+        "name": "British puddings & desserts",
+        "occasion": "British Pudding Day"
+      },
+      "bonus": {
+        "title": "British Pudding Day",
+        "description": "British Pudding Day is a good excuse to revisit steamed puddings, crumbles, custards and other traditional desserts."
+      },
+      "shape": {
+        "id": "pudding-bowl",
+        "name": "Pudding bowl",
+        "grid_file": "../shapes/2026-11-09-pudding-bowl.grid.json",
+        "svg_file": "../shapes/2026-11-09-pudding-bowl.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-09.puzzle.json"
+    },
+    {
+      "date": "2026-11-10",
+      "theme": {
+        "name": "Science & discovery",
+        "occasion": "World Science Day for Peace and Development"
+      },
+      "bonus": {
+        "title": "World Science Day for Peace and Development",
+        "description": "UNESCO's World Science Day highlights the role of science in society and in solving shared global problems."
+      },
+      "shape": {
+        "id": "microscope",
+        "name": "Microscope",
+        "grid_file": "../shapes/2026-11-10-microscope.grid.json",
+        "svg_file": "../shapes/2026-11-10-microscope.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-10.puzzle.json"
+    },
+    {
+      "date": "2026-11-11",
+      "theme": {
+        "name": "Remembrance & service",
+        "occasion": "Armistice Day / Veterans Day"
+      },
+      "bonus": {
+        "title": "Armistice Day / Veterans Day",
+        "description": "11 November marks Armistice Day in Britain and Veterans Day in the United States, both centred on remembrance and service."
+      },
+      "shape": {
+        "id": "poppy",
+        "name": "Poppy",
+        "grid_file": "../shapes/2026-11-11-poppy.grid.json",
+        "svg_file": "../shapes/2026-11-11-poppy.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-11.puzzle.json"
+    },
+    {
+      "date": "2026-11-12",
+      "theme": {
+        "name": "Lungs & breathing",
+        "occasion": "World Pneumonia Day"
+      },
+      "bonus": {
+        "title": "World Pneumonia Day",
+        "description": "World Pneumonia Day raises awareness of pneumonia and the importance of healthy lungs, prevention and treatment."
+      },
+      "shape": {
+        "id": "lungs",
+        "name": "Lungs",
+        "grid_file": "../shapes/2026-11-12-lungs.grid.json",
+        "svg_file": "../shapes/2026-11-12-lungs.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-12.puzzle.json"
+    },
+    {
+      "date": "2026-11-13",
+      "theme": {
+        "name": "Kindness & helping others",
+        "occasion": "World Kindness Day"
+      },
+      "bonus": {
+        "title": "World Kindness Day",
+        "description": "World Kindness Day promotes considerate actions, generosity and practical ways of helping other people."
+      },
+      "shape": {
+        "id": "heart",
+        "name": "Heart",
+        "grid_file": "../shapes/2026-11-13-heart.grid.json",
+        "svg_file": "../shapes/2026-11-13-heart.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-13.puzzle.json"
+    },
+    {
+      "date": "2026-11-14",
+      "theme": {
+        "name": "Pickles & preserves",
+        "occasion": "National Pickle Day"
+      },
+      "bonus": {
+        "title": "National Pickle Day",
+        "description": "National Pickle Day celebrates pickled vegetables, brines, preserves and the many flavours created by fermentation."
+      },
+      "shape": {
+        "id": "pickle-jar",
+        "name": "Pickle jar",
+        "grid_file": "../shapes/2026-11-14-pickle-jar.grid.json",
+        "svg_file": "../shapes/2026-11-14-pickle-jar.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-14.puzzle.json"
+    },
+    {
+      "date": "2026-11-15",
+      "theme": {
+        "name": "Recycling & reuse",
+        "occasion": "America Recycles Day"
+      },
+      "bonus": {
+        "title": "America Recycles Day",
+        "description": "America Recycles Day encourages recycling, reuse and thinking about the life cycle of everyday materials."
+      },
+      "shape": {
+        "id": "recycling-symbol",
+        "name": "Recycling symbol",
+        "grid_file": "../shapes/2026-11-15-recycling-symbol.grid.json",
+        "svg_file": "../shapes/2026-11-15-recycling-symbol.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-15.puzzle.json"
+    },
+    {
+      "date": "2026-11-16",
+      "theme": {
+        "name": "World cultures & tolerance",
+        "occasion": "International Day for Tolerance"
+      },
+      "bonus": {
+        "title": "International Day for Tolerance",
+        "description": "The UN's International Day for Tolerance promotes respect, dialogue and understanding between people and cultures."
+      },
+      "shape": {
+        "id": "dove",
+        "name": "Dove",
+        "grid_file": "../shapes/2026-11-16-dove.grid.json",
+        "svg_file": "../shapes/2026-11-16-dove.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-16.puzzle.json"
+    },
+    {
+      "date": "2026-11-17",
+      "theme": {
+        "name": "Students & university life",
+        "occasion": "International Students' Day"
+      },
+      "bonus": {
+        "title": "International Students' Day",
+        "description": "International Students' Day is associated with students, universities, learning and student communities around the world."
+      },
+      "shape": {
+        "id": "graduation-cap",
+        "name": "Graduation cap",
+        "grid_file": "../shapes/2026-11-17-graduation-cap.grid.json",
+        "svg_file": "../shapes/2026-11-17-graduation-cap.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-17.puzzle.json"
+    },
+    {
+      "date": "2026-11-18",
+      "theme": {
+        "name": "Microbes, antibiotics & medicine",
+        "occasion": "Antimicrobial Resistance Awareness Week"
+      },
+      "bonus": {
+        "title": "Antimicrobial Resistance Awareness Week",
+        "description": "This awareness week focuses on antimicrobial resistance and the careful use of antibiotics and other medicines."
+      },
+      "shape": {
+        "id": "bacterium",
+        "name": "Bacterium",
+        "grid_file": "../shapes/2026-11-18-bacterium.grid.json",
+        "svg_file": "../shapes/2026-11-18-bacterium.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-18.puzzle.json"
+    },
+    {
+      "date": "2026-11-19",
+      "theme": {
+        "name": "Water, sanitation & plumbing",
+        "occasion": "World Toilet Day"
+      },
+      "bonus": {
+        "title": "World Toilet Day",
+        "description": "World Toilet Day draws attention to sanitation, safe water and the infrastructure needed to protect public health."
+      },
+      "shape": {
+        "id": "water-droplet",
+        "name": "Water droplet",
+        "grid_file": "../shapes/2026-11-19-water-droplet.grid.json",
+        "svg_file": "../shapes/2026-11-19-water-droplet.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-19.puzzle.json"
+    },
+    {
+      "date": "2026-11-20",
+      "theme": {
+        "name": "Childhood & play",
+        "occasion": "World Children's Day"
+      },
+      "bonus": {
+        "title": "World Children's Day",
+        "description": "World Children's Day celebrates children and draws attention to children's rights, wellbeing and opportunities."
+      },
+      "shape": {
+        "id": "teddy-bear",
+        "name": "Teddy bear",
+        "grid_file": "../shapes/2026-11-20-teddy-bear.grid.json",
+        "svg_file": "../shapes/2026-11-20-teddy-bear.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-20.puzzle.json"
+    },
+    {
+      "date": "2026-11-21",
+      "theme": {
+        "name": "Television & broadcasting",
+        "occasion": "World Television Day"
+      },
+      "bonus": {
+        "title": "World Television Day",
+        "description": "World Television Day recognises television's role in communication, culture, news and public debate."
+      },
+      "shape": {
+        "id": "television",
+        "name": "Television",
+        "grid_file": "../shapes/2026-11-21-television.grid.json",
+        "svg_file": "../shapes/2026-11-21-television.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-21.puzzle.json"
+    },
+    {
+      "date": "2026-11-22",
+      "theme": {
+        "name": "Music & musicians",
+        "occasion": "Feast of St Cecilia"
+      },
+      "bonus": {
+        "title": "Feast of St Cecilia",
+        "description": "St Cecilia is traditionally regarded as the patron saint of music and musicians."
+      },
+      "shape": {
+        "id": "musical-note",
+        "name": "Musical note",
+        "grid_file": "../shapes/2026-11-22-musical-note.grid.json",
+        "svg_file": "../shapes/2026-11-22-musical-note.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-22.puzzle.json"
+    },
+    {
+      "date": "2026-11-23",
+      "theme": {
+        "name": "Mathematics & number patterns",
+        "occasion": "Fibonacci Day"
+      },
+      "bonus": {
+        "title": "Fibonacci Day",
+        "description": "The date 11/23 echoes the opening 1, 1, 2, 3 of the Fibonacci sequence, making it a popular mathematics-themed day."
+      },
+      "shape": {
+        "id": "spiral",
+        "name": "Spiral",
+        "grid_file": "../shapes/2026-11-23-spiral.grid.json",
+        "svg_file": "../shapes/2026-11-23-spiral.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-23.puzzle.json"
+    },
+    {
+      "date": "2026-11-24",
+      "theme": {
+        "name": "Evolution & natural history",
+        "occasion": "On the Origin of Species anniversary"
+      },
+      "bonus": {
+        "title": "On the Origin of Species anniversary",
+        "description": "Charles Darwin's On the Origin of Species was published on 24 November 1859."
+      },
+      "shape": {
+        "id": "finch",
+        "name": "Finch",
+        "grid_file": "../shapes/2026-11-24-finch.grid.json",
+        "svg_file": "../shapes/2026-11-24-finch.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-24.puzzle.json"
+    },
+    {
+      "date": "2026-11-25",
+      "theme": {
+        "name": "Desserts & parfaits",
+        "occasion": "National Parfait Day"
+      },
+      "bonus": {
+        "title": "National Parfait Day",
+        "description": "A light-hearted food observance celebrating layered desserts, fruit, cream and other sweet combinations."
+      },
+      "shape": {
+        "id": "parfait-glass",
+        "name": "Parfait glass",
+        "grid_file": "../shapes/2026-11-25-parfait-glass.grid.json",
+        "svg_file": "../shapes/2026-11-25-parfait-glass.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-25.puzzle.json"
+    },
+    {
+      "date": "2026-11-26",
+      "theme": {
+        "name": "Thanksgiving food & traditions",
+        "occasion": "Thanksgiving Day"
+      },
+      "bonus": {
+        "title": "Thanksgiving Day",
+        "description": "Thanksgiving is celebrated in the United States on the fourth Thursday of November, with food, family and traditions of gratitude."
+      },
+      "shape": {
+        "id": "turkey",
+        "name": "Turkey",
+        "grid_file": "../shapes/2026-11-26-turkey.grid.json",
+        "svg_file": "../shapes/2026-11-26-turkey.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-26.puzzle.json"
+    },
+    {
+      "date": "2026-11-27",
+      "theme": {
+        "name": "Shopping, retail & bargains",
+        "occasion": "Black Friday"
+      },
+      "bonus": {
+        "title": "Black Friday",
+        "description": "Black Friday is one of the best-known retail days of the year, associated with promotions, shopping and seasonal sales."
+      },
+      "shape": {
+        "id": "shopping-bag",
+        "name": "Shopping bag",
+        "grid_file": "../shapes/2026-11-27-shopping-bag.grid.json",
+        "svg_file": "../shapes/2026-11-27-shopping-bag.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-27.puzzle.json"
+    },
+    {
+      "date": "2026-11-28",
+      "theme": {
+        "name": "Mars & planetary exploration",
+        "occasion": "Red Planet Day"
+      },
+      "bonus": {
+        "title": "Red Planet Day",
+        "description": "Red Planet Day commemorates the launch of Mariner 4 in 1964 and celebrates the exploration of Mars."
+      },
+      "shape": {
+        "id": "mars",
+        "name": "Mars",
+        "grid_file": "../shapes/2026-11-28-mars.grid.json",
+        "svg_file": "../shapes/2026-11-28-mars.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-28.puzzle.json"
+    },
+    {
+      "date": "2026-11-29",
+      "theme": {
+        "name": "Advent & Christmas preparation",
+        "occasion": "First Sunday of Advent"
+      },
+      "bonus": {
+        "title": "First Sunday of Advent",
+        "description": "The first Sunday of Advent begins the traditional season of preparation for Christmas."
+      },
+      "shape": {
+        "id": "advent-candle",
+        "name": "Advent candle",
+        "grid_file": "../shapes/2026-11-29-advent-candle.grid.json",
+        "svg_file": "../shapes/2026-11-29-advent-candle.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-29.puzzle.json"
+    },
+    {
+      "date": "2026-11-30",
+      "theme": {
+        "name": "Scotland & Scottish culture",
+        "occasion": "St Andrew's Day"
+      },
+      "bonus": {
+        "title": "St Andrew's Day",
+        "description": "St Andrew's Day is Scotland's national day and celebrates Scottish history, culture and traditions."
+      },
+      "shape": {
+        "id": "thistle",
+        "name": "Thistle",
+        "grid_file": "../shapes/2026-11-30-thistle.grid.json",
+        "svg_file": "../shapes/2026-11-30-thistle.svg"
+      },
+      "puzzle_file": "puzzles/2026-11-30.puzzle.json"
+    },
+    {
+      "date": "2026-12-01",
+      "theme": {
+        "name": "Giving & charity",
+        "occasion": "GivingTuesday / World AIDS Day"
+      },
+      "bonus": {
+        "title": "GivingTuesday / World AIDS Day",
+        "description": "GivingTuesday encourages generosity and charitable action, while 1 December is also observed globally as World AIDS Day."
+      },
+      "shape": {
+        "id": "gift-box",
+        "name": "Gift box",
+        "grid_file": "../shapes/2026-12-01-gift-box.grid.json",
+        "svg_file": "../shapes/2026-12-01-gift-box.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-01.puzzle.json"
+    },
+    {
+      "date": "2026-12-02",
+      "theme": {
+        "name": "Freedom & human rights",
+        "occasion": "International Day for the Abolition of Slavery"
+      },
+      "bonus": {
+        "title": "International Day for the Abolition of Slavery",
+        "description": "This UN day draws attention to modern forms of slavery and the continuing importance of freedom and human rights."
+      },
+      "shape": {
+        "id": "broken-chain",
+        "name": "Broken chain",
+        "grid_file": "../shapes/2026-12-02-broken-chain.grid.json",
+        "svg_file": "../shapes/2026-12-02-broken-chain.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-02.puzzle.json"
+    },
+    {
+      "date": "2026-12-03",
+      "theme": {
+        "name": "Accessibility & inclusion",
+        "occasion": "International Day of Persons with Disabilities"
+      },
+      "bonus": {
+        "title": "International Day of Persons with Disabilities",
+        "description": "This UN observance promotes participation, accessibility and inclusion for people with disabilities."
+      },
+      "shape": {
+        "id": "accessibility-symbol",
+        "name": "Accessibility symbol",
+        "grid_file": "../shapes/2026-12-03-accessibility-symbol.grid.json",
+        "svg_file": "../shapes/2026-12-03-accessibility-symbol.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-03.puzzle.json"
+    },
+    {
+      "date": "2026-12-04",
+      "theme": {
+        "name": "Banks, money & finance",
+        "occasion": "International Day of Banks"
+      },
+      "bonus": {
+        "title": "International Day of Banks",
+        "description": "The UN's International Day of Banks recognises the role of financial institutions in development and economic life."
+      },
+      "shape": {
+        "id": "bank-building",
+        "name": "Bank building",
+        "grid_file": "../shapes/2026-12-04-bank-building.grid.json",
+        "svg_file": "../shapes/2026-12-04-bank-building.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-04.puzzle.json"
+    },
+    {
+      "date": "2026-12-05",
+      "theme": {
+        "name": "Soil, gardening & earth",
+        "occasion": "World Soil Day"
+      },
+      "bonus": {
+        "title": "World Soil Day",
+        "description": "World Soil Day highlights the importance of healthy soil for food, ecosystems, farming and biodiversity."
+      },
+      "shape": {
+        "id": "seedling",
+        "name": "Seedling",
+        "grid_file": "../shapes/2026-12-05-seedling.grid.json",
+        "svg_file": "../shapes/2026-12-05-seedling.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-05.puzzle.json"
+    },
+    {
+      "date": "2026-12-06",
+      "theme": {
+        "name": "St Nicholas, gifts & winter traditions",
+        "occasion": "St Nicholas Day"
+      },
+      "bonus": {
+        "title": "St Nicholas Day",
+        "description": "St Nicholas Day is associated with the historic saint, gift-giving and winter traditions across many European countries."
+      },
+      "shape": {
+        "id": "mitre",
+        "name": "Mitre",
+        "grid_file": "../shapes/2026-12-06-mitre.grid.json",
+        "svg_file": "../shapes/2026-12-06-mitre.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-06.puzzle.json"
+    },
+    {
+      "date": "2026-12-07",
+      "theme": {
+        "name": "Aviation & airports",
+        "occasion": "International Civil Aviation Day"
+      },
+      "bonus": {
+        "title": "International Civil Aviation Day",
+        "description": "International Civil Aviation Day celebrates the importance of global air transport and civil aviation."
+      },
+      "shape": {
+        "id": "airplane",
+        "name": "Airplane",
+        "grid_file": "../shapes/2026-12-07-airplane.grid.json",
+        "svg_file": "../shapes/2026-12-07-airplane.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-07.puzzle.json"
+    },
+    {
+      "date": "2026-12-08",
+      "theme": {
+        "name": "Brownies & baking",
+        "occasion": "National Brownie Day"
+      },
+      "bonus": {
+        "title": "National Brownie Day",
+        "description": "A cheerful food observance devoted to brownies, chocolate baking and sweet treats."
+      },
+      "shape": {
+        "id": "brownie",
+        "name": "Brownie",
+        "grid_file": "../shapes/2026-12-08-brownie.grid.json",
+        "svg_file": "../shapes/2026-12-08-brownie.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-08.puzzle.json"
+    },
+    {
+      "date": "2026-12-09",
+      "theme": {
+        "name": "Honesty, law & public service",
+        "occasion": "International Anti-Corruption Day"
+      },
+      "bonus": {
+        "title": "International Anti-Corruption Day",
+        "description": "The UN's International Anti-Corruption Day focuses on integrity, accountability and the prevention of corruption."
+      },
+      "shape": {
+        "id": "scales-of-justice",
+        "name": "Scales of justice",
+        "grid_file": "../shapes/2026-12-09-scales-of-justice.grid.json",
+        "svg_file": "../shapes/2026-12-09-scales-of-justice.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-09.puzzle.json"
+    },
+    {
+      "date": "2026-12-10",
+      "theme": {
+        "name": "Human rights & freedoms",
+        "occasion": "Human Rights Day"
+      },
+      "bonus": {
+        "title": "Human Rights Day",
+        "description": "Human Rights Day marks the adoption of the Universal Declaration of Human Rights in 1948."
+      },
+      "shape": {
+        "id": "raised-hand",
+        "name": "Raised hand",
+        "grid_file": "../shapes/2026-12-10-raised-hand.grid.json",
+        "svg_file": "../shapes/2026-12-10-raised-hand.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-10.puzzle.json"
+    },
+    {
+      "date": "2026-12-11",
+      "theme": {
+        "name": "Mountains & mountaineering",
+        "occasion": "International Mountain Day"
+      },
+      "bonus": {
+        "title": "International Mountain Day",
+        "description": "International Mountain Day celebrates mountain environments, communities and the importance of protecting highland ecosystems."
+      },
+      "shape": {
+        "id": "mountain",
+        "name": "Mountain",
+        "grid_file": "../shapes/2026-12-11-mountain.grid.json",
+        "svg_file": "../shapes/2026-12-11-mountain.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-11.puzzle.json"
+    },
+    {
+      "date": "2026-12-12",
+      "theme": {
+        "name": "Winter flowers & festive plants",
+        "occasion": "Poinsettia Day"
+      },
+      "bonus": {
+        "title": "Poinsettia Day",
+        "description": "Poinsettia Day celebrates the bright red-and-green plant that has become strongly associated with the Christmas season."
+      },
+      "shape": {
+        "id": "poinsettia",
+        "name": "Poinsettia",
+        "grid_file": "../shapes/2026-12-12-poinsettia.grid.json",
+        "svg_file": "../shapes/2026-12-12-poinsettia.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-12.puzzle.json"
+    },
+    {
+      "date": "2026-12-13",
+      "theme": {
+        "name": "Candles, light & Scandinavian winter",
+        "occasion": "St Lucy's Day"
+      },
+      "bonus": {
+        "title": "St Lucy's Day",
+        "description": "St Lucy's Day is especially associated with light, candles and Scandinavian midwinter traditions."
+      },
+      "shape": {
+        "id": "candle",
+        "name": "Candle",
+        "grid_file": "../shapes/2026-12-13-candle.grid.json",
+        "svg_file": "../shapes/2026-12-13-candle.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-13.puzzle.json"
+    },
+    {
+      "date": "2026-12-14",
+      "theme": {
+        "name": "Monkeys & primates",
+        "occasion": "Monkey Day"
+      },
+      "bonus": {
+        "title": "Monkey Day",
+        "description": "Monkey Day is an informal international celebration of monkeys, apes and other primates."
+      },
+      "shape": {
+        "id": "monkey",
+        "name": "Monkey",
+        "grid_file": "../shapes/2026-12-14-monkey.grid.json",
+        "svg_file": "../shapes/2026-12-14-monkey.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-14.puzzle.json"
+    },
+    {
+      "date": "2026-12-15",
+      "theme": {
+        "name": "Languages & alphabets",
+        "occasion": "World Turkic Language Family Day"
+      },
+      "bonus": {
+        "title": "World Turkic Language Family Day",
+        "description": "A language-focused international observance makes this a natural day for alphabets, scripts and words."
+      },
+      "shape": {
+        "id": "alphabet-tile",
+        "name": "Alphabet tile",
+        "grid_file": "../shapes/2026-12-15-alphabet-tile.grid.json",
+        "svg_file": "../shapes/2026-12-15-alphabet-tile.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-15.puzzle.json"
+    },
+    {
+      "date": "2026-12-16",
+      "theme": {
+        "name": "Jane Austen & Regency England",
+        "occasion": "Jane Austen's birthday"
+      },
+      "bonus": {
+        "title": "Jane Austen's birthday",
+        "description": "Jane Austen was born on 16 December 1775 and became one of the best-known novelists of the English Regency period."
+      },
+      "shape": {
+        "id": "quill",
+        "name": "Quill",
+        "grid_file": "../shapes/2026-12-16-quill.grid.json",
+        "svg_file": "../shapes/2026-12-16-quill.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-16.puzzle.json"
+    },
+    {
+      "date": "2026-12-17",
+      "theme": {
+        "name": "Aviation pioneers & early flight",
+        "occasion": "Wright Brothers Day"
+      },
+      "bonus": {
+        "title": "Wright Brothers Day",
+        "description": "Wright Brothers Day commemorates the first successful powered flights made by Orville and Wilbur Wright in 1903."
+      },
+      "shape": {
+        "id": "biplane",
+        "name": "Biplane",
+        "grid_file": "../shapes/2026-12-17-biplane.grid.json",
+        "svg_file": "../shapes/2026-12-17-biplane.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-17.puzzle.json"
+    },
+    {
+      "date": "2026-12-18",
+      "theme": {
+        "name": "Migration, travel & journeys",
+        "occasion": "International Migrants Day"
+      },
+      "bonus": {
+        "title": "International Migrants Day",
+        "description": "International Migrants Day recognises migrants and the journeys, communities and experiences connected with migration."
+      },
+      "shape": {
+        "id": "suitcase",
+        "name": "Suitcase",
+        "grid_file": "../shapes/2026-12-18-suitcase.grid.json",
+        "svg_file": "../shapes/2026-12-18-suitcase.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-18.puzzle.json"
+    },
+    {
+      "date": "2026-12-19",
+      "theme": {
+        "name": "Hard candy & traditional sweets",
+        "occasion": "National Hard Candy Day"
+      },
+      "bonus": {
+        "title": "National Hard Candy Day",
+        "description": "A seasonal food observance centred on hard sweets, boiled candy and traditional confectionery."
+      },
+      "shape": {
+        "id": "candy-cane",
+        "name": "Candy cane",
+        "grid_file": "../shapes/2026-12-19-candy-cane.grid.json",
+        "svg_file": "../shapes/2026-12-19-candy-cane.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-19.puzzle.json"
+    },
+    {
+      "date": "2026-12-20",
+      "theme": {
+        "name": "Community & cooperation",
+        "occasion": "International Human Solidarity Day"
+      },
+      "bonus": {
+        "title": "International Human Solidarity Day",
+        "description": "The UN's International Human Solidarity Day highlights cooperation, shared responsibility and support between communities."
+      },
+      "shape": {
+        "id": "linked-hands",
+        "name": "Linked hands",
+        "grid_file": "../shapes/2026-12-20-linked-hands.grid.json",
+        "svg_file": "../shapes/2026-12-20-linked-hands.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-20.puzzle.json"
+    },
+    {
+      "date": "2026-12-21",
+      "theme": {
+        "name": "Winter & the solstice",
+        "occasion": "December solstice"
+      },
+      "bonus": {
+        "title": "December solstice",
+        "description": "The December solstice brings the shortest day and longest night of the year in the Northern Hemisphere."
+      },
+      "shape": {
+        "id": "snowflake",
+        "name": "Snowflake",
+        "grid_file": "../shapes/2026-12-21-snowflake.grid.json",
+        "svg_file": "../shapes/2026-12-21-snowflake.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-21.puzzle.json"
+    },
+    {
+      "date": "2026-12-22",
+      "theme": {
+        "name": "Cookies & biscuits",
+        "occasion": "Cookie Exchange Day"
+      },
+      "bonus": {
+        "title": "Cookie Exchange Day",
+        "description": "Cookie Exchange Day is a seasonal excuse to bake, swap and share biscuits and cookies."
+      },
+      "shape": {
+        "id": "cookie",
+        "name": "Cookie",
+        "grid_file": "../shapes/2026-12-22-cookie.grid.json",
+        "svg_file": "../shapes/2026-12-22-cookie.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-22.puzzle.json"
+    },
+    {
+      "date": "2026-12-23",
+      "theme": {
+        "name": "Unusual festive traditions",
+        "occasion": "Festivus"
+      },
+      "bonus": {
+        "title": "Festivus",
+        "description": "Festivus is a humorous alternative holiday popularised by Seinfeld and observed by fans on 23 December."
+      },
+      "shape": {
+        "id": "festivus-pole",
+        "name": "Festivus pole",
+        "grid_file": "../shapes/2026-12-23-festivus-pole.grid.json",
+        "svg_file": "../shapes/2026-12-23-festivus-pole.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-23.puzzle.json"
+    },
+    {
+      "date": "2026-12-24",
+      "theme": {
+        "name": "Christmas Eve & Santa preparations",
+        "occasion": "Christmas Eve"
+      },
+      "bonus": {
+        "title": "Christmas Eve",
+        "description": "Christmas Eve is traditionally associated with last-minute preparations, stockings, Santa and anticipation of Christmas Day."
+      },
+      "shape": {
+        "id": "sleigh",
+        "name": "Sleigh",
+        "grid_file": "../shapes/2026-12-24-sleigh.grid.json",
+        "svg_file": "../shapes/2026-12-24-sleigh.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-24.puzzle.json"
+    },
+    {
+      "date": "2026-12-25",
+      "theme": {
+        "name": "Christmas Day",
+        "occasion": "Christmas Day"
+      },
+      "bonus": {
+        "title": "Christmas Day",
+        "description": "Christmas Day is celebrated across many countries with family gatherings, gifts, food and religious or cultural traditions."
+      },
+      "shape": {
+        "id": "christmas-tree",
+        "name": "Christmas tree",
+        "grid_file": "../shapes/2026-12-25-christmas-tree.grid.json",
+        "svg_file": "../shapes/2026-12-25-christmas-tree.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-25.puzzle.json"
+    },
+    {
+      "date": "2026-12-26",
+      "theme": {
+        "name": "Boxing Day & British holiday traditions",
+        "occasion": "Boxing Day"
+      },
+      "bonus": {
+        "title": "Boxing Day",
+        "description": "Boxing Day is a public holiday in the UK and several Commonwealth countries, traditionally associated with gifts, sport and visiting."
+      },
+      "shape": {
+        "id": "gift-box",
+        "name": "Gift box",
+        "grid_file": "../shapes/2026-12-26-gift-box.grid.json",
+        "svg_file": "../shapes/2026-12-26-gift-box.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-26.puzzle.json"
+    },
+    {
+      "date": "2026-12-27",
+      "theme": {
+        "name": "Public health & emergency preparedness",
+        "occasion": "International Day of Epidemic Preparedness"
+      },
+      "bonus": {
+        "title": "International Day of Epidemic Preparedness",
+        "description": "This UN day encourages stronger preparation, cooperation and resilient systems for future epidemics."
+      },
+      "shape": {
+        "id": "medical-cross",
+        "name": "Medical cross",
+        "grid_file": "../shapes/2026-12-27-medical-cross.grid.json",
+        "svg_file": "../shapes/2026-12-27-medical-cross.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-27.puzzle.json"
+    },
+    {
+      "date": "2026-12-28",
+      "theme": {
+        "name": "Cinema & filmmaking",
+        "occasion": "Early cinema anniversary"
+      },
+      "bonus": {
+        "title": "Early cinema anniversary",
+        "description": "28 December is associated with the Lumi\u00e8re brothers' famous 1895 public film screening in Paris and the beginnings of cinema."
+      },
+      "shape": {
+        "id": "movie-camera",
+        "name": "Movie camera",
+        "grid_file": "../shapes/2026-12-28-movie-camera.grid.json",
+        "svg_file": "../shapes/2026-12-28-movie-camera.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-28.puzzle.json"
+    },
+    {
+      "date": "2026-12-29",
+      "theme": {
+        "name": "Medieval England & cathedrals",
+        "occasion": "Feast of St Thomas Becket"
+      },
+      "bonus": {
+        "title": "Feast of St Thomas Becket",
+        "description": "The feast of Thomas Becket recalls the medieval Archbishop of Canterbury and the cathedral history surrounding his life and death."
+      },
+      "shape": {
+        "id": "cathedral",
+        "name": "Cathedral",
+        "grid_file": "../shapes/2026-12-29-cathedral.grid.json",
+        "svg_file": "../shapes/2026-12-29-cathedral.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-29.puzzle.json"
+    },
+    {
+      "date": "2026-12-30",
+      "theme": {
+        "name": "Jungle animals & adventure stories",
+        "occasion": "Rudyard Kipling's birthday"
+      },
+      "bonus": {
+        "title": "Rudyard Kipling's birthday",
+        "description": "Rudyard Kipling was born on 30 December 1865; The Jungle Book makes the date a natural hook for jungle animals and adventure stories."
+      },
+      "shape": {
+        "id": "tiger",
+        "name": "Tiger",
+        "grid_file": "../shapes/2026-12-30-tiger.grid.json",
+        "svg_file": "../shapes/2026-12-30-tiger.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-30.puzzle.json"
+    },
+    {
+      "date": "2026-12-31",
+      "theme": {
+        "name": "New Year & celebrations",
+        "occasion": "New Year's Eve"
+      },
+      "bonus": {
+        "title": "New Year's Eve",
+        "description": "New Year's Eve closes the calendar year with countdowns, midnight celebrations, fireworks and resolutions."
+      },
+      "shape": {
+        "id": "firework",
+        "name": "Firework",
+        "grid_file": "../shapes/2026-12-31-firework.grid.json",
+        "svg_file": "../shapes/2026-12-31-firework.svg"
+      },
+      "puzzle_file": "puzzles/2026-12-31.puzzle.json"
+    }
+  ]
+}

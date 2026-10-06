@@ -1,0 +1,685 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-12-15",
+  "date": "2026-12-15",
+  "theme": "Languages & alphabets",
+  "shape_id": "alphabet-tile",
+  "dictionary_id": "2026-12-15-languages-alphabets",
+  "generator_seed": "dense-crossword-2.0.0:2026-12-15",
+  "solution_grid": [
+    "###############",
+    "######M########",
+    "######O########",
+    "######W########",
+    "##E*PAGE*L***##",
+    "##N*O*L*READ*##",
+    "##GAELIC*T*I*##",
+    "##L*T**H*T*C*##",
+    "##I**DIALECT*##",
+    "##S****P*R*I*##",
+    "##H**S*T***O*##",
+    "##**VOWEL*INK##",
+    "##***U*R***A*##",
+    "##***N**STORY##",
+    "##WORD*****Y*##",
+    "###############",
+    "###############",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "MOWEPAGELNOLREADGAELICTILTHTCIDIALECTSPRIHSTOVOWELINKURANSTORYWORDY",
+  "solution_hash": "e585e202d3befd022a28c54c276fbdf4cc4526e62195ce27c95d07403f1afc82",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 9,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "letter": "T"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "letter": "T"
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "letter": "I"
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "letter": "W"
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "letter": "D"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        }
+      ],
+      "answer": "PAGE"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 11
+        }
+      ],
+      "answer": "READ"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        }
+      ],
+      "answer": "GAELIC"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        }
+      ],
+      "answer": "DIALECT"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        }
+      ],
+      "answer": "VOWEL"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 12
+        }
+      ],
+      "answer": "INK"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 12
+        }
+      ],
+      "answer": "STORY"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        }
+      ],
+      "answer": "WORD"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        }
+      ],
+      "answer": "ENGLISH"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        }
+      ],
+      "answer": "POET"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 5
+        }
+      ],
+      "answer": "SOUND"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 1,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ],
+      "answer": "MOWGLI"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "CHAPTER"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ],
+      "answer": "LETTER"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 10,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 11
+        }
+      ],
+      "answer": "DICTIONARY"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 4,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 0,
+      "letter": "P"
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D4",
+      "slot_b_index": 3,
+      "letter": "G"
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "slot_a": "A2",
+      "slot_a_index": 1,
+      "slot_b": "D6",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "slot_a": "A2",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 0,
+      "letter": "D"
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "G"
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "slot_a": "A3",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "E"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "slot_a": "A3",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 5,
+      "letter": "I"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "slot_a": "A3",
+      "slot_a_index": 5,
+      "slot_b": "D5",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "A"
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "slot_a": "A4",
+      "slot_a_index": 4,
+      "slot_b": "D6",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "slot_a": "A4",
+      "slot_a_index": 6,
+      "slot_b": "D7",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "slot_a": "A5",
+      "slot_a_index": 1,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "O"
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 5,
+      "letter": "E"
+    },
+    {
+      "row": 11,
+      "col": 11,
+      "slot_a": "A6",
+      "slot_a_index": 1,
+      "slot_b": "D7",
+      "slot_b_index": 6,
+      "letter": "N"
+    },
+    {
+      "row": 13,
+      "col": 11,
+      "slot_a": "A7",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 8,
+      "letter": "R"
+    },
+    {
+      "row": 14,
+      "col": 5,
+      "slot_a": "A8",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 4,
+      "letter": "D"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 8,
+    "down_slots": 7,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.13,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 6
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

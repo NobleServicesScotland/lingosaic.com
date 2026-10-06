@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2026-12-24-christmas-eve-santa-preparations",
+  "theme": {
+    "id": "christmas-eve-santa-preparations",
+    "name": "Christmas Eve & Santa preparations",
+    "definition": "Single-word English entries directly associated with christmas eve & santa preparations."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2026-12-24-w001",
+      "display": "Santa",
+      "grid_entry": "SANTA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w002",
+      "display": "Sleigh",
+      "grid_entry": "SLEIGH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w003",
+      "display": "Stocking",
+      "grid_entry": "STOCKING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w004",
+      "display": "Chimney",
+      "grid_entry": "CHIMNEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w005",
+      "display": "Reindeer",
+      "grid_entry": "REINDEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w006",
+      "display": "Present",
+      "grid_entry": "PRESENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w007",
+      "display": "ELF",
+      "grid_entry": "ELF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w008",
+      "display": "Cookie",
+      "grid_entry": "COOKIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w009",
+      "display": "Carrot",
+      "grid_entry": "CARROT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w010",
+      "display": "Bells",
+      "grid_entry": "BELLS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w011",
+      "display": "Night",
+      "grid_entry": "NIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w012",
+      "display": "Star",
+      "grid_entry": "STAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w013",
+      "display": "Wrap",
+      "grid_entry": "WRAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w014",
+      "display": "Tree",
+      "grid_entry": "TREE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w015",
+      "display": "EVE",
+      "grid_entry": "EVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w016",
+      "display": "Rooftop",
+      "grid_entry": "ROOFTOP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w017",
+      "display": "Christmas",
+      "grid_entry": "CHRISTMAS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w018",
+      "display": "December",
+      "grid_entry": "DECEMBER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w019",
+      "display": "Midnight",
+      "grid_entry": "MIDNIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w020",
+      "display": "Snow",
+      "grid_entry": "SNOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w021",
+      "display": "Frost",
+      "grid_entry": "FROST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w022",
+      "display": "Northpole",
+      "grid_entry": "NORTHPOLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w023",
+      "display": "Workshop",
+      "grid_entry": "WORKSHOP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w024",
+      "display": "TOY",
+      "grid_entry": "TOY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w025",
+      "display": "List",
+      "grid_entry": "LIST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w026",
+      "display": "Letter",
+      "grid_entry": "LETTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w027",
+      "display": "Wish",
+      "grid_entry": "WISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w028",
+      "display": "Nice",
+      "grid_entry": "NICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w029",
+      "display": "Naughty",
+      "grid_entry": "NAUGHTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w030",
+      "display": "Dasher",
+      "grid_entry": "DASHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w031",
+      "display": "Dancer",
+      "grid_entry": "DANCER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w032",
+      "display": "Prancer",
+      "grid_entry": "PRANCER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w033",
+      "display": "Vixen",
+      "grid_entry": "VIXEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w034",
+      "display": "Comet",
+      "grid_entry": "COMET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w035",
+      "display": "Cupid",
+      "grid_entry": "CUPID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w036",
+      "display": "Donner",
+      "grid_entry": "DONNER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w037",
+      "display": "Blitzen",
+      "grid_entry": "BLITZEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w038",
+      "display": "Rudolph",
+      "grid_entry": "RUDOLPH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w039",
+      "display": "Harness",
+      "grid_entry": "HARNESS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w040",
+      "display": "Runner",
+      "grid_entry": "RUNNER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w041",
+      "display": "BAG",
+      "grid_entry": "BAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w042",
+      "display": "Sack",
+      "grid_entry": "SACK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w043",
+      "display": "Gift",
+      "grid_entry": "GIFT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w044",
+      "display": "Ribbon",
+      "grid_entry": "RIBBON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w045",
+      "display": "BOW",
+      "grid_entry": "BOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w046",
+      "display": "Paper",
+      "grid_entry": "PAPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w047",
+      "display": "Tape",
+      "grid_entry": "TAPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w048",
+      "display": "TAG",
+      "grid_entry": "TAG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w049",
+      "display": "Milk",
+      "grid_entry": "MILK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w050",
+      "display": "Biscuit",
+      "grid_entry": "BISCUIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w051",
+      "display": "Fireplace",
+      "grid_entry": "FIREPLACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w052",
+      "display": "Mantel",
+      "grid_entry": "MANTEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w053",
+      "display": "Bedtime",
+      "grid_entry": "BEDTIME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w054",
+      "display": "Dream",
+      "grid_entry": "DREAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w055",
+      "display": "Magic",
+      "grid_entry": "MAGIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w056",
+      "display": "Journey",
+      "grid_entry": "JOURNEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w057",
+      "display": "Carol",
+      "grid_entry": "CAROL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w058",
+      "display": "Dinner",
+      "grid_entry": "DINNER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w059",
+      "display": "Turkey",
+      "grid_entry": "TURKEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w060",
+      "display": "Angel",
+      "grid_entry": "ANGEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w061",
+      "display": "Family",
+      "grid_entry": "FAMILY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w062",
+      "display": "Cracker",
+      "grid_entry": "CRACKER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w063",
+      "display": "Pudding",
+      "grid_entry": "PUDDING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w064",
+      "display": "Holly",
+      "grid_entry": "HOLLY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w065",
+      "display": "Wreath",
+      "grid_entry": "WREATH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w066",
+      "display": "Church",
+      "grid_entry": "CHURCH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w067",
+      "display": "JOY",
+      "grid_entry": "JOY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w068",
+      "display": "Bauble",
+      "grid_entry": "BAUBLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w069",
+      "display": "Tinsel",
+      "grid_entry": "TINSEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w070",
+      "display": "Ornament",
+      "grid_entry": "ORNAMENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w071",
+      "display": "Garland",
+      "grid_entry": "GARLAND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w072",
+      "display": "Candle",
+      "grid_entry": "CANDLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w073",
+      "display": "Nativity",
+      "grid_entry": "NATIVITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w074",
+      "display": "Manger",
+      "grid_entry": "MANGER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w075",
+      "display": "Shepherd",
+      "grid_entry": "SHEPHERD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w076",
+      "display": "Magi",
+      "grid_entry": "MAGI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w077",
+      "display": "Bethlehem",
+      "grid_entry": "BETHLEHEM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w078",
+      "display": "Feast",
+      "grid_entry": "FEAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w079",
+      "display": "Holiday",
+      "grid_entry": "HOLIDAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w080",
+      "display": "Festive",
+      "grid_entry": "FESTIVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w081",
+      "display": "Celebrate",
+      "grid_entry": "CELEBRATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w082",
+      "display": "Party",
+      "grid_entry": "PARTY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w083",
+      "display": "Card",
+      "grid_entry": "CARD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w084",
+      "display": "Greeting",
+      "grid_entry": "GREETING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w085",
+      "display": "Friend",
+      "grid_entry": "FRIEND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w086",
+      "display": "Tradition",
+      "grid_entry": "TRADITION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w087",
+      "display": "Custom",
+      "grid_entry": "CUSTOM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w088",
+      "display": "Winter",
+      "grid_entry": "WINTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w089",
+      "display": "IVY",
+      "grid_entry": "IVY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w090",
+      "display": "Mistletoe",
+      "grid_entry": "MISTLETOE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w091",
+      "display": "Advent",
+      "grid_entry": "ADVENT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w092",
+      "display": "Calendar",
+      "grid_entry": "CALENDAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w093",
+      "display": "Sunday",
+      "grid_entry": "SUNDAY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w094",
+      "display": "Hope",
+      "grid_entry": "HOPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w095",
+      "display": "Light",
+      "grid_entry": "LIGHT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w096",
+      "display": "Choir",
+      "grid_entry": "CHOIR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w097",
+      "display": "Morning",
+      "grid_entry": "MORNING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w098",
+      "display": "Year",
+      "grid_entry": "YEAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w099",
+      "display": "Countdown",
+      "grid_entry": "COUNTDOWN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2026-12-24-w100",
+      "display": "Clock",
+      "grid_entry": "CLOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

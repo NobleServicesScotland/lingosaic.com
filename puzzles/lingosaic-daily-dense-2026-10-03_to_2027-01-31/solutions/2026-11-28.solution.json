@@ -1,0 +1,738 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-28",
+  "date": "2026-11-28",
+  "theme": "Mars & planetary exploration",
+  "shape_id": "mars",
+  "dictionary_id": "2026-11-28-mars-planetary-exploration",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-28",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#####*****#####",
+    "#####*R*M*#####",
+    "####V*E*A**####",
+    "###LANDER***###",
+    "##**L***S*M**##",
+    "##SOL**S**A*D##",
+    "##**EQUATOR*U##",
+    "##DAY**M**I*S##",
+    "##A****PLANET##",
+    "##TEST*L**E**##",
+    "##A***JEZERO*##",
+    "###******S**###",
+    "####*SIGNAL####",
+    "#####*C***#####",
+    "#####YEAR*#####",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "RMVEALANDERLSMSOLSADEQUATORUDAYMISAPLANETTESTLEAJEZEROSSIGNALCYEAR",
+  "solution_hash": "d6856847ab98f9ff4582fa1270a03a98414f66c5a72703348eead45ea298e53f",
+  "seed_letters": [
+    {
+      "row": 9,
+      "col": 12,
+      "letter": "S"
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "letter": "T"
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "letter": "T"
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "letter": "J"
+    },
+    {
+      "row": 16,
+      "col": 8,
+      "letter": "R"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        }
+      ],
+      "answer": "LANDER"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        }
+      ],
+      "answer": "SOL"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ],
+      "answer": "EQUATOR"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ],
+      "answer": "DAY"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 12
+        }
+      ],
+      "answer": "PLANET"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        }
+      ],
+      "answer": "TEST"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 11
+        }
+      ],
+      "answer": "JEZERO"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 10
+        }
+      ],
+      "answer": "SIGNAL"
+    },
+    {
+      "id": "A9",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        }
+      ],
+      "answer": "YEAR"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 2
+        }
+      ],
+      "answer": "DATA"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ],
+      "answer": "VALLEY"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        }
+      ],
+      "answer": "RED"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 6
+        }
+      ],
+      "answer": "ICE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "SAMPLE"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "MARS"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "ESA"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        }
+      ],
+      "answer": "MARINER"
+    },
+    {
+      "id": "D9",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        },
+        {
+          "row": 10,
+          "col": 12
+        }
+      ],
+      "answer": "DUST"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 5,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "D"
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 5,
+      "slot_b": "D6",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A2",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "L"
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "slot_a": "A3",
+      "slot_a_index": 6,
+      "slot_b": "D8",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "slot_a": "A4",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "D"
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 5,
+      "letter": "Y"
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D5",
+      "slot_b_index": 3,
+      "letter": "P"
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "slot_a": "A5",
+      "slot_a_index": 3,
+      "slot_b": "D8",
+      "slot_b_index": 4,
+      "letter": "N"
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "slot_a": "A5",
+      "slot_a_index": 5,
+      "slot_b": "D9",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 11,
+      "col": 2,
+      "slot_a": "A6",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "T"
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "slot_a": "A7",
+      "slot_a_index": 1,
+      "slot_b": "D5",
+      "slot_b_index": 5,
+      "letter": "E"
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "slot_a": "A7",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 0,
+      "letter": "E"
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "slot_a": "A7",
+      "slot_a_index": 4,
+      "slot_b": "D8",
+      "slot_b_index": 6,
+      "letter": "R"
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "slot_a": "A8",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "I"
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "slot_a": "A8",
+      "slot_a_index": 4,
+      "slot_b": "D7",
+      "slot_b_index": 2,
+      "letter": "A"
+    },
+    {
+      "row": 16,
+      "col": 6,
+      "slot_a": "A9",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "E"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 18,
+    "across_slots": 9,
+    "down_slots": 9,
+    "crossings": 19,
+    "average_crossings_per_slot": 2.11,
+    "leaf_slots": 6,
+    "max_slot_crossings": 4,
+    "seed_letters": 5
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

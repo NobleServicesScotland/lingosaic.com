@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-15",
+  "date": "2026-11-15",
+  "theme": "Recycling & reuse",
+  "shape_id": "recycling-symbol",
+  "dictionary_id": "2026-11-15-recycling-reuse",
+  "generator_seed": "daily-2026-11-15",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#####XXXXX#####",
+    "####XXXXXXX####",
+    "###XXXXXXXXX###",
+    "##XXPXXXMXCXX##",
+    "##XXAXWXEXYXX##",
+    "##XXPLASTICXX##",
+    "##XXEXSXAXLXX##",
+    "##XXRXTXLXEXX##",
+    "###XXXEXXXXX###",
+    "####XXXXXXXX###",
+    "#####XXXXX#####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "PMCAWEYPLASTICESALRTLEE",
+  "solution_hash": "22bec0cdab137f3f8d1d286dc041f55fb520b0896e6cb373e59741324f242be7",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "A"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "W"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "letter": "S"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "PLASTIC"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ],
+      "answer": "PAPER"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ],
+      "answer": "WASTE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "METAL"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "CYCLE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "T"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "C"
+    }
+  ]
+}

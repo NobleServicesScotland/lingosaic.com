@@ -1,0 +1,660 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-03",
+  "date": "2027-01-03",
+  "theme": "Fantasy & storytelling",
+  "shape_id": "open-book",
+  "dictionary_id": "2027-01-03-fantasy-storytelling",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-03",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "###############",
+    "#*##########*##",
+    "#BOOK####****##",
+    "#*R*I*C*M*M**##",
+    "#*C*NARRATOR*##",
+    "#***G*O*P*U*L##",
+    "#**F**W***N*E##",
+    "#T*A*KNIGHT*G##",
+    "#O*N****H*A*E##",
+    "#WITCH*POTION##",
+    "#E*A****S*N*D##",
+    "#R*SECRET****##",
+    "##*Y***L****###",
+    "#####**F*######",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "BOOKRICMMCNARRATORGOPULFWNETAKNIGHTGONHAEWITCHPOTIONEASNDRSECRETYLF",
+  "solution_hash": "4a815acb7c96d93383cb931e2930035f48cd9dd5b8efbdc0e42c40c52c43140e",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 4,
+      "letter": "K"
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "letter": "R"
+    },
+    {
+      "row": 8,
+      "col": 12,
+      "letter": "L"
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "letter": "T"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 1
+        },
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 4
+        }
+      ],
+      "answer": "BOOK"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "NARRATOR"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ],
+      "answer": "KNIGHT"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 12,
+          "col": 1
+        },
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 5
+        }
+      ],
+      "answer": "WITCH"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 12
+        }
+      ],
+      "answer": "POTION"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        }
+      ],
+      "answer": "SECRET"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        }
+      ],
+      "answer": "ORC"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ],
+      "answer": "KING"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ],
+      "answer": "CROWN"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        }
+      ],
+      "answer": "MAP"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "MOUNTAIN"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        },
+        {
+          "row": 10,
+          "col": 12
+        },
+        {
+          "row": 11,
+          "col": 12
+        },
+        {
+          "row": 12,
+          "col": 12
+        },
+        {
+          "row": 13,
+          "col": 12
+        }
+      ],
+      "answer": "LEGEND"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 3
+        }
+      ],
+      "answer": "FANTASY"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 1
+        },
+        {
+          "row": 11,
+          "col": 1
+        },
+        {
+          "row": 12,
+          "col": 1
+        },
+        {
+          "row": 13,
+          "col": 1
+        },
+        {
+          "row": 14,
+          "col": 1
+        }
+      ],
+      "answer": "TOWER"
+    },
+    {
+      "id": "D9",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 8
+        }
+      ],
+      "answer": "GHOST"
+    },
+    {
+      "id": "D10",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        }
+      ],
+      "answer": "ELF"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 2,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 5,
+      "col": 4,
+      "letter": "K"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 7,
+      "col": 4,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D3",
+      "row": 7,
+      "col": 6,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 7,
+      "col": 8,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D5",
+      "row": 7,
+      "col": 10,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 10,
+      "col": 6,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D9",
+      "row": 10,
+      "col": 8,
+      "letter": "G"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D5",
+      "row": 10,
+      "col": 10,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D8",
+      "row": 12,
+      "col": 1,
+      "letter": "W"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D7",
+      "row": 12,
+      "col": 3,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D9",
+      "row": 12,
+      "col": 8,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 12,
+      "col": 10,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D6",
+      "row": 12,
+      "col": 12,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D7",
+      "row": 14,
+      "col": 3,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D10",
+      "row": 14,
+      "col": 7,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D9",
+      "row": 14,
+      "col": 8,
+      "letter": "T"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 6,
+    "down_slots": 10,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.12,
+    "leaf_slots": 5,
+    "max_slot_crossings": 4,
+    "seed_letters": 4
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

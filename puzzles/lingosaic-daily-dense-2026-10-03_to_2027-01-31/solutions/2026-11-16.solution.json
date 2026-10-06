@@ -1,0 +1,693 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-16",
+  "date": "2026-11-16",
+  "theme": "World cultures & tolerance",
+  "shape_id": "dove",
+  "dictionary_id": "2026-11-16-world-cultures-tolerance",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-16",
+  "solution_grid": [
+    "###############",
+    "####*#####*####",
+    "###D*D###**G###",
+    "###R*I###**L###",
+    "*##E*A##*FOOD##",
+    "**#S*L*****B**#",
+    "*CUSTOM*LOCAL*#",
+    "*O***G**A**L***",
+    "DUTY*U**N*H****",
+    "#R**RELIGION***",
+    "#T******U*N***#",
+    "##*HERITAGE**##",
+    "##******G*S**##",
+    "###**ACCENT*###",
+    "####*R****Y####",
+    "#####TRUST#####",
+    "#######***#####",
+    "########*######",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "DDGRILEAFOODSLBCUSTOMLOCALOGALDUTYUNHRRELIGIONTUNHERITAGEGSACCENTRYTRUST",
+  "solution_hash": "a3d8a75b9eb037df8e9f5103b70f1a81999ada62353ecfe5b36e15ae6a43b74c",
+  "seed_letters": [
+    {
+      "row": 4,
+      "col": 11,
+      "letter": "O"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "letter": "O"
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "letter": "U"
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "letter": "T"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 4,
+          "col": 12
+        }
+      ],
+      "answer": "FOOD"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 1
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ],
+      "answer": "CUSTOM"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 12
+        }
+      ],
+      "answer": "LOCAL"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 8,
+          "col": 0
+        },
+        {
+          "row": 8,
+          "col": 1
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        }
+      ],
+      "answer": "DUTY"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "RELIGION"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "HERITAGE"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "ACCENT"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 9
+        }
+      ],
+      "answer": "TRUST"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 1
+        },
+        {
+          "row": 7,
+          "col": 1
+        },
+        {
+          "row": 8,
+          "col": 1
+        },
+        {
+          "row": 9,
+          "col": 1
+        },
+        {
+          "row": 10,
+          "col": 1
+        }
+      ],
+      "answer": "COURT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 3
+        },
+        {
+          "row": 3,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        }
+      ],
+      "answer": "DRESS"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 2,
+          "col": 5
+        },
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ],
+      "answer": "DIALOGUE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 5
+        }
+      ],
+      "answer": "ART"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        }
+      ],
+      "answer": "LANGUAGE"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 10
+        }
+      ],
+      "answer": "HONESTY"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 2,
+          "col": 11
+        },
+        {
+          "row": 3,
+          "col": 11
+        },
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "GLOBAL"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 4,
+      "col": 11,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D7",
+      "slot_b_index": 2,
+      "letter": "O"
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "slot_a": "A2",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "slot_a": "A2",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 4,
+      "letter": "S"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "slot_a": "A2",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 4,
+      "letter": "O"
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D5",
+      "slot_b_index": 0,
+      "letter": "L"
+    },
+    {
+      "row": 6,
+      "col": 11,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 4,
+      "letter": "A"
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "slot_a": "A4",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "U"
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "slot_a": "A5",
+      "slot_a_index": 1,
+      "slot_b": "D3",
+      "slot_b_index": 7,
+      "letter": "E"
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "slot_a": "A5",
+      "slot_a_index": 4,
+      "slot_b": "D5",
+      "slot_b_index": 3,
+      "letter": "G"
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "slot_a": "A5",
+      "slot_a_index": 6,
+      "slot_b": "D6",
+      "slot_b_index": 1,
+      "letter": "O"
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "slot_a": "A6",
+      "slot_a_index": 5,
+      "slot_b": "D5",
+      "slot_b_index": 5,
+      "letter": "A"
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "slot_a": "A6",
+      "slot_a_index": 7,
+      "slot_b": "D6",
+      "slot_b_index": 3,
+      "letter": "E"
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "slot_a": "A7",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "A"
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "slot_a": "A7",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 7,
+      "letter": "E"
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "slot_a": "A7",
+      "slot_a_index": 5,
+      "slot_b": "D6",
+      "slot_b_index": 5,
+      "letter": "T"
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "slot_a": "A8",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "T"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 8,
+    "down_slots": 7,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.13,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 4
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-16",
+  "valid": true,
+  "checks": {
+    "shape_dimensions": [
+      15,
+      15
+    ],
+    "all_playable_cells_inside_silhouette": true,
+    "slot_count": 5,
+    "crossing_count": 4,
+    "dictionary_word_count": 100,
+    "all_solution_words_in_approved_dictionary": true,
+    "repeated_solution_words": false,
+    "seed_letter_count": 3,
+    "solution_count_capped_at_2": 1,
+    "unique": true,
+    "public_hash_matches_private_solution": true
+  },
+  "solution_words": [
+    "MARRIAGE",
+    "GENTLEMAN",
+    "PROPOSAL",
+    "SOCIETY",
+    "REGENCY"
+  ]
+}

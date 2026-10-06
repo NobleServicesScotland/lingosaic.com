@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-17",
+  "date": "2026-11-17",
+  "daily_number": 33,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-17",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Students & university life",
+    "occasion": "International Students' Day"
+  },
+  "bonus": {
+    "title": "International Students' Day",
+    "description": "International Students' Day is associated with students, universities, learning and student communities around the world."
+  },
+  "shape": {
+    "id": "graduation-cap",
+    "name": "Graduation cap",
+    "grid_file": "../shapes/2026-11-17-graduation-cap.grid.json",
+    "svg_file": "../shapes/2026-11-17-graduation-cap.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-17-students-university-life",
+    "file": "../dictionaries/2026-11-17-students-university-life.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "#######X#######",
+      "######X.X######",
+      "####X.X.XXX####",
+      "###.X.X.X.XX###",
+      "#XX.X.XTX.XXXX#",
+      "###........XX##",
+      "###.X.X.X.X#X##",
+      "###.XXX.XXX#X##",
+      "###.XXXXXXX#X##",
+      "####XXXXXXX#X##",
+      "############X##",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "T"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "ab05f6c7f2ab2310d8ea18258f594986727880d68c2c44404729b914ab3019c6"
+  }
+}

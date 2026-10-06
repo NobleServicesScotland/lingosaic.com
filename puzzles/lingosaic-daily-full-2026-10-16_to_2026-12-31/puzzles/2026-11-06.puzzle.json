@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-06",
+  "date": "2026-11-06",
+  "daily_number": 22,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-06",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Saxophone & jazz",
+    "occasion": "Saxophone Day"
+  },
+  "bonus": {
+    "title": "Saxophone Day",
+    "description": "Saxophone Day celebrates the instrument and its enormous role in jazz, big bands and popular music."
+  },
+  "shape": {
+    "id": "saxophone",
+    "name": "Saxophone",
+    "grid_file": "../shapes/2026-11-06-saxophone.grid.json",
+    "svg_file": "../shapes/2026-11-06-saxophone.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-06-saxophone-jazz",
+    "file": "../dictionaries/2026-11-06-saxophone-jazz.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "########XXXXX##",
+      "########.XXXX##",
+      "########.X.XX##",
+      "####.#.#.X.####",
+      "####L#L#.XY####",
+      "####.......####",
+      "####.#.X.X.####",
+      "###XXXXX.X.####",
+      "##XXXXXX.XX####",
+      "##XXXXXX.XX####",
+      "##XXXXXXXX#####",
+      "###XXXXXX######",
+      "######XX#######"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "L"
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "L"
+      },
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "Y"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "81e99931abcb7a6242fc95a5476cc0dfa5b23e48324ddc6cc15ac63a54d0768b"
+  }
+}

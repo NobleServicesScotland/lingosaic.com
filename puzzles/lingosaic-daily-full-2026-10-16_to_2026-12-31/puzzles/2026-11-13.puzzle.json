@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-13",
+  "date": "2026-11-13",
+  "daily_number": 29,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-13",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Kindness & helping others",
+    "occasion": "World Kindness Day"
+  },
+  "bonus": {
+    "title": "World Kindness Day",
+    "description": "World Kindness Day promotes considerate actions, generosity and practical ways of helping other people."
+  },
+  "shape": {
+    "id": "heart",
+    "name": "Heart",
+    "grid_file": "../shapes/2026-11-13-heart.grid.json",
+    "svg_file": "../shapes/2026-11-13-heart.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-13-kindness-helping-others",
+    "file": "../dictionaries/2026-11-13-kindness-helping-others.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "######.########",
+      "####XX.##XX####",
+      "###X.X.#XX.X###",
+      "##XX.XRXXX.XX##",
+      "##XXSX.XHX.XX##",
+      "###X.......X###",
+      "###XEXYX.X.X###",
+      "####.XXX.X.####",
+      "####.XXXXX#####",
+      "######XXX######",
+      "######XXX######",
+      "#######X#######",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 5,
+        "col": 6,
+        "letter": "R"
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "S"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "H"
+      },
+      {
+        "row": 8,
+        "col": 4,
+        "letter": "E"
+      },
+      {
+        "row": 8,
+        "col": 6,
+        "letter": "Y"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "a405347e013f5e0afd6a451f5c9e26fe078a2513ec63afcc81d708860716f00c"
+  }
+}

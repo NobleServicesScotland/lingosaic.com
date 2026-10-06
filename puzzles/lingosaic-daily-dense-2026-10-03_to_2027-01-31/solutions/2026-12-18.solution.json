@@ -1,0 +1,813 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-12-18",
+  "date": "2026-12-18",
+  "theme": "Migration, travel & journeys",
+  "shape_id": "suitcase",
+  "dictionary_id": "2026-12-18-migration-travel-journeys",
+  "generator_seed": "dense-crossword-2.0.0:2026-12-18",
+  "solution_grid": [
+    "###############",
+    "####*#*########",
+    "###ROUTE****###",
+    "###E********###",
+    "###GATE****J*##",
+    "##*I*#*###*O*##",
+    "##COACH**D*U*##",
+    "##*N*U**FERRY##",
+    "##***S***P*N*##",
+    "##*INTEGRATE*##",
+    "##***O***R*Y*##",
+    "##COMMUNITY*J##",
+    "##***S***U**U##",
+    "##*B*****ROAD##",
+    "##SUITCASE**G##",
+    "##*S**A*H*M*E##",
+    "##***ARRIVAL*##",
+    "##******P*P**##",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "ROUTEEGATEJIOCOACHDUNUFERRYSPNINTEGRATEORYCOMMUNITYJSUUBROADSUITCASEGSAHMEARRIVALPP",
+  "solution_hash": "80130e1e0d7493742efa7d29ffcf87e0bc2da7448d91fed18c82deeefaaeaa86",
+  "seed_letters": [
+    {
+      "row": 2,
+      "col": 7,
+      "letter": "E"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "H"
+    },
+    {
+      "row": 15,
+      "col": 8,
+      "letter": "H"
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "letter": "M"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 3
+        },
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 2,
+          "col": 5
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 7
+        }
+      ],
+      "answer": "ROUTE"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        }
+      ],
+      "answer": "GATE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ],
+      "answer": "COACH"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "FERRY"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "INTEGRATE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "COMMUNITY"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 12
+        }
+      ],
+      "answer": "ROAD"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 14,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "SUITCASE"
+    },
+    {
+      "id": "A9",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 10
+        },
+        {
+          "row": 16,
+          "col": 11
+        }
+      ],
+      "answer": "ARRIVAL"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 2,
+          "col": 3
+        },
+        {
+          "row": 3,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        }
+      ],
+      "answer": "REGION"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 3
+        }
+      ],
+      "answer": "BUS"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        }
+      ],
+      "answer": "CUSTOMS"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 6
+        }
+      ],
+      "answer": "CAR"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 17,
+          "col": 8
+        }
+      ],
+      "answer": "SHIP"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "DEPARTURE"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 15,
+          "col": 10
+        },
+        {
+          "row": 16,
+          "col": 10
+        },
+        {
+          "row": 17,
+          "col": 10
+        }
+      ],
+      "answer": "MAP"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ],
+      "answer": "JOURNEY"
+    },
+    {
+      "id": "D9",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 12
+        },
+        {
+          "row": 12,
+          "col": 12
+        },
+        {
+          "row": 13,
+          "col": 12
+        },
+        {
+          "row": 14,
+          "col": 12
+        },
+        {
+          "row": 15,
+          "col": 12
+        }
+      ],
+      "answer": "JUDGE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 2,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "R"
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "slot_a": "A2",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "G"
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "slot_a": "A3",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 4,
+      "letter": "O"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A4",
+      "slot_a_index": 1,
+      "slot_b": "D6",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "slot_a": "A4",
+      "slot_a_index": 3,
+      "slot_b": "D8",
+      "slot_b_index": 3,
+      "letter": "R"
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "slot_a": "A5",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "slot_a": "A5",
+      "slot_a_index": 6,
+      "slot_b": "D6",
+      "slot_b_index": 3,
+      "letter": "A"
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "slot_a": "A5",
+      "slot_a_index": 8,
+      "slot_b": "D8",
+      "slot_b_index": 5,
+      "letter": "E"
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "slot_a": "A6",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 5,
+      "letter": "M"
+    },
+    {
+      "row": 11,
+      "col": 9,
+      "slot_a": "A6",
+      "slot_a_index": 7,
+      "slot_b": "D6",
+      "slot_b_index": 5,
+      "letter": "T"
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "slot_a": "A7",
+      "slot_a_index": 0,
+      "slot_b": "D6",
+      "slot_b_index": 7,
+      "letter": "R"
+    },
+    {
+      "row": 13,
+      "col": 12,
+      "slot_a": "A7",
+      "slot_a_index": 3,
+      "slot_b": "D9",
+      "slot_b_index": 2,
+      "letter": "D"
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "slot_a": "A8",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "U"
+    },
+    {
+      "row": 14,
+      "col": 6,
+      "slot_a": "A8",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 14,
+      "col": 8,
+      "slot_a": "A8",
+      "slot_a_index": 6,
+      "slot_b": "D5",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "slot_a": "A8",
+      "slot_a_index": 7,
+      "slot_b": "D6",
+      "slot_b_index": 8,
+      "letter": "E"
+    },
+    {
+      "row": 16,
+      "col": 6,
+      "slot_a": "A9",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 16,
+      "col": 8,
+      "slot_a": "A9",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "I"
+    },
+    {
+      "row": 16,
+      "col": 10,
+      "slot_a": "A9",
+      "slot_a_index": 5,
+      "slot_b": "D7",
+      "slot_b_index": 1,
+      "letter": "A"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 18,
+    "across_slots": 9,
+    "down_slots": 9,
+    "crossings": 20,
+    "average_crossings_per_slot": 2.22,
+    "leaf_slots": 5,
+    "max_slot_crossings": 5,
+    "seed_letters": 4
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

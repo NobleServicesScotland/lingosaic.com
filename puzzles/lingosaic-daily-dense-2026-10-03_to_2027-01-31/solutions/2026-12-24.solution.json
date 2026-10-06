@@ -1,0 +1,578 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-12-24",
+  "date": "2026-12-24",
+  "theme": "Christmas Eve & Santa preparations",
+  "shape_id": "sleigh",
+  "dictionary_id": "2026-12-24-christmas-eve-santa-preparations",
+  "generator_seed": "dense-crossword-2.0.0:2026-12-24",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "###############",
+    "#####*#########",
+    "###*#*#*#*#####",
+    "###*#*#*#*#####",
+    "###*#*#*#*#####",
+    "##***N**R**####",
+    "###*DANCER*####",
+    "###**T**I***###",
+    "###*VIXEN***###",
+    "###**V**D***###",
+    "###CHIMNEY**T##",
+    "##*A*T**E*L*O*#",
+    "##*R*YEAR*IVY##",
+    "##BOW*L***S**##",
+    "###L**FEAST*###",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "NRDANCERTIVIXENVDCHIMNEYTATELORYEARIVYBOWLSLFEAST",
+  "solution_hash": "f2b78b6b452aa8268f00d4cac553a7ae26e1999cbb74d2484e88165950806628",
+  "seed_letters": [
+    {
+      "row": 9,
+      "col": 7,
+      "letter": "C"
+    },
+    {
+      "row": 13,
+      "col": 12,
+      "letter": "T"
+    },
+    {
+      "row": 14,
+      "col": 10,
+      "letter": "L"
+    },
+    {
+      "row": 16,
+      "col": 4,
+      "letter": "W"
+    },
+    {
+      "row": 17,
+      "col": 7,
+      "letter": "E"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ],
+      "answer": "DANCER"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        }
+      ],
+      "answer": "VIXEN"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        }
+      ],
+      "answer": "CHIMNEY"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        }
+      ],
+      "answer": "YEAR"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 15,
+          "col": 10
+        },
+        {
+          "row": 15,
+          "col": 11
+        },
+        {
+          "row": 15,
+          "col": 12
+        }
+      ],
+      "answer": "IVY"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 16,
+          "col": 2
+        },
+        {
+          "row": 16,
+          "col": 3
+        },
+        {
+          "row": 16,
+          "col": 4
+        }
+      ],
+      "answer": "BOW"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 17,
+          "col": 6
+        },
+        {
+          "row": 17,
+          "col": 7
+        },
+        {
+          "row": 17,
+          "col": 8
+        },
+        {
+          "row": 17,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 10
+        }
+      ],
+      "answer": "FEAST"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 3
+        },
+        {
+          "row": 16,
+          "col": 3
+        },
+        {
+          "row": 17,
+          "col": 3
+        }
+      ],
+      "answer": "CAROL"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 5
+        }
+      ],
+      "answer": "NATIVITY"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 17,
+          "col": 6
+        }
+      ],
+      "answer": "ELF"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 8
+        }
+      ],
+      "answer": "REINDEER"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 10
+        },
+        {
+          "row": 15,
+          "col": 10
+        },
+        {
+          "row": 16,
+          "col": 10
+        },
+        {
+          "row": 17,
+          "col": 10
+        }
+      ],
+      "answer": "LIST"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 13,
+          "col": 12
+        },
+        {
+          "row": 14,
+          "col": 12
+        },
+        {
+          "row": 15,
+          "col": 12
+        }
+      ],
+      "answer": "TOY"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 9,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 9,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 11,
+      "col": 5,
+      "slot_a": "A2",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "I"
+    },
+    {
+      "row": 11,
+      "col": 8,
+      "slot_a": "A2",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 3,
+      "letter": "N"
+    },
+    {
+      "row": 13,
+      "col": 3,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "slot_a": "A3",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 5,
+      "letter": "I"
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "slot_a": "A3",
+      "slot_a_index": 5,
+      "slot_b": "D4",
+      "slot_b_index": 5,
+      "letter": "E"
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "slot_a": "A4",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 7,
+      "letter": "Y"
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "slot_a": "A4",
+      "slot_a_index": 1,
+      "slot_b": "D3",
+      "slot_b_index": 0,
+      "letter": "E"
+    },
+    {
+      "row": 15,
+      "col": 8,
+      "slot_a": "A4",
+      "slot_a_index": 3,
+      "slot_b": "D4",
+      "slot_b_index": 7,
+      "letter": "R"
+    },
+    {
+      "row": 15,
+      "col": 10,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D5",
+      "slot_b_index": 1,
+      "letter": "I"
+    },
+    {
+      "row": 15,
+      "col": 12,
+      "slot_a": "A5",
+      "slot_a_index": 2,
+      "slot_b": "D6",
+      "slot_b_index": 2,
+      "letter": "Y"
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "slot_a": "A6",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "O"
+    },
+    {
+      "row": 17,
+      "col": 6,
+      "slot_a": "A7",
+      "slot_a_index": 0,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "F"
+    },
+    {
+      "row": 17,
+      "col": 10,
+      "slot_a": "A7",
+      "slot_a_index": 4,
+      "slot_b": "D5",
+      "slot_b_index": 3,
+      "letter": "T"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 13,
+    "across_slots": 7,
+    "down_slots": 6,
+    "crossings": 15,
+    "average_crossings_per_slot": 2.31,
+    "leaf_slots": 2,
+    "max_slot_crossings": 4,
+    "seed_letters": 5
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

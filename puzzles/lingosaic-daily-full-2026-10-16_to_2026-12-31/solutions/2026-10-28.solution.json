@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-28",
+  "date": "2026-10-28",
+  "theme": "Chocolate & confectionery",
+  "shape_id": "chocolate-bar",
+  "dictionary_id": "2026-10-28-chocolate-confectionery",
+  "generator_seed": "daily-2026-10-28",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "##XXXXXXXXXXX##",
+    "##XXWXCXXXXXX##",
+    "##XXRXRXXXSXX##",
+    "##XXAXEXMXWXX##",
+    "##XXPRALINEXX##",
+    "##XXPXMXNXEXX##",
+    "##XXEXXXTXTXX##",
+    "##XXRXXXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "###############",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "WCRRSAEMWPRALINEPMNEETTR",
+  "solution_hash": "6549cdf85e4d250a1ca537b9de09181977870d409e2f58339cb9b0136f64de6d",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "E"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "letter": "W"
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "letter": "M"
+    },
+    {
+      "row": 8,
+      "col": 8,
+      "letter": "N"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "PRALINE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ],
+      "answer": "WRAPPER"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ],
+      "answer": "CREAM"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "MINT"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "SWEET"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "E"
+    }
+  ]
+}

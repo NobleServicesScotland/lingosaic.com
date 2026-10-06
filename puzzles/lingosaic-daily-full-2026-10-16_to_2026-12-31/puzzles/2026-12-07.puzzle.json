@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-07",
+  "date": "2026-12-07",
+  "daily_number": 53,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-07",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Aviation & airports",
+    "occasion": "International Civil Aviation Day"
+  },
+  "bonus": {
+    "title": "International Civil Aviation Day",
+    "description": "International Civil Aviation Day celebrates the importance of global air transport and civil aviation."
+  },
+  "shape": {
+    "id": "airplane",
+    "name": "Airplane",
+    "grid_file": "../shapes/2026-12-07-airplane.grid.json",
+    "svg_file": "../shapes/2026-12-07-airplane.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-07-aviation-airports",
+    "file": "../dictionaries/2026-12-07-aviation-airports.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#######X#######",
+      "#######X#######",
+      "######XXX######",
+      "######.XX#.####",
+      "####.XLXXX.XXX#",
+      "#XXX.XIXGXKXXX#",
+      "#XXX...G...XXX#",
+      "#XXX.X.X.X.XXX#",
+      "####.X.X.X.XXX#",
+      "######XXX#.####",
+      "######XXX######",
+      "#######X#######",
+      "#######X#######",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 5,
+        "col": 6,
+        "letter": "L"
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "I"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "G"
+      },
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "K"
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "letter": "G"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "2ea07662b40afb4752107d34a770f4baa1473fcb8b9e7a3615a42e385a96213d"
+  }
+}

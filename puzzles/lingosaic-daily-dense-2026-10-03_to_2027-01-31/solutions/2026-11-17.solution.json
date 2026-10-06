@@ -1,0 +1,696 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-17",
+  "date": "2026-11-17",
+  "theme": "Students & university life",
+  "shape_id": "graduation-cap",
+  "dictionary_id": "2026-11-17-students-university-life",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-17",
+  "solution_grid": [
+    "###############",
+    "#######*#######",
+    "######***######",
+    "######CAP######",
+    "####****R**####",
+    "###*LESSON**###",
+    "##****C*F***S##",
+    "#**DEGREE*NOTE#",
+    "******I*S***U**",
+    "#*****P*S*C*D*#",
+    "##*DICTIONARY*#",
+    "##*O****R*M***#",
+    "##ART**T**P***#",
+    "##*M**LECTURE*#",
+    "###****X**S*S*#",
+    "####*MATHS**S*#",
+    "###########LAB#",
+    "############Y##",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "CAPRLESSONCFSDEGREENOTEISUPSCDDICTIONARYORMARTTPMLECTUREXSSMATHSSLABY",
+  "solution_hash": "6451687383893d1c7394fba029a66731f6fda3328c2c39b9b460e4883aaf90ac",
+  "seed_letters": [
+    {
+      "row": 7,
+      "col": 7,
+      "letter": "E"
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "letter": "X"
+    },
+    {
+      "row": 15,
+      "col": 8,
+      "letter": "H"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 8
+        }
+      ],
+      "answer": "CAP"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        }
+      ],
+      "answer": "LESSON"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        }
+      ],
+      "answer": "DEGREE"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 13
+        }
+      ],
+      "answer": "NOTE"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 12
+        }
+      ],
+      "answer": "DICTIONARY"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ],
+      "answer": "ART"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 12
+        }
+      ],
+      "answer": "LECTURE"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 9
+        }
+      ],
+      "answer": "MATHS"
+    },
+    {
+      "id": "A9",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 16,
+          "col": 11
+        },
+        {
+          "row": 16,
+          "col": 12
+        },
+        {
+          "row": 16,
+          "col": 13
+        }
+      ],
+      "answer": "LAB"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        }
+      ],
+      "answer": "DORM"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ],
+      "answer": "SCRIPT"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        }
+      ],
+      "answer": "TEXT"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        }
+      ],
+      "answer": "PROFESSOR"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 10
+        }
+      ],
+      "answer": "CAMPUS"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        },
+        {
+          "row": 10,
+          "col": 12
+        }
+      ],
+      "answer": "STUDY"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 12
+        },
+        {
+          "row": 14,
+          "col": 12
+        },
+        {
+          "row": 15,
+          "col": 12
+        },
+        {
+          "row": 16,
+          "col": 12
+        },
+        {
+          "row": 17,
+          "col": 12
+        }
+      ],
+      "answer": "ESSAY"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 3,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "P"
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "slot_a": "A2",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "slot_a": "A2",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "O"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A3",
+      "slot_a_index": 5,
+      "slot_b": "D4",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D6",
+      "slot_b_index": 1,
+      "letter": "T"
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "D"
+    },
+    {
+      "row": 10,
+      "col": 6,
+      "slot_a": "A5",
+      "slot_a_index": 3,
+      "slot_b": "D2",
+      "slot_b_index": 5,
+      "letter": "T"
+    },
+    {
+      "row": 10,
+      "col": 8,
+      "slot_a": "A5",
+      "slot_a_index": 5,
+      "slot_b": "D4",
+      "slot_b_index": 7,
+      "letter": "O"
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "slot_a": "A5",
+      "slot_a_index": 7,
+      "slot_b": "D5",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 10,
+      "col": 12,
+      "slot_a": "A5",
+      "slot_a_index": 9,
+      "slot_b": "D6",
+      "slot_b_index": 4,
+      "letter": "Y"
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "slot_a": "A6",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "slot_a": "A7",
+      "slot_a_index": 1,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 13,
+      "col": 10,
+      "slot_a": "A7",
+      "slot_a_index": 4,
+      "slot_b": "D5",
+      "slot_b_index": 4,
+      "letter": "U"
+    },
+    {
+      "row": 13,
+      "col": 12,
+      "slot_a": "A7",
+      "slot_a_index": 6,
+      "slot_b": "D7",
+      "slot_b_index": 0,
+      "letter": "E"
+    },
+    {
+      "row": 15,
+      "col": 7,
+      "slot_a": "A8",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 16,
+      "col": 12,
+      "slot_a": "A9",
+      "slot_a_index": 1,
+      "slot_b": "D7",
+      "slot_b_index": 3,
+      "letter": "A"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 9,
+    "down_slots": 7,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.12,
+    "leaf_slots": 5,
+    "max_slot_crossings": 5,
+    "seed_letters": 3
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-19",
+  "date": "2026-11-19",
+  "daily_number": 35,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-19",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Water, sanitation & plumbing",
+    "occasion": "World Toilet Day"
+  },
+  "bonus": {
+    "title": "World Toilet Day",
+    "description": "World Toilet Day draws attention to sanitation, safe water and the infrastructure needed to protect public health."
+  },
+  "shape": {
+    "id": "water-droplet",
+    "name": "Water droplet",
+    "grid_file": "../shapes/2026-11-19-water-droplet.grid.json",
+    "svg_file": "../shapes/2026-11-19-water-droplet.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-19-water-sanitation-plumbing",
+    "file": "../dictionaries/2026-11-19-water-sanitation-plumbing.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#######X#######",
+      "####.#XXX######",
+      "####.#XXX######",
+      "####.XXX.X#####",
+      "##.#.X.X.XX####",
+      "##.#EXAXLXT####",
+      "##..........###",
+      "##IXEX.X.X.X###",
+      "##.XXX.X.X.X###",
+      "###XXXXXXX.X###",
+      "####XXXXXX.####",
+      "####XXXXXXX####",
+      "#####XXXXX#####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "E"
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "A"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "L"
+      },
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "T"
+      },
+      {
+        "row": 8,
+        "col": 2,
+        "letter": "I"
+      },
+      {
+        "row": 8,
+        "col": 4,
+        "letter": "E"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "96cea36d67fca6446efe08576adef4f6a4ac7b1f08be8343299fc4e5fab25562"
+  }
+}

@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-02-space-science-fiction",
+  "theme": {
+    "id": "space-science-fiction",
+    "name": "Space & science fiction",
+    "definition": "Single-word English entries directly associated with space & science fiction."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-02-w001",
+      "display": "Space",
+      "grid_entry": "SPACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w002",
+      "display": "Star",
+      "grid_entry": "STAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w003",
+      "display": "Planet",
+      "grid_entry": "PLANET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w004",
+      "display": "Moon",
+      "grid_entry": "MOON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w005",
+      "display": "Mars",
+      "grid_entry": "MARS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w006",
+      "display": "Venus",
+      "grid_entry": "VENUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w007",
+      "display": "Earth",
+      "grid_entry": "EARTH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w008",
+      "display": "Jupiter",
+      "grid_entry": "JUPITER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w009",
+      "display": "Saturn",
+      "grid_entry": "SATURN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w010",
+      "display": "Uranus",
+      "grid_entry": "URANUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w011",
+      "display": "Neptune",
+      "grid_entry": "NEPTUNE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w012",
+      "display": "Mercury",
+      "grid_entry": "MERCURY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w013",
+      "display": "Galaxy",
+      "grid_entry": "GALAXY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w014",
+      "display": "Nebula",
+      "grid_entry": "NEBULA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w015",
+      "display": "Comet",
+      "grid_entry": "COMET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w016",
+      "display": "Asteroid",
+      "grid_entry": "ASTEROID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w017",
+      "display": "Meteor",
+      "grid_entry": "METEOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w018",
+      "display": "Orbit",
+      "grid_entry": "ORBIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w019",
+      "display": "Rocket",
+      "grid_entry": "ROCKET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w020",
+      "display": "Ship",
+      "grid_entry": "SHIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w021",
+      "display": "Starship",
+      "grid_entry": "STARSHIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w022",
+      "display": "Spaceship",
+      "grid_entry": "SPACESHIP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w023",
+      "display": "Alien",
+      "grid_entry": "ALIEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w024",
+      "display": "Robot",
+      "grid_entry": "ROBOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w025",
+      "display": "Android",
+      "grid_entry": "ANDROID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w026",
+      "display": "Cyborg",
+      "grid_entry": "CYBORG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w027",
+      "display": "Laser",
+      "grid_entry": "LASER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w028",
+      "display": "Raygun",
+      "grid_entry": "RAYGUN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w029",
+      "display": "Portal",
+      "grid_entry": "PORTAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w030",
+      "display": "Wormhole",
+      "grid_entry": "WORMHOLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w031",
+      "display": "Time",
+      "grid_entry": "TIME",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w032",
+      "display": "Travel",
+      "grid_entry": "TRAVEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w033",
+      "display": "Future",
+      "grid_entry": "FUTURE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w034",
+      "display": "Clone",
+      "grid_entry": "CLONE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w035",
+      "display": "Mutant",
+      "grid_entry": "MUTANT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w036",
+      "display": "Droid",
+      "grid_entry": "DROID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w037",
+      "display": "Engine",
+      "grid_entry": "ENGINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w038",
+      "display": "Reactor",
+      "grid_entry": "REACTOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w039",
+      "display": "Fusion",
+      "grid_entry": "FUSION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w040",
+      "display": "Quantum",
+      "grid_entry": "QUANTUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w041",
+      "display": "Gravity",
+      "grid_entry": "GRAVITY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w042",
+      "display": "Vacuum",
+      "grid_entry": "VACUUM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w043",
+      "display": "Cosmos",
+      "grid_entry": "COSMOS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w044",
+      "display": "Universe",
+      "grid_entry": "UNIVERSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w045",
+      "display": "Astronaut",
+      "grid_entry": "ASTRONAUT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w046",
+      "display": "Pilot",
+      "grid_entry": "PILOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w047",
+      "display": "Captain",
+      "grid_entry": "CAPTAIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w048",
+      "display": "Crew",
+      "grid_entry": "CREW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w049",
+      "display": "Mission",
+      "grid_entry": "MISSION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w050",
+      "display": "Base",
+      "grid_entry": "BASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w051",
+      "display": "Colony",
+      "grid_entry": "COLONY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w052",
+      "display": "Station",
+      "grid_entry": "STATION",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w053",
+      "display": "Satellite",
+      "grid_entry": "SATELLITE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w054",
+      "display": "Probe",
+      "grid_entry": "PROBE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w055",
+      "display": "Rover",
+      "grid_entry": "ROVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w056",
+      "display": "Lander",
+      "grid_entry": "LANDER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w057",
+      "display": "Signal",
+      "grid_entry": "SIGNAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w058",
+      "display": "Radio",
+      "grid_entry": "RADIO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w059",
+      "display": "Teleport",
+      "grid_entry": "TELEPORT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w060",
+      "display": "Hologram",
+      "grid_entry": "HOLOGRAM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w061",
+      "display": "Computer",
+      "grid_entry": "COMPUTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w062",
+      "display": "Machine",
+      "grid_entry": "MACHINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w063",
+      "display": "Planetary",
+      "grid_entry": "PLANETARY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w064",
+      "display": "Exoplanet",
+      "grid_entry": "EXOPLANET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w065",
+      "display": "Lightspeed",
+      "grid_entry": "LIGHTSPEED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w066",
+      "display": "Hyperspace",
+      "grid_entry": "HYPERSPACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w067",
+      "display": "Crater",
+      "grid_entry": "CRATER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w068",
+      "display": "Moonbase",
+      "grid_entry": "MOONBASE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w069",
+      "display": "Spacesuit",
+      "grid_entry": "SPACESUIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w070",
+      "display": "Helmet",
+      "grid_entry": "HELMET",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w071",
+      "display": "Airlock",
+      "grid_entry": "AIRLOCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w072",
+      "display": "Escape",
+      "grid_entry": "ESCAPE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w073",
+      "display": "Pod",
+      "grid_entry": "POD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w074",
+      "display": "Nova",
+      "grid_entry": "NOVA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w075",
+      "display": "Supernova",
+      "grid_entry": "SUPERNOVA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w076",
+      "display": "Blackhole",
+      "grid_entry": "BLACKHOLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w077",
+      "display": "Dust",
+      "grid_entry": "DUST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w078",
+      "display": "Valley",
+      "grid_entry": "VALLEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w079",
+      "display": "Mariner",
+      "grid_entry": "MARINER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w080",
+      "display": "Red",
+      "grid_entry": "RED",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w081",
+      "display": "Solar",
+      "grid_entry": "SOLAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w082",
+      "display": "Surface",
+      "grid_entry": "SURFACE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w083",
+      "display": "Phobos",
+      "grid_entry": "PHOBOS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w084",
+      "display": "Deimos",
+      "grid_entry": "DEIMOS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w085",
+      "display": "Olympus",
+      "grid_entry": "OLYMPUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w086",
+      "display": "Vallis",
+      "grid_entry": "VALLIS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w087",
+      "display": "Regolith",
+      "grid_entry": "REGOLITH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w088",
+      "display": "Mineral",
+      "grid_entry": "MINERAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w089",
+      "display": "Ice",
+      "grid_entry": "ICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w090",
+      "display": "Pole",
+      "grid_entry": "POLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w091",
+      "display": "Equator",
+      "grid_entry": "EQUATOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w092",
+      "display": "Atmosphere",
+      "grid_entry": "ATMOSPHERE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w093",
+      "display": "Carbon",
+      "grid_entry": "CARBON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w094",
+      "display": "Dioxide",
+      "grid_entry": "DIOXIDE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w095",
+      "display": "Desert",
+      "grid_entry": "DESERT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w096",
+      "display": "Rock",
+      "grid_entry": "ROCK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w097",
+      "display": "Soil",
+      "grid_entry": "SOIL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w098",
+      "display": "Sample",
+      "grid_entry": "SAMPLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w099",
+      "display": "Camera",
+      "grid_entry": "CAMERA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-02-w100",
+      "display": "Sensor",
+      "grid_entry": "SENSOR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

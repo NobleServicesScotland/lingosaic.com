@@ -1,0 +1,716 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-06",
+  "date": "2026-11-06",
+  "theme": "Saxophone & jazz",
+  "shape_id": "saxophone",
+  "dictionary_id": "2026-11-06-saxophone-jazz",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-06",
+  "solution_grid": [
+    "###############",
+    "########***P*##",
+    "#######S*SWING#",
+    "#######T*A*A**#",
+    "#######A*X*N**#",
+    "####*#*G*O*O**#",
+    "###*I*TEMPO**##",
+    "###*M*R**H**###",
+    "###*P*U**O**###",
+    "###TROMBONE*###",
+    "###*O*P**E**###",
+    "##MOVIE*****###",
+    "##**I*TUNE**###",
+    "#BRASS**O***###",
+    "#A**E***T***###",
+    "#N*D*BLUES*####",
+    "#DRUM******####",
+    "##*E******#####",
+    "###T*****######",
+    "######**#######"
+  ],
+  "canonical_solution": "PSSWINGTAAAXNGOOITEMPOMRHPUOTROMBONEOPEMOVIEITUNEBRASSOAETNDBLUESDRUMET",
+  "solution_hash": "402912cc632041253999ee1eabb69ee0382e69c1ea93b2c95e369078b0c40428",
+  "seed_letters": [
+    {
+      "row": 2,
+      "col": 11,
+      "letter": "I"
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "letter": "G"
+    },
+    {
+      "row": 15,
+      "col": 6,
+      "letter": "L"
+    },
+    {
+      "row": 16,
+      "col": 1,
+      "letter": "D"
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "letter": "U"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 10
+        },
+        {
+          "row": 2,
+          "col": 11
+        },
+        {
+          "row": 2,
+          "col": 12
+        },
+        {
+          "row": 2,
+          "col": 13
+        }
+      ],
+      "answer": "SWING"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 10
+        }
+      ],
+      "answer": "TEMPO"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "TROMBONE"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        }
+      ],
+      "answer": "MOVIE"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        }
+      ],
+      "answer": "TUNE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 1
+        },
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 5
+        }
+      ],
+      "answer": "BRASS"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 9
+        }
+      ],
+      "answer": "BLUES"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 16,
+          "col": 1
+        },
+        {
+          "row": 16,
+          "col": 2
+        },
+        {
+          "row": 16,
+          "col": 3
+        },
+        {
+          "row": 16,
+          "col": 4
+        }
+      ],
+      "answer": "DRUM"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 13,
+          "col": 1
+        },
+        {
+          "row": 14,
+          "col": 1
+        },
+        {
+          "row": 15,
+          "col": 1
+        },
+        {
+          "row": 16,
+          "col": 1
+        }
+      ],
+      "answer": "BAND"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 15,
+          "col": 3
+        },
+        {
+          "row": 16,
+          "col": 3
+        },
+        {
+          "row": 17,
+          "col": 3
+        },
+        {
+          "row": 18,
+          "col": 3
+        }
+      ],
+      "answer": "DUET"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 4
+        }
+      ],
+      "answer": "IMPROVISE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        }
+      ],
+      "answer": "TRUMPET"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        }
+      ],
+      "answer": "STAGE"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 8
+        }
+      ],
+      "answer": "NOTE"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ],
+      "answer": "SAXOPHONE"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 1,
+          "col": 11
+        },
+        {
+          "row": 2,
+          "col": 11
+        },
+        {
+          "row": 3,
+          "col": 11
+        },
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        }
+      ],
+      "answer": "PIANO"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 2,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D7",
+      "slot_b_index": 0,
+      "letter": "S"
+    },
+    {
+      "row": 2,
+      "col": 11,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D8",
+      "slot_b_index": 1,
+      "letter": "I"
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "slot_a": "A2",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "T"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "slot_a": "A2",
+      "slot_a_index": 1,
+      "slot_b": "D5",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "slot_a": "A2",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 4,
+      "letter": "P"
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "slot_a": "A3",
+      "slot_a_index": 1,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "R"
+    },
+    {
+      "row": 9,
+      "col": 6,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D4",
+      "slot_b_index": 3,
+      "letter": "M"
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "slot_a": "A3",
+      "slot_a_index": 6,
+      "slot_b": "D7",
+      "slot_b_index": 7,
+      "letter": "N"
+    },
+    {
+      "row": 11,
+      "col": 4,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 5,
+      "letter": "V"
+    },
+    {
+      "row": 11,
+      "col": 6,
+      "slot_a": "A4",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 5,
+      "letter": "E"
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 6,
+      "letter": "T"
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "slot_a": "A5",
+      "slot_a_index": 2,
+      "slot_b": "D6",
+      "slot_b_index": 0,
+      "letter": "N"
+    },
+    {
+      "row": 13,
+      "col": 1,
+      "slot_a": "A6",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "B"
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "slot_a": "A6",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 7,
+      "letter": "S"
+    },
+    {
+      "row": 15,
+      "col": 8,
+      "slot_a": "A7",
+      "slot_a_index": 3,
+      "slot_b": "D6",
+      "slot_b_index": 3,
+      "letter": "E"
+    },
+    {
+      "row": 16,
+      "col": 1,
+      "slot_a": "A8",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "D"
+    },
+    {
+      "row": 16,
+      "col": 3,
+      "slot_a": "A8",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "U"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 8,
+    "down_slots": 8,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.12,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 5
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

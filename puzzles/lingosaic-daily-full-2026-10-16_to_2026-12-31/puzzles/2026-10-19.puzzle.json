@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-19",
+  "date": "2026-10-19",
+  "daily_number": 4,
+  "generator": {
+    "version": "daily-reference-1.0.0",
+    "seed": "daily-2026-10-19",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Seafood & coastal cooking",
+    "occasion": "National Seafood Bisque Day"
+  },
+  "bonus": {
+    "title": "National Seafood Bisque Day",
+    "description": "National Seafood Bisque Day is an informal food observance and a natural hook for seafood, coastal ingredients and maritime cooking."
+  },
+  "shape": {
+    "id": "fish",
+    "name": "Fish",
+    "grid_file": "../shapes/2026-10-19-fish.grid.json",
+    "svg_file": "../shapes/2026-10-19-fish.svg"
+  },
+  "dictionary": {
+    "id": "2026-10-19-seafood-coastal-cooking",
+    "file": "../dictionaries/2026-10-19-seafood-coastal-cooking.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "######X########",
+      "###XXXXXXX#####",
+      "##.XXXXXCXX#XX#",
+      "#XCX.XSX.X.XBX#",
+      "#X.X.X.X.X.X.XX",
+      "XX...........XX",
+      "#X.X.X.X.X.X.XX",
+      "#X.XXX.X.X.X.X#",
+      "##.XXXXX.XX#XX#",
+      "###XXXXXXX#####",
+      "######X########",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 4,
+        "col": 8,
+        "letter": "C"
+      },
+      {
+        "row": 5,
+        "col": 2,
+        "letter": "C"
+      },
+      {
+        "row": 5,
+        "col": 6,
+        "letter": "S"
+      },
+      {
+        "row": 5,
+        "col": 12,
+        "letter": "B"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 11,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 12
+        },
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "a470929d443689111e9655db6cb3f71b316a6dbc129091054c7ebcdd5855be34"
+  }
+}

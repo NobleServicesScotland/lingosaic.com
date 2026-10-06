@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-13",
+  "date": "2026-12-13",
+  "daily_number": 59,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-13",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Candles, light & Scandinavian winter",
+    "occasion": "St Lucy's Day"
+  },
+  "bonus": {
+    "title": "St Lucy's Day",
+    "description": "St Lucy's Day is especially associated with light, candles and Scandinavian midwinter traditions."
+  },
+  "shape": {
+    "id": "candle",
+    "name": "Candle",
+    "grid_file": "../shapes/2026-12-13-candle.grid.json",
+    "svg_file": "../shapes/2026-12-13-candle.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-13-candles-light-scandinavian-winter",
+    "file": "../dictionaries/2026-12-13-candles-light-scandinavian-winter.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "######XXX######",
+      "#####XXXXX#####",
+      "#####XXXXX#####",
+      "#####.XXX.#####",
+      "###.#.XXX.#####",
+      "###.#EXWXN#C###",
+      "###...W.....###",
+      "###.#.X.X.#.###",
+      "###.#.X.X.#.###",
+      "###.#XXXX.#.###",
+      "###.#XXXXX#####",
+      "###.#XXXXX#####",
+      "#####XXXXX#####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "E"
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "W"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "N"
+      },
+      {
+        "row": 6,
+        "col": 11,
+        "letter": "C"
+      },
+      {
+        "row": 7,
+        "col": 6,
+        "letter": "W"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "5b547e5f20602b50dc15dbf56b918d5c51beabef2862f838ac0b369cf4fc81a3"
+  }
+}

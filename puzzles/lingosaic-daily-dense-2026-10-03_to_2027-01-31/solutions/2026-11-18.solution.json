@@ -1,0 +1,833 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-18",
+  "date": "2026-11-18",
+  "theme": "Microbes, antibiotics & medicine",
+  "shape_id": "bacterium",
+  "dictionary_id": "2026-11-18-microbes-antibiotics-medicine",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-18",
+  "solution_grid": [
+    "##*C**N****####",
+    "#*NURSE*****###",
+    "***L**RESPITE##",
+    "***T**V**A***##",
+    "***U*HEALTH**##",
+    "#**R*****I****#",
+    "##*E***T*E****#",
+    "##***A*R*N*D**#",
+    "#***INFECTION*#",
+    "#**M*T*A***S***",
+    "**RESISTANCE**#",
+    "***D*B*M*****##",
+    "MEDICINE*L***##",
+    "#**C*O*N*A**###",
+    "##***T*TABLET##",
+    "####*I******###",
+    "####*CHEST#####",
+    "#####*##*######",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "CNNURSELRESPITETVAUHEALTHRIETEARNDINFECTIONMTASRESISTANCEDBMMEDICINELCONATTABLETICHEST",
+  "solution_hash": "f0ad2a44ea75c75c3196c97aafe2695042d700bb76ed8c8605de45490e0969ae",
+  "seed_letters": [
+    {
+      "row": 1,
+      "col": 4,
+      "letter": "R"
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "letter": "T"
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "letter": "E"
+    },
+    {
+      "row": 8,
+      "col": 6,
+      "letter": "F"
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "letter": "S"
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "letter": "I"
+    },
+    {
+      "row": 16,
+      "col": 6,
+      "letter": "H"
+    },
+    {
+      "row": 16,
+      "col": 7,
+      "letter": "E"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 1,
+          "col": 2
+        },
+        {
+          "row": 1,
+          "col": 3
+        },
+        {
+          "row": 1,
+          "col": 4
+        },
+        {
+          "row": 1,
+          "col": 5
+        },
+        {
+          "row": 1,
+          "col": 6
+        }
+      ],
+      "answer": "NURSE"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 10
+        },
+        {
+          "row": 2,
+          "col": 11
+        },
+        {
+          "row": 2,
+          "col": 12
+        }
+      ],
+      "answer": "RESPITE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        }
+      ],
+      "answer": "HEALTH"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 12
+        }
+      ],
+      "answer": "INFECTION"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ],
+      "answer": "RESISTANCE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 12,
+          "col": 0
+        },
+        {
+          "row": 12,
+          "col": 1
+        },
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "MEDICINE"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 12
+        }
+      ],
+      "answer": "TABLET"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        }
+      ],
+      "answer": "CHEST"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 0,
+          "col": 3
+        },
+        {
+          "row": 1,
+          "col": 3
+        },
+        {
+          "row": 2,
+          "col": 3
+        },
+        {
+          "row": 3,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        }
+      ],
+      "answer": "CULTURE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        }
+      ],
+      "answer": "MEDIC"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 5
+        }
+      ],
+      "answer": "ANTIBIOTIC"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 0,
+          "col": 6
+        },
+        {
+          "row": 1,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        }
+      ],
+      "answer": "NERVE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        }
+      ],
+      "answer": "TREATMENT"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "PATIENT"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "LAB"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ],
+      "answer": "DOSE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 1,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 1,
+      "letter": "U"
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "slot_a": "A2",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "slot_a": "A2",
+      "slot_a_index": 3,
+      "slot_b": "D6",
+      "slot_b_index": 0,
+      "letter": "P"
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "slot_a": "A3",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "slot_a": "A3",
+      "slot_a_index": 4,
+      "slot_b": "D6",
+      "slot_b_index": 2,
+      "letter": "T"
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "slot_a": "A4",
+      "slot_a_index": 1,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "N"
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "slot_a": "A4",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "E"
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "slot_a": "A4",
+      "slot_a_index": 5,
+      "slot_b": "D6",
+      "slot_b_index": 6,
+      "letter": "T"
+    },
+    {
+      "row": 8,
+      "col": 11,
+      "slot_a": "A4",
+      "slot_a_index": 7,
+      "slot_b": "D8",
+      "slot_b_index": 1,
+      "letter": "O"
+    },
+    {
+      "row": 10,
+      "col": 3,
+      "slot_a": "A5",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "slot_a": "A5",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 3,
+      "letter": "I"
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 5,
+      "slot_b": "D5",
+      "slot_b_index": 4,
+      "letter": "T"
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "slot_a": "A5",
+      "slot_a_index": 9,
+      "slot_b": "D8",
+      "slot_b_index": 3,
+      "letter": "E"
+    },
+    {
+      "row": 12,
+      "col": 3,
+      "slot_a": "A6",
+      "slot_a_index": 3,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "I"
+    },
+    {
+      "row": 12,
+      "col": 5,
+      "slot_a": "A6",
+      "slot_a_index": 5,
+      "slot_b": "D3",
+      "slot_b_index": 5,
+      "letter": "I"
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "slot_a": "A6",
+      "slot_a_index": 7,
+      "slot_b": "D5",
+      "slot_b_index": 6,
+      "letter": "E"
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "slot_a": "A7",
+      "slot_a_index": 0,
+      "slot_b": "D5",
+      "slot_b_index": 8,
+      "letter": "T"
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "slot_a": "A7",
+      "slot_a_index": 2,
+      "slot_b": "D7",
+      "slot_b_index": 2,
+      "letter": "B"
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "slot_a": "A8",
+      "slot_a_index": 0,
+      "slot_b": "D3",
+      "slot_b_index": 9,
+      "letter": "C"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 8,
+    "down_slots": 8,
+    "crossings": 20,
+    "average_crossings_per_slot": 2.5,
+    "leaf_slots": 3,
+    "max_slot_crossings": 4,
+    "seed_letters": 8
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

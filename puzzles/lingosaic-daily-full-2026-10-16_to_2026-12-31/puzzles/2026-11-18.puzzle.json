@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-18",
+  "date": "2026-11-18",
+  "daily_number": 34,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-18",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Microbes, antibiotics & medicine",
+    "occasion": "Antimicrobial Resistance Awareness Week"
+  },
+  "bonus": {
+    "title": "Antimicrobial Resistance Awareness Week",
+    "description": "This awareness week focuses on antimicrobial resistance and the careful use of antibiotics and other medicines."
+  },
+  "shape": {
+    "id": "bacterium",
+    "name": "Bacterium",
+    "grid_file": "../shapes/2026-11-18-bacterium.grid.json",
+    "svg_file": "../shapes/2026-11-18-bacterium.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-18-microbes-antibiotics-medicine",
+    "file": "../dictionaries/2026-11-18-microbes-antibiotics-medicine.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###X##X##X#####",
+      "###X##X##X#####",
+      "#X##.##X##XX###",
+      "#X##.######X###",
+      "##X#.XXXXX##X##",
+      "###X.X.XXXXXX##",
+      "##XX.XOXDX.XX##",
+      "##XX.......XXX#",
+      "#XXX.XTX.XAXX##",
+      "#X#X.X.X.X.X###",
+      "##X#.X.XXX.####",
+      "####X##X##.X###",
+      "#####X##X######",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "O"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "D"
+      },
+      {
+        "row": 8,
+        "col": 6,
+        "letter": "T"
+      },
+      {
+        "row": 8,
+        "col": 10,
+        "letter": "A"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "0d87fef7011a29599256ea641710463204bfa868be52152e81c80a7331b89d54"
+  }
+}

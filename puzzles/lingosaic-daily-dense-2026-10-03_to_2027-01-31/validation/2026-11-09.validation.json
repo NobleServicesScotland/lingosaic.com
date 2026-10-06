@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-09",
+  "status": "PASS",
+  "generator_version": "dense-crossword-2.0.0",
+  "dictionary_words": 100,
+  "slot_count": 16,
+  "across_slots": 10,
+  "down_slots": 6,
+  "crossings": 16,
+  "average_crossings_per_slot": 2.0,
+  "leaf_slots": 6,
+  "max_slot_crossings": 5,
+  "seed_letters": 3,
+  "uniqueness_count": 1,
+  "solution_hash_matches": true,
+  "topology_checks": {
+    "minimum_12_slots": true,
+    "at_least_5_across": true,
+    "at_least_5_down": true,
+    "connected_network": true,
+    "not_single_spine": true
+  },
+  "answers": [
+    "BLUEBERRY",
+    "RYE",
+    "CRUNCH",
+    "SAGO",
+    "CREAM",
+    "FRY",
+    "CUSTARD",
+    "PECAN",
+    "BANANA",
+    "BUTTER",
+    "JELLY",
+    "RHUBARB",
+    "NUT",
+    "CHOCOLATE",
+    "GRANOLA",
+    "MANGO"
+  ]
+}

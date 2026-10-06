@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-26",
+  "date": "2026-12-26",
+  "daily_number": 72,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-26",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Boxing Day & British holiday traditions",
+    "occasion": "Boxing Day"
+  },
+  "bonus": {
+    "title": "Boxing Day",
+    "description": "Boxing Day is a public holiday in the UK and several Commonwealth countries, traditionally associated with gifts, sport and visiting."
+  },
+  "shape": {
+    "id": "gift-box",
+    "name": "Gift box",
+    "grid_file": "../shapes/2026-12-26-gift-box.grid.json",
+    "svg_file": "../shapes/2026-12-26-gift-box.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-26-boxing-day-british-holiday-traditions",
+    "file": "../dictionaries/2026-12-26-boxing-day-british-holiday-traditions.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "###XXXXXXXXX###",
+      "###XXXXXXXXX###",
+      "###XX#####XX###",
+      "##X.XXXXX.XXX##",
+      "##XEXBX.XUXXX##",
+      "##X........XX##",
+      "##X.X.X.X.XXX##",
+      "##XXX.X.XXXXX##",
+      "##XXX.X.XXXXX##",
+      "##XXX.XXXXXXX##",
+      "##XXXXXXXXXXX##",
+      "##XXXXXXXXXXX##",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 3,
+        "letter": "E"
+      },
+      {
+        "row": 6,
+        "col": 5,
+        "letter": "B"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "U"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "97e5dfbd5ab7dcb2c8ac7b26376b80d0ef98c5484f543cf95be4fdff9ac36be0"
+  }
+}

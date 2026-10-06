@@ -1,0 +1,678 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-01",
+  "date": "2027-01-01",
+  "theme": "New Year & celebrations",
+  "shape_id": "clock",
+  "dictionary_id": "2027-01-01-new-year-celebrations",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-01",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "#######*#######",
+    "####**G***C####",
+    "###*S*ROCKET###",
+    "###FIVE*O*L*###",
+    "##**X*E*U*EVE##",
+    "##*C**T*N*B*L##",
+    "##*O*WINTER*F##",
+    "#SONG*N*D*A***#",
+    "##*F**G*O*TEN##",
+    "##*E****W*E*E##",
+    "##STOCKING**W##",
+    "###T**I*****###",
+    "###I**S*****###",
+    "####CUSTOM*####",
+    "#######*#######",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "GCSROCKETFIVEOLXEUEVECTNBLOWINTERFSONGNDAFGOTENEWEESTOCKINGWTIISCUSTOM",
+  "solution_hash": "96a54bd530ac4370ce7dcb3c39f9c59e68eec98f04bd67ee16ab9ad448f460ad",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 3,
+      "letter": "F"
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "I"
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "letter": "S"
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "letter": "O"
+    },
+    {
+      "row": 11,
+      "col": 12,
+      "letter": "N"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 11
+        }
+      ],
+      "answer": "ROCKET"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ],
+      "answer": "FIVE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "EVE"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "WINTER"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 10,
+          "col": 1
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ],
+      "answer": "SONG"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 12
+        }
+      ],
+      "answer": "TEN"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        }
+      ],
+      "answer": "STOCKING"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 16,
+          "col": 4
+        },
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        }
+      ],
+      "answer": "CUSTOM"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        }
+      ],
+      "answer": "GREETING"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        }
+      ],
+      "answer": "CELEBRATE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        }
+      ],
+      "answer": "SIX"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        }
+      ],
+      "answer": "COUNTDOWN"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "ELF"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 3
+        }
+      ],
+      "answer": "CONFETTI"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 11,
+          "col": 12
+        },
+        {
+          "row": 12,
+          "col": 12
+        },
+        {
+          "row": 13,
+          "col": 12
+        }
+      ],
+      "answer": "NEW"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 6
+        }
+      ],
+      "answer": "KISS"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 6,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D4",
+      "row": 5,
+      "col": 8,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 5,
+      "col": 10,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D3",
+      "row": 6,
+      "col": 4,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 6,
+      "col": 6,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D2",
+      "row": 7,
+      "col": 10,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D5",
+      "row": 7,
+      "col": 12,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D1",
+      "row": 9,
+      "col": 6,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 9,
+      "col": 8,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D2",
+      "row": 9,
+      "col": 10,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D6",
+      "row": 10,
+      "col": 3,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D2",
+      "row": 11,
+      "col": 10,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D7",
+      "row": 11,
+      "col": 12,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D6",
+      "row": 13,
+      "col": 3,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D8",
+      "row": 13,
+      "col": 6,
+      "letter": "K"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D4",
+      "row": 13,
+      "col": 8,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D8",
+      "row": 16,
+      "col": 6,
+      "letter": "S"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 8,
+    "down_slots": 8,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.12,
+    "leaf_slots": 5,
+    "max_slot_crossings": 4,
+    "seed_letters": 5
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

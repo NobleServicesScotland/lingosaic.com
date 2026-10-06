@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-21",
+  "date": "2026-10-21",
+  "theme": "Apples & orchards",
+  "shape_id": "apple",
+  "dictionary_id": "2026-10-21-apples-orchards",
+  "generator_seed": "daily-2026-10-21",
+  "solution_grid": [
+    "###############",
+    "#######X#######",
+    "#######XXXXX###",
+    "#####XXXXXXX###",
+    "###XXXXXXXXX###",
+    "##XPXCXGXAXFX##",
+    "##XIXRXRXPXLX##",
+    "##XCRABAPPLEX##",
+    "#XXKXTXFXLXSXX#",
+    "##XEXEXTXEXHX##",
+    "##XRXXXXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "###XXXXXXXXX###",
+    "#####XXXXX#####",
+    "###############"
+  ],
+  "canonical_solution": "PCGAFIRRPLCRABAPPLEKTFLSEETEHR",
+  "solution_hash": "28f4d2b79c5282584b3254f60d6703a671746262f24c6f311dbc8f132ade8b9f",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 5,
+      "letter": "C"
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "letter": "G"
+    },
+    {
+      "row": 5,
+      "col": 11,
+      "letter": "F"
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "letter": "I"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "CRABAPPLE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ],
+      "answer": "PICKER"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        }
+      ],
+      "answer": "CRATE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ],
+      "answer": "GRAFT"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ],
+      "answer": "APPLE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "FLESH"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "A"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "slot_a": "A1",
+      "slot_a_index": 8,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "E"
+    }
+  ],
+  "uniqueness_count": 1
+}

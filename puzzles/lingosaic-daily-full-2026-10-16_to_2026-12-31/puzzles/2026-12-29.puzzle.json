@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-29",
+  "date": "2026-12-29",
+  "daily_number": 75,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-29",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Medieval England & cathedrals",
+    "occasion": "Feast of St Thomas Becket"
+  },
+  "bonus": {
+    "title": "Feast of St Thomas Becket",
+    "description": "The feast of Thomas Becket recalls the medieval Archbishop of Canterbury and the cathedral history surrounding his life and death."
+  },
+  "shape": {
+    "id": "cathedral",
+    "name": "Cathedral",
+    "grid_file": "../shapes/2026-12-29-cathedral.grid.json",
+    "svg_file": "../shapes/2026-12-29-cathedral.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-29-medieval-england-cathedrals",
+    "file": "../dictionaries/2026-12-29-medieval-england-cathedrals.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "######XXX######",
+      "######XXX######",
+      "######XXX######",
+      "######XXX######",
+      "#####XX.XX#####",
+      "###.XXX.X.X####",
+      "###EX.XBXHXA###",
+      "###.........###",
+      "###.X.X.XIX.###",
+      "###.X.XXX.X.###",
+      "###.X.XXX.X.###",
+      "###XXXXXXXXX###",
+      "###XXXXXXXXX###",
+      "###XXXXXXXXX###",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 3,
+        "letter": "E"
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "B"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "H"
+      },
+      {
+        "row": 6,
+        "col": 11,
+        "letter": "A"
+      },
+      {
+        "row": 8,
+        "col": 9,
+        "letter": "I"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "91102913821b29a29a533cf9e8f4813cc0dbb5bf73fc70891750e55c1431091c"
+  }
+}

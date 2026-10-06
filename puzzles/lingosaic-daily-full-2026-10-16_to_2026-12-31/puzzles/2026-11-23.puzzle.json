@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-23",
+  "date": "2026-11-23",
+  "daily_number": 39,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-23",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Mathematics & number patterns",
+    "occasion": "Fibonacci Day"
+  },
+  "bonus": {
+    "title": "Fibonacci Day",
+    "description": "The date 11/23 echoes the opening 1, 1, 2, 3 of the Fibonacci sequence, making it a popular mathematics-themed day."
+  },
+  "shape": {
+    "id": "spiral",
+    "name": "Spiral",
+    "grid_file": "../shapes/2026-11-23-spiral.grid.json",
+    "svg_file": "../shapes/2026-11-23-spiral.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-23-mathematics-number-patterns",
+    "file": "../dictionaries/2026-11-23-mathematics-number-patterns.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "#####XX########",
+      "####XXXXXXXX###",
+      "##XXX###.XXXX##",
+      "##XXXX.X.XXXX##",
+      "#XXX.XNX.XRXXX#",
+      "#XXX.......XXX#",
+      "##XX.X.#.XT#X##",
+      "##XX.X.X.X.XX##",
+      "###X.XX###.XX##",
+      "###X.XXXXXX####",
+      "####.###XX#####",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "N"
+      },
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "R"
+      },
+      {
+        "row": 8,
+        "col": 10,
+        "letter": "T"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "9e863e1a2cfb38131ac7216902dbf57fb103071346ef10ac8001dcd50982875f"
+  }
+}

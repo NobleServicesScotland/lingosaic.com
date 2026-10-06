@@ -1,0 +1,634 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-07",
+  "date": "2027-01-07",
+  "theme": "Winter traditions",
+  "shape_id": "mitten",
+  "dictionary_id": "2027-01-07-winter-traditions",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-07",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "#######*#######",
+    "#####****C#####",
+    "####I*SHORT####",
+    "###*C*P**O**###",
+    "###BERRY*P**###",
+    "###***O*S***###",
+    "##***HUMUS**###",
+    "#*W*S*T*N****##",
+    "#SHRUB**R***###",
+    "**I*N**TILT*###",
+    "#*T*S***S***###",
+    "#*EVERGREEN*###",
+    "##**T**O****###",
+    "####*STORM**###",
+    "####*I*T****###",
+    "####*L******###",
+    "####*T******###",
+    "###############"
+  ],
+  "canonical_solution": "CISHORTCPOBERRYPOSHUMUSWSTNSHRUBRINTILTTSSEVERGREENTOSTORMITLT",
+  "solution_hash": "fc4ebc4efff296bfb0e162707fbe7d1f594f7eaf963e7d4ea6396d6e34341f0c",
+  "seed_letters": [
+    {
+      "row": 3,
+      "col": 9,
+      "letter": "C"
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "letter": "H"
+    },
+    {
+      "row": 4,
+      "col": 9,
+      "letter": "R"
+    },
+    {
+      "row": 10,
+      "col": 2,
+      "letter": "H"
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "letter": "U"
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "letter": "T"
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "letter": "S"
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "letter": "I"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        }
+      ],
+      "answer": "SHORT"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        }
+      ],
+      "answer": "BERRY"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "HUMUS"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 1
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "SHRUB"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "TILT"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "EVERGREEN"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 9
+        }
+      ],
+      "answer": "STORM"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        }
+      ],
+      "answer": "CROP"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        }
+      ],
+      "answer": "ICE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ],
+      "answer": "SPROUT"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        }
+      ],
+      "answer": "SUNRISE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 2
+        }
+      ],
+      "answer": "WHITE"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 4
+        }
+      ],
+      "answer": "SUNSET"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        }
+      ],
+      "answer": "ROOT"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 17,
+          "col": 5
+        },
+        {
+          "row": 18,
+          "col": 5
+        }
+      ],
+      "answer": "SILT"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D3",
+      "row": 4,
+      "col": 6,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 4,
+      "col": 9,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 6,
+      "col": 4,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D3",
+      "row": 6,
+      "col": 6,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 8,
+      "col": 6,
+      "letter": "U"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 8,
+      "letter": "U"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D5",
+      "row": 10,
+      "col": 2,
+      "letter": "H"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D6",
+      "row": 10,
+      "col": 4,
+      "letter": "U"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D4",
+      "row": 11,
+      "col": 8,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D5",
+      "row": 13,
+      "col": 2,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 13,
+      "col": 4,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D7",
+      "row": 13,
+      "col": 7,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D4",
+      "row": 13,
+      "col": 8,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D8",
+      "row": 15,
+      "col": 5,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 15,
+      "col": 7,
+      "letter": "O"
+    }
+  ],
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 7,
+    "down_slots": 8,
+    "crossings": 15,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 8
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

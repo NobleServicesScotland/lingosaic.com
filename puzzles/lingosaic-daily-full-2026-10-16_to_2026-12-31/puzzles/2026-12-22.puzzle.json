@@ -1,0 +1,315 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-22",
+  "date": "2026-12-22",
+  "daily_number": 68,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-12-22",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Cookies & biscuits",
+    "occasion": "Cookie Exchange Day"
+  },
+  "bonus": {
+    "title": "Cookie Exchange Day",
+    "description": "Cookie Exchange Day is a seasonal excuse to bake, swap and share biscuits and cookies."
+  },
+  "shape": {
+    "id": "cookie",
+    "name": "Cookie",
+    "grid_file": "../shapes/2026-12-22-cookie.grid.json",
+    "svg_file": "../shapes/2026-12-22-cookie.svg"
+  },
+  "dictionary": {
+    "id": "2026-12-22-cookies-biscuits",
+    "file": "../dictionaries/2026-12-22-cookies-biscuits.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "##########.####",
+      "#####XXXXX.####",
+      "####XXXXXX.####",
+      "###XXXXXXX.X###",
+      "##.XXX.XXX.XX##",
+      "##IXCXUXCX.XX##",
+      "##..........X##",
+      "##.XOX.XUX.XX##",
+      "##.X.X.XMX.XX##",
+      "##.X.X.X.XXX###",
+      "##.#.XXXXXX####",
+      "#####XXXXX#####",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 2,
+        "letter": "I"
+      },
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "C"
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "U"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "C"
+      },
+      {
+        "row": 8,
+        "col": 4,
+        "letter": "O"
+      },
+      {
+        "row": 8,
+        "col": 8,
+        "letter": "U"
+      },
+      {
+        "row": 9,
+        "col": 8,
+        "letter": "M"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 1,
+          "col": 10
+        },
+        {
+          "row": 2,
+          "col": 10
+        },
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "b12836a8d9e6dbb23e63eed095fa39a193af229c7c9a8e17f2fd6e55e210d14f"
+  }
+}

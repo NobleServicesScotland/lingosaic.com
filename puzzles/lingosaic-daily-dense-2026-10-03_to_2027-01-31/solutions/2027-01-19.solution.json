@@ -1,0 +1,667 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-19",
+  "date": "2027-01-19",
+  "theme": "Cinema snacks",
+  "shape_id": "popcorn-box",
+  "dictionary_id": "2027-01-19-cinema-snacks",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-19",
+  "solution_grid": [
+    "###############",
+    "#######C**#####",
+    "####*#DRAMA####",
+    "##**C**U****###",
+    "##*CHANNEL**S*#",
+    "#***O**C**P*C*#",
+    "##**C**HORROR**",
+    "##*BOX*Y**O*E*#",
+    "##**L***T*J*E*#",
+    "##**ARCHIVE*N##",
+    "###*T***C*C*###",
+    "###*E*C*K*T*###",
+    "###***R*E*O*###",
+    "###*COUNTER*###",
+    "###***N*****###",
+    "####*SCRIPT####",
+    "####**H**O*####",
+    "####***TAPE####",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "CDRAMACUCHANNELSOCPCCHORRORBOXYOELTJEARCHIVENTCCECKTREOCOUNTERNSCRIPTHOTAPE",
+  "solution_hash": "bee35c931138859a3080a42456acf0c99c38948b8dbcc8377a83b8ad76a2f33d",
+  "seed_letters": [
+    {
+      "row": 2,
+      "col": 6,
+      "letter": "D"
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "letter": "S"
+    },
+    {
+      "row": 5,
+      "col": 12,
+      "letter": "C"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 10
+        }
+      ],
+      "answer": "DRAMA"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        }
+      ],
+      "answer": "CHANNEL"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 12
+        }
+      ],
+      "answer": "HORROR"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        }
+      ],
+      "answer": "BOX"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "ARCHIVE"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "COUNTER"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 10
+        }
+      ],
+      "answer": "SCRIPT"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 17,
+          "col": 7
+        },
+        {
+          "row": 17,
+          "col": 8
+        },
+        {
+          "row": 17,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 10
+        }
+      ],
+      "answer": "TAPE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 1,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        }
+      ],
+      "answer": "CRUNCHY"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ],
+      "answer": "CHOCOLATE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 12
+        },
+        {
+          "row": 5,
+          "col": 12
+        },
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        }
+      ],
+      "answer": "SCREEN"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "PROJECTOR"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 8
+        }
+      ],
+      "answer": "TICKET"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 6
+        }
+      ],
+      "answer": "CRUNCH"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 9
+        }
+      ],
+      "answer": "POP"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 2,
+      "col": 7,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 4,
+      "col": 4,
+      "letter": "H"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 4,
+      "col": 7,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D1",
+      "row": 6,
+      "col": 7,
+      "letter": "H"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D4",
+      "row": 6,
+      "col": 10,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 6,
+      "col": 12,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D2",
+      "row": 7,
+      "col": 4,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D2",
+      "row": 9,
+      "col": 4,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 9,
+      "col": 8,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D4",
+      "row": 9,
+      "col": 10,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 13,
+      "col": 6,
+      "letter": "U"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D5",
+      "row": 13,
+      "col": 8,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D4",
+      "row": 13,
+      "col": 10,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D6",
+      "row": 15,
+      "col": 6,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 15,
+      "col": 9,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D7",
+      "row": 17,
+      "col": 9,
+      "letter": "P"
+    }
+  ],
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 8,
+    "down_slots": 7,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.13,
+    "leaf_slots": 4,
+    "max_slot_crossings": 3,
+    "seed_letters": 3
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

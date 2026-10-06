@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-12-26",
+  "date": "2026-12-26",
+  "theme": "Boxing Day & British holiday traditions",
+  "shape_id": "gift-box",
+  "dictionary_id": "2026-12-26-boxing-day-british-holiday-traditions",
+  "generator_seed": "daily-2026-12-26",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###XXXXXXXXX###",
+    "###XXXXXXXXX###",
+    "###XX#####XX###",
+    "##XRXXXXXHXXX##",
+    "##XEXBXSXUXXX##",
+    "##XSHOPPINGXX##",
+    "##XTXXXOXTXXX##",
+    "##XXXIXRXXXXX##",
+    "##XXXNXTXXXXX##",
+    "##XXXGXXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "###############"
+  ],
+  "canonical_solution": "RHEBSUSHOPPINGTXOTIRNTG",
+  "solution_hash": "97e5dfbd5ab7dcb2c8ac7b26376b80d0ef98c5484f543cf95be4fdff9ac36be0",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 3,
+      "letter": "E"
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "letter": "B"
+    },
+    {
+      "row": 6,
+      "col": 9,
+      "letter": "U"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "SHOPPING"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        }
+      ],
+      "answer": "REST"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        }
+      ],
+      "answer": "BOXING"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        }
+      ],
+      "answer": "SPORT"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "HUNT"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 3,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "S"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "O"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "N"
+    }
+  ]
+}

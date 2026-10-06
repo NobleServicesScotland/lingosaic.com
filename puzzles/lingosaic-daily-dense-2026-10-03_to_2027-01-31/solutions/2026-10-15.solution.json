@@ -1,0 +1,626 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-10-15",
+  "date": "2026-10-15",
+  "theme": "Hygiene & clean water",
+  "shape_id": "water-droplet",
+  "dictionary_id": "2026-10-15-hygiene-clean-water",
+  "generator_seed": "dense-crossword-2.1.0:2026-10-15",
+  "solution_grid": [
+    "###############",
+    "#######*#######",
+    "#######*#######",
+    "######U*P######",
+    "######P*A######",
+    "#####RINSE#####",
+    "#####*P*T*#####",
+    "####*SEWER*####",
+    "###**T*A****###",
+    "###**O*SAFE*###",
+    "###TAP*H*I**###",
+    "##*A*CLEANING##",
+    "###N*O*R*G**###",
+    "###K*C**LEAK###",
+    "###*SKIN*R**###",
+    "####***A***####",
+    "#####JOINT#####",
+    "#######L#######",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "UPPARINSEPTSEWERTAOSAFETAPHIACLEANINGNORGKCLEAKSKINRAJOINTL",
+  "solution_hash": "2e005fcbbc63381d100a55b1398103fedbf20d95e3b9db59543a349d093f716a",
+  "seed_letters": [
+    {
+      "row": 5,
+      "col": 6,
+      "letter": "I"
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "letter": "S"
+    },
+    {
+      "row": 11,
+      "col": 3,
+      "letter": "A"
+    },
+    {
+      "row": 13,
+      "col": 8,
+      "letter": "L"
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "letter": "J"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        }
+      ],
+      "answer": "RINSE"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        }
+      ],
+      "answer": "SEWER"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "SAFE"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "TAP"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 8
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 12
+        }
+      ],
+      "answer": "CLEANING"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 11
+        }
+      ],
+      "answer": "LEAK"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        }
+      ],
+      "answer": "SKIN"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        }
+      ],
+      "answer": "JOINT"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        }
+      ],
+      "answer": "UPIPE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        }
+      ],
+      "answer": "PASTE"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 5
+        }
+      ],
+      "answer": "STOPCOCK"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "WASHER"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "FINGER"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 3
+        }
+      ],
+      "answer": "TANK"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 17,
+          "col": 7
+        }
+      ],
+      "answer": "NAIL"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 6,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 5,
+      "col": 8,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D3",
+      "row": 7,
+      "col": 5,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 7,
+      "col": 6,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 7,
+      "col": 7,
+      "letter": "W"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D2",
+      "row": 7,
+      "col": 8,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D4",
+      "row": 9,
+      "col": 7,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D5",
+      "row": 9,
+      "col": 9,
+      "letter": "F"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D6",
+      "row": 10,
+      "col": 3,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D3",
+      "row": 10,
+      "col": 5,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D3",
+      "row": 11,
+      "col": 5,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D4",
+      "row": 11,
+      "col": 7,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 11,
+      "col": 9,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D5",
+      "row": 13,
+      "col": 9,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D3",
+      "row": 14,
+      "col": 5,
+      "letter": "K"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 14,
+      "col": 7,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D7",
+      "row": 16,
+      "col": 7,
+      "letter": "I"
+    }
+  ],
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 8,
+    "down_slots": 7,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.27,
+    "leaf_slots": 3,
+    "max_slot_crossings": 4,
+    "seed_letters": 5
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

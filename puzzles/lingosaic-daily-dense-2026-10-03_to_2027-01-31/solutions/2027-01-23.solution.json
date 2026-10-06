@@ -1,0 +1,623 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-23",
+  "date": "2027-01-23",
+  "theme": "Pies & baking",
+  "shape_id": "pie",
+  "dictionary_id": "2027-01-23-pies-baking",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-23",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "#######*#######",
+    "####M*E****####",
+    "###DOUGH****###",
+    "###*L*G**B**###",
+    "##**A**B*U***##",
+    "##**SCORING**##",
+    "##C*S**E*****##",
+    "#*RYE**A*COB**#",
+    "##U*SEED***A*##",
+    "##S****F*S*K*##",
+    "##T**ENRICHED##",
+    "###*B**U*O*R###",
+    "###*A**I*N*Y###",
+    "####PRETZEL####",
+    "#######*#######",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "MEDOUGHLGBABUSCORINGCSERYEACOBUSEEDASFSKTENRICHEDBUORAINYPRETZEL",
+  "solution_hash": "681a5f5172d23c7e406bdea33756cddfbed1d579d6d26b0ac04c1e262cda4da6",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 9,
+      "letter": "B"
+    },
+    {
+      "row": 9,
+      "col": 2,
+      "letter": "C"
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "letter": "S"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        }
+      ],
+      "answer": "DOUGH"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ],
+      "answer": "SCORING"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ],
+      "answer": "RYE"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ],
+      "answer": "COB"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ],
+      "answer": "SEED"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 12
+        }
+      ],
+      "answer": "ENRICHED"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 16,
+          "col": 4
+        },
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 10
+        }
+      ],
+      "answer": "PRETZEL"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ],
+      "answer": "MOLASSES"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ],
+      "answer": "EGG"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ],
+      "answer": "BUN"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        }
+      ],
+      "answer": "BREADFRUIT"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 11,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 2
+        }
+      ],
+      "answer": "CRUST"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 11
+        },
+        {
+          "row": 15,
+          "col": 11
+        }
+      ],
+      "answer": "BAKERY"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 9
+        }
+      ],
+      "answer": "SCONE"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 16,
+          "col": 4
+        }
+      ],
+      "answer": "BAP"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 4,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 5,
+      "col": 6,
+      "letter": "G"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 8,
+      "col": 4,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 7,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D3",
+      "row": 8,
+      "col": 9,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D5",
+      "row": 10,
+      "col": 2,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D1",
+      "row": 10,
+      "col": 4,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D6",
+      "row": 10,
+      "col": 11,
+      "letter": "B"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D1",
+      "row": 11,
+      "col": 4,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D4",
+      "row": 11,
+      "col": 7,
+      "letter": "D"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D4",
+      "row": 13,
+      "col": 7,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D7",
+      "row": 13,
+      "col": 9,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 13,
+      "col": 11,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D8",
+      "row": 16,
+      "col": 4,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D4",
+      "row": 16,
+      "col": 7,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 16,
+      "col": 9,
+      "letter": "E"
+    }
+  ],
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 7,
+    "down_slots": 8,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.13,
+    "leaf_slots": 5,
+    "max_slot_crossings": 4,
+    "seed_letters": 3
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

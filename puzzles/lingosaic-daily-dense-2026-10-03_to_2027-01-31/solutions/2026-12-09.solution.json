@@ -1,0 +1,591 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-12-09",
+  "date": "2026-12-09",
+  "theme": "Honesty, law & public service",
+  "shape_id": "scales-of-justice",
+  "dictionary_id": "2026-12-09-honesty-law-public-service",
+  "generator_seed": "dense-crossword-2.0.0:2026-12-09",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "######P**######",
+    "######E*J######",
+    "######A*U######",
+    "####*#C*R#J####",
+    "###SAFETY*U*###",
+    "###****R**S*###",
+    "##SOLIDARITY*##",
+    "##*#E**N**I#*##",
+    "#*##G#*S*#C##W#",
+    "****A#*P*#ENVOY",
+    "LOCAL#LAW#***R*",
+    "#*O*##*R*#***L#",
+    "#*U*###E*##AID#",
+    "##R####N*###*##",
+    "##T####T*###*##",
+    "#######**######",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "PEJAUCRJSAFETYURSSOLIDARITYENIGSCWAPENVOYLOCALLAWRORLUEAIDRNTT",
+  "solution_hash": "f2f31adfeba2349695ddc6d99bef25b7f997b2b1f1b592c2f043aa6a3165dd09",
+  "seed_letters": [
+    {
+      "row": 4,
+      "col": 6,
+      "letter": "A"
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "letter": "C"
+    },
+    {
+      "row": 5,
+      "col": 8,
+      "letter": "R"
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "letter": "C"
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "letter": "C"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "SAFETY"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 11
+        }
+      ],
+      "answer": "SOLIDARITY"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 12
+        },
+        {
+          "row": 11,
+          "col": 13
+        },
+        {
+          "row": 11,
+          "col": 14
+        }
+      ],
+      "answer": "ENVOY"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 12,
+          "col": 0
+        },
+        {
+          "row": 12,
+          "col": 1
+        },
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ],
+      "answer": "LOCAL"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 8
+        }
+      ],
+      "answer": "LAW"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 12
+        },
+        {
+          "row": 14,
+          "col": 13
+        }
+      ],
+      "answer": "AID"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 12,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 2
+        },
+        {
+          "row": 15,
+          "col": 2
+        },
+        {
+          "row": 16,
+          "col": 2
+        }
+      ],
+      "answer": "COURT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ],
+      "answer": "LEGAL"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ],
+      "answer": "PEACE"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 11,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        }
+      ],
+      "answer": "TRANSPARENT"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "JURY"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 11,
+          "col": 10
+        }
+      ],
+      "answer": "JUSTICE"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 10,
+          "col": 13
+        },
+        {
+          "row": 11,
+          "col": 13
+        },
+        {
+          "row": 12,
+          "col": 13
+        },
+        {
+          "row": 13,
+          "col": 13
+        },
+        {
+          "row": 14,
+          "col": 13
+        }
+      ],
+      "answer": "WORLD"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 6,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 3,
+      "slot_b": "D3",
+      "slot_b_index": 4,
+      "letter": "E"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "T"
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 5,
+      "slot_b": "D5",
+      "slot_b_index": 3,
+      "letter": "Y"
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "slot_a": "A2",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 0,
+      "letter": "L"
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "slot_a": "A2",
+      "slot_a_index": 5,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "A"
+    },
+    {
+      "row": 8,
+      "col": 10,
+      "slot_a": "A2",
+      "slot_a_index": 8,
+      "slot_b": "D6",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D6",
+      "slot_b_index": 6,
+      "letter": "E"
+    },
+    {
+      "row": 11,
+      "col": 13,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 1,
+      "letter": "O"
+    },
+    {
+      "row": 12,
+      "col": 2,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "slot_a": "A4",
+      "slot_a_index": 4,
+      "slot_b": "D2",
+      "slot_b_index": 4,
+      "letter": "L"
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 6,
+      "letter": "A"
+    },
+    {
+      "row": 14,
+      "col": 13,
+      "slot_a": "A6",
+      "slot_a_index": 2,
+      "slot_b": "D7",
+      "slot_b_index": 4,
+      "letter": "D"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 13,
+    "across_slots": 6,
+    "down_slots": 7,
+    "crossings": 12,
+    "average_crossings_per_slot": 1.85,
+    "leaf_slots": 5,
+    "max_slot_crossings": 3,
+    "seed_letters": 5
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "schema_version": 1,
+  "pipeline_version": "daily-reference-1.1.0",
+  "dictionary_id": "2027-01-20-polar-wildlife",
+  "theme": {
+    "id": "polar-wildlife",
+    "name": "Polar wildlife",
+    "definition": "Single-word English entries directly associated with polar wildlife."
+  },
+  "status": "approved",
+  "word_count": 100,
+  "words": [
+    {
+      "word_id": "2027-01-20-w001",
+      "display": "Penguin",
+      "grid_entry": "PENGUIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w002",
+      "display": "Emperor",
+      "grid_entry": "EMPEROR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w003",
+      "display": "Gentoo",
+      "grid_entry": "GENTOO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w004",
+      "display": "Adelie",
+      "grid_entry": "ADELIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w005",
+      "display": "Chinstrap",
+      "grid_entry": "CHINSTRAP",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w006",
+      "display": "Rockhopper",
+      "grid_entry": "ROCKHOPPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w007",
+      "display": "Macaroni",
+      "grid_entry": "MACARONI",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w008",
+      "display": "King",
+      "grid_entry": "KING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w009",
+      "display": "Seal",
+      "grid_entry": "SEAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w010",
+      "display": "Walrus",
+      "grid_entry": "WALRUS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w011",
+      "display": "Orca",
+      "grid_entry": "ORCA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w012",
+      "display": "Whale",
+      "grid_entry": "WHALE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w013",
+      "display": "Narwhal",
+      "grid_entry": "NARWHAL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w014",
+      "display": "Beluga",
+      "grid_entry": "BELUGA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w015",
+      "display": "Reindeer",
+      "grid_entry": "REINDEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w016",
+      "display": "Caribou",
+      "grid_entry": "CARIBOU",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w017",
+      "display": "Muskox",
+      "grid_entry": "MUSKOX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w018",
+      "display": "Lemming",
+      "grid_entry": "LEMMING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w019",
+      "display": "Puffin",
+      "grid_entry": "PUFFIN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w020",
+      "display": "Tern",
+      "grid_entry": "TERN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w021",
+      "display": "Skua",
+      "grid_entry": "SKUA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w022",
+      "display": "Petrel",
+      "grid_entry": "PETREL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w023",
+      "display": "Albatross",
+      "grid_entry": "ALBATROSS",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w024",
+      "display": "Fulmar",
+      "grid_entry": "FULMAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w025",
+      "display": "Gull",
+      "grid_entry": "GULL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w026",
+      "display": "Krill",
+      "grid_entry": "KRILL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w027",
+      "display": "Fish",
+      "grid_entry": "FISH",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w028",
+      "display": "Squid",
+      "grid_entry": "SQUID",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w029",
+      "display": "Cod",
+      "grid_entry": "COD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w030",
+      "display": "Herring",
+      "grid_entry": "HERRING",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w031",
+      "display": "Ice",
+      "grid_entry": "ICE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w032",
+      "display": "Snow",
+      "grid_entry": "SNOW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w033",
+      "display": "Frost",
+      "grid_entry": "FROST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w034",
+      "display": "Glacier",
+      "grid_entry": "GLACIER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w035",
+      "display": "Iceberg",
+      "grid_entry": "ICEBERG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w036",
+      "display": "Sea",
+      "grid_entry": "SEA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w037",
+      "display": "Ocean",
+      "grid_entry": "OCEAN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w038",
+      "display": "Coast",
+      "grid_entry": "COAST",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w039",
+      "display": "Tundra",
+      "grid_entry": "TUNDRA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w040",
+      "display": "Arctic",
+      "grid_entry": "ARCTIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w041",
+      "display": "Antarctic",
+      "grid_entry": "ANTARCTIC",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w042",
+      "display": "Colony",
+      "grid_entry": "COLONY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w043",
+      "display": "Rookery",
+      "grid_entry": "ROOKERY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w044",
+      "display": "Chick",
+      "grid_entry": "CHICK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w045",
+      "display": "Egg",
+      "grid_entry": "EGG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w046",
+      "display": "Flipper",
+      "grid_entry": "FLIPPER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w047",
+      "display": "Feather",
+      "grid_entry": "FEATHER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w048",
+      "display": "Blubber",
+      "grid_entry": "BLUBBER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w049",
+      "display": "Fur",
+      "grid_entry": "FUR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w050",
+      "display": "Swim",
+      "grid_entry": "SWIM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w051",
+      "display": "Dive",
+      "grid_entry": "DIVE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w052",
+      "display": "Hunt",
+      "grid_entry": "HUNT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w053",
+      "display": "Migrate",
+      "grid_entry": "MIGRATE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w054",
+      "display": "Winter",
+      "grid_entry": "WINTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w055",
+      "display": "Cold",
+      "grid_entry": "COLD",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w056",
+      "display": "Freeze",
+      "grid_entry": "FREEZE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w057",
+      "display": "Shelf",
+      "grid_entry": "SHELF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w058",
+      "display": "Berg",
+      "grid_entry": "BERG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w059",
+      "display": "Crevasse",
+      "grid_entry": "CREVASSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w060",
+      "display": "Aurora",
+      "grid_entry": "AURORA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w061",
+      "display": "Wind",
+      "grid_entry": "WIND",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w062",
+      "display": "Storm",
+      "grid_entry": "STORM",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w063",
+      "display": "Bison",
+      "grid_entry": "BISON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w064",
+      "display": "Buffalo",
+      "grid_entry": "BUFFALO",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w065",
+      "display": "Elk",
+      "grid_entry": "ELK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w066",
+      "display": "Moose",
+      "grid_entry": "MOOSE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w067",
+      "display": "Coyote",
+      "grid_entry": "COYOTE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w068",
+      "display": "Eagle",
+      "grid_entry": "EAGLE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w069",
+      "display": "Beaver",
+      "grid_entry": "BEAVER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w070",
+      "display": "Otter",
+      "grid_entry": "OTTER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w071",
+      "display": "Prairie",
+      "grid_entry": "PRAIRIE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w072",
+      "display": "Grizzly",
+      "grid_entry": "GRIZZLY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w073",
+      "display": "Raccoon",
+      "grid_entry": "RACCOON",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w074",
+      "display": "Mustang",
+      "grid_entry": "MUSTANG",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w075",
+      "display": "Wolf",
+      "grid_entry": "WOLF",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w076",
+      "display": "Badger",
+      "grid_entry": "BADGER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w077",
+      "display": "Bobcat",
+      "grid_entry": "BOBCAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w078",
+      "display": "Deer",
+      "grid_entry": "DEER",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w079",
+      "display": "Pronghorn",
+      "grid_entry": "PRONGHORN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w080",
+      "display": "Cougar",
+      "grid_entry": "COUGAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w081",
+      "display": "Puma",
+      "grid_entry": "PUMA",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w082",
+      "display": "Lynx",
+      "grid_entry": "LYNX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w083",
+      "display": "Fox",
+      "grid_entry": "FOX",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w084",
+      "display": "Bear",
+      "grid_entry": "BEAR",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w085",
+      "display": "Skunk",
+      "grid_entry": "SKUNK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w086",
+      "display": "Chipmunk",
+      "grid_entry": "CHIPMUNK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w087",
+      "display": "Squirrel",
+      "grid_entry": "SQUIRREL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w088",
+      "display": "Porcupine",
+      "grid_entry": "PORCUPINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w089",
+      "display": "Wolverine",
+      "grid_entry": "WOLVERINE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w090",
+      "display": "Marmot",
+      "grid_entry": "MARMOT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w091",
+      "display": "Hare",
+      "grid_entry": "HARE",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w092",
+      "display": "Rabbit",
+      "grid_entry": "RABBIT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w093",
+      "display": "Muskrat",
+      "grid_entry": "MUSKRAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w094",
+      "display": "Marten",
+      "grid_entry": "MARTEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w095",
+      "display": "Mink",
+      "grid_entry": "MINK",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w096",
+      "display": "Weasel",
+      "grid_entry": "WEASEL",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w097",
+      "display": "Bat",
+      "grid_entry": "BAT",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w098",
+      "display": "Turkey",
+      "grid_entry": "TURKEY",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w099",
+      "display": "Raven",
+      "grid_entry": "RAVEN",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    },
+    {
+      "word_id": "2027-01-20-w100",
+      "display": "Crow",
+      "grid_entry": "CROW",
+      "semantic_decision": "yes",
+      "spelling_status": "VALID"
+    }
+  ]
+}

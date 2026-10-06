@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-09",
+  "date": "2026-11-09",
+  "daily_number": 25,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-09",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "British puddings & desserts",
+    "occasion": "British Pudding Day"
+  },
+  "bonus": {
+    "title": "British Pudding Day",
+    "description": "British Pudding Day is a good excuse to revisit steamed puddings, crumbles, custards and other traditional desserts."
+  },
+  "shape": {
+    "id": "pudding-bowl",
+    "name": "Pudding bowl",
+    "grid_file": "../shapes/2026-11-09-pudding-bowl.grid.json",
+    "svg_file": "../shapes/2026-11-09-pudding-bowl.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-09-british-puddings-desserts",
+    "file": "../dictionaries/2026-11-09-british-puddings-desserts.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "####.##########",
+      "####.#####.####",
+      "###X.XXX.X.X###",
+      "###X.XXX.X.X###",
+      "###XAX.XEX.X###",
+      "####.......####",
+      "####.X.X.X.####",
+      "####XX.X.X.####",
+      "####XX.X.XX####",
+      "#####X.XXX#####",
+      "####XX.XXXX####",
+      "####XXXXXXX####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "A"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "E"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "458fd733c96acc92b0d014ba8c3e24815c8f5744f4b9fc7892adc1240503ea8d"
+  }
+}

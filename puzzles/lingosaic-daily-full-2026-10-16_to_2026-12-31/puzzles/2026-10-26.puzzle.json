@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-26",
+  "date": "2026-10-26",
+  "daily_number": 11,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-10-26",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Pumpkins & squashes",
+    "occasion": "National Pumpkin Day"
+  },
+  "bonus": {
+    "title": "National Pumpkin Day",
+    "description": "A seasonal celebration of pumpkins and other squashes, perfectly timed for late October."
+  },
+  "shape": {
+    "id": "pumpkin",
+    "name": "Pumpkin",
+    "grid_file": "../shapes/2026-10-26-pumpkin.grid.json",
+    "svg_file": "../shapes/2026-10-26-pumpkin.svg"
+  },
+  "dictionary": {
+    "id": "2026-10-26-pumpkins-squashes",
+    "file": "../dictionaries/2026-10-26-pumpkins-squashes.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "#######XX######",
+      "#######XX######",
+      "######XXX######",
+      "#####X.XXX#####",
+      "####XX.X.X.####",
+      "###XFXAXTX.X###",
+      "##XX...T...XX##",
+      "##XX.X.X.XEXX##",
+      "##XX.X.XXXXXX##",
+      "###X.XXXXXXX###",
+      "####XXXXXXX####",
+      "#####XXXXX#####",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "F"
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "A"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "T"
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "letter": "T"
+      },
+      {
+        "row": 8,
+        "col": 10,
+        "letter": "E"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "f4fc6ab74d37841dbecb0d5089382765e33bca881be86c5ad62a4ac8cd22a028"
+  }
+}

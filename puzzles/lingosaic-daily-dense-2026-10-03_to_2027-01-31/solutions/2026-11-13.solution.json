@@ -1,0 +1,674 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-13",
+  "date": "2026-11-13",
+  "theme": "Kindness & helping others",
+  "shape_id": "heart",
+  "dictionary_id": "2026-11-13-kindness-helping-others",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-13",
+  "solution_grid": [
+    "###############",
+    "######C########",
+    "#####LAW#######",
+    "####**R*#**####",
+    "###***E*****###",
+    "##**SERVICE**##",
+    "#******O******#",
+    "#**V*H*LEGAL**#",
+    "#*GIVE*U*E*I**#",
+    "##*S*L*N*N*S*##",
+    "##*I*PATIENT*##",
+    "###T*E*E*R*E###",
+    "###**R*E*O*N###",
+    "###***TRUST####",
+    "####*A***I#####",
+    "#####I*A*T#####",
+    "#####DAILY#####",
+    "######*D*######",
+    "#######E#######",
+    "###############"
+  ],
+  "canonical_solution": "CLAWRESERVICEOVHLEGALGIVEUEISLNNSIPATIENTTEEREREONTRUSTAIIATDAILYDE",
+  "solution_hash": "d1c4cea0d9659632249fe3874156b234e6b9e9095eccce4071c716c3fcae8f7b",
+  "seed_letters": [
+    {
+      "row": 8,
+      "col": 4,
+      "letter": "V"
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "letter": "L"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 2,
+          "col": 5
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 7
+        }
+      ],
+      "answer": "LAW"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        }
+      ],
+      "answer": "SERVICE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        }
+      ],
+      "answer": "LEGAL"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ],
+      "answer": "GIVE"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 8
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ],
+      "answer": "PATIENT"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 10
+        }
+      ],
+      "answer": "TRUST"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        }
+      ],
+      "answer": "DAILY"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        }
+      ],
+      "answer": "VISIT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        }
+      ],
+      "answer": "HELPER"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 5
+        }
+      ],
+      "answer": "AID"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 1,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        }
+      ],
+      "answer": "CARER"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        }
+      ],
+      "answer": "VOLUNTEER"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 17,
+          "col": 7
+        },
+        {
+          "row": 18,
+          "col": 7
+        }
+      ],
+      "answer": "AIDE"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 9
+        }
+      ],
+      "answer": "GENEROSITY"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 8,
+          "col": 11
+        },
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        }
+      ],
+      "answer": "LISTEN"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 2,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "slot_a": "A2",
+      "slot_a_index": 2,
+      "slot_b": "D4",
+      "slot_b_index": 4,
+      "letter": "R"
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "slot_a": "A2",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 0,
+      "letter": "V"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "L"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A3",
+      "slot_a_index": 2,
+      "slot_b": "D7",
+      "slot_b_index": 0,
+      "letter": "G"
+    },
+    {
+      "row": 7,
+      "col": 11,
+      "slot_a": "A3",
+      "slot_a_index": 4,
+      "slot_b": "D8",
+      "slot_b_index": 0,
+      "letter": "L"
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "slot_a": "A4",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 1,
+      "letter": "I"
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "slot_a": "A4",
+      "slot_a_index": 3,
+      "slot_b": "D2",
+      "slot_b_index": 1,
+      "letter": "E"
+    },
+    {
+      "row": 10,
+      "col": 5,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "P"
+    },
+    {
+      "row": 10,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 2,
+      "slot_b": "D5",
+      "slot_b_index": 5,
+      "letter": "T"
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "slot_a": "A5",
+      "slot_a_index": 4,
+      "slot_b": "D7",
+      "slot_b_index": 3,
+      "letter": "E"
+    },
+    {
+      "row": 10,
+      "col": 11,
+      "slot_a": "A5",
+      "slot_a_index": 6,
+      "slot_b": "D8",
+      "slot_b_index": 3,
+      "letter": "T"
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "slot_a": "A6",
+      "slot_a_index": 1,
+      "slot_b": "D5",
+      "slot_b_index": 8,
+      "letter": "R"
+    },
+    {
+      "row": 13,
+      "col": 9,
+      "slot_a": "A6",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 6,
+      "letter": "S"
+    },
+    {
+      "row": 16,
+      "col": 5,
+      "slot_a": "A7",
+      "slot_a_index": 0,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "D"
+    },
+    {
+      "row": 16,
+      "col": 7,
+      "slot_a": "A7",
+      "slot_a_index": 2,
+      "slot_b": "D6",
+      "slot_b_index": 1,
+      "letter": "I"
+    },
+    {
+      "row": 16,
+      "col": 9,
+      "slot_a": "A7",
+      "slot_a_index": 4,
+      "slot_b": "D7",
+      "slot_b_index": 9,
+      "letter": "Y"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 7,
+    "down_slots": 8,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.27,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 2
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    1
+  ]
+}

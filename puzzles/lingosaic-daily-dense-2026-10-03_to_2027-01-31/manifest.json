@@ -1,0 +1,4372 @@
+{
+  "schema_version": 2,
+  "period": {
+    "from": "2026-10-03",
+    "to": "2027-01-31",
+    "count": 121
+  },
+  "generator_family": "dense-crossword",
+  "notes": [
+    "Daily numbers are sequential from 2026-10-03.",
+    "Public puzzle files contain no plaintext answer fields.",
+    "Solutions and validation files are private QA artefacts and must not be served publicly."
+  ],
+  "days": [
+    {
+      "date": "2026-10-03",
+      "theme": {
+        "name": "Cards & stationery",
+        "occasion": "World Card Making Day"
+      },
+      "bonus": {
+        "title": "World Card Making Day",
+        "description": "World Card Making Day falls on the first Saturday of October and celebrates handmade cards, paper craft and personal messages."
+      },
+      "shape": {
+        "id": "greeting-card",
+        "name": "Greeting card",
+        "grid_file": "../shapes/2026-10-03-greeting-card.grid.json",
+        "svg_file": "../shapes/2026-10-03-greeting-card.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-03-cards-stationery",
+        "file": "../dictionaries/2026-10-03-cards-stationery.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 6,
+        "down_slots": 10,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-10-03.puzzle.json",
+      "solution_file": "solutions/2026-10-03.solution.json",
+      "validation_file": "validation/2026-10-03.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-04",
+      "theme": {
+        "name": "Animals & wildlife",
+        "occasion": "World Animal Day"
+      },
+      "bonus": {
+        "title": "World Animal Day",
+        "description": "World Animal Day is observed on 4 October and celebrates animals while drawing attention to their welfare and conservation."
+      },
+      "shape": {
+        "id": "animal-head",
+        "name": "Animal head",
+        "grid_file": "../shapes/2026-10-04-animal-head.grid.json",
+        "svg_file": "../shapes/2026-10-04-animal-head.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-04-animals-wildlife",
+        "file": "../dictionaries/2026-10-04-animals-wildlife.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-10-04.puzzle.json",
+      "solution_file": "solutions/2026-10-04.solution.json",
+      "validation_file": "validation/2026-10-04.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-05",
+      "theme": {
+        "name": "School & teaching",
+        "occasion": "World Teachers' Day"
+      },
+      "bonus": {
+        "title": "World Teachers' Day",
+        "description": "World Teachers' Day is held each year on 5 October to celebrate teachers and their contribution to education."
+      },
+      "shape": {
+        "id": "open-book",
+        "name": "Open book",
+        "grid_file": "../shapes/2026-10-05-open-book.grid.json",
+        "svg_file": "../shapes/2026-10-05-open-book.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-05-school-teaching",
+        "file": "../dictionaries/2026-10-05-school-teaching.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 3,
+        "max_slot_crossings": 5,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-10-05.puzzle.json",
+      "solution_file": "solutions/2026-10-05.solution.json",
+      "validation_file": "validation/2026-10-05.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-06",
+      "theme": {
+        "name": "Pasta & noodles",
+        "occasion": "National Noodle Day"
+      },
+      "bonus": {
+        "title": "National Noodle Day",
+        "description": "A light-hearted food observance in the United States celebrating noodles in their many shapes, cuisines and sauces."
+      },
+      "shape": {
+        "id": "noodle-bowl",
+        "name": "Noodle bowl",
+        "grid_file": "../shapes/2026-10-06-noodle-bowl.grid.json",
+        "svg_file": "../shapes/2026-10-06-noodle-bowl.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-06-pasta-noodles",
+        "file": "../dictionaries/2026-10-06-pasta-noodles.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 20,
+        "average_crossings_per_slot": 2.5,
+        "leaf_slots": 4,
+        "max_slot_crossings": 5,
+        "seed_letters": 1
+      },
+      "puzzle_file": "puzzles/2026-10-06.puzzle.json",
+      "solution_file": "solutions/2026-10-06.solution.json",
+      "validation_file": "validation/2026-10-06.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-07",
+      "theme": {
+        "name": "Textiles & cotton",
+        "occasion": "World Cotton Day"
+      },
+      "bonus": {
+        "title": "World Cotton Day",
+        "description": "World Cotton Day highlights cotton as an important natural fibre and the livelihoods and industries connected with it."
+      },
+      "shape": {
+        "id": "cotton-spool",
+        "name": "Cotton spool",
+        "grid_file": "../shapes/2026-10-07-cotton-spool.grid.json",
+        "svg_file": "../shapes/2026-10-07-cotton-spool.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-07-textiles-cotton",
+        "file": "../dictionaries/2026-10-07-textiles-cotton.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 9,
+        "down_slots": 7,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-10-07.puzzle.json",
+      "solution_file": "solutions/2026-10-07.solution.json",
+      "validation_file": "validation/2026-10-07.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-08",
+      "theme": {
+        "name": "Ocean life",
+        "occasion": "World Octopus Day"
+      },
+      "bonus": {
+        "title": "World Octopus Day",
+        "description": "World Octopus Day is an informal celebration of octopuses and the remarkable diversity of marine life."
+      },
+      "shape": {
+        "id": "octopus",
+        "name": "Octopus",
+        "grid_file": "../shapes/2026-10-08-octopus.grid.json",
+        "svg_file": "../shapes/2026-10-08-octopus.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-08-ocean-life",
+        "file": "../dictionaries/2026-10-08-ocean-life.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2026-10-08.puzzle.json",
+      "solution_file": "solutions/2026-10-08.solution.json",
+      "validation_file": "validation/2026-10-08.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-09",
+      "theme": {
+        "name": "Mail & postage",
+        "occasion": "World Post Day"
+      },
+      "bonus": {
+        "title": "World Post Day",
+        "description": "World Post Day is celebrated on 9 October, marking the anniversary of the Universal Postal Union's creation in 1874."
+      },
+      "shape": {
+        "id": "envelope",
+        "name": "Envelope",
+        "grid_file": "../shapes/2026-10-09-envelope.grid.json",
+        "svg_file": "../shapes/2026-10-09-envelope.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-09-mail-postage",
+        "file": "../dictionaries/2026-10-09-mail-postage.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 9,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-10-09.puzzle.json",
+      "solution_file": "solutions/2026-10-09.solution.json",
+      "validation_file": "validation/2026-10-09.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-10",
+      "theme": {
+        "name": "Calm & wellbeing",
+        "occasion": "World Mental Health Day"
+      },
+      "bonus": {
+        "title": "World Mental Health Day",
+        "description": "World Mental Health Day is observed on 10 October to raise awareness of mental health and support better wellbeing worldwide."
+      },
+      "shape": {
+        "id": "heart",
+        "name": "Heart",
+        "grid_file": "../shapes/2026-10-10-heart.grid.json",
+        "svg_file": "../shapes/2026-10-10-heart.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-10-calm-wellbeing",
+        "file": "../dictionaries/2026-10-10-calm-wellbeing.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2026-10-10.puzzle.json",
+      "solution_file": "solutions/2026-10-10.solution.json",
+      "validation_file": "validation/2026-10-10.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-11",
+      "theme": {
+        "name": "Childhood & learning",
+        "occasion": "International Day of the Girl"
+      },
+      "bonus": {
+        "title": "International Day of the Girl",
+        "description": "The International Day of the Girl is observed on 11 October and focuses attention on girls' rights, opportunities and education."
+      },
+      "shape": {
+        "id": "kite",
+        "name": "Kite",
+        "grid_file": "../shapes/2026-10-11-kite.grid.json",
+        "svg_file": "../shapes/2026-10-11-kite.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-11-childhood-learning",
+        "file": "../dictionaries/2026-10-11-childhood-learning.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 14,
+        "across_slots": 7,
+        "down_slots": 7,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.14,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 8
+      },
+      "puzzle_file": "puzzles/2026-10-11.puzzle.json",
+      "solution_file": "solutions/2026-10-11.solution.json",
+      "validation_file": "validation/2026-10-11.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-12",
+      "theme": {
+        "name": "Farming & harvest",
+        "occasion": "National Farmer's Day"
+      },
+      "bonus": {
+        "title": "National Farmer's Day",
+        "description": "National Farmer's Day in the United States is a seasonal occasion to recognise farmers, agriculture and the work behind the harvest."
+      },
+      "shape": {
+        "id": "barn",
+        "name": "Barn",
+        "grid_file": "../shapes/2026-10-12-barn.grid.json",
+        "svg_file": "../shapes/2026-10-12-barn.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-12-farming-harvest",
+        "file": "../dictionaries/2026-10-12-farming-harvest.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 4,
+        "max_slot_crossings": 3,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-10-12.puzzle.json",
+      "solution_file": "solutions/2026-10-12.solution.json",
+      "validation_file": "validation/2026-10-12.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-13",
+      "theme": {
+        "name": "Computing & inventions",
+        "occasion": "Ada Lovelace Day"
+      },
+      "bonus": {
+        "title": "Ada Lovelace Day",
+        "description": "Ada Lovelace Day in 2026 falls on 13 October and celebrates women in science, technology, engineering and mathematics."
+      },
+      "shape": {
+        "id": "microchip",
+        "name": "Microchip",
+        "grid_file": "../shapes/2026-10-13-microchip.grid.json",
+        "svg_file": "../shapes/2026-10-13-microchip.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-13-computing-inventions",
+        "file": "../dictionaries/2026-10-13-computing-inventions.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-10-13.puzzle.json",
+      "solution_file": "solutions/2026-10-13.solution.json",
+      "validation_file": "validation/2026-10-13.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-14",
+      "theme": {
+        "name": "Measurement & standards",
+        "occasion": "World Standards Day"
+      },
+      "bonus": {
+        "title": "World Standards Day",
+        "description": "World Standards Day on 14 October recognises the experts and organisations that develop international technical standards."
+      },
+      "shape": {
+        "id": "measuring-tape",
+        "name": "Measuring tape",
+        "grid_file": "../shapes/2026-10-14-measuring-tape.grid.json",
+        "svg_file": "../shapes/2026-10-14-measuring-tape.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-14-measurement-standards",
+        "file": "../dictionaries/2026-10-14-measurement-standards.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 9,
+        "down_slots": 7,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 5,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-10-14.puzzle.json",
+      "solution_file": "solutions/2026-10-14.solution.json",
+      "validation_file": "validation/2026-10-14.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-15",
+      "theme": {
+        "name": "Hygiene & clean water",
+        "occasion": "Global Handwashing Day"
+      },
+      "bonus": {
+        "title": "Global Handwashing Day",
+        "description": "Global Handwashing Day is observed on 15 October and promotes handwashing with soap as a simple way to improve health and hygiene."
+      },
+      "shape": {
+        "id": "water-droplet",
+        "name": "Water droplet",
+        "grid_file": "../shapes/2026-10-15-water-droplet.grid.json",
+        "svg_file": "../shapes/2026-10-15-water-droplet.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-15-hygiene-clean-water",
+        "file": "../dictionaries/2026-10-15-hygiene-clean-water.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.27,
+        "leaf_slots": 3,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-10-15.puzzle.json",
+      "solution_file": "solutions/2026-10-15.solution.json",
+      "validation_file": "validation/2026-10-15.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-16",
+      "theme": {
+        "name": "Bread & baking",
+        "occasion": "World Food Day / World Bread Day"
+      },
+      "bonus": {
+        "title": "World Food Day / World Bread Day",
+        "description": "World Food Day is observed on 16 October, and the date is also widely used to celebrate bread and baking."
+      },
+      "shape": {
+        "id": "bread-loaf",
+        "name": "Bread loaf",
+        "grid_file": "../shapes/2026-10-16-bread-loaf.grid.json",
+        "svg_file": "../shapes/2026-10-16-bread-loaf.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-16-bread-baking",
+        "file": "../dictionaries/2026-10-16-bread-baking.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 17,
+        "average_crossings_per_slot": 1.89,
+        "leaf_slots": 6,
+        "max_slot_crossings": 5,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2026-10-16.puzzle.json",
+      "solution_file": "solutions/2026-10-16.solution.json",
+      "validation_file": "validation/2026-10-16.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-17",
+      "theme": {
+        "name": "Pasta & Italian cooking",
+        "occasion": "National Pasta Day"
+      },
+      "bonus": {
+        "title": "National Pasta Day",
+        "description": "National Pasta Day is an informal US food observance celebrating pasta in its many shapes, sauces and regional traditions."
+      },
+      "shape": {
+        "id": "pasta-bowl",
+        "name": "Pasta bowl",
+        "grid_file": "../shapes/2026-10-17-pasta-bowl.grid.json",
+        "svg_file": "../shapes/2026-10-17-pasta-bowl.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-17-pasta-italian-cooking",
+        "file": "../dictionaries/2026-10-17-pasta-italian-cooking.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 13,
+        "across_slots": 6,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.46,
+        "leaf_slots": 4,
+        "max_slot_crossings": 5,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-10-17.puzzle.json",
+      "solution_file": "solutions/2026-10-17.solution.json",
+      "validation_file": "validation/2026-10-17.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-18",
+      "theme": {
+        "name": "African wildlife",
+        "occasion": "World Okapi Day"
+      },
+      "bonus": {
+        "title": "World Okapi Day",
+        "description": "World Okapi Day draws attention to the elusive okapi and to conservation of the forests and wildlife of the Democratic Republic of the Congo."
+      },
+      "shape": {
+        "id": "elephant-head",
+        "name": "Elephant head",
+        "grid_file": "../shapes/2026-10-18-elephant-head.grid.json",
+        "svg_file": "../shapes/2026-10-18-elephant-head.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-18-african-wildlife",
+        "file": "../dictionaries/2026-10-18-african-wildlife.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 20,
+        "average_crossings_per_slot": 2.22,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-10-18.puzzle.json",
+      "solution_file": "solutions/2026-10-18.solution.json",
+      "validation_file": "validation/2026-10-18.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-19",
+      "theme": {
+        "name": "Seafood & coastal cooking",
+        "occasion": "National Seafood Bisque Day"
+      },
+      "bonus": {
+        "title": "National Seafood Bisque Day",
+        "description": "National Seafood Bisque Day is an informal food observance and a natural hook for seafood, coastal ingredients and maritime cooking."
+      },
+      "shape": {
+        "id": "fish",
+        "name": "Fish",
+        "grid_file": "../shapes/2026-10-19-fish.grid.json",
+        "svg_file": "../shapes/2026-10-19-fish.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-19-seafood-coastal-cooking",
+        "file": "../dictionaries/2026-10-19-seafood-coastal-cooking.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 8,
+        "down_slots": 10,
+        "crossings": 20,
+        "average_crossings_per_slot": 2.22,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-10-19.puzzle.json",
+      "solution_file": "solutions/2026-10-19.solution.json",
+      "validation_file": "validation/2026-10-19.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-20",
+      "theme": {
+        "name": "Rainforest animals",
+        "occasion": "International Sloth Day"
+      },
+      "bonus": {
+        "title": "International Sloth Day",
+        "description": "International Sloth Day celebrates sloths and helps draw attention to the tropical forest habitats on which they depend."
+      },
+      "shape": {
+        "id": "sloth-face",
+        "name": "Sloth face",
+        "grid_file": "../shapes/2026-10-20-sloth-face.grid.json",
+        "svg_file": "../shapes/2026-10-20-sloth-face.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-20-rainforest-animals",
+        "file": "../dictionaries/2026-10-20-rainforest-animals.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 19,
+        "average_crossings_per_slot": 2.11,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-10-20.puzzle.json",
+      "solution_file": "solutions/2026-10-20.solution.json",
+      "validation_file": "validation/2026-10-20.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-21",
+      "theme": {
+        "name": "Apples & orchards",
+        "occasion": "Apple Day"
+      },
+      "bonus": {
+        "title": "Apple Day",
+        "description": "Apple Day began in the UK as a celebration of orchards, local apple varieties and the richness of traditional fruit growing."
+      },
+      "shape": {
+        "id": "apple",
+        "name": "Apple",
+        "grid_file": "../shapes/2026-10-21-apple.grid.json",
+        "svg_file": "../shapes/2026-10-21-apple.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-21-apples-orchards",
+        "file": "../dictionaries/2026-10-21-apples-orchards.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 10,
+        "down_slots": 8,
+        "crossings": 19,
+        "average_crossings_per_slot": 2.11,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2026-10-21.puzzle.json",
+      "solution_file": "solutions/2026-10-21.solution.json",
+      "validation_file": "validation/2026-10-21.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-22",
+      "theme": {
+        "name": "Nuts & seeds",
+        "occasion": "National Nut Day"
+      },
+      "bonus": {
+        "title": "National Nut Day",
+        "description": "National Nut Day is an informal observance that makes a useful seasonal hook for nuts, seeds, trees and foods made from them."
+      },
+      "shape": {
+        "id": "acorn",
+        "name": "Acorn",
+        "grid_file": "../shapes/2026-10-22-acorn.grid.json",
+        "svg_file": "../shapes/2026-10-22-acorn.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-22-nuts-seeds",
+        "file": "../dictionaries/2026-10-22-nuts-seeds.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 21,
+        "average_crossings_per_slot": 2.33,
+        "leaf_slots": 5,
+        "max_slot_crossings": 5,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-10-22.puzzle.json",
+      "solution_file": "solutions/2026-10-22.solution.json",
+      "validation_file": "validation/2026-10-22.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-23",
+      "theme": {
+        "name": "Big cats & snow leopards",
+        "occasion": "International Snow Leopard Day"
+      },
+      "bonus": {
+        "title": "International Snow Leopard Day",
+        "description": "International Snow Leopard Day highlights the conservation of snow leopards and the high-mountain habitats on which they depend."
+      },
+      "shape": {
+        "id": "snow-leopard-head",
+        "name": "Snow leopard head",
+        "grid_file": "../shapes/2026-10-23-snow-leopard-head.grid.json",
+        "svg_file": "../shapes/2026-10-23-snow-leopard-head.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-23-big-cats-snow-leopards",
+        "file": "../dictionaries/2026-10-23-big-cats-snow-leopards.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 17,
+        "across_slots": 9,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-10-23.puzzle.json",
+      "solution_file": "solutions/2026-10-23.solution.json",
+      "validation_file": "validation/2026-10-23.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-24",
+      "theme": {
+        "name": "Countries & diplomacy",
+        "occasion": "United Nations Day"
+      },
+      "bonus": {
+        "title": "United Nations Day",
+        "description": "United Nations Day marks the anniversary of the UN Charter coming into force on 24 October 1945."
+      },
+      "shape": {
+        "id": "globe",
+        "name": "Globe",
+        "grid_file": "../shapes/2026-10-24-globe.grid.json",
+        "svg_file": "../shapes/2026-10-24-globe.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-24-countries-diplomacy",
+        "file": "../dictionaries/2026-10-24-countries-diplomacy.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 20,
+        "average_crossings_per_slot": 2.5,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 0
+      },
+      "puzzle_file": "puzzles/2026-10-24.puzzle.json",
+      "solution_file": "solutions/2026-10-24.solution.json",
+      "validation_file": "validation/2026-10-24.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-25",
+      "theme": {
+        "name": "Clocks, time & daylight",
+        "occasion": "British Summer Time ends"
+      },
+      "bonus": {
+        "title": "British Summer Time ends",
+        "description": "In the UK, the clocks go back on 25 October in 2026, ending British Summer Time and returning to Greenwich Mean Time."
+      },
+      "shape": {
+        "id": "clock",
+        "name": "Clock",
+        "grid_file": "../shapes/2026-10-25-clock.grid.json",
+        "svg_file": "../shapes/2026-10-25-clock.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-25-clocks-time-daylight",
+        "file": "../dictionaries/2026-10-25-clocks-time-daylight.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 17,
+        "across_slots": 8,
+        "down_slots": 9,
+        "crossings": 19,
+        "average_crossings_per_slot": 2.24,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-10-25.puzzle.json",
+      "solution_file": "solutions/2026-10-25.solution.json",
+      "validation_file": "validation/2026-10-25.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-26",
+      "theme": {
+        "name": "Pumpkins & squashes",
+        "occasion": "National Pumpkin Day"
+      },
+      "bonus": {
+        "title": "National Pumpkin Day",
+        "description": "A seasonal celebration of pumpkins and other squashes, perfectly timed for late October."
+      },
+      "shape": {
+        "id": "pumpkin",
+        "name": "Pumpkin",
+        "grid_file": "../shapes/2026-10-26-pumpkin.grid.json",
+        "svg_file": "../shapes/2026-10-26-pumpkin.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-26-pumpkins-squashes",
+        "file": "../dictionaries/2026-10-26-pumpkins-squashes.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 3,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-10-26.puzzle.json",
+      "solution_file": "solutions/2026-10-26.solution.json",
+      "validation_file": "validation/2026-10-26.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-27",
+      "theme": {
+        "name": "Film, sound & recording",
+        "occasion": "World Day for Audiovisual Heritage"
+      },
+      "bonus": {
+        "title": "World Day for Audiovisual Heritage",
+        "description": "UNESCO's audiovisual heritage day celebrates recorded sound and moving images and the effort required to preserve them."
+      },
+      "shape": {
+        "id": "film-reel",
+        "name": "Film reel",
+        "grid_file": "../shapes/2026-10-27-film-reel.grid.json",
+        "svg_file": "../shapes/2026-10-27-film-reel.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-27-film-sound-recording",
+        "file": "../dictionaries/2026-10-27-film-sound-recording.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 4,
+        "max_slot_crossings": 3,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-10-27.puzzle.json",
+      "solution_file": "solutions/2026-10-27.solution.json",
+      "validation_file": "validation/2026-10-27.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-28",
+      "theme": {
+        "name": "Chocolate & confectionery",
+        "occasion": "National Chocolate Day"
+      },
+      "bonus": {
+        "title": "National Chocolate Day",
+        "description": "A sweet observance devoted to chocolate, confectionery and the craft of making treats."
+      },
+      "shape": {
+        "id": "chocolate-bar",
+        "name": "Chocolate bar",
+        "grid_file": "../shapes/2026-10-28-chocolate-bar.grid.json",
+        "svg_file": "../shapes/2026-10-28-chocolate-bar.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-28-chocolate-confectionery",
+        "file": "../dictionaries/2026-10-28-chocolate-confectionery.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-10-28.puzzle.json",
+      "solution_file": "solutions/2026-10-28.solution.json",
+      "validation_file": "validation/2026-10-28.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-29",
+      "theme": {
+        "name": "Caregiving & helping professions",
+        "occasion": "International Day of Care and Support"
+      },
+      "bonus": {
+        "title": "International Day of Care and Support",
+        "description": "This UN observance recognises care work and the people who support children, families, older people and communities."
+      },
+      "shape": {
+        "id": "helping-hands",
+        "name": "Helping hands",
+        "grid_file": "../shapes/2026-10-29-helping-hands.grid.json",
+        "svg_file": "../shapes/2026-10-29-helping-hands.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-29-caregiving-helping-professions",
+        "file": "../dictionaries/2026-10-29-caregiving-helping-professions.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 14,
+        "across_slots": 6,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.29,
+        "leaf_slots": 1,
+        "max_slot_crossings": 5,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-10-29.puzzle.json",
+      "solution_file": "solutions/2026-10-29.solution.json",
+      "validation_file": "validation/2026-10-29.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-30",
+      "theme": {
+        "name": "Classic monsters & horror",
+        "occasion": "Frankenstein Friday"
+      },
+      "bonus": {
+        "title": "Frankenstein Friday",
+        "description": "Frankenstein Friday is a playful celebration of Mary Shelley's famous creation and the wider tradition of Gothic horror."
+      },
+      "shape": {
+        "id": "frankenstein-monster",
+        "name": "Frankenstein monster",
+        "grid_file": "../shapes/2026-10-30-frankenstein-monster.grid.json",
+        "svg_file": "../shapes/2026-10-30-frankenstein-monster.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-30-classic-monsters-horror",
+        "file": "../dictionaries/2026-10-30-classic-monsters-horror.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-10-30.puzzle.json",
+      "solution_file": "solutions/2026-10-30.solution.json",
+      "validation_file": "validation/2026-10-30.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-10-31",
+      "theme": {
+        "name": "Halloween",
+        "occasion": "Halloween"
+      },
+      "bonus": {
+        "title": "Halloween",
+        "description": "Halloween brings together costumes, lanterns, ghosts, trick-or-treating and centuries of autumn folklore."
+      },
+      "shape": {
+        "id": "jack-o-lantern",
+        "name": "Jack-o'-lantern",
+        "grid_file": "../shapes/2026-10-31-jack-o-lantern.grid.json",
+        "svg_file": "../shapes/2026-10-31-jack-o-lantern.svg"
+      },
+      "dictionary": {
+        "id": "2026-10-31-halloween",
+        "file": "../dictionaries/2026-10-31-halloween.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 14,
+        "across_slots": 7,
+        "down_slots": 7,
+        "crossings": 13,
+        "average_crossings_per_slot": 1.86,
+        "leaf_slots": 5,
+        "max_slot_crossings": 3,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-10-31.puzzle.json",
+      "solution_file": "solutions/2026-10-31.solution.json",
+      "validation_file": "validation/2026-10-31.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-01",
+      "theme": {
+        "name": "Saints, churches & pilgrimage",
+        "occasion": "All Saints' Day"
+      },
+      "bonus": {
+        "title": "All Saints' Day",
+        "description": "All Saints' Day is a Christian feast honouring saints and has long been associated with churches, pilgrimage and remembrance."
+      },
+      "shape": {
+        "id": "church",
+        "name": "Church",
+        "grid_file": "../shapes/2026-11-01-church.grid.json",
+        "svg_file": "../shapes/2026-11-01-church.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-01-saints-churches-pilgrimage",
+        "file": "../dictionaries/2026-11-01-saints-churches-pilgrimage.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-01.puzzle.json",
+      "solution_file": "solutions/2026-11-01.solution.json",
+      "validation_file": "validation/2026-11-01.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-02",
+      "theme": {
+        "name": "Remembrance & memorials",
+        "occasion": "All Souls' Day"
+      },
+      "bonus": {
+        "title": "All Souls' Day",
+        "description": "All Souls' Day is traditionally a day of remembrance for the dead, often marked with candles, prayers and visits to graves."
+      },
+      "shape": {
+        "id": "memorial-candle",
+        "name": "Memorial candle",
+        "grid_file": "../shapes/2026-11-02-memorial-candle.grid.json",
+        "svg_file": "../shapes/2026-11-02-memorial-candle.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-02-remembrance-memorials",
+        "file": "../dictionaries/2026-11-02-remembrance-memorials.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 9,
+        "down_slots": 7,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-11-02.puzzle.json",
+      "solution_file": "solutions/2026-11-02.solution.json",
+      "validation_file": "validation/2026-11-02.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-03",
+      "theme": {
+        "name": "Sandwiches & fillings",
+        "occasion": "National Sandwich Day"
+      },
+      "bonus": {
+        "title": "National Sandwich Day",
+        "description": "National Sandwich Day is an easy excuse to celebrate breads, fillings, condiments and classic sandwich combinations."
+      },
+      "shape": {
+        "id": "sandwich",
+        "name": "Sandwich",
+        "grid_file": "../shapes/2026-11-03-sandwich.grid.json",
+        "svg_file": "../shapes/2026-11-03-sandwich.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-03-sandwiches-fillings",
+        "file": "../dictionaries/2026-11-03-sandwiches-fillings.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-11-03.puzzle.json",
+      "solution_file": "solutions/2026-11-03.solution.json",
+      "validation_file": "validation/2026-11-03.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-04",
+      "theme": {
+        "name": "Sweets & candy",
+        "occasion": "National Candy Day"
+      },
+      "bonus": {
+        "title": "National Candy Day",
+        "description": "A playful celebration of sweets, candy, toffee, gummies and other confectionery."
+      },
+      "shape": {
+        "id": "wrapped-sweet",
+        "name": "Wrapped sweet",
+        "grid_file": "../shapes/2026-11-04-wrapped-sweet.grid.json",
+        "svg_file": "../shapes/2026-11-04-wrapped-sweet.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-04-sweets-candy",
+        "file": "../dictionaries/2026-11-04-sweets-candy.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-11-04.puzzle.json",
+      "solution_file": "solutions/2026-11-04.solution.json",
+      "validation_file": "validation/2026-11-04.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-05",
+      "theme": {
+        "name": "Fireworks & bonfires",
+        "occasion": "Bonfire Night"
+      },
+      "bonus": {
+        "title": "Bonfire Night",
+        "description": "Bonfire Night in Britain commemorates the failure of the Gunpowder Plot of 1605 and is marked with fireworks and bonfires."
+      },
+      "shape": {
+        "id": "rocket-firework",
+        "name": "Rocket firework",
+        "grid_file": "../shapes/2026-11-05-rocket-firework.grid.json",
+        "svg_file": "../shapes/2026-11-05-rocket-firework.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-05-fireworks-bonfires",
+        "file": "../dictionaries/2026-11-05-fireworks-bonfires.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-05.puzzle.json",
+      "solution_file": "solutions/2026-11-05.solution.json",
+      "validation_file": "validation/2026-11-05.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-06",
+      "theme": {
+        "name": "Saxophone & jazz",
+        "occasion": "Saxophone Day"
+      },
+      "bonus": {
+        "title": "Saxophone Day",
+        "description": "Saxophone Day celebrates the instrument and its enormous role in jazz, big bands and popular music."
+      },
+      "shape": {
+        "id": "saxophone",
+        "name": "Saxophone",
+        "grid_file": "../shapes/2026-11-06-saxophone.grid.json",
+        "svg_file": "../shapes/2026-11-06-saxophone.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-06-saxophone-jazz",
+        "file": "../dictionaries/2026-11-06-saxophone-jazz.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-11-06.puzzle.json",
+      "solution_file": "solutions/2026-11-06.solution.json",
+      "validation_file": "validation/2026-11-06.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-07",
+      "theme": {
+        "name": "Bison & North American wildlife",
+        "occasion": "National Bison Day"
+      },
+      "bonus": {
+        "title": "National Bison Day",
+        "description": "National Bison Day celebrates an iconic North American animal and the grassland ecosystems it inhabits."
+      },
+      "shape": {
+        "id": "bison",
+        "name": "Bison",
+        "grid_file": "../shapes/2026-11-07-bison.grid.json",
+        "svg_file": "../shapes/2026-11-07-bison.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-07-bison-north-american-wildlife",
+        "file": "../dictionaries/2026-11-07-bison-north-american-wildlife.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.27,
+        "leaf_slots": 4,
+        "max_slot_crossings": 5,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-07.puzzle.json",
+      "solution_file": "solutions/2026-11-07.solution.json",
+      "validation_file": "validation/2026-11-07.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-08",
+      "theme": {
+        "name": "STEM & inventions",
+        "occasion": "National STEM Day"
+      },
+      "bonus": {
+        "title": "National STEM Day",
+        "description": "National STEM Day encourages curiosity about science, technology, engineering and mathematics."
+      },
+      "shape": {
+        "id": "light-bulb",
+        "name": "Light bulb",
+        "grid_file": "../shapes/2026-11-08-light-bulb.grid.json",
+        "svg_file": "../shapes/2026-11-08-light-bulb.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-08-stem-inventions",
+        "file": "../dictionaries/2026-11-08-stem-inventions.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 13,
+        "across_slots": 7,
+        "down_slots": 6,
+        "crossings": 13,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-11-08.puzzle.json",
+      "solution_file": "solutions/2026-11-08.solution.json",
+      "validation_file": "validation/2026-11-08.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-09",
+      "theme": {
+        "name": "British puddings & desserts",
+        "occasion": "British Pudding Day"
+      },
+      "bonus": {
+        "title": "British Pudding Day",
+        "description": "British Pudding Day is a good excuse to revisit steamed puddings, crumbles, custards and other traditional desserts."
+      },
+      "shape": {
+        "id": "pudding-bowl",
+        "name": "Pudding bowl",
+        "grid_file": "../shapes/2026-11-09-pudding-bowl.grid.json",
+        "svg_file": "../shapes/2026-11-09-pudding-bowl.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-09-british-puddings-desserts",
+        "file": "../dictionaries/2026-11-09-british-puddings-desserts.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 10,
+        "down_slots": 6,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 6,
+        "max_slot_crossings": 5,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-09.puzzle.json",
+      "solution_file": "solutions/2026-11-09.solution.json",
+      "validation_file": "validation/2026-11-09.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-10",
+      "theme": {
+        "name": "Science & discovery",
+        "occasion": "World Science Day for Peace and Development"
+      },
+      "bonus": {
+        "title": "World Science Day for Peace and Development",
+        "description": "UNESCO's World Science Day highlights the role of science in society and in solving shared global problems."
+      },
+      "shape": {
+        "id": "microscope",
+        "name": "Microscope",
+        "grid_file": "../shapes/2026-11-10-microscope.grid.json",
+        "svg_file": "../shapes/2026-11-10-microscope.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-10-science-discovery",
+        "file": "../dictionaries/2026-11-10-science-discovery.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 13,
+        "across_slots": 6,
+        "down_slots": 7,
+        "crossings": 14,
+        "average_crossings_per_slot": 2.15,
+        "leaf_slots": 2,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-10.puzzle.json",
+      "solution_file": "solutions/2026-11-10.solution.json",
+      "validation_file": "validation/2026-11-10.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-11",
+      "theme": {
+        "name": "Remembrance & service",
+        "occasion": "Armistice Day / Veterans Day"
+      },
+      "bonus": {
+        "title": "Armistice Day / Veterans Day",
+        "description": "11 November marks Armistice Day in Britain and Veterans Day in the United States, both centred on remembrance and service."
+      },
+      "shape": {
+        "id": "poppy",
+        "name": "Poppy",
+        "grid_file": "../shapes/2026-11-11-poppy.grid.json",
+        "svg_file": "../shapes/2026-11-11-poppy.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-11-remembrance-service",
+        "file": "../dictionaries/2026-11-11-remembrance-service.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 12,
+        "across_slots": 6,
+        "down_slots": 6,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.67,
+        "leaf_slots": 3,
+        "max_slot_crossings": 5,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-11.puzzle.json",
+      "solution_file": "solutions/2026-11-11.solution.json",
+      "validation_file": "validation/2026-11-11.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-12",
+      "theme": {
+        "name": "Lungs & breathing",
+        "occasion": "World Pneumonia Day"
+      },
+      "bonus": {
+        "title": "World Pneumonia Day",
+        "description": "World Pneumonia Day raises awareness of pneumonia and the importance of healthy lungs, prevention and treatment."
+      },
+      "shape": {
+        "id": "lungs",
+        "name": "Lungs",
+        "grid_file": "../shapes/2026-11-12-lungs.grid.json",
+        "svg_file": "../shapes/2026-11-12-lungs.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-12-lungs-breathing",
+        "file": "../dictionaries/2026-11-12-lungs-breathing.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 14,
+        "across_slots": 7,
+        "down_slots": 7,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.14,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-11-12.puzzle.json",
+      "solution_file": "solutions/2026-11-12.solution.json",
+      "validation_file": "validation/2026-11-12.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-13",
+      "theme": {
+        "name": "Kindness & helping others",
+        "occasion": "World Kindness Day"
+      },
+      "bonus": {
+        "title": "World Kindness Day",
+        "description": "World Kindness Day promotes considerate actions, generosity and practical ways of helping other people."
+      },
+      "shape": {
+        "id": "heart",
+        "name": "Heart",
+        "grid_file": "../shapes/2026-11-13-heart.grid.json",
+        "svg_file": "../shapes/2026-11-13-heart.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-13-kindness-helping-others",
+        "file": "../dictionaries/2026-11-13-kindness-helping-others.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.27,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-11-13.puzzle.json",
+      "solution_file": "solutions/2026-11-13.solution.json",
+      "validation_file": "validation/2026-11-13.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-14",
+      "theme": {
+        "name": "Pickles & preserves",
+        "occasion": "National Pickle Day"
+      },
+      "bonus": {
+        "title": "National Pickle Day",
+        "description": "National Pickle Day celebrates pickled vegetables, brines, preserves and the many flavours created by fermentation."
+      },
+      "shape": {
+        "id": "pickle-jar",
+        "name": "Pickle jar",
+        "grid_file": "../shapes/2026-11-14-pickle-jar.grid.json",
+        "svg_file": "../shapes/2026-11-14-pickle-jar.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-14-pickles-preserves",
+        "file": "../dictionaries/2026-11-14-pickles-preserves.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 8,
+        "down_slots": 10,
+        "crossings": 19,
+        "average_crossings_per_slot": 2.11,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-14.puzzle.json",
+      "solution_file": "solutions/2026-11-14.solution.json",
+      "validation_file": "validation/2026-11-14.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-15",
+      "theme": {
+        "name": "Recycling & reuse",
+        "occasion": "America Recycles Day"
+      },
+      "bonus": {
+        "title": "America Recycles Day",
+        "description": "America Recycles Day encourages recycling, reuse and thinking about the life cycle of everyday materials."
+      },
+      "shape": {
+        "id": "recycling-symbol",
+        "name": "Recycling symbol",
+        "grid_file": "../shapes/2026-11-15-recycling-symbol.grid.json",
+        "svg_file": "../shapes/2026-11-15-recycling-symbol.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-15-recycling-reuse",
+        "file": "../dictionaries/2026-11-15-recycling-reuse.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-11-15.puzzle.json",
+      "solution_file": "solutions/2026-11-15.solution.json",
+      "validation_file": "validation/2026-11-15.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-16",
+      "theme": {
+        "name": "World cultures & tolerance",
+        "occasion": "International Day for Tolerance"
+      },
+      "bonus": {
+        "title": "International Day for Tolerance",
+        "description": "The UN's International Day for Tolerance promotes respect, dialogue and understanding between people and cultures."
+      },
+      "shape": {
+        "id": "dove",
+        "name": "Dove",
+        "grid_file": "../shapes/2026-11-16-dove.grid.json",
+        "svg_file": "../shapes/2026-11-16-dove.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-16-world-cultures-tolerance",
+        "file": "../dictionaries/2026-11-16-world-cultures-tolerance.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-11-16.puzzle.json",
+      "solution_file": "solutions/2026-11-16.solution.json",
+      "validation_file": "validation/2026-11-16.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-17",
+      "theme": {
+        "name": "Students & university life",
+        "occasion": "International Students' Day"
+      },
+      "bonus": {
+        "title": "International Students' Day",
+        "description": "International Students' Day is associated with students, universities, learning and student communities around the world."
+      },
+      "shape": {
+        "id": "graduation-cap",
+        "name": "Graduation cap",
+        "grid_file": "../shapes/2026-11-17-graduation-cap.grid.json",
+        "svg_file": "../shapes/2026-11-17-graduation-cap.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-17-students-university-life",
+        "file": "../dictionaries/2026-11-17-students-university-life.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 9,
+        "down_slots": 7,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 5,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-17.puzzle.json",
+      "solution_file": "solutions/2026-11-17.solution.json",
+      "validation_file": "validation/2026-11-17.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-18",
+      "theme": {
+        "name": "Microbes, antibiotics & medicine",
+        "occasion": "Antimicrobial Resistance Awareness Week"
+      },
+      "bonus": {
+        "title": "Antimicrobial Resistance Awareness Week",
+        "description": "This awareness week focuses on antimicrobial resistance and the careful use of antibiotics and other medicines."
+      },
+      "shape": {
+        "id": "bacterium",
+        "name": "Bacterium",
+        "grid_file": "../shapes/2026-11-18-bacterium.grid.json",
+        "svg_file": "../shapes/2026-11-18-bacterium.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-18-microbes-antibiotics-medicine",
+        "file": "../dictionaries/2026-11-18-microbes-antibiotics-medicine.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 20,
+        "average_crossings_per_slot": 2.5,
+        "leaf_slots": 3,
+        "max_slot_crossings": 4,
+        "seed_letters": 8
+      },
+      "puzzle_file": "puzzles/2026-11-18.puzzle.json",
+      "solution_file": "solutions/2026-11-18.solution.json",
+      "validation_file": "validation/2026-11-18.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-19",
+      "theme": {
+        "name": "Water, sanitation & plumbing",
+        "occasion": "World Toilet Day"
+      },
+      "bonus": {
+        "title": "World Toilet Day",
+        "description": "World Toilet Day draws attention to sanitation, safe water and the infrastructure needed to protect public health."
+      },
+      "shape": {
+        "id": "water-droplet",
+        "name": "Water droplet",
+        "grid_file": "../shapes/2026-11-19-water-droplet.grid.json",
+        "svg_file": "../shapes/2026-11-19-water-droplet.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-19-water-sanitation-plumbing",
+        "file": "../dictionaries/2026-11-19-water-sanitation-plumbing.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 13,
+        "across_slots": 6,
+        "down_slots": 7,
+        "crossings": 13,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 2,
+        "max_slot_crossings": 3,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-11-19.puzzle.json",
+      "solution_file": "solutions/2026-11-19.solution.json",
+      "validation_file": "validation/2026-11-19.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-20",
+      "theme": {
+        "name": "Childhood & play",
+        "occasion": "World Children's Day"
+      },
+      "bonus": {
+        "title": "World Children's Day",
+        "description": "World Children's Day celebrates children and draws attention to children's rights, wellbeing and opportunities."
+      },
+      "shape": {
+        "id": "teddy-bear",
+        "name": "Teddy bear",
+        "grid_file": "../shapes/2026-11-20-teddy-bear.grid.json",
+        "svg_file": "../shapes/2026-11-20-teddy-bear.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-20-childhood-play",
+        "file": "../dictionaries/2026-11-20-childhood-play.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 17,
+        "average_crossings_per_slot": 1.89,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 9
+      },
+      "puzzle_file": "puzzles/2026-11-20.puzzle.json",
+      "solution_file": "solutions/2026-11-20.solution.json",
+      "validation_file": "validation/2026-11-20.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-21",
+      "theme": {
+        "name": "Television & broadcasting",
+        "occasion": "World Television Day"
+      },
+      "bonus": {
+        "title": "World Television Day",
+        "description": "World Television Day recognises television's role in communication, culture, news and public debate."
+      },
+      "shape": {
+        "id": "television",
+        "name": "Television",
+        "grid_file": "../shapes/2026-11-21-television.grid.json",
+        "svg_file": "../shapes/2026-11-21-television.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-21-television-broadcasting",
+        "file": "../dictionaries/2026-11-21-television-broadcasting.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.27,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-11-21.puzzle.json",
+      "solution_file": "solutions/2026-11-21.solution.json",
+      "validation_file": "validation/2026-11-21.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-22",
+      "theme": {
+        "name": "Music & musicians",
+        "occasion": "Feast of St Cecilia"
+      },
+      "bonus": {
+        "title": "Feast of St Cecilia",
+        "description": "St Cecilia is traditionally regarded as the patron saint of music and musicians."
+      },
+      "shape": {
+        "id": "musical-note",
+        "name": "Musical note",
+        "grid_file": "../shapes/2026-11-22-musical-note.grid.json",
+        "svg_file": "../shapes/2026-11-22-musical-note.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-22-music-musicians",
+        "file": "../dictionaries/2026-11-22-music-musicians.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 3,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-11-22.puzzle.json",
+      "solution_file": "solutions/2026-11-22.solution.json",
+      "validation_file": "validation/2026-11-22.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-23",
+      "theme": {
+        "name": "Mathematics & number patterns",
+        "occasion": "Fibonacci Day"
+      },
+      "bonus": {
+        "title": "Fibonacci Day",
+        "description": "The date 11/23 echoes the opening 1, 1, 2, 3 of the Fibonacci sequence, making it a popular mathematics-themed day."
+      },
+      "shape": {
+        "id": "spiral",
+        "name": "Spiral",
+        "grid_file": "../shapes/2026-11-23-spiral.grid.json",
+        "svg_file": "../shapes/2026-11-23-spiral.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-23-mathematics-number-patterns",
+        "file": "../dictionaries/2026-11-23-mathematics-number-patterns.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 15,
+        "average_crossings_per_slot": 1.88,
+        "leaf_slots": 5,
+        "max_slot_crossings": 3,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-23.puzzle.json",
+      "solution_file": "solutions/2026-11-23.solution.json",
+      "validation_file": "validation/2026-11-23.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-24",
+      "theme": {
+        "name": "Evolution & natural history",
+        "occasion": "On the Origin of Species anniversary"
+      },
+      "bonus": {
+        "title": "On the Origin of Species anniversary",
+        "description": "Charles Darwin's On the Origin of Species was published on 24 November 1859."
+      },
+      "shape": {
+        "id": "finch",
+        "name": "Finch",
+        "grid_file": "../shapes/2026-11-24-finch.grid.json",
+        "svg_file": "../shapes/2026-11-24-finch.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-24-evolution-natural-history",
+        "file": "../dictionaries/2026-11-24-evolution-natural-history.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 7,
+        "max_slot_crossings": 5,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-11-24.puzzle.json",
+      "solution_file": "solutions/2026-11-24.solution.json",
+      "validation_file": "validation/2026-11-24.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-25",
+      "theme": {
+        "name": "Desserts & parfaits",
+        "occasion": "National Parfait Day"
+      },
+      "bonus": {
+        "title": "National Parfait Day",
+        "description": "A light-hearted food observance celebrating layered desserts, fruit, cream and other sweet combinations."
+      },
+      "shape": {
+        "id": "parfait-glass",
+        "name": "Parfait glass",
+        "grid_file": "../shapes/2026-11-25-parfait-glass.grid.json",
+        "svg_file": "../shapes/2026-11-25-parfait-glass.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-25-desserts-parfaits",
+        "file": "../dictionaries/2026-11-25-desserts-parfaits.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 6,
+        "down_slots": 10,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-11-25.puzzle.json",
+      "solution_file": "solutions/2026-11-25.solution.json",
+      "validation_file": "validation/2026-11-25.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-26",
+      "theme": {
+        "name": "Thanksgiving food & traditions",
+        "occasion": "Thanksgiving Day"
+      },
+      "bonus": {
+        "title": "Thanksgiving Day",
+        "description": "Thanksgiving is celebrated in the United States on the fourth Thursday of November, with food, family and traditions of gratitude."
+      },
+      "shape": {
+        "id": "turkey",
+        "name": "Turkey",
+        "grid_file": "../shapes/2026-11-26-turkey.grid.json",
+        "svg_file": "../shapes/2026-11-26-turkey.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-26-thanksgiving-food-traditions",
+        "file": "../dictionaries/2026-11-26-thanksgiving-food-traditions.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 7,
+        "down_slots": 11,
+        "crossings": 20,
+        "average_crossings_per_slot": 2.22,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2026-11-26.puzzle.json",
+      "solution_file": "solutions/2026-11-26.solution.json",
+      "validation_file": "validation/2026-11-26.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-27",
+      "theme": {
+        "name": "Shopping, retail & bargains",
+        "occasion": "Black Friday"
+      },
+      "bonus": {
+        "title": "Black Friday",
+        "description": "Black Friday is one of the best-known retail days of the year, associated with promotions, shopping and seasonal sales."
+      },
+      "shape": {
+        "id": "shopping-bag",
+        "name": "Shopping bag",
+        "grid_file": "../shapes/2026-11-27-shopping-bag.grid.json",
+        "svg_file": "../shapes/2026-11-27-shopping-bag.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-27-shopping-retail-bargains",
+        "file": "../dictionaries/2026-11-27-shopping-retail-bargains.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 10,
+        "down_slots": 8,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 8
+      },
+      "puzzle_file": "puzzles/2026-11-27.puzzle.json",
+      "solution_file": "solutions/2026-11-27.solution.json",
+      "validation_file": "validation/2026-11-27.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-28",
+      "theme": {
+        "name": "Mars & planetary exploration",
+        "occasion": "Red Planet Day"
+      },
+      "bonus": {
+        "title": "Red Planet Day",
+        "description": "Red Planet Day commemorates the launch of Mariner 4 in 1964 and celebrates the exploration of Mars."
+      },
+      "shape": {
+        "id": "mars",
+        "name": "Mars",
+        "grid_file": "../shapes/2026-11-28-mars.grid.json",
+        "svg_file": "../shapes/2026-11-28-mars.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-28-mars-planetary-exploration",
+        "file": "../dictionaries/2026-11-28-mars-planetary-exploration.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 19,
+        "average_crossings_per_slot": 2.11,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-11-28.puzzle.json",
+      "solution_file": "solutions/2026-11-28.solution.json",
+      "validation_file": "validation/2026-11-28.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-29",
+      "theme": {
+        "name": "Advent & Christmas preparation",
+        "occasion": "First Sunday of Advent"
+      },
+      "bonus": {
+        "title": "First Sunday of Advent",
+        "description": "The first Sunday of Advent begins the traditional season of preparation for Christmas."
+      },
+      "shape": {
+        "id": "advent-candle",
+        "name": "Advent candle",
+        "grid_file": "../shapes/2026-11-29-advent-candle.grid.json",
+        "svg_file": "../shapes/2026-11-29-advent-candle.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-29-advent-christmas-preparation",
+        "file": "../dictionaries/2026-11-29-advent-christmas-preparation.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-11-29.puzzle.json",
+      "solution_file": "solutions/2026-11-29.solution.json",
+      "validation_file": "validation/2026-11-29.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-11-30",
+      "theme": {
+        "name": "Scotland & Scottish culture",
+        "occasion": "St Andrew's Day"
+      },
+      "bonus": {
+        "title": "St Andrew's Day",
+        "description": "St Andrew's Day is Scotland's national day and celebrates Scottish history, culture and traditions."
+      },
+      "shape": {
+        "id": "thistle",
+        "name": "Thistle",
+        "grid_file": "../shapes/2026-11-30-thistle.grid.json",
+        "svg_file": "../shapes/2026-11-30-thistle.svg"
+      },
+      "dictionary": {
+        "id": "2026-11-30-scotland-scottish-culture",
+        "file": "../dictionaries/2026-11-30-scotland-scottish-culture.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 9,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 7,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-11-30.puzzle.json",
+      "solution_file": "solutions/2026-11-30.solution.json",
+      "validation_file": "validation/2026-11-30.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-01",
+      "theme": {
+        "name": "Giving & charity",
+        "occasion": "GivingTuesday / World AIDS Day"
+      },
+      "bonus": {
+        "title": "GivingTuesday / World AIDS Day",
+        "description": "GivingTuesday encourages generosity and charitable action, while 1 December is also observed globally as World AIDS Day."
+      },
+      "shape": {
+        "id": "gift-box",
+        "name": "Gift box",
+        "grid_file": "../shapes/2026-12-01-gift-box.grid.json",
+        "svg_file": "../shapes/2026-12-01-gift-box.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-01-giving-charity",
+        "file": "../dictionaries/2026-12-01-giving-charity.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 21,
+        "average_crossings_per_slot": 2.33,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 1
+      },
+      "puzzle_file": "puzzles/2026-12-01.puzzle.json",
+      "solution_file": "solutions/2026-12-01.solution.json",
+      "validation_file": "validation/2026-12-01.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-02",
+      "theme": {
+        "name": "Freedom & human rights",
+        "occasion": "International Day for the Abolition of Slavery"
+      },
+      "bonus": {
+        "title": "International Day for the Abolition of Slavery",
+        "description": "This UN day draws attention to modern forms of slavery and the continuing importance of freedom and human rights."
+      },
+      "shape": {
+        "id": "broken-chain",
+        "name": "Broken chain",
+        "grid_file": "../shapes/2026-12-02-broken-chain.grid.json",
+        "svg_file": "../shapes/2026-12-02-broken-chain.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-02-freedom-human-rights",
+        "file": "../dictionaries/2026-12-02-freedom-human-rights.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-12-02.puzzle.json",
+      "solution_file": "solutions/2026-12-02.solution.json",
+      "validation_file": "validation/2026-12-02.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-03",
+      "theme": {
+        "name": "Accessibility & inclusion",
+        "occasion": "International Day of Persons with Disabilities"
+      },
+      "bonus": {
+        "title": "International Day of Persons with Disabilities",
+        "description": "This UN observance promotes participation, accessibility and inclusion for people with disabilities."
+      },
+      "shape": {
+        "id": "accessibility-symbol",
+        "name": "Accessibility symbol",
+        "grid_file": "../shapes/2026-12-03-accessibility-symbol.grid.json",
+        "svg_file": "../shapes/2026-12-03-accessibility-symbol.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-03-accessibility-inclusion",
+        "file": "../dictionaries/2026-12-03-accessibility-inclusion.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 2,
+        "max_slot_crossings": 4,
+        "seed_letters": 1
+      },
+      "puzzle_file": "puzzles/2026-12-03.puzzle.json",
+      "solution_file": "solutions/2026-12-03.solution.json",
+      "validation_file": "validation/2026-12-03.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-04",
+      "theme": {
+        "name": "Banks, money & finance",
+        "occasion": "International Day of Banks"
+      },
+      "bonus": {
+        "title": "International Day of Banks",
+        "description": "The UN's International Day of Banks recognises the role of financial institutions in development and economic life."
+      },
+      "shape": {
+        "id": "bank-building",
+        "name": "Bank building",
+        "grid_file": "../shapes/2026-12-04-bank-building.grid.json",
+        "svg_file": "../shapes/2026-12-04-bank-building.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-04-banks-money-finance",
+        "file": "../dictionaries/2026-12-04-banks-money-finance.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 19,
+        "average_crossings_per_slot": 2.11,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 8
+      },
+      "puzzle_file": "puzzles/2026-12-04.puzzle.json",
+      "solution_file": "solutions/2026-12-04.solution.json",
+      "validation_file": "validation/2026-12-04.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-05",
+      "theme": {
+        "name": "Soil, gardening & earth",
+        "occasion": "World Soil Day"
+      },
+      "bonus": {
+        "title": "World Soil Day",
+        "description": "World Soil Day highlights the importance of healthy soil for food, ecosystems, farming and biodiversity."
+      },
+      "shape": {
+        "id": "seedling",
+        "name": "Seedling",
+        "grid_file": "../shapes/2026-12-05-seedling.grid.json",
+        "svg_file": "../shapes/2026-12-05-seedling.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-05-soil-gardening-earth",
+        "file": "../dictionaries/2026-12-05-soil-gardening-earth.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 2,
+        "max_slot_crossings": 4,
+        "seed_letters": 7
+      },
+      "puzzle_file": "puzzles/2026-12-05.puzzle.json",
+      "solution_file": "solutions/2026-12-05.solution.json",
+      "validation_file": "validation/2026-12-05.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-06",
+      "theme": {
+        "name": "St Nicholas, gifts & winter traditions",
+        "occasion": "St Nicholas Day"
+      },
+      "bonus": {
+        "title": "St Nicholas Day",
+        "description": "St Nicholas Day is associated with the historic saint, gift-giving and winter traditions across many European countries."
+      },
+      "shape": {
+        "id": "mitre",
+        "name": "Mitre",
+        "grid_file": "../shapes/2026-12-06-mitre.grid.json",
+        "svg_file": "../shapes/2026-12-06-mitre.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-06-st-nicholas-gifts-winter-traditions",
+        "file": "../dictionaries/2026-12-06-st-nicholas-gifts-winter-traditions.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 14,
+        "across_slots": 6,
+        "down_slots": 8,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.14,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-12-06.puzzle.json",
+      "solution_file": "solutions/2026-12-06.solution.json",
+      "validation_file": "validation/2026-12-06.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-07",
+      "theme": {
+        "name": "Aviation & airports",
+        "occasion": "International Civil Aviation Day"
+      },
+      "bonus": {
+        "title": "International Civil Aviation Day",
+        "description": "International Civil Aviation Day celebrates the importance of global air transport and civil aviation."
+      },
+      "shape": {
+        "id": "airplane",
+        "name": "Airplane",
+        "grid_file": "../shapes/2026-12-07-airplane.grid.json",
+        "svg_file": "../shapes/2026-12-07-airplane.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-07-aviation-airports",
+        "file": "../dictionaries/2026-12-07-aviation-airports.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-12-07.puzzle.json",
+      "solution_file": "solutions/2026-12-07.solution.json",
+      "validation_file": "validation/2026-12-07.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-08",
+      "theme": {
+        "name": "Brownies & baking",
+        "occasion": "National Brownie Day"
+      },
+      "bonus": {
+        "title": "National Brownie Day",
+        "description": "A cheerful food observance devoted to brownies, chocolate baking and sweet treats."
+      },
+      "shape": {
+        "id": "brownie",
+        "name": "Brownie",
+        "grid_file": "../shapes/2026-12-08-brownie.grid.json",
+        "svg_file": "../shapes/2026-12-08-brownie.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-08-brownies-baking",
+        "file": "../dictionaries/2026-12-08-brownies-baking.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-12-08.puzzle.json",
+      "solution_file": "solutions/2026-12-08.solution.json",
+      "validation_file": "validation/2026-12-08.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-09",
+      "theme": {
+        "name": "Honesty, law & public service",
+        "occasion": "International Anti-Corruption Day"
+      },
+      "bonus": {
+        "title": "International Anti-Corruption Day",
+        "description": "The UN's International Anti-Corruption Day focuses on integrity, accountability and the prevention of corruption."
+      },
+      "shape": {
+        "id": "scales-of-justice",
+        "name": "Scales of justice",
+        "grid_file": "../shapes/2026-12-09-scales-of-justice.grid.json",
+        "svg_file": "../shapes/2026-12-09-scales-of-justice.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-09-honesty-law-public-service",
+        "file": "../dictionaries/2026-12-09-honesty-law-public-service.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 13,
+        "across_slots": 6,
+        "down_slots": 7,
+        "crossings": 12,
+        "average_crossings_per_slot": 1.85,
+        "leaf_slots": 5,
+        "max_slot_crossings": 3,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-12-09.puzzle.json",
+      "solution_file": "solutions/2026-12-09.solution.json",
+      "validation_file": "validation/2026-12-09.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-10",
+      "theme": {
+        "name": "Human rights & freedoms",
+        "occasion": "Human Rights Day"
+      },
+      "bonus": {
+        "title": "Human Rights Day",
+        "description": "Human Rights Day marks the adoption of the Universal Declaration of Human Rights in 1948."
+      },
+      "shape": {
+        "id": "raised-hand",
+        "name": "Raised hand",
+        "grid_file": "../shapes/2026-12-10-raised-hand.grid.json",
+        "svg_file": "../shapes/2026-12-10-raised-hand.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-10-human-rights-freedoms",
+        "file": "../dictionaries/2026-12-10-human-rights-freedoms.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 14,
+        "across_slots": 7,
+        "down_slots": 7,
+        "crossings": 13,
+        "average_crossings_per_slot": 1.86,
+        "leaf_slots": 6,
+        "max_slot_crossings": 3,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-12-10.puzzle.json",
+      "solution_file": "solutions/2026-12-10.solution.json",
+      "validation_file": "validation/2026-12-10.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-11",
+      "theme": {
+        "name": "Mountains & mountaineering",
+        "occasion": "International Mountain Day"
+      },
+      "bonus": {
+        "title": "International Mountain Day",
+        "description": "International Mountain Day celebrates mountain environments, communities and the importance of protecting highland ecosystems."
+      },
+      "shape": {
+        "id": "mountain",
+        "name": "Mountain",
+        "grid_file": "../shapes/2026-12-11-mountain.grid.json",
+        "svg_file": "../shapes/2026-12-11-mountain.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-11-mountains-mountaineering",
+        "file": "../dictionaries/2026-12-11-mountains-mountaineering.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 8,
+        "down_slots": 10,
+        "crossings": 19,
+        "average_crossings_per_slot": 2.11,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2026-12-11.puzzle.json",
+      "solution_file": "solutions/2026-12-11.solution.json",
+      "validation_file": "validation/2026-12-11.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-12",
+      "theme": {
+        "name": "Winter flowers & festive plants",
+        "occasion": "Poinsettia Day"
+      },
+      "bonus": {
+        "title": "Poinsettia Day",
+        "description": "Poinsettia Day celebrates the bright red-and-green plant that has become strongly associated with the Christmas season."
+      },
+      "shape": {
+        "id": "poinsettia",
+        "name": "Poinsettia",
+        "grid_file": "../shapes/2026-12-12-poinsettia.grid.json",
+        "svg_file": "../shapes/2026-12-12-poinsettia.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-12-winter-flowers-festive-plants",
+        "file": "../dictionaries/2026-12-12-winter-flowers-festive-plants.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.27,
+        "leaf_slots": 3,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-12-12.puzzle.json",
+      "solution_file": "solutions/2026-12-12.solution.json",
+      "validation_file": "validation/2026-12-12.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-13",
+      "theme": {
+        "name": "Candles, light & Scandinavian winter",
+        "occasion": "St Lucy's Day"
+      },
+      "bonus": {
+        "title": "St Lucy's Day",
+        "description": "St Lucy's Day is especially associated with light, candles and Scandinavian midwinter traditions."
+      },
+      "shape": {
+        "id": "candle",
+        "name": "Candle",
+        "grid_file": "../shapes/2026-12-13-candle.grid.json",
+        "svg_file": "../shapes/2026-12-13-candle.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-13-candles-light-scandinavian-winter",
+        "file": "../dictionaries/2026-12-13-candles-light-scandinavian-winter.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 3,
+        "max_slot_crossings": 3,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-12-13.puzzle.json",
+      "solution_file": "solutions/2026-12-13.solution.json",
+      "validation_file": "validation/2026-12-13.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-14",
+      "theme": {
+        "name": "Monkeys & primates",
+        "occasion": "Monkey Day"
+      },
+      "bonus": {
+        "title": "Monkey Day",
+        "description": "Monkey Day is an informal international celebration of monkeys, apes and other primates."
+      },
+      "shape": {
+        "id": "monkey",
+        "name": "Monkey",
+        "grid_file": "../shapes/2026-12-14-monkey.grid.json",
+        "svg_file": "../shapes/2026-12-14-monkey.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-14-monkeys-primates",
+        "file": "../dictionaries/2026-12-14-monkeys-primates.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-12-14.puzzle.json",
+      "solution_file": "solutions/2026-12-14.solution.json",
+      "validation_file": "validation/2026-12-14.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-15",
+      "theme": {
+        "name": "Languages & alphabets",
+        "occasion": "World Turkic Language Family Day"
+      },
+      "bonus": {
+        "title": "World Turkic Language Family Day",
+        "description": "A language-focused international observance makes this a natural day for alphabets, scripts and words."
+      },
+      "shape": {
+        "id": "alphabet-tile",
+        "name": "Alphabet tile",
+        "grid_file": "../shapes/2026-12-15-alphabet-tile.grid.json",
+        "svg_file": "../shapes/2026-12-15-alphabet-tile.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-15-languages-alphabets",
+        "file": "../dictionaries/2026-12-15-languages-alphabets.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2026-12-15.puzzle.json",
+      "solution_file": "solutions/2026-12-15.solution.json",
+      "validation_file": "validation/2026-12-15.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-16",
+      "theme": {
+        "name": "Jane Austen & Regency England",
+        "occasion": "Jane Austen's birthday"
+      },
+      "bonus": {
+        "title": "Jane Austen's birthday",
+        "description": "Jane Austen was born on 16 December 1775 and became one of the best-known novelists of the English Regency period."
+      },
+      "shape": {
+        "id": "quill",
+        "name": "Quill",
+        "grid_file": "../shapes/2026-12-16-quill.grid.json",
+        "svg_file": "../shapes/2026-12-16-quill.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-16-jane-austen-regency-england",
+        "file": "../dictionaries/2026-12-16-jane-austen-regency-england.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-12-16.puzzle.json",
+      "solution_file": "solutions/2026-12-16.solution.json",
+      "validation_file": "validation/2026-12-16.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-17",
+      "theme": {
+        "name": "Aviation pioneers & early flight",
+        "occasion": "Wright Brothers Day"
+      },
+      "bonus": {
+        "title": "Wright Brothers Day",
+        "description": "Wright Brothers Day commemorates the first successful powered flights made by Orville and Wilbur Wright in 1903."
+      },
+      "shape": {
+        "id": "biplane",
+        "name": "Biplane",
+        "grid_file": "../shapes/2026-12-17-biplane.grid.json",
+        "svg_file": "../shapes/2026-12-17-biplane.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-17-aviation-pioneers-early-flight",
+        "file": "../dictionaries/2026-12-17-aviation-pioneers-early-flight.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-12-17.puzzle.json",
+      "solution_file": "solutions/2026-12-17.solution.json",
+      "validation_file": "validation/2026-12-17.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-18",
+      "theme": {
+        "name": "Migration, travel & journeys",
+        "occasion": "International Migrants Day"
+      },
+      "bonus": {
+        "title": "International Migrants Day",
+        "description": "International Migrants Day recognises migrants and the journeys, communities and experiences connected with migration."
+      },
+      "shape": {
+        "id": "suitcase",
+        "name": "Suitcase",
+        "grid_file": "../shapes/2026-12-18-suitcase.grid.json",
+        "svg_file": "../shapes/2026-12-18-suitcase.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-18-migration-travel-journeys",
+        "file": "../dictionaries/2026-12-18-migration-travel-journeys.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 20,
+        "average_crossings_per_slot": 2.22,
+        "leaf_slots": 5,
+        "max_slot_crossings": 5,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-12-18.puzzle.json",
+      "solution_file": "solutions/2026-12-18.solution.json",
+      "validation_file": "validation/2026-12-18.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-19",
+      "theme": {
+        "name": "Hard candy & traditional sweets",
+        "occasion": "National Hard Candy Day"
+      },
+      "bonus": {
+        "title": "National Hard Candy Day",
+        "description": "A seasonal food observance centred on hard sweets, boiled candy and traditional confectionery."
+      },
+      "shape": {
+        "id": "candy-cane",
+        "name": "Candy cane",
+        "grid_file": "../shapes/2026-12-19-candy-cane.grid.json",
+        "svg_file": "../shapes/2026-12-19-candy-cane.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-19-hard-candy-traditional-sweets",
+        "file": "../dictionaries/2026-12-19-hard-candy-traditional-sweets.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 3,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2026-12-19.puzzle.json",
+      "solution_file": "solutions/2026-12-19.solution.json",
+      "validation_file": "validation/2026-12-19.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-20",
+      "theme": {
+        "name": "Community & cooperation",
+        "occasion": "International Human Solidarity Day"
+      },
+      "bonus": {
+        "title": "International Human Solidarity Day",
+        "description": "The UN's International Human Solidarity Day highlights cooperation, shared responsibility and support between communities."
+      },
+      "shape": {
+        "id": "linked-hands",
+        "name": "Linked hands",
+        "grid_file": "../shapes/2026-12-20-linked-hands.grid.json",
+        "svg_file": "../shapes/2026-12-20-linked-hands.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-20-community-cooperation",
+        "file": "../dictionaries/2026-12-20-community-cooperation.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-12-20.puzzle.json",
+      "solution_file": "solutions/2026-12-20.solution.json",
+      "validation_file": "validation/2026-12-20.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-21",
+      "theme": {
+        "name": "Winter & the solstice",
+        "occasion": "December solstice"
+      },
+      "bonus": {
+        "title": "December solstice",
+        "description": "The December solstice brings the shortest day and longest night of the year in the Northern Hemisphere."
+      },
+      "shape": {
+        "id": "snowflake",
+        "name": "Snowflake",
+        "grid_file": "../shapes/2026-12-21-snowflake.grid.json",
+        "svg_file": "../shapes/2026-12-21-snowflake.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-21-winter-the-solstice",
+        "file": "../dictionaries/2026-12-21-winter-the-solstice.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 9,
+        "down_slots": 7,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2026-12-21.puzzle.json",
+      "solution_file": "solutions/2026-12-21.solution.json",
+      "validation_file": "validation/2026-12-21.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-22",
+      "theme": {
+        "name": "Cookies & biscuits",
+        "occasion": "Cookie Exchange Day"
+      },
+      "bonus": {
+        "title": "Cookie Exchange Day",
+        "description": "Cookie Exchange Day is a seasonal excuse to bake, swap and share biscuits and cookies."
+      },
+      "shape": {
+        "id": "cookie",
+        "name": "Cookie",
+        "grid_file": "../shapes/2026-12-22-cookie.grid.json",
+        "svg_file": "../shapes/2026-12-22-cookie.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-22-cookies-biscuits",
+        "file": "../dictionaries/2026-12-22-cookies-biscuits.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 19,
+        "average_crossings_per_slot": 2.11,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-12-22.puzzle.json",
+      "solution_file": "solutions/2026-12-22.solution.json",
+      "validation_file": "validation/2026-12-22.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-23",
+      "theme": {
+        "name": "Unusual festive traditions",
+        "occasion": "Festivus"
+      },
+      "bonus": {
+        "title": "Festivus",
+        "description": "Festivus is a humorous alternative holiday popularised by Seinfeld and observed by fans on 23 December."
+      },
+      "shape": {
+        "id": "festivus-pole",
+        "name": "Festivus pole",
+        "grid_file": "../shapes/2026-12-23-festivus-pole.grid.json",
+        "svg_file": "../shapes/2026-12-23-festivus-pole.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-23-unusual-festive-traditions",
+        "file": "../dictionaries/2026-12-23-unusual-festive-traditions.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 7,
+        "down_slots": 9,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2026-12-23.puzzle.json",
+      "solution_file": "solutions/2026-12-23.solution.json",
+      "validation_file": "validation/2026-12-23.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-24",
+      "theme": {
+        "name": "Christmas Eve & Santa preparations",
+        "occasion": "Christmas Eve"
+      },
+      "bonus": {
+        "title": "Christmas Eve",
+        "description": "Christmas Eve is traditionally associated with last-minute preparations, stockings, Santa and anticipation of Christmas Day."
+      },
+      "shape": {
+        "id": "sleigh",
+        "name": "Sleigh",
+        "grid_file": "../shapes/2026-12-24-sleigh.grid.json",
+        "svg_file": "../shapes/2026-12-24-sleigh.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-24-christmas-eve-santa-preparations",
+        "file": "../dictionaries/2026-12-24-christmas-eve-santa-preparations.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 13,
+        "across_slots": 7,
+        "down_slots": 6,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.31,
+        "leaf_slots": 2,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-12-24.puzzle.json",
+      "solution_file": "solutions/2026-12-24.solution.json",
+      "validation_file": "validation/2026-12-24.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-25",
+      "theme": {
+        "name": "Christmas Day",
+        "occasion": "Christmas Day"
+      },
+      "bonus": {
+        "title": "Christmas Day",
+        "description": "Christmas Day is celebrated across many countries with family gatherings, gifts, food and religious or cultural traditions."
+      },
+      "shape": {
+        "id": "christmas-tree",
+        "name": "Christmas tree",
+        "grid_file": "../shapes/2026-12-25-christmas-tree.grid.json",
+        "svg_file": "../shapes/2026-12-25-christmas-tree.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-25-christmas-day",
+        "file": "../dictionaries/2026-12-25-christmas-day.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 4,
+        "max_slot_crossings": 5,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-12-25.puzzle.json",
+      "solution_file": "solutions/2026-12-25.solution.json",
+      "validation_file": "validation/2026-12-25.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-26",
+      "theme": {
+        "name": "Boxing Day & British holiday traditions",
+        "occasion": "Boxing Day"
+      },
+      "bonus": {
+        "title": "Boxing Day",
+        "description": "Boxing Day is a public holiday in the UK and several Commonwealth countries, traditionally associated with gifts, sport and visiting."
+      },
+      "shape": {
+        "id": "gift-box",
+        "name": "Gift box",
+        "grid_file": "../shapes/2026-12-26-gift-box.grid.json",
+        "svg_file": "../shapes/2026-12-26-gift-box.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-26-boxing-day-british-holiday-traditions",
+        "file": "../dictionaries/2026-12-26-boxing-day-british-holiday-traditions.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 18,
+        "across_slots": 9,
+        "down_slots": 9,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 7,
+        "max_slot_crossings": 4,
+        "seed_letters": 7
+      },
+      "puzzle_file": "puzzles/2026-12-26.puzzle.json",
+      "solution_file": "solutions/2026-12-26.solution.json",
+      "validation_file": "validation/2026-12-26.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-27",
+      "theme": {
+        "name": "Public health & emergency preparedness",
+        "occasion": "International Day of Epidemic Preparedness"
+      },
+      "bonus": {
+        "title": "International Day of Epidemic Preparedness",
+        "description": "This UN day encourages stronger preparation, cooperation and resilient systems for future epidemics."
+      },
+      "shape": {
+        "id": "medical-cross",
+        "name": "Medical cross",
+        "grid_file": "../shapes/2026-12-27-medical-cross.grid.json",
+        "svg_file": "../shapes/2026-12-27-medical-cross.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-27-public-health-emergency-preparedness",
+        "file": "../dictionaries/2026-12-27-public-health-emergency-preparedness.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-12-27.puzzle.json",
+      "solution_file": "solutions/2026-12-27.solution.json",
+      "validation_file": "validation/2026-12-27.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-28",
+      "theme": {
+        "name": "Cinema & filmmaking",
+        "occasion": "Early cinema anniversary"
+      },
+      "bonus": {
+        "title": "Early cinema anniversary",
+        "description": "28 December is associated with the Lumi\u00e8re brothers' famous 1895 public film screening in Paris and the beginnings of cinema."
+      },
+      "shape": {
+        "id": "movie-camera",
+        "name": "Movie camera",
+        "grid_file": "../shapes/2026-12-28-movie-camera.grid.json",
+        "svg_file": "../shapes/2026-12-28-movie-camera.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-28-cinema-filmmaking",
+        "file": "../dictionaries/2026-12-28-cinema-filmmaking.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 17,
+        "across_slots": 8,
+        "down_slots": 9,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-12-28.puzzle.json",
+      "solution_file": "solutions/2026-12-28.solution.json",
+      "validation_file": "validation/2026-12-28.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-29",
+      "theme": {
+        "name": "Medieval England & cathedrals",
+        "occasion": "Feast of St Thomas Becket"
+      },
+      "bonus": {
+        "title": "Feast of St Thomas Becket",
+        "description": "The feast of Thomas Becket recalls the medieval Archbishop of Canterbury and the cathedral history surrounding his life and death."
+      },
+      "shape": {
+        "id": "cathedral",
+        "name": "Cathedral",
+        "grid_file": "../shapes/2026-12-29-cathedral.grid.json",
+        "svg_file": "../shapes/2026-12-29-cathedral.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-29-medieval-england-cathedrals",
+        "file": "../dictionaries/2026-12-29-medieval-england-cathedrals.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 13,
+        "across_slots": 6,
+        "down_slots": 7,
+        "crossings": 12,
+        "average_crossings_per_slot": 1.85,
+        "leaf_slots": 6,
+        "max_slot_crossings": 5,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2026-12-29.puzzle.json",
+      "solution_file": "solutions/2026-12-29.solution.json",
+      "validation_file": "validation/2026-12-29.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-30",
+      "theme": {
+        "name": "Jungle animals & adventure stories",
+        "occasion": "Rudyard Kipling's birthday"
+      },
+      "bonus": {
+        "title": "Rudyard Kipling's birthday",
+        "description": "Rudyard Kipling was born on 30 December 1865; The Jungle Book makes the date a natural hook for jungle animals and adventure stories."
+      },
+      "shape": {
+        "id": "tiger",
+        "name": "Tiger",
+        "grid_file": "../shapes/2026-12-30-tiger.grid.json",
+        "svg_file": "../shapes/2026-12-30-tiger.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-30-jungle-animals-adventure-stories",
+        "file": "../dictionaries/2026-12-30-jungle-animals-adventure-stories.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 18,
+        "average_crossings_per_slot": 2.25,
+        "leaf_slots": 3,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2026-12-30.puzzle.json",
+      "solution_file": "solutions/2026-12-30.solution.json",
+      "validation_file": "validation/2026-12-30.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2026-12-31",
+      "theme": {
+        "name": "New Year & celebrations",
+        "occasion": "New Year's Eve"
+      },
+      "bonus": {
+        "title": "New Year's Eve",
+        "description": "New Year's Eve closes the calendar year with countdowns, midnight celebrations, fireworks and resolutions."
+      },
+      "shape": {
+        "id": "firework",
+        "name": "Firework",
+        "grid_file": "../shapes/2026-12-31-firework.grid.json",
+        "svg_file": "../shapes/2026-12-31-firework.svg"
+      },
+      "dictionary": {
+        "id": "2026-12-31-new-year-celebrations",
+        "file": "../dictionaries/2026-12-31-new-year-celebrations.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2026-12-31.puzzle.json",
+      "solution_file": "solutions/2026-12-31.solution.json",
+      "validation_file": "validation/2026-12-31.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-01",
+      "theme": {
+        "name": "New Year & celebrations",
+        "occasion": "New Year's Day"
+      },
+      "bonus": {
+        "title": "New Year's Day",
+        "description": "New Year's Day begins the calendar year and is associated with celebrations, fresh starts and resolutions."
+      },
+      "shape": {
+        "id": "clock",
+        "name": "Clock",
+        "grid_file": "../shapes/2027-01-01-clock.grid.json",
+        "svg_file": "../shapes/2027-01-01-clock.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-01-new-year-celebrations",
+        "file": "../dictionaries/2027-01-01-new-year-celebrations.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2027-01-01.puzzle.json",
+      "solution_file": "solutions/2027-01-01.solution.json",
+      "validation_file": "validation/2027-01-01.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-02",
+      "theme": {
+        "name": "Space & science fiction",
+        "occasion": "Science Fiction Day"
+      },
+      "bonus": {
+        "title": "Science Fiction Day",
+        "description": "Science Fiction Day is celebrated on 2 January, the official birthday of science-fiction writer Isaac Asimov."
+      },
+      "shape": {
+        "id": "ringed-planet",
+        "name": "Ringed planet",
+        "grid_file": "../shapes/2027-01-02-ringed-planet.grid.json",
+        "svg_file": "../shapes/2027-01-02-ringed-planet.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-02-space-science-fiction",
+        "file": "../dictionaries/2027-01-02-space-science-fiction.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2027-01-02.puzzle.json",
+      "solution_file": "solutions/2027-01-02.solution.json",
+      "validation_file": "validation/2027-01-02.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-03",
+      "theme": {
+        "name": "Fantasy & storytelling",
+        "occasion": "J. R. R. Tolkien's birthday"
+      },
+      "bonus": {
+        "title": "J. R. R. Tolkien's birthday",
+        "description": "J. R. R. Tolkien was born on 3 January 1892, making the date a natural celebration of fantasy literature and imagined worlds."
+      },
+      "shape": {
+        "id": "open-book",
+        "name": "Open book",
+        "grid_file": "../shapes/2027-01-03-open-book.grid.json",
+        "svg_file": "../shapes/2027-01-03-open-book.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-03-fantasy-storytelling",
+        "file": "../dictionaries/2027-01-03-fantasy-storytelling.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 6,
+        "down_slots": 10,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2027-01-03.puzzle.json",
+      "solution_file": "solutions/2027-01-03.solution.json",
+      "validation_file": "validation/2027-01-03.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-04",
+      "theme": {
+        "name": "Accessibility & Braille",
+        "occasion": "World Braille Day"
+      },
+      "bonus": {
+        "title": "World Braille Day",
+        "description": "World Braille Day is a United Nations observance on 4 January highlighting the importance of Braille for communication and inclusion."
+      },
+      "shape": {
+        "id": "braille-cell",
+        "name": "Braille cell",
+        "grid_file": "../shapes/2027-01-04-braille-cell.grid.json",
+        "svg_file": "../shapes/2027-01-04-braille-cell.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-04-accessibility-braille",
+        "file": "../dictionaries/2027-01-04-accessibility-braille.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 7
+      },
+      "puzzle_file": "puzzles/2027-01-04.puzzle.json",
+      "solution_file": "solutions/2027-01-04.solution.json",
+      "validation_file": "validation/2027-01-04.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-05",
+      "theme": {
+        "name": "Birds & birdwatching",
+        "occasion": "National Bird Day"
+      },
+      "bonus": {
+        "title": "National Bird Day",
+        "description": "National Bird Day is observed in the United States on 5 January and encourages appreciation of birds and their welfare."
+      },
+      "shape": {
+        "id": "bird-head",
+        "name": "Bird head",
+        "grid_file": "../shapes/2027-01-05-bird-head.grid.json",
+        "svg_file": "../shapes/2027-01-05-bird-head.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-05-birds-birdwatching",
+        "file": "../dictionaries/2027-01-05-birds-birdwatching.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 16,
+        "across_slots": 8,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.12,
+        "leaf_slots": 5,
+        "max_slot_crossings": 3,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2027-01-05.puzzle.json",
+      "solution_file": "solutions/2027-01-05.solution.json",
+      "validation_file": "validation/2027-01-05.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-06",
+      "theme": {
+        "name": "Stars, kings & Epiphany",
+        "occasion": "Epiphany"
+      },
+      "bonus": {
+        "title": "Epiphany",
+        "description": "Epiphany is traditionally observed on 6 January and is associated in Western Christianity with the visit of the Magi."
+      },
+      "shape": {
+        "id": "star",
+        "name": "Star",
+        "grid_file": "../shapes/2027-01-06-star.grid.json",
+        "svg_file": "../shapes/2027-01-06-star.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-06-stars-kings-epiphany",
+        "file": "../dictionaries/2027-01-06-stars-kings-epiphany.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 13,
+        "across_slots": 7,
+        "down_slots": 6,
+        "crossings": 13,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2027-01-06.puzzle.json",
+      "solution_file": "solutions/2027-01-06.solution.json",
+      "validation_file": "validation/2027-01-06.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-07",
+      "theme": {
+        "name": "Winter traditions",
+        "occasion": "Orthodox Christmas season"
+      },
+      "bonus": {
+        "title": "Orthodox Christmas season",
+        "description": "Many Orthodox Christians whose churches use the Julian calendar celebrate Christmas on or around 7 January."
+      },
+      "shape": {
+        "id": "mitten",
+        "name": "Mitten",
+        "grid_file": "../shapes/2027-01-07-mitten.grid.json",
+        "svg_file": "../shapes/2027-01-07-mitten.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-07-winter-traditions",
+        "file": "../dictionaries/2027-01-07-winter-traditions.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 8
+      },
+      "puzzle_file": "puzzles/2027-01-07.puzzle.json",
+      "solution_file": "solutions/2027-01-07.solution.json",
+      "validation_file": "validation/2027-01-07.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-08",
+      "theme": {
+        "name": "Rock & roll music",
+        "occasion": "Elvis Presley's birthday"
+      },
+      "bonus": {
+        "title": "Elvis Presley's birthday",
+        "description": "Elvis Presley was born on 8 January 1935; the date is widely marked by fans of rock and roll and popular music."
+      },
+      "shape": {
+        "id": "vinyl-record",
+        "name": "Vinyl record",
+        "grid_file": "../shapes/2027-01-08-vinyl-record.grid.json",
+        "svg_file": "../shapes/2027-01-08-vinyl-record.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-08-rock-roll-music",
+        "file": "../dictionaries/2027-01-08-rock-roll-music.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 10
+      },
+      "puzzle_file": "puzzles/2027-01-08.puzzle.json",
+      "solution_file": "solutions/2027-01-08.solution.json",
+      "validation_file": "validation/2027-01-08.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-09",
+      "theme": {
+        "name": "Words & language",
+        "occasion": "Word Nerd Day"
+      },
+      "bonus": {
+        "title": "Word Nerd Day",
+        "description": "Word Nerd Day is an informal celebration of vocabulary, language, wordplay and people who simply enjoy words."
+      },
+      "shape": {
+        "id": "alphabet-tile",
+        "name": "Alphabet tile",
+        "grid_file": "../shapes/2027-01-09-alphabet-tile.grid.json",
+        "svg_file": "../shapes/2027-01-09-alphabet-tile.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-09-words-language",
+        "file": "../dictionaries/2027-01-09-words-language.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 6,
+        "down_slots": 9,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.27,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2027-01-09.puzzle.json",
+      "solution_file": "solutions/2027-01-09.solution.json",
+      "validation_file": "validation/2027-01-09.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-10",
+      "theme": {
+        "name": "Houseplants & indoor gardening",
+        "occasion": "Houseplant Appreciation Day"
+      },
+      "bonus": {
+        "title": "Houseplant Appreciation Day",
+        "description": "Houseplant Appreciation Day is an informal January occasion for enjoying indoor plants and caring for greenery through winter."
+      },
+      "shape": {
+        "id": "flower-pot",
+        "name": "Flower pot",
+        "grid_file": "../shapes/2027-01-10-flower-pot.grid.json",
+        "svg_file": "../shapes/2027-01-10-flower-pot.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-10-houseplants-indoor-gardening",
+        "file": "../dictionaries/2027-01-10-houseplants-indoor-gardening.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 4,
+        "max_slot_crossings": 3,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2027-01-10.puzzle.json",
+      "solution_file": "solutions/2027-01-10.solution.json",
+      "validation_file": "validation/2027-01-10.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-11",
+      "theme": {
+        "name": "Kindness & gratitude",
+        "occasion": "International Thank-You Day"
+      },
+      "bonus": {
+        "title": "International Thank-You Day",
+        "description": "International Thank-You Day is an informal occasion for expressing gratitude and recognising acts of kindness."
+      },
+      "shape": {
+        "id": "heart",
+        "name": "Heart",
+        "grid_file": "../shapes/2027-01-11-heart.grid.json",
+        "svg_file": "../shapes/2027-01-11-heart.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-11-kindness-gratitude",
+        "file": "../dictionaries/2027-01-11-kindness-gratitude.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 14,
+        "across_slots": 5,
+        "down_slots": 9,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.14,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 1
+      },
+      "puzzle_file": "puzzles/2027-01-11.puzzle.json",
+      "solution_file": "solutions/2027-01-11.solution.json",
+      "validation_file": "validation/2027-01-11.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-12",
+      "theme": {
+        "name": "Pharmacy & medicine",
+        "occasion": "National Pharmacist Day"
+      },
+      "bonus": {
+        "title": "National Pharmacist Day",
+        "description": "National Pharmacist Day in the United States recognises pharmacists and their role in medicines and health care."
+      },
+      "shape": {
+        "id": "medicine-bottle",
+        "name": "Medicine bottle",
+        "grid_file": "../shapes/2027-01-12-medicine-bottle.grid.json",
+        "svg_file": "../shapes/2027-01-12-medicine-bottle.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-12-pharmacy-medicine",
+        "file": "../dictionaries/2027-01-12-pharmacy-medicine.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2027-01-12.puzzle.json",
+      "solution_file": "solutions/2027-01-12.solution.json",
+      "validation_file": "validation/2027-01-12.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-13",
+      "theme": {
+        "name": "Stories & imagination",
+        "occasion": "Make Your Dreams Come True Day"
+      },
+      "bonus": {
+        "title": "Make Your Dreams Come True Day",
+        "description": "Make Your Dreams Come True Day is an informal January observance centred on aspirations, imagination and turning ideas into action."
+      },
+      "shape": {
+        "id": "thought-cloud",
+        "name": "Thought cloud",
+        "grid_file": "../shapes/2027-01-13-thought-cloud.grid.json",
+        "svg_file": "../shapes/2027-01-13-thought-cloud.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-13-stories-imagination",
+        "file": "../dictionaries/2027-01-13-stories-imagination.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2027-01-13.puzzle.json",
+      "solution_file": "solutions/2027-01-13.solution.json",
+      "validation_file": "validation/2027-01-13.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-14",
+      "theme": {
+        "name": "Pets & companion animals",
+        "occasion": "Dress Up Your Pet Day"
+      },
+      "bonus": {
+        "title": "Dress Up Your Pet Day",
+        "description": "Dress Up Your Pet Day is a playful informal observance that makes a natural hook for companion animals and pet care."
+      },
+      "shape": {
+        "id": "cat-head",
+        "name": "Cat head",
+        "grid_file": "../shapes/2027-01-14-cat-head.grid.json",
+        "svg_file": "../shapes/2027-01-14-cat-head.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-14-pets-companion-animals",
+        "file": "../dictionaries/2027-01-14-pets-companion-animals.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 3,
+        "seed_letters": 10
+      },
+      "puzzle_file": "puzzles/2027-01-14.puzzle.json",
+      "solution_file": "solutions/2027-01-14.solution.json",
+      "validation_file": "validation/2027-01-14.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-15",
+      "theme": {
+        "name": "Hats & headwear",
+        "occasion": "National Hat Day"
+      },
+      "bonus": {
+        "title": "National Hat Day",
+        "description": "National Hat Day is an informal United States observance celebrating hats, headwear and their many practical and decorative styles."
+      },
+      "shape": {
+        "id": "top-hat",
+        "name": "Top hat",
+        "grid_file": "../shapes/2027-01-15-top-hat.grid.json",
+        "svg_file": "../shapes/2027-01-15-top-hat.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-15-hats-headwear",
+        "file": "../dictionaries/2027-01-15-hats-headwear.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 6
+      },
+      "puzzle_file": "puzzles/2027-01-15.puzzle.json",
+      "solution_file": "solutions/2027-01-15.solution.json",
+      "validation_file": "validation/2027-01-15.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-16",
+      "theme": {
+        "name": "Spices & hot food",
+        "occasion": "International Hot and Spicy Food Day"
+      },
+      "bonus": {
+        "title": "International Hot and Spicy Food Day",
+        "description": "International Hot and Spicy Food Day is an informal celebration of chillies, spices, sauces and strongly flavoured foods."
+      },
+      "shape": {
+        "id": "spice-jar",
+        "name": "Spice jar",
+        "grid_file": "../shapes/2027-01-16-spice-jar.grid.json",
+        "svg_file": "../shapes/2027-01-16-spice-jar.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-16-spices-hot-food",
+        "file": "../dictionaries/2027-01-16-spices-hot-food.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.27,
+        "leaf_slots": 6,
+        "max_slot_crossings": 5,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2027-01-16.puzzle.json",
+      "solution_file": "solutions/2027-01-16.solution.json",
+      "validation_file": "validation/2027-01-16.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-17",
+      "theme": {
+        "name": "Inventions & printing",
+        "occasion": "Benjamin Franklin's birthday"
+      },
+      "bonus": {
+        "title": "Benjamin Franklin's birthday",
+        "description": "Benjamin Franklin was born on 17 January 1706 and is remembered for work spanning printing, science, invention and public life."
+      },
+      "shape": {
+        "id": "light-bulb",
+        "name": "Light bulb",
+        "grid_file": "../shapes/2027-01-17-light-bulb.grid.json",
+        "svg_file": "../shapes/2027-01-17-light-bulb.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-17-inventions-printing",
+        "file": "../dictionaries/2027-01-17-inventions-printing.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 5,
+        "max_slot_crossings": 5,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2027-01-17.puzzle.json",
+      "solution_file": "solutions/2027-01-17.solution.json",
+      "validation_file": "validation/2027-01-17.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-18",
+      "theme": {
+        "name": "Children's stories",
+        "occasion": "Winnie the Pooh Day"
+      },
+      "bonus": {
+        "title": "Winnie the Pooh Day",
+        "description": "Winnie the Pooh Day is marked on 18 January, the birthday of author A. A. Milne, and celebrates his much-loved children's stories."
+      },
+      "shape": {
+        "id": "teddy-bear",
+        "name": "Teddy bear",
+        "grid_file": "../shapes/2027-01-18-teddy-bear.grid.json",
+        "svg_file": "../shapes/2027-01-18-teddy-bear.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-18-children-s-stories",
+        "file": "../dictionaries/2027-01-18-children-s-stories.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 6,
+        "down_slots": 9,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 3,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2027-01-18.puzzle.json",
+      "solution_file": "solutions/2027-01-18.solution.json",
+      "validation_file": "validation/2027-01-18.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-19",
+      "theme": {
+        "name": "Cinema snacks",
+        "occasion": "National Popcorn Day"
+      },
+      "bonus": {
+        "title": "National Popcorn Day",
+        "description": "National Popcorn Day is an informal celebration of popcorn, a snack strongly associated with cinema and movie nights."
+      },
+      "shape": {
+        "id": "popcorn-box",
+        "name": "Popcorn box",
+        "grid_file": "../shapes/2027-01-19-popcorn-box.grid.json",
+        "svg_file": "../shapes/2027-01-19-popcorn-box.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-19-cinema-snacks",
+        "file": "../dictionaries/2027-01-19-cinema-snacks.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 4,
+        "max_slot_crossings": 3,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2027-01-19.puzzle.json",
+      "solution_file": "solutions/2027-01-19.solution.json",
+      "validation_file": "validation/2027-01-19.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-20",
+      "theme": {
+        "name": "Polar wildlife",
+        "occasion": "Penguin Awareness Day"
+      },
+      "bonus": {
+        "title": "Penguin Awareness Day",
+        "description": "Penguin Awareness Day on 20 January encourages interest in penguins, their habitats and conservation."
+      },
+      "shape": {
+        "id": "penguin",
+        "name": "Penguin",
+        "grid_file": "../shapes/2027-01-20-penguin.grid.json",
+        "svg_file": "../shapes/2027-01-20-penguin.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-20-polar-wildlife",
+        "file": "../dictionaries/2027-01-20-polar-wildlife.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 5,
+        "max_slot_crossings": 3,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2027-01-20.puzzle.json",
+      "solution_file": "solutions/2027-01-20.solution.json",
+      "validation_file": "validation/2027-01-20.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-21",
+      "theme": {
+        "name": "Woodland wildlife",
+        "occasion": "Squirrel Appreciation Day"
+      },
+      "bonus": {
+        "title": "Squirrel Appreciation Day",
+        "description": "Squirrel Appreciation Day on 21 January celebrates squirrels and the role they play in woodland and urban ecosystems."
+      },
+      "shape": {
+        "id": "acorn",
+        "name": "Acorn",
+        "grid_file": "../shapes/2027-01-21-acorn.grid.json",
+        "svg_file": "../shapes/2027-01-21-acorn.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-21-woodland-wildlife",
+        "file": "../dictionaries/2027-01-21-woodland-wildlife.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 4,
+        "max_slot_crossings": 3,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2027-01-21.puzzle.json",
+      "solution_file": "solutions/2027-01-21.solution.json",
+      "validation_file": "validation/2027-01-21.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-22",
+      "theme": {
+        "name": "Celebration & joy",
+        "occasion": "Celebration of Life Day"
+      },
+      "bonus": {
+        "title": "Celebration of Life Day",
+        "description": "Celebration of Life Day is an informal observance encouraging people to appreciate life, family and everyday moments worth celebrating."
+      },
+      "shape": {
+        "id": "balloon",
+        "name": "Balloon",
+        "grid_file": "../shapes/2027-01-22-balloon.grid.json",
+        "svg_file": "../shapes/2027-01-22-balloon.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-22-celebration-joy",
+        "file": "../dictionaries/2027-01-22-celebration-joy.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 4,
+        "max_slot_crossings": 5,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2027-01-22.puzzle.json",
+      "solution_file": "solutions/2027-01-22.solution.json",
+      "validation_file": "validation/2027-01-22.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-23",
+      "theme": {
+        "name": "Pies & baking",
+        "occasion": "National Pie Day"
+      },
+      "bonus": {
+        "title": "National Pie Day",
+        "description": "National Pie Day is observed in the United States on 23 January and celebrates sweet and savoury pies and the craft of baking them."
+      },
+      "shape": {
+        "id": "pie",
+        "name": "Pie",
+        "grid_file": "../shapes/2027-01-23-pie.grid.json",
+        "svg_file": "../shapes/2027-01-23-pie.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-23-pies-baking",
+        "file": "../dictionaries/2027-01-23-pies-baking.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 5,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2027-01-23.puzzle.json",
+      "solution_file": "solutions/2027-01-23.solution.json",
+      "validation_file": "validation/2027-01-23.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-24",
+      "theme": {
+        "name": "Education & learning",
+        "occasion": "International Day of Education"
+      },
+      "bonus": {
+        "title": "International Day of Education",
+        "description": "The United Nations observes 24 January as the International Day of Education, celebrating education's role in peace and development."
+      },
+      "shape": {
+        "id": "graduation-cap",
+        "name": "Graduation cap",
+        "grid_file": "../shapes/2027-01-24-graduation-cap.grid.json",
+        "svg_file": "../shapes/2027-01-24-graduation-cap.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-24-education-learning",
+        "file": "../dictionaries/2027-01-24-education-learning.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 13,
+        "across_slots": 6,
+        "down_slots": 7,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.31,
+        "leaf_slots": 2,
+        "max_slot_crossings": 5,
+        "seed_letters": 1
+      },
+      "puzzle_file": "puzzles/2027-01-24.puzzle.json",
+      "solution_file": "solutions/2027-01-24.solution.json",
+      "validation_file": "validation/2027-01-24.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-25",
+      "theme": {
+        "name": "Scotland & Burns Night",
+        "occasion": "Burns Night"
+      },
+      "bonus": {
+        "title": "Burns Night",
+        "description": "Burns Night is celebrated in Scotland on 25 January, Robert Burns's birthday, with poetry, music and traditional food."
+      },
+      "shape": {
+        "id": "saltire-badge",
+        "name": "Saltire badge",
+        "grid_file": "../shapes/2027-01-25-saltire-badge.grid.json",
+        "svg_file": "../shapes/2027-01-25-saltire-badge.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-25-scotland-burns-night",
+        "file": "../dictionaries/2027-01-25-scotland-burns-night.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 17,
+        "average_crossings_per_slot": 2.27,
+        "leaf_slots": 2,
+        "max_slot_crossings": 3,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2027-01-25.puzzle.json",
+      "solution_file": "solutions/2027-01-25.solution.json",
+      "validation_file": "validation/2027-01-25.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-26",
+      "theme": {
+        "name": "Clean energy & electricity",
+        "occasion": "International Day of Clean Energy"
+      },
+      "bonus": {
+        "title": "International Day of Clean Energy",
+        "description": "The United Nations observes 26 January as the International Day of Clean Energy, highlighting the transition to cleaner energy systems."
+      },
+      "shape": {
+        "id": "lightning-badge",
+        "name": "Lightning badge",
+        "grid_file": "../shapes/2027-01-26-lightning-badge.grid.json",
+        "svg_file": "../shapes/2027-01-26-lightning-badge.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-26-clean-energy-electricity",
+        "file": "../dictionaries/2027-01-26-clean-energy-electricity.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 4,
+        "max_slot_crossings": 3,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2027-01-26.puzzle.json",
+      "solution_file": "solutions/2027-01-26.solution.json",
+      "validation_file": "validation/2027-01-26.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-27",
+      "theme": {
+        "name": "Chocolate & cake",
+        "occasion": "National Chocolate Cake Day"
+      },
+      "bonus": {
+        "title": "National Chocolate Cake Day",
+        "description": "National Chocolate Cake Day is an informal United States food observance devoted to chocolate cakes, baking and desserts."
+      },
+      "shape": {
+        "id": "chocolate-cake",
+        "name": "Chocolate cake",
+        "grid_file": "../shapes/2027-01-27-chocolate-cake.grid.json",
+        "svg_file": "../shapes/2027-01-27-chocolate-cake.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-27-chocolate-cake",
+        "file": "../dictionaries/2027-01-27-chocolate-cake.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 9,
+        "down_slots": 6,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 3,
+        "max_slot_crossings": 3,
+        "seed_letters": 5
+      },
+      "puzzle_file": "puzzles/2027-01-27.puzzle.json",
+      "solution_file": "solutions/2027-01-27.solution.json",
+      "validation_file": "validation/2027-01-27.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-28",
+      "theme": {
+        "name": "Computers & data privacy",
+        "occasion": "Data Protection Day / Privacy Day"
+      },
+      "bonus": {
+        "title": "Data Protection Day / Privacy Day",
+        "description": "Data Protection Day is observed on 28 January in Europe and is known as Privacy Day in many other places, promoting awareness of personal-data protection."
+      },
+      "shape": {
+        "id": "padlock",
+        "name": "Padlock",
+        "grid_file": "../shapes/2027-01-28-padlock.grid.json",
+        "svg_file": "../shapes/2027-01-28-padlock.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-28-computers-data-privacy",
+        "file": "../dictionaries/2027-01-28-computers-data-privacy.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 6,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2027-01-28.puzzle.json",
+      "solution_file": "solutions/2027-01-28.solution.json",
+      "validation_file": "validation/2027-01-28.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-29",
+      "theme": {
+        "name": "Puzzles & brain games",
+        "occasion": "National Puzzle Day"
+      },
+      "bonus": {
+        "title": "National Puzzle Day",
+        "description": "National Puzzle Day is an informal celebration of jigsaws, logic puzzles, word games and other brain-teasing activities."
+      },
+      "shape": {
+        "id": "puzzle-piece",
+        "name": "Puzzle piece",
+        "grid_file": "../shapes/2027-01-29-puzzle-piece.grid.json",
+        "svg_file": "../shapes/2027-01-29-puzzle-piece.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-29-puzzles-brain-games",
+        "file": "../dictionaries/2027-01-29-puzzles-brain-games.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 8,
+        "down_slots": 7,
+        "crossings": 16,
+        "average_crossings_per_slot": 2.13,
+        "leaf_slots": 3,
+        "max_slot_crossings": 4,
+        "seed_letters": 3
+      },
+      "puzzle_file": "puzzles/2027-01-29.puzzle.json",
+      "solution_file": "solutions/2027-01-29.solution.json",
+      "validation_file": "validation/2027-01-29.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-30",
+      "theme": {
+        "name": "Bread & pastries",
+        "occasion": "National Croissant Day"
+      },
+      "bonus": {
+        "title": "National Croissant Day",
+        "description": "National Croissant Day is an informal food observance celebrating the flaky, layered pastry and related baking traditions."
+      },
+      "shape": {
+        "id": "croissant",
+        "name": "Croissant",
+        "grid_file": "../shapes/2027-01-30-croissant.grid.json",
+        "svg_file": "../shapes/2027-01-30-croissant.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-30-bread-pastries",
+        "file": "../dictionaries/2027-01-30-bread-pastries.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 2
+      },
+      "puzzle_file": "puzzles/2027-01-30.puzzle.json",
+      "solution_file": "solutions/2027-01-30.solution.json",
+      "validation_file": "validation/2027-01-30.validation.json",
+      "status": "PASS"
+    },
+    {
+      "date": "2027-01-31",
+      "theme": {
+        "name": "African wildlife",
+        "occasion": "International Zebra Day"
+      },
+      "bonus": {
+        "title": "International Zebra Day",
+        "description": "International Zebra Day is observed on 31 January and is used to raise awareness of zebras and the habitats they depend on."
+      },
+      "shape": {
+        "id": "zebra-head",
+        "name": "Zebra head",
+        "grid_file": "../shapes/2027-01-31-zebra-head.grid.json",
+        "svg_file": "../shapes/2027-01-31-zebra-head.svg"
+      },
+      "dictionary": {
+        "id": "2027-01-31-african-wildlife",
+        "file": "../dictionaries/2027-01-31-african-wildlife.word-list.json",
+        "approved_word_count": 100
+      },
+      "complexity": {
+        "slot_count": 15,
+        "across_slots": 7,
+        "down_slots": 8,
+        "crossings": 15,
+        "average_crossings_per_slot": 2.0,
+        "leaf_slots": 4,
+        "max_slot_crossings": 4,
+        "seed_letters": 4
+      },
+      "puzzle_file": "puzzles/2027-01-31.puzzle.json",
+      "solution_file": "solutions/2027-01-31.solution.json",
+      "validation_file": "validation/2027-01-31.validation.json",
+      "status": "PASS"
+    }
+  ]
+}

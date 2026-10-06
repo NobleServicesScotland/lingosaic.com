@@ -1,0 +1,703 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-09",
+  "date": "2026-11-09",
+  "theme": "British puddings & desserts",
+  "shape_id": "pudding-bowl",
+  "dictionary_id": "2026-11-09-british-puddings-desserts",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-09",
+  "solution_grid": [
+    "###############",
+    "####*##########",
+    "###*J*#########",
+    "###*E*####G####",
+    "###BLUEBERRY###",
+    "##**L*****A**##",
+    "##*RYE*CRUNCH##",
+    "##*****H**O**##",
+    "##**SAGO**L**##",
+    "###****CREAM###",
+    "###FRY*O***A###",
+    "###*H**L***N###",
+    "###CUSTARD*G###",
+    "###*B**T***O###",
+    "####A*PECAN####",
+    "###*R*******###",
+    "###*BANANA**###",
+    "###***U*****###",
+    "####BUTTER*####",
+    "###############"
+  ],
+  "canonical_solution": "JEGBLUEBERRYLARYECRUNCHHOSAGOLCREAMFRYOAHLNCUSTARDGBTOAPECANRBANANAUBUTTER",
+  "solution_hash": "ff2a0fb3202765a0aabda8c6b7dbbf17efeb6d8bdc07caace62d493660e64bf5",
+  "seed_letters": [
+    {
+      "row": 14,
+      "col": 6,
+      "letter": "P"
+    },
+    {
+      "row": 14,
+      "col": 8,
+      "letter": "C"
+    },
+    {
+      "row": 18,
+      "col": 5,
+      "letter": "U"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 11
+        }
+      ],
+      "answer": "BLUEBERRY"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        }
+      ],
+      "answer": "RYE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 12
+        }
+      ],
+      "answer": "CRUNCH"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        }
+      ],
+      "answer": "SAGO"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "CREAM"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "FRY"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        }
+      ],
+      "answer": "CUSTARD"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 10
+        }
+      ],
+      "answer": "PECAN"
+    },
+    {
+      "id": "A9",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 16,
+          "col": 4
+        },
+        {
+          "row": 16,
+          "col": 5
+        },
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        }
+      ],
+      "answer": "BANANA"
+    },
+    {
+      "id": "A10",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 18,
+          "col": 4
+        },
+        {
+          "row": 18,
+          "col": 5
+        },
+        {
+          "row": 18,
+          "col": 6
+        },
+        {
+          "row": 18,
+          "col": 7
+        },
+        {
+          "row": 18,
+          "col": 8
+        },
+        {
+          "row": 18,
+          "col": 9
+        }
+      ],
+      "answer": "BUTTER"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        }
+      ],
+      "answer": "JELLY"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 16,
+          "col": 4
+        }
+      ],
+      "answer": "RHUBARB"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 16,
+          "col": 6
+        },
+        {
+          "row": 17,
+          "col": 6
+        },
+        {
+          "row": 18,
+          "col": 6
+        }
+      ],
+      "answer": "NUT"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        }
+      ],
+      "answer": "CHOCOLATE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "GRANOLA"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 9,
+          "col": 11
+        },
+        {
+          "row": 10,
+          "col": 11
+        },
+        {
+          "row": 11,
+          "col": 11
+        },
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 11
+        }
+      ],
+      "answer": "MANGO"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 4,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "L"
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 7,
+      "slot_b": "D5",
+      "slot_b_index": 1,
+      "letter": "R"
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "slot_a": "A2",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 4,
+      "letter": "Y"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "slot_a": "A3",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 6,
+      "col": 10,
+      "slot_a": "A3",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 3,
+      "letter": "N"
+    },
+    {
+      "row": 8,
+      "col": 7,
+      "slot_a": "A4",
+      "slot_a_index": 3,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "O"
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 3,
+      "letter": "C"
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "slot_a": "A5",
+      "slot_a_index": 3,
+      "slot_b": "D5",
+      "slot_b_index": 6,
+      "letter": "A"
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "slot_a": "A5",
+      "slot_a_index": 4,
+      "slot_b": "D6",
+      "slot_b_index": 0,
+      "letter": "M"
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "slot_a": "A6",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 0,
+      "letter": "R"
+    },
+    {
+      "row": 12,
+      "col": 4,
+      "slot_a": "A7",
+      "slot_a_index": 1,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "U"
+    },
+    {
+      "row": 12,
+      "col": 7,
+      "slot_a": "A7",
+      "slot_a_index": 4,
+      "slot_b": "D4",
+      "slot_b_index": 6,
+      "letter": "A"
+    },
+    {
+      "row": 14,
+      "col": 7,
+      "slot_a": "A8",
+      "slot_a_index": 1,
+      "slot_b": "D4",
+      "slot_b_index": 8,
+      "letter": "E"
+    },
+    {
+      "row": 16,
+      "col": 4,
+      "slot_a": "A9",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 6,
+      "letter": "B"
+    },
+    {
+      "row": 16,
+      "col": 6,
+      "slot_a": "A9",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 0,
+      "letter": "N"
+    },
+    {
+      "row": 18,
+      "col": 6,
+      "slot_a": "A10",
+      "slot_a_index": 2,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "T"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 10,
+    "down_slots": 6,
+    "crossings": 16,
+    "average_crossings_per_slot": 2.0,
+    "leaf_slots": 6,
+    "max_slot_crossings": 5,
+    "seed_letters": 3
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

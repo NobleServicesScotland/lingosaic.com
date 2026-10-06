@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-22",
+  "date": "2026-11-22",
+  "daily_number": 38,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-22",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Music & musicians",
+    "occasion": "Feast of St Cecilia"
+  },
+  "bonus": {
+    "title": "Feast of St Cecilia",
+    "description": "St Cecilia is traditionally regarded as the patron saint of music and musicians."
+  },
+  "shape": {
+    "id": "musical-note",
+    "name": "Musical note",
+    "grid_file": "../shapes/2026-11-22-musical-note.grid.json",
+    "svg_file": "../shapes/2026-11-22-musical-note.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-22-music-musicians",
+    "file": "../dictionaries/2026-11-22-music-musicians.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "########XXXXX##",
+      "########.XXXX##",
+      "########.XXXX##",
+      "####.#.#.X.####",
+      "####.#O#GXO####",
+      "####.......####",
+      "####.#.X.X.####",
+      "###X.XXXXXX####",
+      "##XX.XXXXXX####",
+      "##XX.XXXXXX####",
+      "##XX.XXXXX#####",
+      "###X.XXXX######",
+      "######XX#######"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "O"
+      },
+      {
+        "row": 6,
+        "col": 8,
+        "letter": "G"
+      },
+      {
+        "row": 6,
+        "col": 10,
+        "letter": "O"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "681a601043eb2f8bcec79e86e0fceb7422ec7791053c6c8b4a784c1ebe2b5da9"
+  }
+}

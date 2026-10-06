@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-02",
+  "date": "2026-11-02",
+  "daily_number": 18,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-02",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Remembrance & memorials",
+    "occasion": "All Souls' Day"
+  },
+  "bonus": {
+    "title": "All Souls' Day",
+    "description": "All Souls' Day is traditionally a day of remembrance for the dead, often marked with candles, prayers and visits to graves."
+  },
+  "shape": {
+    "id": "memorial-candle",
+    "name": "Memorial candle",
+    "grid_file": "../shapes/2026-11-02-memorial-candle.grid.json",
+    "svg_file": "../shapes/2026-11-02-memorial-candle.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-02-remembrance-memorials",
+    "file": "../dictionaries/2026-11-02-remembrance-memorials.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "######XXX######",
+      "#####XXXX.#####",
+      "#####XXXX.#####",
+      "#####XXXX.#####",
+      "###.#.X.XU#####",
+      "###.#.X.XM#####",
+      "###........####",
+      "###.#.XOX.#####",
+      "###.#.X.X.#####",
+      "###.#.X.XX#####",
+      "###.#XX.XX#####",
+      "#####XX.XX#####",
+      "#####XXXXX#####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 5,
+        "col": 9,
+        "letter": "U"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "M"
+      },
+      {
+        "row": 8,
+        "col": 7,
+        "letter": "O"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "8b9f0b7ed10d99b66f061ff190ea2af46133168d4b5f7757e1a150fb1aa808c6"
+  }
+}

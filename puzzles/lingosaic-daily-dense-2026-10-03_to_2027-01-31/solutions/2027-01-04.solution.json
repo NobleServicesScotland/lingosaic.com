@@ -1,0 +1,718 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-04",
+  "date": "2027-01-04",
+  "theme": "Accessibility & Braille",
+  "shape_id": "braille-cell",
+  "dictionary_id": "2027-01-04-accessibility-braille",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-04",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###############",
+    "##*********D*##",
+    "##**INFECTION##",
+    "##**N******S*##",
+    "##A*J**PULSE*##",
+    "##DIET****K**##",
+    "##A*C*M***I**##",
+    "##P*TRAINING*##",
+    "##T*I*G******##",
+    "##*WOUND**B**##",
+    "##**N*I*GERM*##",
+    "##****F***A**##",
+    "##*SANITATION##",
+    "##*I**E*I*N**##",
+    "##*G**R*D****##",
+    "##*N***FEVER*##",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "DINFECTIONNSAJPULSEDIETKACMIPTRAININGTIGWOUNDBNIGERMFASANITATIONIEINGRDNFEVER",
+  "solution_hash": "0ec5253b724bfded47a15052c6deff6af8979b9437d1c05dc2925c41f3907c56",
+  "seed_letters": [
+    {
+      "row": 3,
+      "col": 11,
+      "letter": "D"
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "letter": "F"
+    },
+    {
+      "row": 6,
+      "col": 7,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "letter": "K"
+    },
+    {
+      "row": 12,
+      "col": 8,
+      "letter": "G"
+    },
+    {
+      "row": 15,
+      "col": 3,
+      "letter": "I"
+    },
+    {
+      "row": 17,
+      "col": 7,
+      "letter": "F"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 9,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 4,
+          "col": 12
+        }
+      ],
+      "answer": "INFECTION"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 11
+        }
+      ],
+      "answer": "PULSE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        }
+      ],
+      "answer": "DIET"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 11
+        }
+      ],
+      "answer": "TRAINING"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 3
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 7
+        }
+      ],
+      "answer": "WOUND"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 12,
+          "col": 8
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 11
+        }
+      ],
+      "answer": "GERM"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 10,
+      "cells": [
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 12
+        }
+      ],
+      "answer": "SANITATION"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 17,
+          "col": 7
+        },
+        {
+          "row": 17,
+          "col": 8
+        },
+        {
+          "row": 17,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 10
+        },
+        {
+          "row": 17,
+          "col": 11
+        }
+      ],
+      "answer": "FEVER"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 3,
+          "col": 11
+        },
+        {
+          "row": 4,
+          "col": 11
+        },
+        {
+          "row": 5,
+          "col": 11
+        },
+        {
+          "row": 6,
+          "col": 11
+        }
+      ],
+      "answer": "DOSE"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        }
+      ],
+      "answer": "INJECTION"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 2
+        }
+      ],
+      "answer": "ADAPT"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "SKIN"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 16,
+          "col": 6
+        }
+      ],
+      "answer": "MAGNIFIER"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 11,
+          "col": 10
+        },
+        {
+          "row": 12,
+          "col": 10
+        },
+        {
+          "row": 13,
+          "col": 10
+        },
+        {
+          "row": 14,
+          "col": 10
+        },
+        {
+          "row": 15,
+          "col": 10
+        }
+      ],
+      "answer": "BRAIN"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 15,
+          "col": 3
+        },
+        {
+          "row": 16,
+          "col": 3
+        },
+        {
+          "row": 17,
+          "col": 3
+        }
+      ],
+      "answer": "SIGN"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 17,
+          "col": 8
+        }
+      ],
+      "answer": "AIDE"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 4,
+      "col": 4,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 4,
+      "col": 11,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 6,
+      "col": 10,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 6,
+      "col": 11,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D3",
+      "row": 7,
+      "col": 2,
+      "letter": "D"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D2",
+      "row": 7,
+      "col": 4,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D2",
+      "row": 9,
+      "col": 4,
+      "letter": "T"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D5",
+      "row": 9,
+      "col": 6,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 9,
+      "col": 10,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D2",
+      "row": 11,
+      "col": 4,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 11,
+      "col": 6,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 12,
+      "col": 10,
+      "letter": "R"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 14,
+      "col": 3,
+      "letter": "S"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D5",
+      "row": 14,
+      "col": 6,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D8",
+      "row": 14,
+      "col": 8,
+      "letter": "A"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D6",
+      "row": 14,
+      "col": 10,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D8",
+      "row": 17,
+      "col": 8,
+      "letter": "E"
+    }
+  ],
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 8,
+    "down_slots": 8,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.12,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 7
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-29",
+  "date": "2026-11-29",
+  "daily_number": 45,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-29",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Advent & Christmas preparation",
+    "occasion": "First Sunday of Advent"
+  },
+  "bonus": {
+    "title": "First Sunday of Advent",
+    "description": "The first Sunday of Advent begins the traditional season of preparation for Christmas."
+  },
+  "shape": {
+    "id": "advent-candle",
+    "name": "Advent candle",
+    "grid_file": "../shapes/2026-11-29-advent-candle.grid.json",
+    "svg_file": "../shapes/2026-11-29-advent-candle.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-29-advent-christmas-preparation",
+    "file": "../dictionaries/2026-11-29-advent-christmas-preparation.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "######XXX######",
+      "#####XXXX.#####",
+      "#####.XXX.#####",
+      "#####.XXX.#####",
+      "###.#.X.X.#####",
+      "###U#.X.X.#####",
+      "###........####",
+      "###D#.X.X.#####",
+      "###.#XX.X.#####",
+      "###.#XX.X.#####",
+      "#####XXXXX#####",
+      "#####XXXXX#####",
+      "#####XXXXX#####",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 3,
+        "letter": "U"
+      },
+      {
+        "row": 8,
+        "col": 3,
+        "letter": "D"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "8283832c93decb54b91c2df9746972f244214341a3b57037f1c77b32122bca75"
+  }
+}

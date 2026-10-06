@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-10-25",
+  "date": "2026-10-25",
+  "theme": "Clocks, time & daylight",
+  "shape_id": "clock",
+  "dictionary_id": "2026-10-25-clocks-time-daylight",
+  "generator_seed": "daily-2026-10-25",
+  "solution_grid": [
+    "#######X#######",
+    "###XXXXXXXXX###",
+    "####XXXXXXX####",
+    "###XXXXXXXXX###",
+    "##XXXXXXXXXXS##",
+    "##TXEXMXTXAXU##",
+    "#XIXAXOXIXFXNX#",
+    "#XCHRONOMETERX#",
+    "#XKXLXTXEXEXIX#",
+    "##XXYXHXRXRXS##",
+    "##XXXXXXXXXXE##",
+    "###XXXXXXXXX###",
+    "####XXXXXXX####",
+    "######XXX######",
+    "####X#####X####"
+  ],
+  "canonical_solution": "STEMTAUIAOIFNCHRONOMETERKLTEEIYHRRSE",
+  "solution_hash": "fd7dfaf818a7facae64e295046917a2342c8a8c2e48983ae08e558ef34440a90",
+  "seed_letters": [
+    {
+      "row": 4,
+      "col": 12,
+      "letter": "S"
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "letter": "E"
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "letter": "A"
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "letter": "I"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 11,
+      "cells": [
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 11
+        },
+        {
+          "row": 7,
+          "col": 12
+        }
+      ],
+      "answer": "CHRONOMETER"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 7,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 2
+        }
+      ],
+      "answer": "TICK"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ],
+      "answer": "EARLY"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        }
+      ],
+      "answer": "MONTH"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "TIMER"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ],
+      "answer": "AFTER"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 4,
+          "col": 12
+        },
+        {
+          "row": 5,
+          "col": 12
+        },
+        {
+          "row": 6,
+          "col": 12
+        },
+        {
+          "row": 7,
+          "col": 12
+        },
+        {
+          "row": 8,
+          "col": 12
+        },
+        {
+          "row": 9,
+          "col": 12
+        },
+        {
+          "row": 10,
+          "col": 12
+        }
+      ],
+      "answer": "SUNRISE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 2,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 2,
+      "letter": "N"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "M"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 8,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "T"
+    },
+    {
+      "row": 7,
+      "col": 12,
+      "slot_a": "A1",
+      "slot_a_index": 10,
+      "slot_b": "D6",
+      "slot_b_index": 3,
+      "letter": "R"
+    }
+  ],
+  "uniqueness_count": 1
+}

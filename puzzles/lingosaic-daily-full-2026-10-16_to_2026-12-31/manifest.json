@@ -1,0 +1,1475 @@
+{
+  "schema_version": 1,
+  "batch_id": "daily-full-2026",
+  "period": {
+    "from": "2026-10-16",
+    "to": "2026-12-31",
+    "count": 77
+  },
+  "generator_note": "Complete 2026 launch set. Every puzzle has a 100-word approved dictionary and was independently re-solved against its published seed letters; all return exactly one solution.",
+  "days": [
+    {
+      "date": "2026-10-16",
+      "theme": "Bread & baking",
+      "occasion": "World Food Day / World Bread Day",
+      "shape": "Bread loaf",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-16-bread-loaf.grid.json",
+        "shape_svg": "shapes/2026-10-16-bread-loaf.svg",
+        "dictionary": "dictionaries/2026-10-16-bread-baking.word-list.json",
+        "puzzle": "puzzles/2026-10-16.puzzle.json",
+        "solution": "solutions/2026-10-16.solution.json",
+        "validation": "reports/2026-10-16.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "theme": "Pasta & Italian cooking",
+      "occasion": "National Pasta Day",
+      "shape": "Pasta bowl",
+      "dictionary_words": 100,
+      "slots": 7,
+      "crossings": 6,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-17-pasta-bowl.grid.json",
+        "shape_svg": "shapes/2026-10-17-pasta-bowl.svg",
+        "dictionary": "dictionaries/2026-10-17-pasta-italian-cooking.word-list.json",
+        "puzzle": "puzzles/2026-10-17.puzzle.json",
+        "solution": "solutions/2026-10-17.solution.json",
+        "validation": "reports/2026-10-17.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "theme": "African wildlife",
+      "occasion": "World Okapi Day",
+      "shape": "Elephant head",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-18-elephant-head.grid.json",
+        "shape_svg": "shapes/2026-10-18-elephant-head.svg",
+        "dictionary": "dictionaries/2026-10-18-african-wildlife.word-list.json",
+        "puzzle": "puzzles/2026-10-18.puzzle.json",
+        "solution": "solutions/2026-10-18.solution.json",
+        "validation": "reports/2026-10-18.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "theme": "Seafood & coastal cooking",
+      "occasion": "National Seafood Bisque Day",
+      "shape": "Fish",
+      "dictionary_words": 100,
+      "slots": 7,
+      "crossings": 6,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-19-fish.grid.json",
+        "shape_svg": "shapes/2026-10-19-fish.svg",
+        "dictionary": "dictionaries/2026-10-19-seafood-coastal-cooking.word-list.json",
+        "puzzle": "puzzles/2026-10-19.puzzle.json",
+        "solution": "solutions/2026-10-19.solution.json",
+        "validation": "reports/2026-10-19.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "theme": "Rainforest animals",
+      "occasion": "International Sloth Day",
+      "shape": "Sloth face",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-20-sloth-face.grid.json",
+        "shape_svg": "shapes/2026-10-20-sloth-face.svg",
+        "dictionary": "dictionaries/2026-10-20-rainforest-animals.word-list.json",
+        "puzzle": "puzzles/2026-10-20.puzzle.json",
+        "solution": "solutions/2026-10-20.solution.json",
+        "validation": "reports/2026-10-20.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "theme": "Apples & orchards",
+      "occasion": "Apple Day",
+      "shape": "Apple",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-21-apple.grid.json",
+        "shape_svg": "shapes/2026-10-21-apple.svg",
+        "dictionary": "dictionaries/2026-10-21-apples-orchards.word-list.json",
+        "puzzle": "puzzles/2026-10-21.puzzle.json",
+        "solution": "solutions/2026-10-21.solution.json",
+        "validation": "reports/2026-10-21.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "theme": "Nuts & seeds",
+      "occasion": "National Nut Day",
+      "shape": "Acorn",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-22-acorn.grid.json",
+        "shape_svg": "shapes/2026-10-22-acorn.svg",
+        "dictionary": "dictionaries/2026-10-22-nuts-seeds.word-list.json",
+        "puzzle": "puzzles/2026-10-22.puzzle.json",
+        "solution": "solutions/2026-10-22.solution.json",
+        "validation": "reports/2026-10-22.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "theme": "Big cats & snow leopards",
+      "occasion": "International Snow Leopard Day",
+      "shape": "Snow leopard head",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-23-snow-leopard-head.grid.json",
+        "shape_svg": "shapes/2026-10-23-snow-leopard-head.svg",
+        "dictionary": "dictionaries/2026-10-23-big-cats-snow-leopards.word-list.json",
+        "puzzle": "puzzles/2026-10-23.puzzle.json",
+        "solution": "solutions/2026-10-23.solution.json",
+        "validation": "reports/2026-10-23.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "theme": "Countries & diplomacy",
+      "occasion": "United Nations Day",
+      "shape": "Globe",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-24-globe.grid.json",
+        "shape_svg": "shapes/2026-10-24-globe.svg",
+        "dictionary": "dictionaries/2026-10-24-countries-diplomacy.word-list.json",
+        "puzzle": "puzzles/2026-10-24.puzzle.json",
+        "solution": "solutions/2026-10-24.solution.json",
+        "validation": "reports/2026-10-24.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "theme": "Clocks, time & daylight",
+      "occasion": "British Summer Time ends",
+      "shape": "Clock",
+      "dictionary_words": 100,
+      "slots": 7,
+      "crossings": 6,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-25-clock.grid.json",
+        "shape_svg": "shapes/2026-10-25-clock.svg",
+        "dictionary": "dictionaries/2026-10-25-clocks-time-daylight.word-list.json",
+        "puzzle": "puzzles/2026-10-25.puzzle.json",
+        "solution": "solutions/2026-10-25.solution.json",
+        "validation": "reports/2026-10-25.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "theme": "Pumpkins & squashes",
+      "occasion": "National Pumpkin Day",
+      "shape": "Pumpkin",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-26-pumpkin.grid.json",
+        "shape_svg": "shapes/2026-10-26-pumpkin.svg",
+        "dictionary": "dictionaries/2026-10-26-pumpkins-squashes.word-list.json",
+        "puzzle": "puzzles/2026-10-26.puzzle.json",
+        "solution": "solutions/2026-10-26.solution.json",
+        "validation": "reports/2026-10-26.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "theme": "Film, sound & recording",
+      "occasion": "World Day for Audiovisual Heritage",
+      "shape": "Film reel",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-27-film-reel.grid.json",
+        "shape_svg": "shapes/2026-10-27-film-reel.svg",
+        "dictionary": "dictionaries/2026-10-27-film-sound-recording.word-list.json",
+        "puzzle": "puzzles/2026-10-27.puzzle.json",
+        "solution": "solutions/2026-10-27.solution.json",
+        "validation": "reports/2026-10-27.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "theme": "Chocolate & confectionery",
+      "occasion": "National Chocolate Day",
+      "shape": "Chocolate bar",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-28-chocolate-bar.grid.json",
+        "shape_svg": "shapes/2026-10-28-chocolate-bar.svg",
+        "dictionary": "dictionaries/2026-10-28-chocolate-confectionery.word-list.json",
+        "puzzle": "puzzles/2026-10-28.puzzle.json",
+        "solution": "solutions/2026-10-28.solution.json",
+        "validation": "reports/2026-10-28.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "theme": "Caregiving & helping professions",
+      "occasion": "International Day of Care and Support",
+      "shape": "Helping hands",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-29-helping-hands.grid.json",
+        "shape_svg": "shapes/2026-10-29-helping-hands.svg",
+        "dictionary": "dictionaries/2026-10-29-caregiving-helping-professions.word-list.json",
+        "puzzle": "puzzles/2026-10-29.puzzle.json",
+        "solution": "solutions/2026-10-29.solution.json",
+        "validation": "reports/2026-10-29.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "theme": "Classic monsters & horror",
+      "occasion": "Frankenstein Friday",
+      "shape": "Frankenstein monster",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-30-frankenstein-monster.grid.json",
+        "shape_svg": "shapes/2026-10-30-frankenstein-monster.svg",
+        "dictionary": "dictionaries/2026-10-30-classic-monsters-horror.word-list.json",
+        "puzzle": "puzzles/2026-10-30.puzzle.json",
+        "solution": "solutions/2026-10-30.solution.json",
+        "validation": "reports/2026-10-30.validation.json"
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "theme": "Halloween",
+      "occasion": "Halloween",
+      "shape": "Jack-o'-lantern",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-10-31-jack-o-lantern.grid.json",
+        "shape_svg": "shapes/2026-10-31-jack-o-lantern.svg",
+        "dictionary": "dictionaries/2026-10-31-halloween.word-list.json",
+        "puzzle": "puzzles/2026-10-31.puzzle.json",
+        "solution": "solutions/2026-10-31.solution.json",
+        "validation": "reports/2026-10-31.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "theme": "Saints, churches & pilgrimage",
+      "occasion": "All Saints' Day",
+      "shape": "Church",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-01-church.grid.json",
+        "shape_svg": "shapes/2026-11-01-church.svg",
+        "dictionary": "dictionaries/2026-11-01-saints-churches-pilgrimage.word-list.json",
+        "puzzle": "puzzles/2026-11-01.puzzle.json",
+        "solution": "solutions/2026-11-01.solution.json",
+        "validation": "reports/2026-11-01.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "theme": "Remembrance & memorials",
+      "occasion": "All Souls' Day",
+      "shape": "Memorial candle",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-02-memorial-candle.grid.json",
+        "shape_svg": "shapes/2026-11-02-memorial-candle.svg",
+        "dictionary": "dictionaries/2026-11-02-remembrance-memorials.word-list.json",
+        "puzzle": "puzzles/2026-11-02.puzzle.json",
+        "solution": "solutions/2026-11-02.solution.json",
+        "validation": "reports/2026-11-02.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "theme": "Sandwiches & fillings",
+      "occasion": "National Sandwich Day",
+      "shape": "Sandwich",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-03-sandwich.grid.json",
+        "shape_svg": "shapes/2026-11-03-sandwich.svg",
+        "dictionary": "dictionaries/2026-11-03-sandwiches-fillings.word-list.json",
+        "puzzle": "puzzles/2026-11-03.puzzle.json",
+        "solution": "solutions/2026-11-03.solution.json",
+        "validation": "reports/2026-11-03.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "theme": "Sweets & candy",
+      "occasion": "National Candy Day",
+      "shape": "Wrapped sweet",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-04-wrapped-sweet.grid.json",
+        "shape_svg": "shapes/2026-11-04-wrapped-sweet.svg",
+        "dictionary": "dictionaries/2026-11-04-sweets-candy.word-list.json",
+        "puzzle": "puzzles/2026-11-04.puzzle.json",
+        "solution": "solutions/2026-11-04.solution.json",
+        "validation": "reports/2026-11-04.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "theme": "Fireworks & bonfires",
+      "occasion": "Bonfire Night",
+      "shape": "Rocket firework",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-05-rocket-firework.grid.json",
+        "shape_svg": "shapes/2026-11-05-rocket-firework.svg",
+        "dictionary": "dictionaries/2026-11-05-fireworks-bonfires.word-list.json",
+        "puzzle": "puzzles/2026-11-05.puzzle.json",
+        "solution": "solutions/2026-11-05.solution.json",
+        "validation": "reports/2026-11-05.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "theme": "Saxophone & jazz",
+      "occasion": "Saxophone Day",
+      "shape": "Saxophone",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-06-saxophone.grid.json",
+        "shape_svg": "shapes/2026-11-06-saxophone.svg",
+        "dictionary": "dictionaries/2026-11-06-saxophone-jazz.word-list.json",
+        "puzzle": "puzzles/2026-11-06.puzzle.json",
+        "solution": "solutions/2026-11-06.solution.json",
+        "validation": "reports/2026-11-06.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "theme": "Bison & North American wildlife",
+      "occasion": "National Bison Day",
+      "shape": "Bison",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-07-bison.grid.json",
+        "shape_svg": "shapes/2026-11-07-bison.svg",
+        "dictionary": "dictionaries/2026-11-07-bison-north-american-wildlife.word-list.json",
+        "puzzle": "puzzles/2026-11-07.puzzle.json",
+        "solution": "solutions/2026-11-07.solution.json",
+        "validation": "reports/2026-11-07.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "theme": "STEM & inventions",
+      "occasion": "National STEM Day",
+      "shape": "Light bulb",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-08-light-bulb.grid.json",
+        "shape_svg": "shapes/2026-11-08-light-bulb.svg",
+        "dictionary": "dictionaries/2026-11-08-stem-inventions.word-list.json",
+        "puzzle": "puzzles/2026-11-08.puzzle.json",
+        "solution": "solutions/2026-11-08.solution.json",
+        "validation": "reports/2026-11-08.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "theme": "British puddings & desserts",
+      "occasion": "British Pudding Day",
+      "shape": "Pudding bowl",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-09-pudding-bowl.grid.json",
+        "shape_svg": "shapes/2026-11-09-pudding-bowl.svg",
+        "dictionary": "dictionaries/2026-11-09-british-puddings-desserts.word-list.json",
+        "puzzle": "puzzles/2026-11-09.puzzle.json",
+        "solution": "solutions/2026-11-09.solution.json",
+        "validation": "reports/2026-11-09.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "theme": "Science & discovery",
+      "occasion": "World Science Day for Peace and Development",
+      "shape": "Microscope",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-10-microscope.grid.json",
+        "shape_svg": "shapes/2026-11-10-microscope.svg",
+        "dictionary": "dictionaries/2026-11-10-science-discovery.word-list.json",
+        "puzzle": "puzzles/2026-11-10.puzzle.json",
+        "solution": "solutions/2026-11-10.solution.json",
+        "validation": "reports/2026-11-10.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "theme": "Remembrance & service",
+      "occasion": "Armistice Day / Veterans Day",
+      "shape": "Poppy",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-11-poppy.grid.json",
+        "shape_svg": "shapes/2026-11-11-poppy.svg",
+        "dictionary": "dictionaries/2026-11-11-remembrance-service.word-list.json",
+        "puzzle": "puzzles/2026-11-11.puzzle.json",
+        "solution": "solutions/2026-11-11.solution.json",
+        "validation": "reports/2026-11-11.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "theme": "Lungs & breathing",
+      "occasion": "World Pneumonia Day",
+      "shape": "Lungs",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 1,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-12-lungs.grid.json",
+        "shape_svg": "shapes/2026-11-12-lungs.svg",
+        "dictionary": "dictionaries/2026-11-12-lungs-breathing.word-list.json",
+        "puzzle": "puzzles/2026-11-12.puzzle.json",
+        "solution": "solutions/2026-11-12.solution.json",
+        "validation": "reports/2026-11-12.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "theme": "Kindness & helping others",
+      "occasion": "World Kindness Day",
+      "shape": "Heart",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-13-heart.grid.json",
+        "shape_svg": "shapes/2026-11-13-heart.svg",
+        "dictionary": "dictionaries/2026-11-13-kindness-helping-others.word-list.json",
+        "puzzle": "puzzles/2026-11-13.puzzle.json",
+        "solution": "solutions/2026-11-13.solution.json",
+        "validation": "reports/2026-11-13.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "theme": "Pickles & preserves",
+      "occasion": "National Pickle Day",
+      "shape": "Pickle jar",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-14-pickle-jar.grid.json",
+        "shape_svg": "shapes/2026-11-14-pickle-jar.svg",
+        "dictionary": "dictionaries/2026-11-14-pickles-preserves.word-list.json",
+        "puzzle": "puzzles/2026-11-14.puzzle.json",
+        "solution": "solutions/2026-11-14.solution.json",
+        "validation": "reports/2026-11-14.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "theme": "Recycling & reuse",
+      "occasion": "America Recycles Day",
+      "shape": "Recycling symbol",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-15-recycling-symbol.grid.json",
+        "shape_svg": "shapes/2026-11-15-recycling-symbol.svg",
+        "dictionary": "dictionaries/2026-11-15-recycling-reuse.word-list.json",
+        "puzzle": "puzzles/2026-11-15.puzzle.json",
+        "solution": "solutions/2026-11-15.solution.json",
+        "validation": "reports/2026-11-15.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "theme": "World cultures & tolerance",
+      "occasion": "International Day for Tolerance",
+      "shape": "Dove",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-16-dove.grid.json",
+        "shape_svg": "shapes/2026-11-16-dove.svg",
+        "dictionary": "dictionaries/2026-11-16-world-cultures-tolerance.word-list.json",
+        "puzzle": "puzzles/2026-11-16.puzzle.json",
+        "solution": "solutions/2026-11-16.solution.json",
+        "validation": "reports/2026-11-16.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "theme": "Students & university life",
+      "occasion": "International Students' Day",
+      "shape": "Graduation cap",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 1,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-17-graduation-cap.grid.json",
+        "shape_svg": "shapes/2026-11-17-graduation-cap.svg",
+        "dictionary": "dictionaries/2026-11-17-students-university-life.word-list.json",
+        "puzzle": "puzzles/2026-11-17.puzzle.json",
+        "solution": "solutions/2026-11-17.solution.json",
+        "validation": "reports/2026-11-17.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "theme": "Microbes, antibiotics & medicine",
+      "occasion": "Antimicrobial Resistance Awareness Week",
+      "shape": "Bacterium",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-18-bacterium.grid.json",
+        "shape_svg": "shapes/2026-11-18-bacterium.svg",
+        "dictionary": "dictionaries/2026-11-18-microbes-antibiotics-medicine.word-list.json",
+        "puzzle": "puzzles/2026-11-18.puzzle.json",
+        "solution": "solutions/2026-11-18.solution.json",
+        "validation": "reports/2026-11-18.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "theme": "Water, sanitation & plumbing",
+      "occasion": "World Toilet Day",
+      "shape": "Water droplet",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 6,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-19-water-droplet.grid.json",
+        "shape_svg": "shapes/2026-11-19-water-droplet.svg",
+        "dictionary": "dictionaries/2026-11-19-water-sanitation-plumbing.word-list.json",
+        "puzzle": "puzzles/2026-11-19.puzzle.json",
+        "solution": "solutions/2026-11-19.solution.json",
+        "validation": "reports/2026-11-19.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "theme": "Childhood & play",
+      "occasion": "World Children's Day",
+      "shape": "Teddy bear",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 1,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-20-teddy-bear.grid.json",
+        "shape_svg": "shapes/2026-11-20-teddy-bear.svg",
+        "dictionary": "dictionaries/2026-11-20-childhood-play.word-list.json",
+        "puzzle": "puzzles/2026-11-20.puzzle.json",
+        "solution": "solutions/2026-11-20.solution.json",
+        "validation": "reports/2026-11-20.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "theme": "Television & broadcasting",
+      "occasion": "World Television Day",
+      "shape": "Television",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-21-television.grid.json",
+        "shape_svg": "shapes/2026-11-21-television.svg",
+        "dictionary": "dictionaries/2026-11-21-television-broadcasting.word-list.json",
+        "puzzle": "puzzles/2026-11-21.puzzle.json",
+        "solution": "solutions/2026-11-21.solution.json",
+        "validation": "reports/2026-11-21.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-22",
+      "theme": "Music & musicians",
+      "occasion": "Feast of St Cecilia",
+      "shape": "Musical note",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-22-musical-note.grid.json",
+        "shape_svg": "shapes/2026-11-22-musical-note.svg",
+        "dictionary": "dictionaries/2026-11-22-music-musicians.word-list.json",
+        "puzzle": "puzzles/2026-11-22.puzzle.json",
+        "solution": "solutions/2026-11-22.solution.json",
+        "validation": "reports/2026-11-22.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "theme": "Mathematics & number patterns",
+      "occasion": "Fibonacci Day",
+      "shape": "Spiral",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-23-spiral.grid.json",
+        "shape_svg": "shapes/2026-11-23-spiral.svg",
+        "dictionary": "dictionaries/2026-11-23-mathematics-number-patterns.word-list.json",
+        "puzzle": "puzzles/2026-11-23.puzzle.json",
+        "solution": "solutions/2026-11-23.solution.json",
+        "validation": "reports/2026-11-23.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "theme": "Evolution & natural history",
+      "occasion": "On the Origin of Species anniversary",
+      "shape": "Finch",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-24-finch.grid.json",
+        "shape_svg": "shapes/2026-11-24-finch.svg",
+        "dictionary": "dictionaries/2026-11-24-evolution-natural-history.word-list.json",
+        "puzzle": "puzzles/2026-11-24.puzzle.json",
+        "solution": "solutions/2026-11-24.solution.json",
+        "validation": "reports/2026-11-24.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "theme": "Desserts & parfaits",
+      "occasion": "National Parfait Day",
+      "shape": "Parfait glass",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-25-parfait-glass.grid.json",
+        "shape_svg": "shapes/2026-11-25-parfait-glass.svg",
+        "dictionary": "dictionaries/2026-11-25-desserts-parfaits.word-list.json",
+        "puzzle": "puzzles/2026-11-25.puzzle.json",
+        "solution": "solutions/2026-11-25.solution.json",
+        "validation": "reports/2026-11-25.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "theme": "Thanksgiving food & traditions",
+      "occasion": "Thanksgiving Day",
+      "shape": "Turkey",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-26-turkey.grid.json",
+        "shape_svg": "shapes/2026-11-26-turkey.svg",
+        "dictionary": "dictionaries/2026-11-26-thanksgiving-food-traditions.word-list.json",
+        "puzzle": "puzzles/2026-11-26.puzzle.json",
+        "solution": "solutions/2026-11-26.solution.json",
+        "validation": "reports/2026-11-26.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "theme": "Shopping, retail & bargains",
+      "occasion": "Black Friday",
+      "shape": "Shopping bag",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-27-shopping-bag.grid.json",
+        "shape_svg": "shapes/2026-11-27-shopping-bag.svg",
+        "dictionary": "dictionaries/2026-11-27-shopping-retail-bargains.word-list.json",
+        "puzzle": "puzzles/2026-11-27.puzzle.json",
+        "solution": "solutions/2026-11-27.solution.json",
+        "validation": "reports/2026-11-27.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-28",
+      "theme": "Mars & planetary exploration",
+      "occasion": "Red Planet Day",
+      "shape": "Mars",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-28-mars.grid.json",
+        "shape_svg": "shapes/2026-11-28-mars.svg",
+        "dictionary": "dictionaries/2026-11-28-mars-planetary-exploration.word-list.json",
+        "puzzle": "puzzles/2026-11-28.puzzle.json",
+        "solution": "solutions/2026-11-28.solution.json",
+        "validation": "reports/2026-11-28.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-29",
+      "theme": "Advent & Christmas preparation",
+      "occasion": "First Sunday of Advent",
+      "shape": "Advent candle",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-29-advent-candle.grid.json",
+        "shape_svg": "shapes/2026-11-29-advent-candle.svg",
+        "dictionary": "dictionaries/2026-11-29-advent-christmas-preparation.word-list.json",
+        "puzzle": "puzzles/2026-11-29.puzzle.json",
+        "solution": "solutions/2026-11-29.solution.json",
+        "validation": "reports/2026-11-29.validation.json"
+      }
+    },
+    {
+      "date": "2026-11-30",
+      "theme": "Scotland & Scottish culture",
+      "occasion": "St Andrew's Day",
+      "shape": "Thistle",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-11-30-thistle.grid.json",
+        "shape_svg": "shapes/2026-11-30-thistle.svg",
+        "dictionary": "dictionaries/2026-11-30-scotland-scottish-culture.word-list.json",
+        "puzzle": "puzzles/2026-11-30.puzzle.json",
+        "solution": "solutions/2026-11-30.solution.json",
+        "validation": "reports/2026-11-30.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-01",
+      "theme": "Giving & charity",
+      "occasion": "GivingTuesday / World AIDS Day",
+      "shape": "Gift box",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-01-gift-box.grid.json",
+        "shape_svg": "shapes/2026-12-01-gift-box.svg",
+        "dictionary": "dictionaries/2026-12-01-giving-charity.word-list.json",
+        "puzzle": "puzzles/2026-12-01.puzzle.json",
+        "solution": "solutions/2026-12-01.solution.json",
+        "validation": "reports/2026-12-01.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-02",
+      "theme": "Freedom & human rights",
+      "occasion": "International Day for the Abolition of Slavery",
+      "shape": "Broken chain",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-02-broken-chain.grid.json",
+        "shape_svg": "shapes/2026-12-02-broken-chain.svg",
+        "dictionary": "dictionaries/2026-12-02-freedom-human-rights.word-list.json",
+        "puzzle": "puzzles/2026-12-02.puzzle.json",
+        "solution": "solutions/2026-12-02.solution.json",
+        "validation": "reports/2026-12-02.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "theme": "Accessibility & inclusion",
+      "occasion": "International Day of Persons with Disabilities",
+      "shape": "Accessibility symbol",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-03-accessibility-symbol.grid.json",
+        "shape_svg": "shapes/2026-12-03-accessibility-symbol.svg",
+        "dictionary": "dictionaries/2026-12-03-accessibility-inclusion.word-list.json",
+        "puzzle": "puzzles/2026-12-03.puzzle.json",
+        "solution": "solutions/2026-12-03.solution.json",
+        "validation": "reports/2026-12-03.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-04",
+      "theme": "Banks, money & finance",
+      "occasion": "International Day of Banks",
+      "shape": "Bank building",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-04-bank-building.grid.json",
+        "shape_svg": "shapes/2026-12-04-bank-building.svg",
+        "dictionary": "dictionaries/2026-12-04-banks-money-finance.word-list.json",
+        "puzzle": "puzzles/2026-12-04.puzzle.json",
+        "solution": "solutions/2026-12-04.solution.json",
+        "validation": "reports/2026-12-04.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-05",
+      "theme": "Soil, gardening & earth",
+      "occasion": "World Soil Day",
+      "shape": "Seedling",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-05-seedling.grid.json",
+        "shape_svg": "shapes/2026-12-05-seedling.svg",
+        "dictionary": "dictionaries/2026-12-05-soil-gardening-earth.word-list.json",
+        "puzzle": "puzzles/2026-12-05.puzzle.json",
+        "solution": "solutions/2026-12-05.solution.json",
+        "validation": "reports/2026-12-05.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-06",
+      "theme": "St Nicholas, gifts & winter traditions",
+      "occasion": "St Nicholas Day",
+      "shape": "Mitre",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-06-mitre.grid.json",
+        "shape_svg": "shapes/2026-12-06-mitre.svg",
+        "dictionary": "dictionaries/2026-12-06-st-nicholas-gifts-winter-traditions.word-list.json",
+        "puzzle": "puzzles/2026-12-06.puzzle.json",
+        "solution": "solutions/2026-12-06.solution.json",
+        "validation": "reports/2026-12-06.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "theme": "Aviation & airports",
+      "occasion": "International Civil Aviation Day",
+      "shape": "Airplane",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-07-airplane.grid.json",
+        "shape_svg": "shapes/2026-12-07-airplane.svg",
+        "dictionary": "dictionaries/2026-12-07-aviation-airports.word-list.json",
+        "puzzle": "puzzles/2026-12-07.puzzle.json",
+        "solution": "solutions/2026-12-07.solution.json",
+        "validation": "reports/2026-12-07.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "theme": "Brownies & baking",
+      "occasion": "National Brownie Day",
+      "shape": "Brownie",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-08-brownie.grid.json",
+        "shape_svg": "shapes/2026-12-08-brownie.svg",
+        "dictionary": "dictionaries/2026-12-08-brownies-baking.word-list.json",
+        "puzzle": "puzzles/2026-12-08.puzzle.json",
+        "solution": "solutions/2026-12-08.solution.json",
+        "validation": "reports/2026-12-08.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-09",
+      "theme": "Honesty, law & public service",
+      "occasion": "International Anti-Corruption Day",
+      "shape": "Scales of justice",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 2,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-09-scales-of-justice.grid.json",
+        "shape_svg": "shapes/2026-12-09-scales-of-justice.svg",
+        "dictionary": "dictionaries/2026-12-09-honesty-law-public-service.word-list.json",
+        "puzzle": "puzzles/2026-12-09.puzzle.json",
+        "solution": "solutions/2026-12-09.solution.json",
+        "validation": "reports/2026-12-09.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-10",
+      "theme": "Human rights & freedoms",
+      "occasion": "Human Rights Day",
+      "shape": "Raised hand",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-10-raised-hand.grid.json",
+        "shape_svg": "shapes/2026-12-10-raised-hand.svg",
+        "dictionary": "dictionaries/2026-12-10-human-rights-freedoms.word-list.json",
+        "puzzle": "puzzles/2026-12-10.puzzle.json",
+        "solution": "solutions/2026-12-10.solution.json",
+        "validation": "reports/2026-12-10.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-11",
+      "theme": "Mountains & mountaineering",
+      "occasion": "International Mountain Day",
+      "shape": "Mountain",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-11-mountain.grid.json",
+        "shape_svg": "shapes/2026-12-11-mountain.svg",
+        "dictionary": "dictionaries/2026-12-11-mountains-mountaineering.word-list.json",
+        "puzzle": "puzzles/2026-12-11.puzzle.json",
+        "solution": "solutions/2026-12-11.solution.json",
+        "validation": "reports/2026-12-11.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-12",
+      "theme": "Winter flowers & festive plants",
+      "occasion": "Poinsettia Day",
+      "shape": "Poinsettia",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-12-poinsettia.grid.json",
+        "shape_svg": "shapes/2026-12-12-poinsettia.svg",
+        "dictionary": "dictionaries/2026-12-12-winter-flowers-festive-plants.word-list.json",
+        "puzzle": "puzzles/2026-12-12.puzzle.json",
+        "solution": "solutions/2026-12-12.solution.json",
+        "validation": "reports/2026-12-12.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-13",
+      "theme": "Candles, light & Scandinavian winter",
+      "occasion": "St Lucy's Day",
+      "shape": "Candle",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-13-candle.grid.json",
+        "shape_svg": "shapes/2026-12-13-candle.svg",
+        "dictionary": "dictionaries/2026-12-13-candles-light-scandinavian-winter.word-list.json",
+        "puzzle": "puzzles/2026-12-13.puzzle.json",
+        "solution": "solutions/2026-12-13.solution.json",
+        "validation": "reports/2026-12-13.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-14",
+      "theme": "Monkeys & primates",
+      "occasion": "Monkey Day",
+      "shape": "Monkey",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-14-monkey.grid.json",
+        "shape_svg": "shapes/2026-12-14-monkey.svg",
+        "dictionary": "dictionaries/2026-12-14-monkeys-primates.word-list.json",
+        "puzzle": "puzzles/2026-12-14.puzzle.json",
+        "solution": "solutions/2026-12-14.solution.json",
+        "validation": "reports/2026-12-14.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-15",
+      "theme": "Languages & alphabets",
+      "occasion": "World Turkic Language Family Day",
+      "shape": "Alphabet tile",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-15-alphabet-tile.grid.json",
+        "shape_svg": "shapes/2026-12-15-alphabet-tile.svg",
+        "dictionary": "dictionaries/2026-12-15-languages-alphabets.word-list.json",
+        "puzzle": "puzzles/2026-12-15.puzzle.json",
+        "solution": "solutions/2026-12-15.solution.json",
+        "validation": "reports/2026-12-15.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-16",
+      "theme": "Jane Austen & Regency England",
+      "occasion": "Jane Austen's birthday",
+      "shape": "Quill",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-16-quill.grid.json",
+        "shape_svg": "shapes/2026-12-16-quill.svg",
+        "dictionary": "dictionaries/2026-12-16-jane-austen-regency-england.word-list.json",
+        "puzzle": "puzzles/2026-12-16.puzzle.json",
+        "solution": "solutions/2026-12-16.solution.json",
+        "validation": "reports/2026-12-16.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-17",
+      "theme": "Aviation pioneers & early flight",
+      "occasion": "Wright Brothers Day",
+      "shape": "Biplane",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-17-biplane.grid.json",
+        "shape_svg": "shapes/2026-12-17-biplane.svg",
+        "dictionary": "dictionaries/2026-12-17-aviation-pioneers-early-flight.word-list.json",
+        "puzzle": "puzzles/2026-12-17.puzzle.json",
+        "solution": "solutions/2026-12-17.solution.json",
+        "validation": "reports/2026-12-17.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-18",
+      "theme": "Migration, travel & journeys",
+      "occasion": "International Migrants Day",
+      "shape": "Suitcase",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-18-suitcase.grid.json",
+        "shape_svg": "shapes/2026-12-18-suitcase.svg",
+        "dictionary": "dictionaries/2026-12-18-migration-travel-journeys.word-list.json",
+        "puzzle": "puzzles/2026-12-18.puzzle.json",
+        "solution": "solutions/2026-12-18.solution.json",
+        "validation": "reports/2026-12-18.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-19",
+      "theme": "Hard candy & traditional sweets",
+      "occasion": "National Hard Candy Day",
+      "shape": "Candy cane",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-19-candy-cane.grid.json",
+        "shape_svg": "shapes/2026-12-19-candy-cane.svg",
+        "dictionary": "dictionaries/2026-12-19-hard-candy-traditional-sweets.word-list.json",
+        "puzzle": "puzzles/2026-12-19.puzzle.json",
+        "solution": "solutions/2026-12-19.solution.json",
+        "validation": "reports/2026-12-19.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-20",
+      "theme": "Community & cooperation",
+      "occasion": "International Human Solidarity Day",
+      "shape": "Linked hands",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-20-linked-hands.grid.json",
+        "shape_svg": "shapes/2026-12-20-linked-hands.svg",
+        "dictionary": "dictionaries/2026-12-20-community-cooperation.word-list.json",
+        "puzzle": "puzzles/2026-12-20.puzzle.json",
+        "solution": "solutions/2026-12-20.solution.json",
+        "validation": "reports/2026-12-20.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-21",
+      "theme": "Winter & the solstice",
+      "occasion": "December solstice",
+      "shape": "Snowflake",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 1,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-21-snowflake.grid.json",
+        "shape_svg": "shapes/2026-12-21-snowflake.svg",
+        "dictionary": "dictionaries/2026-12-21-winter-the-solstice.word-list.json",
+        "puzzle": "puzzles/2026-12-21.puzzle.json",
+        "solution": "solutions/2026-12-21.solution.json",
+        "validation": "reports/2026-12-21.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-22",
+      "theme": "Cookies & biscuits",
+      "occasion": "Cookie Exchange Day",
+      "shape": "Cookie",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 7,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-22-cookie.grid.json",
+        "shape_svg": "shapes/2026-12-22-cookie.svg",
+        "dictionary": "dictionaries/2026-12-22-cookies-biscuits.word-list.json",
+        "puzzle": "puzzles/2026-12-22.puzzle.json",
+        "solution": "solutions/2026-12-22.solution.json",
+        "validation": "reports/2026-12-22.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-23",
+      "theme": "Unusual festive traditions",
+      "occasion": "Festivus",
+      "shape": "Festivus pole",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-23-festivus-pole.grid.json",
+        "shape_svg": "shapes/2026-12-23-festivus-pole.svg",
+        "dictionary": "dictionaries/2026-12-23-unusual-festive-traditions.word-list.json",
+        "puzzle": "puzzles/2026-12-23.puzzle.json",
+        "solution": "solutions/2026-12-23.solution.json",
+        "validation": "reports/2026-12-23.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-24",
+      "theme": "Christmas Eve & Santa preparations",
+      "occasion": "Christmas Eve",
+      "shape": "Sleigh",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-24-sleigh.grid.json",
+        "shape_svg": "shapes/2026-12-24-sleigh.svg",
+        "dictionary": "dictionaries/2026-12-24-christmas-eve-santa-preparations.word-list.json",
+        "puzzle": "puzzles/2026-12-24.puzzle.json",
+        "solution": "solutions/2026-12-24.solution.json",
+        "validation": "reports/2026-12-24.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-25",
+      "theme": "Christmas Day",
+      "occasion": "Christmas Day",
+      "shape": "Christmas tree",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-25-christmas-tree.grid.json",
+        "shape_svg": "shapes/2026-12-25-christmas-tree.svg",
+        "dictionary": "dictionaries/2026-12-25-christmas-day.word-list.json",
+        "puzzle": "puzzles/2026-12-25.puzzle.json",
+        "solution": "solutions/2026-12-25.solution.json",
+        "validation": "reports/2026-12-25.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-26",
+      "theme": "Boxing Day & British holiday traditions",
+      "occasion": "Boxing Day",
+      "shape": "Gift box",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-26-gift-box.grid.json",
+        "shape_svg": "shapes/2026-12-26-gift-box.svg",
+        "dictionary": "dictionaries/2026-12-26-boxing-day-british-holiday-traditions.word-list.json",
+        "puzzle": "puzzles/2026-12-26.puzzle.json",
+        "solution": "solutions/2026-12-26.solution.json",
+        "validation": "reports/2026-12-26.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-27",
+      "theme": "Public health & emergency preparedness",
+      "occasion": "International Day of Epidemic Preparedness",
+      "shape": "Medical cross",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 4,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-27-medical-cross.grid.json",
+        "shape_svg": "shapes/2026-12-27-medical-cross.svg",
+        "dictionary": "dictionaries/2026-12-27-public-health-emergency-preparedness.word-list.json",
+        "puzzle": "puzzles/2026-12-27.puzzle.json",
+        "solution": "solutions/2026-12-27.solution.json",
+        "validation": "reports/2026-12-27.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-28",
+      "theme": "Cinema & filmmaking",
+      "occasion": "Early cinema anniversary",
+      "shape": "Movie camera",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-28-movie-camera.grid.json",
+        "shape_svg": "shapes/2026-12-28-movie-camera.svg",
+        "dictionary": "dictionaries/2026-12-28-cinema-filmmaking.word-list.json",
+        "puzzle": "puzzles/2026-12-28.puzzle.json",
+        "solution": "solutions/2026-12-28.solution.json",
+        "validation": "reports/2026-12-28.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-29",
+      "theme": "Medieval England & cathedrals",
+      "occasion": "Feast of St Thomas Becket",
+      "shape": "Cathedral",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-29-cathedral.grid.json",
+        "shape_svg": "shapes/2026-12-29-cathedral.svg",
+        "dictionary": "dictionaries/2026-12-29-medieval-england-cathedrals.word-list.json",
+        "puzzle": "puzzles/2026-12-29.puzzle.json",
+        "solution": "solutions/2026-12-29.solution.json",
+        "validation": "reports/2026-12-29.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-30",
+      "theme": "Jungle animals & adventure stories",
+      "occasion": "Rudyard Kipling's birthday",
+      "shape": "Tiger",
+      "dictionary_words": 100,
+      "slots": 5,
+      "crossings": 4,
+      "seed_letters": 3,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-30-tiger.grid.json",
+        "shape_svg": "shapes/2026-12-30-tiger.svg",
+        "dictionary": "dictionaries/2026-12-30-jungle-animals-adventure-stories.word-list.json",
+        "puzzle": "puzzles/2026-12-30.puzzle.json",
+        "solution": "solutions/2026-12-30.solution.json",
+        "validation": "reports/2026-12-30.validation.json"
+      }
+    },
+    {
+      "date": "2026-12-31",
+      "theme": "New Year & celebrations",
+      "occasion": "New Year's Eve",
+      "shape": "Firework",
+      "dictionary_words": 100,
+      "slots": 6,
+      "crossings": 5,
+      "seed_letters": 5,
+      "unique_solutions": 1,
+      "files": {
+        "shape": "shapes/2026-12-31-firework.grid.json",
+        "shape_svg": "shapes/2026-12-31-firework.svg",
+        "dictionary": "dictionaries/2026-12-31-new-year-celebrations.word-list.json",
+        "puzzle": "puzzles/2026-12-31.puzzle.json",
+        "solution": "solutions/2026-12-31.solution.json",
+        "validation": "reports/2026-12-31.validation.json"
+      }
+    }
+  ]
+}

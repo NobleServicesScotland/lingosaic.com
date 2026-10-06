@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-27",
+  "date": "2026-11-27",
+  "theme": "Shopping, retail & bargains",
+  "shape_id": "shopping-bag",
+  "dictionary_id": "2026-11-27-shopping-retail-bargains",
+  "generator_seed": "daily-2026-11-27",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "###XXXXXSXXX###",
+    "###XXXXXHXXX###",
+    "###XX#D#O#XX###",
+    "##XXBXIXPXXXX##",
+    "##XXAXSXPXSXX##",
+    "##XXRECEIPTXX##",
+    "##XXGXOXNXOXX##",
+    "##XXAXUXGXRXX##",
+    "##XXIXNXXXEXX##",
+    "##XXNXTXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "##XXXXXXXXXXX##",
+    "###############"
+  ],
+  "canonical_solution": "SHDOBIPASPSRECEIPTGONOAUGRINENT",
+  "solution_hash": "23b911dfa0a18177946b1087746a12b874a32e77d2175a707e6331e5a1598ea3",
+  "seed_letters": [
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "S"
+    },
+    {
+      "row": 6,
+      "col": 8,
+      "letter": "P"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "letter": "E"
+    },
+    {
+      "row": 9,
+      "col": 10,
+      "letter": "R"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ],
+      "answer": "RECEIPT"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        }
+      ],
+      "answer": "BARGAIN"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        },
+        {
+          "row": 11,
+          "col": 6
+        }
+      ],
+      "answer": "DISCOUNT"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ],
+      "answer": "SHOPPING"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 10
+        }
+      ],
+      "answer": "STORE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 7,
+      "col": 4,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D1",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D2",
+      "slot_b_index": 3,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D3",
+      "slot_b_index": 5,
+      "letter": "I"
+    },
+    {
+      "row": 7,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 6,
+      "slot_b": "D4",
+      "slot_b_index": 1,
+      "letter": "T"
+    }
+  ]
+}

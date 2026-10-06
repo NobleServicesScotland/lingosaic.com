@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-21",
+  "status": "PASS",
+  "generator_version": "dense-crossword-2.0.0",
+  "dictionary_words": 100,
+  "slot_count": 15,
+  "across_slots": 8,
+  "down_slots": 7,
+  "crossings": 17,
+  "average_crossings_per_slot": 2.27,
+  "leaf_slots": 4,
+  "max_slot_crossings": 4,
+  "seed_letters": 4,
+  "uniqueness_count": 1,
+  "solution_hash_matches": true,
+  "topology_checks": {
+    "minimum_12_slots": true,
+    "at_least_5_across": true,
+    "at_least_5_down": true,
+    "connected_network": true,
+    "not_single_spine": true
+  },
+  "answers": [
+    "SHOW",
+    "SHOT",
+    "PORTRAIT",
+    "DRAW",
+    "REMOTE",
+    "NEWS",
+    "SIGNAL",
+    "MOVIE",
+    "PRESENTER",
+    "VIEWER",
+    "SET",
+    "ACTRESS",
+    "STUDIO",
+    "NOVEL",
+    "CAMERA"
+  ]
+}

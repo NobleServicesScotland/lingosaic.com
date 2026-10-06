@@ -1,0 +1,694 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2027-01-16",
+  "date": "2027-01-16",
+  "theme": "Spices & hot food",
+  "shape_id": "spice-jar",
+  "dictionary_id": "2027-01-16-spices-hot-food",
+  "generator_seed": "dense-crossword-2.1.0:2027-01-16",
+  "solution_grid": [
+    "###############",
+    "###############",
+    "####**G*C*G####",
+    "####**N*U*R####",
+    "####**O*M*I####",
+    "##****CHILLI*##",
+    "##****C*N*L**##",
+    "##****H**P***##",
+    "##**CHICKEN**##",
+    "##**A**A*P***##",
+    "##MINT*Y*PAN*##",
+    "##**N**E*E***##",
+    "##*LEMON*R*S*##",
+    "##**L**N*C*P*##",
+    "##JALAPENO*I*##",
+    "##**O****R*C*##",
+    "##**N**GINGER##",
+    "##*RICE****S*##",
+    "###############",
+    "###############"
+  ],
+  "canonical_solution": "GCGNUROMICHILLICNLHPCHICKENAAPMINTYPANNEELEMONRSLNCPJALAPENOIORCNGINGERRICES",
+  "solution_hash": "bf946cb829a0d12fcdd3107418c303c5fb90c8d1ed913061927de0e6f972bd37",
+  "seed_letters": [
+    {
+      "row": 2,
+      "col": 8,
+      "letter": "C"
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "letter": "G"
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "letter": "S"
+    },
+    {
+      "row": 16,
+      "col": 7,
+      "letter": "G"
+    },
+    {
+      "row": 17,
+      "col": 3,
+      "letter": "R"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 11
+        }
+      ],
+      "answer": "CHILLI"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 10
+        }
+      ],
+      "answer": "CHICKEN"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 10,
+          "col": 2
+        },
+        {
+          "row": 10,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 5
+        }
+      ],
+      "answer": "MINT"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 10
+        },
+        {
+          "row": 10,
+          "col": 11
+        }
+      ],
+      "answer": "PAN"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 12,
+          "col": 3
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 6
+        },
+        {
+          "row": 12,
+          "col": 7
+        }
+      ],
+      "answer": "LEMON"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 14,
+          "col": 2
+        },
+        {
+          "row": 14,
+          "col": 3
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 6
+        },
+        {
+          "row": 14,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 8
+        },
+        {
+          "row": 14,
+          "col": 9
+        }
+      ],
+      "answer": "JALAPENO"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 16,
+          "col": 7
+        },
+        {
+          "row": 16,
+          "col": 8
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 10
+        },
+        {
+          "row": 16,
+          "col": 11
+        },
+        {
+          "row": 16,
+          "col": 12
+        }
+      ],
+      "answer": "GINGER"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 17,
+          "col": 3
+        },
+        {
+          "row": 17,
+          "col": 4
+        },
+        {
+          "row": 17,
+          "col": 5
+        },
+        {
+          "row": 17,
+          "col": 6
+        }
+      ],
+      "answer": "RICE"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        }
+      ],
+      "answer": "GNOCCHI"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        }
+      ],
+      "answer": "CUMIN"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 10
+        },
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        }
+      ],
+      "answer": "GRILL"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 10,
+      "cells": [
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        },
+        {
+          "row": 13,
+          "col": 9
+        },
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 9
+        }
+      ],
+      "answer": "PEPPERCORN"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 10,
+      "cells": [
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 10,
+          "col": 4
+        },
+        {
+          "row": 11,
+          "col": 4
+        },
+        {
+          "row": 12,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 14,
+          "col": 4
+        },
+        {
+          "row": 15,
+          "col": 4
+        },
+        {
+          "row": 16,
+          "col": 4
+        },
+        {
+          "row": 17,
+          "col": 4
+        }
+      ],
+      "answer": "CANNELLONI"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 7,
+      "cells": [
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 14,
+          "col": 7
+        }
+      ],
+      "answer": "CAYENNE"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 12,
+          "col": 11
+        },
+        {
+          "row": 13,
+          "col": 11
+        },
+        {
+          "row": 14,
+          "col": 11
+        },
+        {
+          "row": 15,
+          "col": 11
+        },
+        {
+          "row": 16,
+          "col": 11
+        },
+        {
+          "row": 17,
+          "col": 11
+        }
+      ],
+      "answer": "SPICES"
+    }
+  ],
+  "crossings": [
+    {
+      "slot_a": "A1",
+      "slot_b": "D1",
+      "row": 5,
+      "col": 6,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D2",
+      "row": 5,
+      "col": 8,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A1",
+      "slot_b": "D3",
+      "row": 5,
+      "col": 10,
+      "letter": "L"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D5",
+      "row": 8,
+      "col": 4,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D1",
+      "row": 8,
+      "col": 6,
+      "letter": "I"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D6",
+      "row": 8,
+      "col": 7,
+      "letter": "C"
+    },
+    {
+      "slot_a": "A2",
+      "slot_b": "D4",
+      "row": 8,
+      "col": 9,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A3",
+      "slot_b": "D5",
+      "row": 10,
+      "col": 4,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A4",
+      "slot_b": "D4",
+      "row": 10,
+      "col": 9,
+      "letter": "P"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D5",
+      "row": 12,
+      "col": 4,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A5",
+      "slot_b": "D6",
+      "row": 12,
+      "col": 7,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D5",
+      "row": 14,
+      "col": 4,
+      "letter": "L"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D6",
+      "row": 14,
+      "col": 7,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A6",
+      "slot_b": "D4",
+      "row": 14,
+      "col": 9,
+      "letter": "O"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D4",
+      "row": 16,
+      "col": 9,
+      "letter": "N"
+    },
+    {
+      "slot_a": "A7",
+      "slot_b": "D7",
+      "row": 16,
+      "col": 11,
+      "letter": "E"
+    },
+    {
+      "slot_a": "A8",
+      "slot_b": "D5",
+      "row": 17,
+      "col": 4,
+      "letter": "I"
+    }
+  ],
+  "complexity": {
+    "slot_count": 15,
+    "across_slots": 8,
+    "down_slots": 7,
+    "crossings": 17,
+    "average_crossings_per_slot": 2.27,
+    "leaf_slots": 6,
+    "max_slot_crossings": 5,
+    "seed_letters": 5
+  },
+  "uniqueness_count": 1,
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1
+  ]
+}

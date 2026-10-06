@@ -1,0 +1,709 @@
+{
+  "schema_version": 2,
+  "puzzle_id": "daily-2026-11-29",
+  "date": "2026-11-29",
+  "theme": "Advent & Christmas preparation",
+  "shape_id": "advent-candle",
+  "dictionary_id": "2026-11-29-advent-christmas-preparation",
+  "generator_seed": "dense-crossword-2.0.0:2026-11-29",
+  "solution_grid": [
+    "######**B######",
+    "#####*S*A*#####",
+    "####**NIGHT####",
+    "####**O***A####",
+    "####**W***P####",
+    "###****NICE####",
+    "##ELF**O*A*####",
+    "##*I*CAROL*####",
+    "##*G*H*T*E*####",
+    "##CHURCH*N**###",
+    "##*T*I*P*D*####",
+    "##***S*O*A*####",
+    "##***T*L*R*####",
+    "##CHIMNEY**####",
+    "###**A***P*####",
+    "####*SUNDAY####",
+    "####*****P*####",
+    "####*****E*####",
+    "#####*STAR#####",
+    "###############"
+  ],
+  "canonical_solution": "BSANIGHTOAWPNICEELFOAICAROLGHTECHURCHNTIPDSOATLRCHIMNEYAPSUNDAYPESTAR",
+  "solution_hash": "d7c7db0f7f590263f651fcfd61c38cc18e1941b4335aa5eb3a92088331501b7c",
+  "seed_letters": [
+    {
+      "row": 0,
+      "col": 8,
+      "letter": "B"
+    },
+    {
+      "row": 4,
+      "col": 10,
+      "letter": "P"
+    },
+    {
+      "row": 18,
+      "col": 9,
+      "letter": "R"
+    }
+  ],
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 10
+        }
+      ],
+      "answer": "NIGHT"
+    },
+    {
+      "id": "A2",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 10
+        }
+      ],
+      "answer": "NICE"
+    },
+    {
+      "id": "A3",
+      "direction": "across",
+      "length": 3,
+      "cells": [
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        }
+      ],
+      "answer": "ELF"
+    },
+    {
+      "id": "A4",
+      "direction": "across",
+      "length": 5,
+      "cells": [
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        }
+      ],
+      "answer": "CAROL"
+    },
+    {
+      "id": "A5",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 9,
+          "col": 2
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ],
+      "answer": "CHURCH"
+    },
+    {
+      "id": "A6",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 13,
+          "col": 2
+        },
+        {
+          "row": 13,
+          "col": 3
+        },
+        {
+          "row": 13,
+          "col": 4
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 6
+        },
+        {
+          "row": 13,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 8
+        }
+      ],
+      "answer": "CHIMNEY"
+    },
+    {
+      "id": "A7",
+      "direction": "across",
+      "length": 6,
+      "cells": [
+        {
+          "row": 15,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 6
+        },
+        {
+          "row": 15,
+          "col": 7
+        },
+        {
+          "row": 15,
+          "col": 8
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 10
+        }
+      ],
+      "answer": "SUNDAY"
+    },
+    {
+      "id": "A8",
+      "direction": "across",
+      "length": 4,
+      "cells": [
+        {
+          "row": 18,
+          "col": 6
+        },
+        {
+          "row": 18,
+          "col": 7
+        },
+        {
+          "row": 18,
+          "col": 8
+        },
+        {
+          "row": 18,
+          "col": 9
+        }
+      ],
+      "answer": "STAR"
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 9,
+          "col": 3
+        },
+        {
+          "row": 10,
+          "col": 3
+        }
+      ],
+      "answer": "LIGHT"
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 5
+        },
+        {
+          "row": 14,
+          "col": 5
+        },
+        {
+          "row": 15,
+          "col": 5
+        }
+      ],
+      "answer": "CHRISTMAS"
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 1,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        }
+      ],
+      "answer": "SNOW"
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 7
+        },
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        },
+        {
+          "row": 10,
+          "col": 7
+        },
+        {
+          "row": 11,
+          "col": 7
+        },
+        {
+          "row": 12,
+          "col": 7
+        },
+        {
+          "row": 13,
+          "col": 7
+        }
+      ],
+      "answer": "NORTHPOLE"
+    },
+    {
+      "id": "D5",
+      "direction": "down",
+      "length": 3,
+      "cells": [
+        {
+          "row": 0,
+          "col": 8
+        },
+        {
+          "row": 1,
+          "col": 8
+        },
+        {
+          "row": 2,
+          "col": 8
+        }
+      ],
+      "answer": "BAG"
+    },
+    {
+      "id": "D6",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        },
+        {
+          "row": 9,
+          "col": 9
+        },
+        {
+          "row": 10,
+          "col": 9
+        },
+        {
+          "row": 11,
+          "col": 9
+        },
+        {
+          "row": 12,
+          "col": 9
+        }
+      ],
+      "answer": "CALENDAR"
+    },
+    {
+      "id": "D7",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 14,
+          "col": 9
+        },
+        {
+          "row": 15,
+          "col": 9
+        },
+        {
+          "row": 16,
+          "col": 9
+        },
+        {
+          "row": 17,
+          "col": 9
+        },
+        {
+          "row": 18,
+          "col": 9
+        }
+      ],
+      "answer": "PAPER"
+    },
+    {
+      "id": "D8",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 2,
+          "col": 10
+        },
+        {
+          "row": 3,
+          "col": 10
+        },
+        {
+          "row": 4,
+          "col": 10
+        },
+        {
+          "row": 5,
+          "col": 10
+        }
+      ],
+      "answer": "TAPE"
+    }
+  ],
+  "crossings": [
+    {
+      "row": 2,
+      "col": 6,
+      "slot_a": "A1",
+      "slot_a_index": 0,
+      "slot_b": "D3",
+      "slot_b_index": 1,
+      "letter": "N"
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "slot_a": "A1",
+      "slot_a_index": 2,
+      "slot_b": "D5",
+      "slot_b_index": 2,
+      "letter": "G"
+    },
+    {
+      "row": 2,
+      "col": 10,
+      "slot_a": "A1",
+      "slot_a_index": 4,
+      "slot_b": "D8",
+      "slot_b_index": 0,
+      "letter": "T"
+    },
+    {
+      "row": 5,
+      "col": 7,
+      "slot_a": "A2",
+      "slot_a_index": 0,
+      "slot_b": "D4",
+      "slot_b_index": 0,
+      "letter": "N"
+    },
+    {
+      "row": 5,
+      "col": 9,
+      "slot_a": "A2",
+      "slot_a_index": 2,
+      "slot_b": "D6",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 5,
+      "col": 10,
+      "slot_a": "A2",
+      "slot_a_index": 3,
+      "slot_b": "D8",
+      "slot_b_index": 3,
+      "letter": "E"
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "slot_a": "A3",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 0,
+      "letter": "L"
+    },
+    {
+      "row": 7,
+      "col": 5,
+      "slot_a": "A4",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 0,
+      "letter": "C"
+    },
+    {
+      "row": 7,
+      "col": 7,
+      "slot_a": "A4",
+      "slot_a_index": 2,
+      "slot_b": "D4",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "slot_a": "A4",
+      "slot_a_index": 4,
+      "slot_b": "D6",
+      "slot_b_index": 2,
+      "letter": "L"
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "slot_a": "A5",
+      "slot_a_index": 1,
+      "slot_b": "D1",
+      "slot_b_index": 3,
+      "letter": "H"
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "slot_a": "A5",
+      "slot_a_index": 3,
+      "slot_b": "D2",
+      "slot_b_index": 2,
+      "letter": "R"
+    },
+    {
+      "row": 9,
+      "col": 7,
+      "slot_a": "A5",
+      "slot_a_index": 5,
+      "slot_b": "D4",
+      "slot_b_index": 4,
+      "letter": "H"
+    },
+    {
+      "row": 13,
+      "col": 5,
+      "slot_a": "A6",
+      "slot_a_index": 3,
+      "slot_b": "D2",
+      "slot_b_index": 6,
+      "letter": "M"
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "slot_a": "A6",
+      "slot_a_index": 5,
+      "slot_b": "D4",
+      "slot_b_index": 8,
+      "letter": "E"
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "slot_a": "A7",
+      "slot_a_index": 0,
+      "slot_b": "D2",
+      "slot_b_index": 8,
+      "letter": "S"
+    },
+    {
+      "row": 15,
+      "col": 9,
+      "slot_a": "A7",
+      "slot_a_index": 4,
+      "slot_b": "D7",
+      "slot_b_index": 1,
+      "letter": "A"
+    },
+    {
+      "row": 18,
+      "col": 9,
+      "slot_a": "A8",
+      "slot_a_index": 3,
+      "slot_b": "D7",
+      "slot_b_index": 4,
+      "letter": "R"
+    }
+  ],
+  "uniqueness_count": 1,
+  "complexity": {
+    "slot_count": 16,
+    "across_slots": 8,
+    "down_slots": 8,
+    "crossings": 18,
+    "average_crossings_per_slot": 2.25,
+    "leaf_slots": 4,
+    "max_slot_crossings": 4,
+    "seed_letters": 3
+  },
+  "uniqueness_history": [
+    2,
+    2,
+    2,
+    1
+  ]
+}

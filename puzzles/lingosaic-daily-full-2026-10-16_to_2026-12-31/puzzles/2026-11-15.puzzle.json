@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-15",
+  "date": "2026-11-15",
+  "daily_number": 31,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-15",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Recycling & reuse",
+    "occasion": "America Recycles Day"
+  },
+  "bonus": {
+    "title": "America Recycles Day",
+    "description": "America Recycles Day encourages recycling, reuse and thinking about the life cycle of everyday materials."
+  },
+  "shape": {
+    "id": "recycling-symbol",
+    "name": "Recycling symbol",
+    "grid_file": "../shapes/2026-11-15-recycling-symbol.grid.json",
+    "svg_file": "../shapes/2026-11-15-recycling-symbol.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-15-recycling-reuse",
+    "file": "../dictionaries/2026-11-15-recycling-reuse.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "###############",
+      "#####XXXXX#####",
+      "####XXXXXXX####",
+      "###XXXXXXXXX###",
+      "##XX.XXX.X.XX##",
+      "##XXAXWX.X.XX##",
+      "##XX...S...XX##",
+      "##XX.X.X.X.XX##",
+      "##XX.X.X.X.XX##",
+      "###XXX.XXXXX###",
+      "####XXXXXXXX###",
+      "#####XXXXX#####",
+      "###############",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 4,
+        "letter": "A"
+      },
+      {
+        "row": 6,
+        "col": 6,
+        "letter": "W"
+      },
+      {
+        "row": 7,
+        "col": 7,
+        "letter": "S"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 7,
+      "cells": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 8,
+          "col": 6
+        },
+        {
+          "row": 9,
+          "col": 6
+        },
+        {
+          "row": 10,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 8
+        },
+        {
+          "row": 6,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 8,
+          "col": 8
+        },
+        {
+          "row": 9,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 5,
+      "cells": [
+        {
+          "row": 5,
+          "col": 10
+        },
+        {
+          "row": 6,
+          "col": 10
+        },
+        {
+          "row": 7,
+          "col": 10
+        },
+        {
+          "row": 8,
+          "col": 10
+        },
+        {
+          "row": 9,
+          "col": 10
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "22bec0cdab137f3f8d1d286dc041f55fb520b0896e6cb373e59741324f242be7"
+  }
+}

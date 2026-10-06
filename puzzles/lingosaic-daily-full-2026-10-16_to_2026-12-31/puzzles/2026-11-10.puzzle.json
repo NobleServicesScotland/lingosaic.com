@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "puzzle_id": "daily-2026-11-10",
+  "date": "2026-11-10",
+  "daily_number": 26,
+  "generator": {
+    "version": "daily-reference-1.1.0",
+    "seed": "daily-2026-11-10",
+    "uniqueness_required": true
+  },
+  "theme": {
+    "name": "Science & discovery",
+    "occasion": "World Science Day for Peace and Development"
+  },
+  "bonus": {
+    "title": "World Science Day for Peace and Development",
+    "description": "UNESCO's World Science Day highlights the role of science in society and in solving shared global problems."
+  },
+  "shape": {
+    "id": "microscope",
+    "name": "Microscope",
+    "grid_file": "../shapes/2026-11-10-microscope.grid.json",
+    "svg_file": "../shapes/2026-11-10-microscope.svg"
+  },
+  "dictionary": {
+    "id": "2026-11-10-science-discovery",
+    "file": "../dictionaries/2026-11-10-science-discovery.word-list.json",
+    "approved_word_count": 100
+  },
+  "grid": {
+    "width": 15,
+    "height": 15,
+    "legend": {
+      "#": "outside silhouette",
+      "X": "inside silhouette stop block",
+      ".": "editable playable cell",
+      "A-Z": "fixed seed letter"
+    },
+    "rows": [
+      "###############",
+      "########X.XX###",
+      "#######XX.XX###",
+      "###.##XXX.XX###",
+      "###.#XXXX.XX###",
+      "###.#.XXX.#####",
+      "###O#.XDXN#####",
+      "###........####",
+      "###.#.X.X.#####",
+      "####X.X.XXX####",
+      "####X.XXXXX####",
+      "####X.XXXXX####",
+      "###XX.XXXXXXX##",
+      "###XX.XXXXXXX##",
+      "###############"
+    ],
+    "seed_letters": [
+      {
+        "row": 6,
+        "col": 3,
+        "letter": "O"
+      },
+      {
+        "row": 6,
+        "col": 7,
+        "letter": "D"
+      },
+      {
+        "row": 6,
+        "col": 9,
+        "letter": "N"
+      }
+    ]
+  },
+  "slots": [
+    {
+      "id": "A1",
+      "direction": "across",
+      "length": 8,
+      "cells": [
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 8
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 10
+        }
+      ]
+    },
+    {
+      "id": "D1",
+      "direction": "down",
+      "length": 6,
+      "cells": [
+        {
+          "row": 3,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 7,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "id": "D2",
+      "direction": "down",
+      "length": 9,
+      "cells": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 5
+        },
+        {
+          "row": 7,
+          "col": 5
+        },
+        {
+          "row": 8,
+          "col": 5
+        },
+        {
+          "row": 9,
+          "col": 5
+        },
+        {
+          "row": 10,
+          "col": 5
+        },
+        {
+          "row": 11,
+          "col": 5
+        },
+        {
+          "row": 12,
+          "col": 5
+        },
+        {
+          "row": 13,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "id": "D3",
+      "direction": "down",
+      "length": 4,
+      "cells": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 7
+        },
+        {
+          "row": 8,
+          "col": 7
+        },
+        {
+          "row": 9,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": "D4",
+      "direction": "down",
+      "length": 8,
+      "cells": [
+        {
+          "row": 1,
+          "col": 9
+        },
+        {
+          "row": 2,
+          "col": 9
+        },
+        {
+          "row": 3,
+          "col": 9
+        },
+        {
+          "row": 4,
+          "col": 9
+        },
+        {
+          "row": 5,
+          "col": 9
+        },
+        {
+          "row": 6,
+          "col": 9
+        },
+        {
+          "row": 7,
+          "col": 9
+        },
+        {
+          "row": 8,
+          "col": 9
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "algorithm": "SHA-256",
+    "canonicalization": "row-major letters from playable cells only",
+    "solution_hash": "9b6fecde168e519f964ffc47701f53f92f1b5149b03718d36a8704fa58bca6c6"
+  }
+}
