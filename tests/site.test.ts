@@ -126,7 +126,7 @@ test("source HTML and development responses contain descriptions and metadata be
   assert.ok(puzzle.includes("Lingosaic #1 — Cards &amp; stationery"));
   assert.ok(
     puzzle.includes(
-      'property="og:url" content="https://lingosaic.com/puzzle/daily-2026-10-03/"',
+      `property="og:url" content="${new URL("puzzle/daily-2026-10-03/", siteUrl()).href}"`,
     ),
   );
   assert.equal((puzzle.match(/<title>/g) ?? []).length, 1);
