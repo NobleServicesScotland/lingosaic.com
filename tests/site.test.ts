@@ -106,6 +106,9 @@ test("source HTML and development responses contain descriptions and metadata be
   );
   const { createServer } = await import("vite");
   const server = await createServer({
+    // These requests inspect HTML without running the client. Avoid starting
+    // a dependency scan that can outlive the server in CI.
+    optimizeDeps: { noDiscovery: true, include: [] },
     server: { host: "127.0.0.1", port: 0 },
     logLevel: "silent",
   });
